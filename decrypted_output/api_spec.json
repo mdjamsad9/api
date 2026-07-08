@@ -1,0 +1,34 @@
+{
+  "service": "CricFy TV Decrypted API Gateway",
+  "base_url": "https://mdjamsad9.github.io/api/decrypted_output/",
+  "endpoints": {
+    "startup_config": {
+      "path": "genzdev_config.json",
+      "description": "Global app configuration, popups, and api redirection urls."
+    },
+    "categories": {
+      "path": "categories.json",
+      "cats": [
+        "live-events",
+        "sports",
+        "news",
+        "kids",
+        "movies"
+      ],
+      "description": "Main channel category list containing category names, logos, types, and 'table_name'."
+    },
+    "channels": {
+      "path": "channels/{table_name}.json",
+      "description": "Decrypted direct streaming URLs, DRM decryption keys, names, and logos for a specific category table_name.",
+      "parameter_example": "channels/SW5kaWExNzY5NjIyNDI1NzM5.json"
+    },
+    "live_matches": {
+      "path": "events.json",
+      "description": "List of active live matches (cricket, football, etc.) with stream URLs and DRM keys."
+    },
+    "sports_logos": {
+      "path": "event_cats.json",
+      "description": "Key-value dictionary mapping tournament names to logo URLs."
+    }
+  }
+}
