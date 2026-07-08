@@ -1,0 +1,29 @@
+{
+  "active_source": "cricfy",
+  "sources": {
+    "cricfy": {
+      "genz_url": "https://p.genzdev.xyz/2-xmnhab.json",
+      "token": "8f4gha9affeegg7cigafdgc7hegfkefaicigdgg1haffhekgeeigcfgahedfhef",
+      "aes_key": "WT1sdkEvUlR4ckd2",
+      "aes_iv": "Q7sKcm9LR4VaX2pN",
+      "xor_key": 90,
+      "keys": {
+        "event_cats.json": "2c68753f2c3f342e05393b2e29742e222e",
+        "events.json": "2c68753f2c3f342e29742e222e",
+        "channels.json": "2c687539323b34343f3629750f69182c39340820131f322c380d0f3d0f12102c170e3968150e0b6a170e1769151e036a171b742e222e"
+      }
+    },
+    "app_example": {
+      "genz_url": "https://p.genzdev.xyz/another-app-config.json",
+      "token": "put_token_here",
+      "aes_key": "put_aes_key_here",
+      "aes_iv": "put_aes_iv_here",
+      "xor_key": 90,
+      "keys": {
+        "event_cats.json": "put_hex_key_1_here",
+        "events.json": "put_hex_key_2_here",
+        "channels.json": "put_hex_key_3_here"
+      }
+    }
+  }
+}
