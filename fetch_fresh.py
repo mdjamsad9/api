@@ -38,6 +38,11 @@ aes_iv_bytes = profile["aes_iv"].encode('utf-8')
 xor_key_val = profile["xor_key"]
 keys = profile["keys"]
 
+# Determine user github pages url based on context or env, default to mdjamsad9/api
+github_user = os.environ.get("GITHUB_REPOSITORY_OWNER", "mdjamsad9")
+github_repo = os.environ.get("GITHUB_REPOSITORY", "mdjamsad9/api").split("/")[-1]
+base_pages_url = f"https://{github_user}.github.io/{github_repo}/decrypted_output/"
+
 def encrypt_xor_hex(text):
     data = text.encode('utf-8')
     encrypted = bytes([b ^ xor_key_val for b in data])
@@ -146,6 +151,14 @@ if genz_url:
         raw_genz = make_request(genz_url)
         dec_genz = decrypt_cfj1(raw_genz)
         parsed_genz = json.loads(dec_genz)
+        
+        # Inject custom routing URLs for the app developer (Single Entry Point)
+        parsed_genz["api_url"] = base_pages_url
+        parsed_genz["api2"] = base_pages_url
+        parsed_genz["categories_api"] = f"{base_pages_url}categories.json"
+        parsed_genz["events_api"] = f"{base_pages_url}events.json"
+        parsed_genz["channels_api_base"] = f"{base_pages_url}channels/"
+        
         with open(os.path.join(out_dir, "genzdev_config.json"), "w", encoding="utf-8") as f:
             json.dump(parsed_genz, f, indent=2, ensure_ascii=False)
         print("-> Decrypted genzdev_config.json successfully!")
