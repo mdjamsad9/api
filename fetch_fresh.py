@@ -157,6 +157,54 @@ current_time = int(time.time())
 fresh_hmac_plain = f"{current_time}|{token}"
 fresh_hmac_encrypted = encrypt_xor_hex(fresh_hmac_plain)
 
+# 2. Fetch Category List
+categories_path = "v2/categories.txt"
+categories_key = encrypt_xor_hex(categories_path)
+categories_url = f"https://cricyplayers.com/data/getData.php?key={categories_key}&hmac={fresh_hmac_encrypted}"
+print("Processing categories.json...")
+try:
+    raw_cats = make_request(categories_url)
+    dec_cats = decode_v2(raw_cats)
+    parsed_cats = json.loads(dec_cats)
+    
+    with open(os.path.join(out_dir, "categories.json"), "w", encoding="utf-8") as f:
+        json.dump(parsed_cats, f, indent=2, ensure_ascii=False)
+    print("-> Decrypted categories.json successfully!")
+    
+    # Create channels directory
+    channels_dir = os.path.join(out_dir, "channels")
+    os.makedirs(channels_dir, exist_ok=True)
+    
+    # 3. Iterate and fetch each category's channels list dynamically
+    for cat_item in parsed_cats:
+        try:
+            table_name = cat_item.get("table_name")
+            cat_info = json.loads(cat_item.get("cat", "{}"))
+            cat_name = cat_info.get("name", "Unknown")
+            
+            if table_name:
+                chan_path = f"v2/channels/{table_name}.txt"
+                chan_key = encrypt_xor_hex(chan_path)
+                chan_url = f"https://cricyplayers.com/data/getData.php?key={chan_key}&hmac={fresh_hmac_encrypted}"
+                
+                raw_chan = make_request(chan_url)
+                if raw_chan == "Not Found" or raw_chan == "":
+                    print(f"-> Category '{cat_name}' ({table_name}) is currently offline on server.")
+                    continue
+                
+                dec_chan = decode_v2(raw_chan)
+                parsed_chan = json.loads(dec_chan)
+                
+                # Save to channels/{table_name}.json
+                with open(os.path.join(channels_dir, f"{table_name}.json"), "w", encoding="utf-8") as f:
+                    json.dump(parsed_chan, f, indent=2, ensure_ascii=False)
+                print(f"-> Decrypted channels for '{cat_name}' successfully!")
+        except Exception as inner_e:
+            print(f"-> Failed processing category item '{cat_name}': {inner_e}")
+except Exception as e:
+    print("-> Failed categories processing:", e)
+
+# 4. Fetch additional keys configured in app_control
 for filename, key in keys.items():
     if not key:
         continue
