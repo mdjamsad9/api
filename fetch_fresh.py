@@ -234,4 +234,46 @@ for filename, key in keys.items():
     except Exception as e:
         print(f"-> Failed {filename}: {e}")
 
+# 5. Generate Dynamic api_spec.json for the developer
+api_spec = {
+    "service": "CricFy TV Decrypted API Gateway",
+    "base_url": base_pages_url,
+    "endpoints": {
+        "startup_config": {
+            "path": "genzdev_config.json",
+            "description": "Global app configuration, popups, and api redirection urls."
+        },
+        "categories": {
+            "path": "categories.json",
+            "cats": [
+                "live-events",
+                "sports",
+                "news",
+                "kids",
+                "movies"
+            ],
+            "description": "Main channel category list containing category names, logos, types, and 'table_name'."
+        },
+        "channels": {
+            "path": "channels/{table_name}.json",
+            "description": "Decrypted direct streaming URLs, DRM decryption keys, names, and logos for a specific category table_name.",
+            "parameter_example": "channels/SW5kaWExNzY5NjIyNDI1NzM5.json"
+        },
+        "live_matches": {
+            "path": "events.json",
+            "description": "List of active live matches (cricket, football, etc.) with stream URLs and DRM keys."
+        },
+        "sports_logos": {
+            "path": "event_cats.json",
+            "description": "Key-value dictionary mapping tournament names to logo URLs."
+        }
+    }
+}
+try:
+    with open(os.path.join(out_dir, "api_spec.json"), "w", encoding="utf-8") as f:
+        json.dump(api_spec, f, indent=2, ensure_ascii=False)
+    print("-> Generated api_spec.json successfully!")
+except Exception as e:
+    print("-> Failed to generate api_spec.json:", e)
+
 print("\nDone! Decrypted files written to directory:", os.path.abspath(out_dir))
