@@ -2,8 +2,8 @@
   "schema": 1,
   "templateVersion": 1,
   "Mode": "GenZ",
-  "api_url": "https://cricyplayers.com/data/",
-  "api2": "https://cricyplayers.com/data/",
+  "api_url": "https://mdjamsad9.github.io/api/decrypted_output/",
+  "api2": "https://mdjamsad9.github.io/api/decrypted_output/",
   "api3": "",
   "min_version_code": 48,
   "enabled": true,
@@ -33,5 +33,8 @@
   "support_wait_seconds": 12,
   "support_reopen_hours": 12,
   "support_open_tutorial": false,
-  "share_url": ""
+  "share_url": "",
+  "categories_api": "https://mdjamsad9.github.io/api/decrypted_output/categories.json",
+  "events_api": "https://mdjamsad9.github.io/api/decrypted_output/events.json",
+  "channels_api_base": "https://mdjamsad9.github.io/api/decrypted_output/channels/"
 }
