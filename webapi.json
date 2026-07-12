@@ -26,6 +26,7 @@
     "mobile_apk_landing": {
       "api_path": "/api/mobile-apk-landing",
       "data_retrieved": [
+        "id",
         "title",
         "text",
         "imageUrl",
