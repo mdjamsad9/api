@@ -38,15 +38,10 @@
       "api_path": "/api/ads/app",
       "data_retrieved": [
         "enabled",
-        "unity_game_id",
-        "placement_id",
-        "ad_every_n_opens",
-        "test_mode",
-        "daily_ad_enabled",
-        "daily_ad_limit",
-        "daily_ad_duration",
         "link_ad_enabled",
-        "link_ad_url"
+        "link_ad_url",
+        "direct_link_enabled",
+        "direct_link_url"
       ]
     },
     "mobile_app_heartbeat": {
