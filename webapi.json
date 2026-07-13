@@ -33,6 +33,28 @@
         "pageUrl",
         "isActive"
       ]
+    },
+    "app_ads_config": {
+      "api_path": "/api/ads/app",
+      "data_retrieved": [
+        "enabled",
+        "unity_game_id",
+        "placement_id",
+        "ad_every_n_opens",
+        "test_mode",
+        "daily_ad_enabled",
+        "daily_ad_limit",
+        "daily_ad_duration",
+        "link_ad_enabled",
+        "link_ad_url"
+      ]
+    },
+    "mobile_app_heartbeat": {
+      "api_path": "/api/heartbeat/app",
+      "data_sent": [
+        "sessionId",
+        "action"
+      ]
     }
   }
 }
