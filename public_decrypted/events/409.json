@@ -1,0 +1,28 @@
+{
+  "id": 409,
+  "order_index": 20,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "ICC World Test Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
+  },
+  "teamA": {
+    "name": "WI",
+    "logo": "https://img.sofascore.com/api/v1/team/187760/image"
+  },
+  "teamB": {
+    "name": "PAK",
+    "logo": "https://img.sofascore.com/api/v1/team/187754/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLVdJLXZzLVBBSzE3ODQwNTI5ODI0NDA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 398,
+  "order_index": 9,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "T20 International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark"
+  },
+  "teamA": {
+    "name": "ZIM",
+    "logo": "https://img.sofascore.com/api/v1/team/187745/image"
+  },
+  "teamB": {
+    "name": "BAN",
+    "logo": "https://img.sofascore.com/api/v1/team/187744/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "15/07/2026",
+  "time": "10:30:00",
+  "links_metadata_path": "pro/VDIwIEludGVybmF0aW9uYWwtWklNLXZzLUJBTjE3ODQwNTI4MjY5Njk.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

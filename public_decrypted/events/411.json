@@ -1,0 +1,28 @@
+{
+  "id": 411,
+  "order_index": 22,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Twenty20 International Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark"
+  },
+  "teamA": {
+    "name": "SL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187806/image"
+  },
+  "teamB": {
+    "name": "PAK-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187808/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "31/07/2026",
+  "time": "04:30:00",
+  "links_metadata_path": "pro/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1TTC1XLXZzLVBBSy1XMTc4NDA1MzA0NTEzNA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

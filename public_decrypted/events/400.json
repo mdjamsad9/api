@@ -1,0 +1,28 @@
+{
+  "id": 400,
+  "order_index": 11,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+  },
+  "teamA": {
+    "name": "WI",
+    "logo": "https://img.sofascore.com/api/v1/team/187760/image"
+  },
+  "teamB": {
+    "name": "NZ",
+    "logo": "https://img.sofascore.com/api/v1/team/187755/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "16/07/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLVdJLXZzLU5aMTc4NDA1Mjg2NDU0NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
