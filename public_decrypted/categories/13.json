@@ -1,0 +1,12 @@
+{
+  "id": 13,
+  "table_name": "RkFOQ09ERSBJTkQxNzY5NzIyNDkwNzcx",
+  "order_index": 7,
+  "cat": {
+    "visible": true,
+    "name": "FANCODE IND",
+    "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
+  }
+}

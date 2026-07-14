@@ -1,0 +1,12 @@
+{
+  "id": 51,
+  "table_name": "V29ybGQgQ291bnRyeTE3NzYzNjY3NDg2OTc",
+  "order_index": 8,
+  "cat": {
+    "visible": true,
+    "name": "World Country ",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3A1vF9O3uxY8bXlwpTzJkwdy2AuwpRx1yhg48vAbuIhjrFwQA8D0EHXtFoRWOxI_wWtMPBrK2dBkzf7AHzjAPeDvFs5oUdc3g5JBjZvmFQ_SFyBjy960YJvUXfZ35DW67txWlbaRn1CH1khxCMGkXGENvLjn9n-soCDhePR82gqhz0OpCFXHFcwQ_wRg/s1600/1000409995.jpg",
+    "type": "m3u",
+    "api": "https://iptv-org.github.io/iptv/index.country.m3u"
+  }
+}

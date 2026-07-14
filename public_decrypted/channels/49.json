@@ -1,0 +1,18 @@
+{
+  "id": 49,
+  "order_index": 48,
+  "name": "RALLY TV",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFSQUxMWSBUVjE3Njk2MTg5NjAxMTM.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/es_US/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

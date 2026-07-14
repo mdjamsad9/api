@@ -1,0 +1,12 @@
+{
+  "id": 26,
+  "table_name": "SklPTElWRSBJTkQxNzY5NzIyODkzMTU3",
+  "order_index": 36,
+  "cat": {
+    "visible": true,
+    "name": "JIOLIVE IND",
+    "logo": "https://lens-storage.storage.googleapis.com/png/bb364a303da24e5db23f01bac26949cf",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/jc_live/refs/heads/main/jevents_live.m3u"
+  }
+}

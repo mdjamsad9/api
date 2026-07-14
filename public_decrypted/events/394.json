@@ -1,0 +1,66 @@
+{
+  "id": 394,
+  "order_index": 8,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "FIFA World Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
+  },
+  "teamA": {
+    "name": "France",
+    "logo": "https://img.sofascore.com/api/v1/team/4481/image"
+  },
+  "teamB": {
+    "name": "Spain",
+    "logo": "https://img.sofascore.com/api/v1/team/4698/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "14/07/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RklGQSBXb3JsZCBDdXAtRnJhbmNlLXZzLVNwYWluMTc4MzgxNTY3OTE5MQ.txt",
+  "links": [
+    {
+      "name": "FOX ENGLISH - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+      "scheme": 0,
+      "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN ENGLISH - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+      "scheme": 0,
+      "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+      "tokenApi": ""
+    },
+    {
+      "name": "ITV SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+      "tokenApi": ""
+    },
+    {
+      "name": "CAZE TV BR - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+      "scheme": 0,
+      "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+      "tokenApi": ""
+    },
+    {
+      "name": "CTV SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+      "scheme": 0,
+      "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+      "tokenApi": ""
+    },
+    {
+      "name": "D SPORTS - AQ [ES]",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+      "tokenApi": ""
+    }
+  ]
+}

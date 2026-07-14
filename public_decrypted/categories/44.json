@@ -1,0 +1,12 @@
+{
+  "id": 44,
+  "table_name": "TW92aWVzICYgU2VyaWVzMTc2OTcyMzg2NDEwNw",
+  "order_index": 48,
+  "cat": {
+    "visible": true,
+    "name": "Movies & Series",
+    "logo": "https://i.postimg.cc/QCVVj6D1/Movies.png",
+    "type": "m3u",
+    "api": "http://tv.noobon.top/playlist/movies.php"
+  }
+}

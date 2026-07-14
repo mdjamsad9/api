@@ -1,0 +1,12 @@
+{
+  "id": 15,
+  "table_name": "SklPIElORDE3Njk3MjI1OTUxMTY",
+  "order_index": 28,
+  "cat": {
+    "visible": true,
+    "name": "JIO IND",
+    "logo": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jio-logo-icon.png ",
+    "type": "m3u",
+    "api": "https://jiotv.byte-vault.workers.dev/?token=42e4f5-2d873b-3c37d8-7f3f50"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 67,
+  "table_name": "V2lsbG93IC0gTGl2ZSAxNzgzMDAwOTIzMDI4",
+  "order_index": 3,
+  "cat": {
+    "visible": true,
+    "name": "Willow - Live ",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/06/willow.png",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"
+  }
+}

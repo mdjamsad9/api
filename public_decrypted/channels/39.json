@@ -1,0 +1,15 @@
+{
+  "id": 39,
+  "order_index": 38,
+  "name": "sport Italia ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/SportItalia.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFzcG9ydCBJdGFsaWEgMTc2OTYxODI1MjQ1MA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+    }
+  ]
+}

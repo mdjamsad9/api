@@ -1,0 +1,12 @@
+{
+  "id": 25,
+  "table_name": "SklPVFYrMTc2OTcyMjg2Njc5Nw",
+  "order_index": 35,
+  "cat": {
+    "visible": true,
+    "name": "JIOTV+",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+    "type": "m3u",
+    "api": "https://m3u-86e.pages.dev/jtv-pl.txt"
+  }
+}

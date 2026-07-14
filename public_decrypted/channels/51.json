@@ -1,0 +1,18 @@
+{
+  "id": 51,
+  "order_index": 50,
+  "name": "UNBEATEN ",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFVTkJFQVRFTiAxNzY5NjE5MDczNTU0.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-lges/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

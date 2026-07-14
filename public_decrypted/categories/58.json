@@ -1,0 +1,12 @@
+{
+  "id": 58,
+  "table_name": "SmFnb0JkMTc3NjQxMjI0Njg4Nw",
+  "order_index": 14,
+  "cat": {
+    "visible": true,
+    "name": "JagoBd",
+    "logo": "https://assets-playztv.pages.dev/category/jagobd.jpeg",
+    "type": "m3u",
+    "api": "https://m3u-tvb.pages.dev/Jjago.br.m3u8"
+  }
+}

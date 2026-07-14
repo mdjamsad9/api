@@ -1,0 +1,12 @@
+{
+  "id": 7,
+  "table_name": "S2lkczE3Njk3MjExNTc5MDA",
+  "order_index": 22,
+  "cat": {
+    "visible": true,
+    "name": "Kids",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/KIds.png",
+    "type": "custom",
+    "api": "channels/S2lkczE3Njk3MjExNTc5MDA.txt"
+  }
+}

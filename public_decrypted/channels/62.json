@@ -1,0 +1,15 @@
+{
+  "id": 62,
+  "order_index": 61,
+  "name": "TNT Sports ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/TNT_Sports_2024_vector_logo_black.svg_-scaled.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFUTlQgU3BvcnRzIDE3ODA5MzI0MjAwNDY.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "a"
+    }
+  ]
+}

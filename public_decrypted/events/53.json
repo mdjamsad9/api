@@ -1,0 +1,66 @@
+{
+  "id": 53,
+  "order_index": 2,
+  "eventDetails": {
+    "category": "Motorsport",
+    "eventName": "MotoGP - Gran Prix of Hungary",
+    "eventLogo": "https://raw.githubusercontent.com/xmrt624/logo/6fedc9ee79594fa82ff1671d42de6dd7e96d40c1/MotoGPX.png"
+  },
+  "teamA": {
+    "name": "MotoGP",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDXg8WOTxDGYhsU_r4iaau8PucLtaXmSVO3Y_9CwO2Q&s=10"
+  },
+  "teamB": {
+    "name": "MotoGP",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDXg8WOTxDGYhsU_r4iaau8PucLtaXmSVO3Y_9CwO2Q&s=10"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "08:30:00",
+  "links_metadata_path": "pro/TW90b0dQIC0gR3JhbiBQcml4IG9mIEh1bmdhcnktTW90b0dQLXZzLU1vdG9HUDE3ODA2NDMxOTQwNDg.txt",
+  "links": [
+    {
+      "name": "MotoGP - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+      "scheme": 0,
+      "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+      "scheme": 0,
+      "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPOTV FHD",
+      "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+      "scheme": 0,
+      "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS",
+      "link": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPOTV AQ",
+      "link": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+      "scheme": 0,
+      "api": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+      "tokenApi": ""
+    }
+  ]
+}

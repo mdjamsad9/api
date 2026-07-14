@@ -1,0 +1,15 @@
+{
+  "id": 40,
+  "order_index": 39,
+  "name": "dd sports ",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFzcyBzcG9ydHMgMTc2OTYxODI4MTYxNw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+    }
+  ]
+}

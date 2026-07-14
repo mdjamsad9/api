@@ -1,0 +1,46 @@
+{
+  "id": 32,
+  "order_index": 31,
+  "name": "euro sports ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/EURO-scaled.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFldXJvIHNwb3J0cyAxNzY5NjE3NDUwMTI5.txt",
+  "links": [
+    {
+      "name": "EURO 1 - HD",
+      "link": "http://151.80.18.177:86/Eurosport_HD/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "EURO 2 - HD",
+      "link": "http://151.80.18.177:86/Eurosport_2_HD/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "EURO ES 1 - AQ",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zitbm32cd4/out/v1/de17cb98c1cb42b5978948f04fe4b4c0/cenc.mpd",
+      "scheme": 0,
+      "api": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/zitbm32cd4/out/v1/de17cb98c1cb42b5978948f04fe4b4c0/cenc.mpd",
+      "tokenApi": ""
+    },
+    {
+      "name": "EURO ES 2 - AQ",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/to7i2ywspg/out/v1/2b9c64c6360947deaa5c824ebbd9aa83/cenc.mpd",
+      "scheme": 0,
+      "api": "47a3de154c541c255c37989b6ac77538:b9f74118a06217f2c2746799ace2d84e",
+      "tokenApi": ""
+    },
+    {
+      "name": "EURO AQ1",
+      "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd",
+      "scheme": 0,
+      "api": "01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d",
+      "tokenApi": ""
+    }
+  ]
+}

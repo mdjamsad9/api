@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "table_name": "TmV3czE3Njk3MjAxMTExNjU",
+  "order_index": 18,
+  "cat": {
+    "visible": true,
+    "name": "News",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/news.jpg",
+    "type": "custom",
+    "api": "channels/TmV3czE3Njk3MjAxMTExNjU.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 61,
+  "table_name": "SUNDIFRWMTc3OTA1MDQ1NjI5OQ",
+  "order_index": 51,
+  "cat": {
+    "visible": true,
+    "name": "ICC TV",
+    "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/doctor-8trange/nexphi0/refs/heads/main/data/icc.m3u"
+  }
+}

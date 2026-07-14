@@ -1,0 +1,66 @@
+{
+  "id": 314,
+  "order_index": 5,
+  "eventDetails": {
+    "category": "Boxing",
+    "eventName": "Live Events | Monday Night Raw",
+    "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrJX8VFtwdb0AWq64lhOVYbkKvFoiSROOixJeEU73uUDp25NzGuWNynMuEWC6ezIWj4Jyp3VN3rrQDufJZuMQ67Sys-xPilS4jvh-Ujk3-B0shI1O-RdhuZB9cRJ7oeMbIZZe9wih7krgECdqYLQiYYFX3N6pFL6QX3XsKc4ihKOyZ8mH0_QZcL0uqirs/s1600/1000025200.png"
+  },
+  "teamA": {
+    "name": "Raw",
+    "logo": "https://iili.io/C3vwB0Q.png"
+  },
+  "teamB": {
+    "name": "Raw",
+    "logo": "https://iili.io/C3vwB0Q.png"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "21/07/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBNb25kYXkgTmlnaHQgUmF3LVJhdy12cy1SYXcxNzgyMTY4ODk2Nzk2.txt",
+  "links": [
+    {
+      "name": "Cricfy TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/52071/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FAST SERVER",
+      "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "NETFLIX LIVE",
+      "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ALT SERVER",
+      "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

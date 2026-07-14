@@ -1,0 +1,18 @@
+{
+  "id": 50,
+  "order_index": 49,
+  "name": "TOP BARCA",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFUT1AgQkFSQ0ExNzY5NjE5MDI4NzE1.txt",
+  "links": [
+    {
+      "name": "HD",
+      "link": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 63,
+  "order_index": 62,
+  "name": "Re",
+  "logo": "tes",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFSZTE3ODA5MzI1MTQzMzA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "a"
+    }
+  ]
+}

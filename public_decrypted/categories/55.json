@@ -1,0 +1,12 @@
+{
+  "id": 55,
+  "table_name": "U09OWSBJTiAyMTc3NjQxMTg4ODY0OQ",
+  "order_index": 11,
+  "cat": {
+    "visible": true,
+    "name": "SONY IN 2",
+    "logo": "https://i.postimg.cc/tgv1zMt7/Picsart-26-01-27-01-50-58-041.jpg",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/ramnarayan01/data/refs/heads/main/s0nyind.m3u.html"
+  }
+}

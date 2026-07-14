@@ -1,0 +1,12 @@
+{
+  "id": 59,
+  "table_name": "VGFwbWFkIExpdmUxNzc5MDUwMzY1NjYz",
+  "order_index": 2,
+  "cat": {
+    "visible": true,
+    "name": "Tapmad Live",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u"
+  }
+}

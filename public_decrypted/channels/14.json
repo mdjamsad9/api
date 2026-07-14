@@ -1,0 +1,36 @@
+{
+  "id": 14,
+  "order_index": 13,
+  "name": "rta sports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/channels4_profile.jpg",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFydGEgc3BvcnRzMTc2OTYxNTQ5NDQyMw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8"
+    },
+    {
+      "name": "Link 2",
+      "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Link 3",
+      "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Link 4",
+      "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/variant.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

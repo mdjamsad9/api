@@ -1,0 +1,12 @@
+{
+  "id": 66,
+  "table_name": "TGl2ZSBFdmVudHMgLSBTRDE3ODMwMDA3NzM1OTk",
+  "order_index": 1,
+  "cat": {
+    "visible": true,
+    "name": "Live Events - SD",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/03/live.webp",
+    "type": "m3u",
+    "api": "https://sportzfys.streamit.workers.dev?url=https://raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/playlist_s.m3u"
+  }
+}

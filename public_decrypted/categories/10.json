@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "table_name": "SG90c3RhcjE3Njk3MjE5OTkxMTg",
+  "order_index": 24,
+  "cat": {
+    "visible": true,
+    "name": "Hotstar",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwYjMvB58DMLsL9Ii2fhvw6NBYvD1iVCjOMU8TXBLJt0eibLGOjoRkLJP&s=10",
+    "type": "m3u",
+    "api": "https://hotstar-live-event.alpha-circuit.workers.dev/?token=a13d9c-4b782a-6c90fd-9a1b84"
+  }
+}

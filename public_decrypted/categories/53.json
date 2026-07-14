@@ -1,0 +1,12 @@
+{
+  "id": 53,
+  "table_name": "UGxheSBUdjE3NzY0MTE1OTk4ODY",
+  "order_index": 9,
+  "cat": {
+    "visible": true,
+    "name": "Play Tv",
+    "logo": "https://i.postimg.cc/Xvt90Gjc/Picsart_26_02_03_10_46_07_704.jpg",
+    "type": "m3u",
+    "api": "https://jiotv-playlist.pages.dev/freetvindia.m3u"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 61,
+  "order_index": 60,
+  "name": "mlbnetwork",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/MLB.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFtbGJuZXR3b3JrMTc2OTYxOTY5NDIzOQ.txt",
+  "links": [
+    {
+      "name": "MLB Network",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/dn9i986kds/out/v1/791537303c344634994de4d4407f44b6/cenc.mpd",
+      "scheme": 0,
+      "api": "ee5d12187eeb1425a158c206d5871c4a:534f8173db1aa31b05c98f92c0290b3d",
+      "tokenApi": ""
+    },
+    {
+      "name": "Test",
+      "link": "https://www.elahmad.com/tv/watchtv.php?id=saudi_sport",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Test 1",
+      "link": "aa",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"aa\",\"api\":\"https:\\/\\/www.elahmad.com\\/tv\\/watchtv.php?id=saudi_sport\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

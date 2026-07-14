@@ -1,0 +1,12 @@
+{
+  "id": 18,
+  "table_name": "U1VOIERJUkVDVDE3Njk3MjI2NzQ1MzY",
+  "order_index": 29,
+  "cat": {
+    "visible": true,
+    "name": "SUN DIRECT",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwc4OuqPmOP-Fi9dhfiDw_q-s3rOmgCPla_IaE76VD2KRQ7c4KHeI2zJY&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/suntv.m3u"
+  }
+}

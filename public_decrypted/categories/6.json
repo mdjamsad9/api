@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "table_name": "QmFuZ2xhMTc2OTcyMTAzNTM5Mg",
+  "order_index": 21,
+  "cat": {
+    "visible": true,
+    "name": "Bangla",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/bangla.webp",
+    "type": "custom",
+    "api": "channels/QmFuZ2xhMTc2OTcyMTAzNTM5Mg.txt"
+  }
+}

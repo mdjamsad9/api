@@ -1,0 +1,18 @@
+{
+  "id": 44,
+  "order_index": 43,
+  "name": "cbssports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/CBS_Sports_1981.svg_.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFjYnNzcG9ydHMxNzY5NjE4NzEzODcy.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vgokgrmo8o/out/v1/a1a95c0845e64cb58d353437c56b31e8/cenc.mpd",
+      "scheme": 0,
+      "api": "e219f941bc6d683b97257ed706813702:d24fefb64dec7748489ba4e405a2349e",
+      "tokenApi": ""
+    }
+  ]
+}

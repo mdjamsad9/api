@@ -1,0 +1,12 @@
+{
+  "id": 34,
+  "table_name": "U0hPT1EgUEsxNzY5NzIzMzEzNjA4",
+  "order_index": 42,
+  "cat": {
+    "visible": true,
+    "name": "SHOOQ PK",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvSWLnpgyvbzV9rHkREzbsX1Rzh2IbEZBL8yPpSv8aCPmy1nVcv7BhIWQ&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/shoq.m3u"
+  }
+}

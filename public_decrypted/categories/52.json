@@ -1,0 +1,12 @@
+{
+  "id": 52,
+  "table_name": "SmlvIFRWKyBCRCAyMTc3NjQxMTQxNTYzNQ",
+  "order_index": 6,
+  "cat": {
+    "visible": true,
+    "name": "Jio TV+ BD 2",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10",
+    "type": "m3u",
+    "api": "https://m3u-tvb.pages.dev/jiobd.m3u"
+  }
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": 65,
+    "cat": "{\"visible\":true,\"name\":\"Live Events - HD\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/05\\/LiveSP.webp\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/srhady\\/axsports\\/refs\\/heads\\/main\\/playlist.m3u\"}",
+    "table_name": "TGl2ZSBFdmVudHMgLSBIRDE3ODMwMDA3MjIwNTI",
+    "order_index": 0
+  },
+  {
+    "id": 66,
+    "cat": "{\"visible\":true,\"name\":\"Live Events - SD\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/03\\/live.webp\",\"type\":\"m3u\",\"api\":\"https:\\/\\/sportzfys.streamit.workers.dev?url=https:\\/\\/raw.githubusercontent.com\\/abusaeeidx\\/BDxTV\\/refs\\/heads\\/main\\/playlist_s.m3u\"}",
+    "table_name": "TGl2ZSBFdmVudHMgLSBTRDE3ODMwMDA3NzM1OTk",
+    "order_index": 1
+  },
+  {
+    "id": 59,
+    "cat": "{\"visible\":true,\"name\":\"Tapmad Live\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcThztxuZ7fSKWHCAo0joPbMAWyvThLFn9LwWtgbqBNNb5kCddqhFHpBTuFV&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/srhady\\/tapmad-bd\\/refs\\/heads\\/main\\/tapmad_bd.m3u\"}",
+    "table_name": "VGFwbWFkIExpdmUxNzc5MDUwMzY1NjYz",
+    "order_index": 2
+  },
+  {
+    "id": 67,
+    "cat": "{\"visible\":true,\"name\":\"Willow - Live \",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/06\\/willow.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/srhady\\/willow-event\\/refs\\/heads\\/main\\/live_sports.m3u\"}",
+    "table_name": "V2lsbG93IC0gTGl2ZSAxNzgzMDAwOTIzMDI4",
+    "order_index": 3
+  },
+  {
+    "id": 49,
+    "cat": "{\"visible\":true,\"name\":\"JIOTV+ S3\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/Sflex0719\\/ZioGarmTara\\/main\\/ZioGarmTara.m3u\"}",
+    "table_name": "SklPVFYrIFMzMTc2OTcyMzk5NjM2OQ",
+    "order_index": 5
+  },
+  {
+    "id": 52,
+    "cat": "{\"visible\":true,\"name\":\"Jio TV+ BD 2\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRfVvg995SN55aY_K2JMLqZnIR5SYOSXFxVyHPmjgDXLA&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/m3u-tvb.pages.dev\\/jiobd.m3u\"}",
+    "table_name": "SmlvIFRWKyBCRCAyMTc3NjQxMTQxNTYzNQ",
+    "order_index": 6
+  },
+  {
+    "id": 13,
+    "cat": "{\"visible\":true,\"name\":\"FANCODE IND\",\"logo\":\"https:\\/\\/play-lh.googleusercontent.com\\/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/drmlive\\/fancode-live-events\\/refs\\/heads\\/main\\/fancode.m3u\"}",
+    "table_name": "RkFOQ09ERSBJTkQxNzY5NzIyNDkwNzcx",
+    "order_index": 7
+  },
+  {
+    "id": 51,
+    "cat": "{\"visible\":true,\"name\":\"World Country \",\"logo\":\"https:\\/\\/blogger.googleusercontent.com\\/img\\/b\\/R29vZ2xl\\/AVvXsEg3A1vF9O3uxY8bXlwpTzJkwdy2AuwpRx1yhg48vAbuIhjrFwQA8D0EHXtFoRWOxI_wWtMPBrK2dBkzf7AHzjAPeDvFs5oUdc3g5JBjZvmFQ_SFyBjy960YJvUXfZ35DW67txWlbaRn1CH1khxCMGkXGENvLjn9n-soCDhePR82gqhz0OpCFXHFcwQ_wRg\\/s1600\\/1000409995.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/iptv-org.github.io\\/iptv\\/index.country.m3u\"}",
+    "table_name": "V29ybGQgQ291bnRyeTE3NzYzNjY3NDg2OTc",
+    "order_index": 8
+  },
+  {
+    "id": 53,
+    "cat": "{\"visible\":true,\"name\":\"Play Tv\",\"logo\":\"https:\\/\\/i.postimg.cc\\/Xvt90Gjc\\/Picsart_26_02_03_10_46_07_704.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/jiotv-playlist.pages.dev\\/freetvindia.m3u\"}",
+    "table_name": "UGxheSBUdjE3NzY0MTE1OTk4ODY",
+    "order_index": 9
+  },
+  {
+    "id": 54,
+    "cat": "{\"visible\":true,\"name\":\"SONY IN\",\"logo\":\"https:\\/\\/i.postimg.cc\\/tgv1zMt7\\/Picsart-26-01-27-01-50-58-041.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/sl-t.deadxploit.workers.dev\\/?get-pl|user-agent=mozila\"}",
+    "table_name": "U09OWSBJTjE3NzY0MTE4NjU2OTI",
+    "order_index": 10
+  },
+  {
+    "id": 55,
+    "cat": "{\"visible\":true,\"name\":\"SONY IN 2\",\"logo\":\"https:\\/\\/i.postimg.cc\\/tgv1zMt7\\/Picsart-26-01-27-01-50-58-041.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/ramnarayan01\\/data\\/refs\\/heads\\/main\\/s0nyind.m3u.html\"}",
+    "table_name": "U09OWSBJTiAyMTc3NjQxMTg4ODY0OQ",
+    "order_index": 11
+  },
+  {
+    "id": 56,
+    "cat": "{\"visible\":true,\"name\":\"Pishow\",\"logo\":\"https:\\/\\/assets-playztv.pages.dev\\/category\\/pishow.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/playztv-ol-pl.deadxploit.workers.dev\\/?get-pl&id=pishowxc.m3u|user-agent=mozila\"}",
+    "table_name": "UGlzaG93MTc3NjQxMjA1MDY2MQ",
+    "order_index": 12
+  },
+  {
+    "id": 57,
+    "cat": "{\"visible\":true,\"name\":\"Waves OTT\",\"logo\":\"https:\\/\\/assets-playztv.pages.dev\\/category\\/wvot.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/playlists-by-playztv.pages.dev\\/wavesno.m3u\"}",
+    "table_name": "V2F2ZXMgT1RUMTc3NjQxMjExNDAzOQ",
+    "order_index": 13
+  },
+  {
+    "id": 58,
+    "cat": "{\"visible\":true,\"name\":\"JagoBd\",\"logo\":\"https:\\/\\/assets-playztv.pages.dev\\/category\\/jagobd.jpeg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/m3u-tvb.pages.dev\\/Jjago.br.m3u8\"}",
+    "table_name": "SmFnb0JkMTc3NjQxMjI0Njg4Nw",
+    "order_index": 14
+  },
+  {
+    "id": 39,
+    "cat": "{\"visible\":true,\"name\":\"CRICHD\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQ08h1gOe7MPxwehZBrbYKAUtjv22B6rAJ1kMkN-cea64Ka49KUyGU2lpTz&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/abusaeeidx\\/CricHd-playlists-Auto-Update-permanent\\/refs\\/heads\\/main\\/ALL.m3u\"}",
+    "table_name": "Q1JJQ0hEMTc2OTcyMzUxMjE1Nw",
+    "order_index": 15
+  },
+  {
+    "id": 1,
+    "cat": "{\"visible\":true,\"name\":\"India\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/India.webp\",\"type\":\"custom\",\"api\":\"channels\\/SW5kaWExNzY5NjIyNDI1NzM5.txt\"}",
+    "table_name": "SW5kaWExNzY5NjIyNDI1NzM5",
+    "order_index": 16
+  },
+  {
+    "id": 2,
+    "cat": "{\"visible\":true,\"name\":\"Kolkata\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/kolkata-tv.png\",\"type\":\"custom\",\"api\":\"channels\\/S29sa2F0YTE3Njk3MTk4MzMwODg.txt\"}",
+    "table_name": "S29sa2F0YTE3Njk3MTk4MzMwODg",
+    "order_index": 17
+  },
+  {
+    "id": 3,
+    "cat": "{\"visible\":true,\"name\":\"News\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/news.jpg\",\"type\":\"custom\",\"api\":\"channels\\/TmV3czE3Njk3MjAxMTExNjU.txt\"}",
+    "table_name": "TmV3czE3Njk3MjAxMTExNjU",
+    "order_index": 18
+  },
+  {
+    "id": 4,
+    "cat": "{\"visible\":true,\"name\":\"Discovery\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/discovery.jpg\",\"type\":\"custom\",\"api\":\"channels\\/RGlzY292ZXJ5MTc2OTcyMDM1MzQyMw.txt\"}",
+    "table_name": "RGlzY292ZXJ5MTc2OTcyMDM1MzQyMw",
+    "order_index": 19
+  },
+  {
+    "id": 5,
+    "cat": "{\"visible\":true,\"name\":\"Pakistan\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/pakistan.webp\",\"type\":\"custom\",\"api\":\"channels\\/UGFraXN0YW4xNzY5NzIwODc1MDgx.txt\"}",
+    "table_name": "UGFraXN0YW4xNzY5NzIwODc1MDgx",
+    "order_index": 20
+  },
+  {
+    "id": 6,
+    "cat": "{\"visible\":true,\"name\":\"Bangla\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/bangla.webp\",\"type\":\"custom\",\"api\":\"channels\\/QmFuZ2xhMTc2OTcyMTAzNTM5Mg.txt\"}",
+    "table_name": "QmFuZ2xhMTc2OTcyMTAzNTM5Mg",
+    "order_index": 21
+  },
+  {
+    "id": 7,
+    "cat": "{\"visible\":true,\"name\":\"Kids\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/KIds.png\",\"type\":\"custom\",\"api\":\"channels\\/S2lkczE3Njk3MjExNTc5MDA.txt\"}",
+    "table_name": "S2lkczE3Njk3MjExNTc5MDA",
+    "order_index": 22
+  },
+  {
+    "id": 9,
+    "cat": "{\"visible\":true,\"name\":\"Tata Play\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/Tata.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/hotstarlive.delta-cloud.workers.dev\\/?token=240bb9-374e2e-3c13f0-4a7xz5\"}",
+    "table_name": "VGF0YSBQbGF5MTc2OTcyMTcxODQzMA",
+    "order_index": 23
+  },
+  {
+    "id": 10,
+    "cat": "{\"visible\":true,\"name\":\"Hotstar\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRWwYjMvB58DMLsL9Ii2fhvw6NBYvD1iVCjOMU8TXBLJt0eibLGOjoRkLJP&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/hotstar-live-event.alpha-circuit.workers.dev\\/?token=a13d9c-4b782a-6c90fd-9a1b84\"}",
+    "table_name": "SG90c3RhcjE3Njk3MjE5OTkxMTg",
+    "order_index": 24
+  },
+  {
+    "id": 11,
+    "cat": "{\"visible\":true,\"name\":\"TATAPLAY BD\",\"logo\":\"https:\\/\\/apkfolder.io\\/wp-content\\/uploads\\/2026\\/01\\/og_tata_play.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/ranapk.short.gy\\/BDIX\\/tata.php\"}",
+    "table_name": "VEFUQVBMQVkgQkQxNzY5NzIyMTA4NTYx",
+    "order_index": 25
+  },
+  {
+    "id": 14,
+    "cat": "{\"visible\":true,\"name\":\"SONYLIV\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcTzscCrHEfnHNeZdMO3haF1XSVgjskN4TNv0g&usqp=CAU\",\"type\":\"m3u\",\"api\":\"https:\\/\\/ranapk-playlist.site\\/SONYBD.php\"}",
+    "table_name": "U09OWUxJVjE3Njk3MjI1Njg2NjI",
+    "order_index": 27
+  },
+  {
+    "id": 15,
+    "cat": "{\"visible\":true,\"name\":\"JIO IND\",\"logo\":\"https:\\/\\/uxwing.com\\/wp-content\\/themes\\/uxwing\\/download\\/brands-and-social-media\\/jio-logo-icon.png \",\"type\":\"m3u\",\"api\":\"https:\\/\\/jiotv.byte-vault.workers.dev\\/?token=42e4f5-2d873b-3c37d8-7f3f50\"}",
+    "table_name": "SklPIElORDE3Njk3MjI1OTUxMTY",
+    "order_index": 28
+  },
+  {
+    "id": 18,
+    "cat": "{\"visible\":true,\"name\":\"SUN DIRECT\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSwc4OuqPmOP-Fi9dhfiDw_q-s3rOmgCPla_IaE76VD2KRQ7c4KHeI2zJY&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/m3u\\/refs\\/heads\\/main\\/suntv.m3u\"}",
+    "table_name": "U1VOIERJUkVDVDE3Njk3MjI2NzQ1MzY",
+    "order_index": 29
+  },
+  {
+    "id": 19,
+    "cat": "{\"visible\":true,\"name\":\"VOOT BD\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQfS6QZFts2FoedMGZE28H7Kh158PsrNIiabFBVJMy_jXa8Tvvb9WAlut8&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/ranapk.short.gy\\/VOOTBD.m3u\"}",
+    "table_name": "Vk9PVCBCRDE3Njk3MjI2OTk1NzE",
+    "order_index": 30
+  },
+  {
+    "id": 20,
+    "cat": "{\"visible\":true,\"name\":\"VOOT IND\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQfS6QZFts2FoedMGZE28H7Kh158PsrNIiabFBVJMy_jXa8Tvvb9WAlut8&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/jiocinema-live.cloud-hatchh.workers.dev\\/?token=42e4f5-2d414b-3c37d8-5f3f45\"}",
+    "table_name": "Vk9PVCBJTkQxNzY5NzIyNzIzMTM5",
+    "order_index": 31
+  },
+  {
+    "id": 21,
+    "cat": "{\"visible\":true,\"name\":\"SUN NXT\",\"logo\":\"https:\\/\\/upload.wikimedia.org\\/wikipedia\\/en\\/d\\/d5\\/Sun_NXT_logo_small.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alexandermail371\\/cricfytv\\/refs\\/heads\\/main\\/sunxt.m3u\"}",
+    "table_name": "U1VOIE5YVDE3Njk3MjI3NDQyNzU",
+    "order_index": 32
+  },
+  {
+    "id": 22,
+    "cat": "{\"visible\":true,\"name\":\"AIRTEL IND\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQf7pkggfHJKj2R8O6ttuHxgv-vQVL03xUeAg&usqp=CAU\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/m3u\\/refs\\/heads\\/main\\/artl.m3u\"}",
+    "table_name": "QUlSVEVMIElORDE3Njk3MjI3NjkwMDk",
+    "order_index": 33
+  },
+  {
+    "id": 23,
+    "cat": "{\"visible\":true,\"name\":\"DISTRO TV\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRYQjBTT5SL_kuJF7CbQtoSEA7PzyiH9RYIuDO9F1sx87CtiULDyiDf7ybt&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/playlist-storage.pages.dev\\/PLAYLIST\\/DistroTV.m3u\"}",
+    "table_name": "RElTVFJPIFRWMTc2OTcyMjgwMzEwNQ",
+    "order_index": 34
+  },
+  {
+    "id": 25,
+    "cat": "{\"visible\":true,\"name\":\"JIOTV+\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/m3u-86e.pages.dev\\/jtv-pl.txt\"}",
+    "table_name": "SklPVFYrMTc2OTcyMjg2Njc5Nw",
+    "order_index": 35
+  },
+  {
+    "id": 26,
+    "cat": "{\"visible\":true,\"name\":\"JIOLIVE IND\",\"logo\":\"https:\\/\\/lens-storage.storage.googleapis.com\\/png\\/bb364a303da24e5db23f01bac26949cf\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/jc_live\\/refs\\/heads\\/main\\/jevents_live.m3u\"}",
+    "table_name": "SklPTElWRSBJTkQxNzY5NzIyODkzMTU3",
+    "order_index": 36
+  },
+  {
+    "id": 27,
+    "cat": "{\"visible\":true,\"name\":\"TAPMAD PK\",\"logo\":\"https:\\/\\/vectorseek.com\\/wp-content\\/uploads\\/2023\\/02\\/Tapmad-Logo-Vector.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/so.napaextra.online\\/tapmad.m3u\"}",
+    "table_name": "VEFQTUFEIFBLMTc2OTcyMjkyMjg2Mg",
+    "order_index": 37
+  },
+  {
+    "id": 30,
+    "cat": "{\"visible\":true,\"name\":\"WORLD TV\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSg8OiEwOT5UL5UttBZ5Tnhgsod8i2EQlfB97FFchdBOo8e_PfxvR8RJ68&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/ranapk.short.gy\\/WorldTV11.m3u\"}",
+    "table_name": "V09STEQgVFYxNzY5NzIzMTUyOTk1",
+    "order_index": 38
+  },
+  {
+    "id": 31,
+    "cat": "{\"visible\":true,\"name\":\"AYNA\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQvAant65yQ_au1e51MFs-uiE6juswXv4ZJoNCpzBBSg4q7DzJ1NeliS80c&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/playlist-cricfy.noobon.top\\/aynaott.php\"}",
+    "table_name": "QVlOQTE3Njk3MjMxNzUyNjQ",
+    "order_index": 39
+  },
+  {
+    "id": 32,
+    "cat": "{\"visible\":true,\"name\":\"JIO CINEMA IND\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQc3qZ1WgzPyFRX4cWIBJF0MSjWW3gZcLFycg&usqp=CAU\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/m3u\\/refs\\/heads\\/main\\/jcinema.m3u\"}",
+    "table_name": "SklPIENJTkVNQSBJTkQxNzY5NzIzMjQ4ODEx",
+    "order_index": 40
+  },
+  {
+    "id": 33,
+    "cat": "{\"visible\":true,\"name\":\"DISH TV\",\"logo\":\"https:\\/\\/m.media-amazon.com\\/images\\/S\\/stores-image-uploads-eu-prod\\/1\\/AmazonStores\\/A21TJRUUN4KGV\\/d5086253b614724be106c06be13f7d54.w600.h600._RO299,1\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/m3u\\/refs\\/heads\\/main\\/dishtv.m3u\"}",
+    "table_name": "RElTSCBUVjE3Njk3MjMyNzUxMDI",
+    "order_index": 41
+  },
+  {
+    "id": 34,
+    "cat": "{\"visible\":true,\"name\":\"SHOOQ PK\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSvSWLnpgyvbzV9rHkREzbsX1Rzh2IbEZBL8yPpSv8aCPmy1nVcv7BhIWQ&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/m3u\\/refs\\/heads\\/main\\/shoq.m3u\"}",
+    "table_name": "U0hPT1EgUEsxNzY5NzIzMzEzNjA4",
+    "order_index": 42
+  },
+  {
+    "id": 35,
+    "cat": "{\"visible\":true,\"name\":\"SAMSUNG TV\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcQI9T5vcm8wU-dLuaK5vBfoHpz8KL9Ru0aU1eoVaKNcqauxGtRTfvI1rGTA&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/alex8875\\/m3u\\/refs\\/heads\\/main\\/samsungtv.m3u\"}",
+    "table_name": "U0FNU1VORyBUVjE3Njk3MjMzNzIzNTU",
+    "order_index": 43
+  },
+  {
+    "id": 40,
+    "cat": "{\"visible\":true,\"name\":\"ZAP SPORTS\",\"logo\":\"https:\\/\\/i.ibb.co\\/dJfysm3V\\/zap-Sports.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/tv.noobon.top\\/zapx\\/api.php?action=getIPTVPlaylist\"}",
+    "table_name": "WkFQIFNQT1JUUzE3Njk3MjM2NzQ1MjM",
+    "order_index": 44
+  },
+  {
+    "id": 41,
+    "cat": "{\"visible\":true,\"name\":\"Pirates TV\",\"logo\":\"https:\\/\\/raw.githubusercontent.com\\/FunctionError\\/Logos\\/main\\/Pirates-Tv.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/FunctionError\\/PiratesTv\\/refs\\/heads\\/main\\/combined_playlist.m3u\"}",
+    "table_name": "UGlyYXRlcyBUVjE3Njk3MjM3MzMzMzk",
+    "order_index": 45
+  },
+  {
+    "id": 42,
+    "cat": "{\"visible\":true,\"name\":\"YUPPTV\",\"logo\":\"https:\\/\\/d229kpbsb5jevy.cloudfront.net\\/bott\\/v2\\/networks\\/circularimages\\/yupptv.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/tv.noobon.top\\/playlist\\/yapp.php\"}",
+    "table_name": "WVVQUFRWMTc2OTcyMzc2MDcxNQ",
+    "order_index": 46
+  },
+  {
+    "id": 43,
+    "cat": "{\"visible\":true,\"name\":\"DANGAL TV\",\"logo\":\"https:\\/\\/assets-playztv.pages.dev\\/category\\/dangal.jpg\",\"type\":\"m3u\",\"api\":\"https:\\/\\/playlists-by-playztv.pages.dev\\/dangalp.m3u\"}",
+    "table_name": "REFOR0FMIFRWMTc2OTcyMzgyOTQyMQ",
+    "order_index": 47
+  },
+  {
+    "id": 44,
+    "cat": "{\"visible\":true,\"name\":\"Movies & Series\",\"logo\":\"https:\\/\\/i.postimg.cc\\/QCVVj6D1\\/Movies.png\",\"type\":\"m3u\",\"api\":\"http:\\/\\/tv.noobon.top\\/playlist\\/movies.php\"}",
+    "table_name": "TW92aWVzICYgU2VyaWVzMTc2OTcyMzg2NDEwNw",
+    "order_index": 48
+  },
+  {
+    "id": 50,
+    "cat": "{\"visible\":true,\"name\":\"Music Channels \",\"logo\":\"https:\\/\\/upload.wikimedia.org\\/wikipedia\\/commons\\/4\\/4d\\/Music_logo.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/wasitv-pro.site\\/sportz.php?token=1wzIrANIxEtHDHKdVw9yYSddXRs_wyxn3PzVQN_mnIF4&gid=748863831\"}",
+    "table_name": "TXVzaWMgQ2hhbm5lbHMgMTc3NDc3MjQ0OTAyOA",
+    "order_index": 49
+  },
+  {
+    "id": 60,
+    "cat": "{\"visible\":true,\"name\":\"FIFA PLUS\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRhokREPmu7NevdecCRJejEY1AOZZalcL-OOfxBTAw7dA&s=10\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/srhady\\/fifaplus\\/refs\\/heads\\/main\\/fifa_live.m3u\"}",
+    "table_name": "RklGQSBQTFVTMTc3OTA1MDQyMDcyMg",
+    "order_index": 50
+  },
+  {
+    "id": 61,
+    "cat": "{\"visible\":true,\"name\":\"ICC TV\",\"logo\":\"https:\\/\\/m.media-amazon.com\\/images\\/I\\/31F7ropt9OL.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/doctor-8trange\\/nexphi0\\/refs\\/heads\\/main\\/data\\/icc.m3u\"}",
+    "table_name": "SUNDIFRWMTc3OTA1MDQ1NjI5OQ",
+    "order_index": 51
+  },
+  {
+    "id": 63,
+    "cat": "{\"visible\":true,\"name\":\"India 2\",\"logo\":\"https:\\/\\/blogger.googleusercontent.com\\/img\\/b\\/R29vZ2xl\\/AVvXsEg7fzGyWbud_hYnHVpSTgfwXP8IrBy8O1ujFUrZHnmx6ByIAq9v_xEljY1es86kt20xLt2QhNyVPV-jGnhLp4DF4NLYMs8lpW8CoTTHNMPVT4P2RmhaKBK-916L5bX-Zb6gx5lPnbs9o-0hKNHvPr9GEiKOfd8_zpdbcMveZJhOJNtfl0pfgp6Ju4HD-5Q\\/s1600\\/1000026341.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/so.napaextra.online\\/hin.m3u\"}",
+    "table_name": "SW5kaWEgMjE3ODI2NTcwOTg1NzA",
+    "order_index": 52
+  },
+  {
+    "id": 64,
+    "cat": "{\"visible\":true,\"name\":\"FANCODE SL\",\"logo\":\"https:\\/\\/play-lh.googleusercontent.com\\/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q\",\"type\":\"m3u\",\"api\":\"https:\\/\\/raw.githubusercontent.com\\/doctor-8trange\\/zyphx8\\/refs\\/heads\\/main\\/data\\/lk.m3u\"}",
+    "table_name": "RkFOQ09ERSBTTDE3ODMwMDA2NDcwNzM",
+    "order_index": 53
+  },
+  {
+    "id": 68,
+    "cat": "{\"visible\":true,\"name\":\"Spain\",\"logo\":\"https:\\/\\/blogger.googleusercontent.com\\/img\\/b\\/R29vZ2xl\\/AVvXsEiYrM14PRAzRE3BnpNsM6lYMl_rtf1MZfoL3B5y8U44EFAxofzUUVyzdA7yUHAP-gzMcKRPjn_0lfr0tMeXrIC0wsHaJhEhAIGJvJa4ClgRGxysoErmZxGDax9A91nTKVI_x9_GLCsKuxAM6ymVF0ZxAck5yjhP7Zk8fUg_D_fyZL-EkZcHTZEwgC2pQVw\\/s320\\/1000026181.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/dolanteram.xyz\\/playlist\\/global\\/app\\/playlist.m3u?id=cc62a9bdf96b\"}",
+    "table_name": "U3BhaW4xNzgzMDAxMTgwNzE5",
+    "order_index": 54
+  },
+  {
+    "id": 69,
+    "cat": "{\"visible\":true,\"name\":\"African\",\"logo\":\"https:\\/\\/blogger.googleusercontent.com\\/img\\/b\\/R29vZ2xl\\/AVvXsEh2l0rTr1hjTwRXaJp1yv-6GfDPCoooUmmUn8cKy0V0BTiy2SEtf6t13n7wYQbcONkBG2oHztdLxw6xjcJJ0OGrMg4ZN1DIAdhyphenhyphenDo_mrLM3gS4oF164rgGtQpG_SJV91tTpmnp7hu5KC_ISux-Cju9QvKiG_IZc3NY8w0DInmsLkHFk8w_-bR8PFc-1Bfs\\/s1600\\/1000026347.png\",\"type\":\"m3u\",\"api\":\"https:\\/\\/dolanteram.xyz\\/playlist\\/global\\/app\\/playlist.m3u?id=563e69359077\"}",
+    "table_name": "QWZyaWNhbjE3ODMwMDEyOTA1NzA",
+    "order_index": 55
+  }
+]

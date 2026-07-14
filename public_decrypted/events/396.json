@@ -1,0 +1,59 @@
+{
+  "id": 396,
+  "order_index": 10,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+  },
+  "teamA": {
+    "name": "ENG",
+    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
+  },
+  "teamB": {
+    "name": "IND",
+    "logo": "https://img.sofascore.com/api/v1/team/187765/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "14/07/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUVORy12cy1JTkQxNzg0MDIxMjQzOTk2.txt",
+  "links": [
+    {
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
+      "scheme": 0,
+      "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd",
+      "scheme": 0,
+      "api": "63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORT NZ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY MAIN EVENT",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

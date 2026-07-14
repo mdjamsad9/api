@@ -1,0 +1,25 @@
+{
+  "id": 17,
+  "order_index": 16,
+  "name": "tensports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Ten_Sports_Logo.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUF0ZW5zcG9ydHMxNzY5NjE1NzE5NDAw.txt",
+  "links": [
+    {
+      "name": "TEN CRICKET",
+      "link": "https://edge1-moblive.yuppcdn.net/drm/smil:peosports1drm.smil/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TEN SPORTS",
+      "link": "http://66.102.120.18:8000/play/a018/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

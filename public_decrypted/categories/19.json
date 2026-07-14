@@ -1,0 +1,12 @@
+{
+  "id": 19,
+  "table_name": "Vk9PVCBCRDE3Njk3MjI2OTk1NzE",
+  "order_index": 30,
+  "cat": {
+    "visible": true,
+    "name": "VOOT BD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfS6QZFts2FoedMGZE28H7Kh158PsrNIiabFBVJMy_jXa8Tvvb9WAlut8&s=10",
+    "type": "m3u",
+    "api": "https://ranapk.short.gy/VOOTBD.m3u"
+  }
+}

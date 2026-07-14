@@ -1,0 +1,12 @@
+{
+  "id": 27,
+  "table_name": "VEFQTUFEIFBLMTc2OTcyMjkyMjg2Mg",
+  "order_index": 37,
+  "cat": {
+    "visible": true,
+    "name": "TAPMAD PK",
+    "logo": "https://vectorseek.com/wp-content/uploads/2023/02/Tapmad-Logo-Vector.jpg",
+    "type": "m3u",
+    "api": "https://so.napaextra.online/tapmad.m3u"
+  }
+}

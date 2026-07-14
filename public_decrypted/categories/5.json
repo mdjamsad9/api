@@ -1,0 +1,12 @@
+{
+  "id": 5,
+  "table_name": "UGFraXN0YW4xNzY5NzIwODc1MDgx",
+  "order_index": 20,
+  "cat": {
+    "visible": true,
+    "name": "Pakistan",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/pakistan.webp",
+    "type": "custom",
+    "api": "channels/UGFraXN0YW4xNzY5NzIwODc1MDgx.txt"
+  }
+}

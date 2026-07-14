@@ -1,0 +1,66 @@
+{
+  "id": 34,
+  "order_index": 33,
+  "name": "laliga",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Laliga.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFsYWxpZ2ExNzY5NjE3NzQwODAy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://abclxdjaaaaaaaamkqb6y4p6ie2zk.ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+      "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+      "scheme": 0
+    },
+    {
+      "name": "Link 2",
+      "link": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+      "scheme": 0,
+      "api": "c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
+      "tokenApi": ""
+    },
+    {
+      "name": "Link 3",
+      "link": "https://a202aivottevtad-a.akamaihd.net/IAD/c0ce7c8731164fedbb79d5713fe43184/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_54a8a690-d8b0-42a9-b38b-d5dcc98743d3_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/wbwiabf7h7/out/v1/422826108c3d47a2bdd11f00ed1f2f70/cenc.mpd?aws.sessionId=67a64e9c-5adf-444f-a736-e539ba90e43d&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+      "scheme": 0,
+      "api": "a14bd38e9a515d80b01c242272d08974:8715f3f10a3d02655327c3a9f85540a3",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sports Laliga",
+      "link": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd",
+      "scheme": 0,
+      "api": "c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8",
+      "tokenApi": ""
+    },
+    {
+      "name": "Laliga 2",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd",
+      "scheme": 0,
+      "api": "d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6",
+      "tokenApi": ""
+    },
+    {
+      "name": "Laliga TV FHD",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+      "scheme": 0,
+      "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+      "tokenApi": ""
+    },
+    {
+      "name": "LaLiga TV Aus",
+      "link": "https://aba5sdmaaaaaaaamehhfd2dipdieh.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/5pcujat5qp/out/v1/9549c38c8ecb4920bb9a86274fb23c82/cenc.mpd",
+      "scheme": 0,
+      "api": "14c480a4e02b511c2686238e497770a1:3a48af6173a9a12fcd56e5a0f82e1305",
+      "tokenApi": ""
+    },
+    {
+      "name": "Laliga Hypermotion ES",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
+      "scheme": 0,
+      "api": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+      "tokenApi": ""
+    }
+  ]
+}

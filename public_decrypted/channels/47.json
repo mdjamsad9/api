@@ -1,0 +1,18 @@
+{
+  "id": 47,
+  "order_index": 46,
+  "name": "CT Sport",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFDVCBTcG9ydDE3Njk2MTg4NzM1NTU.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

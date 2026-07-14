@@ -1,0 +1,25 @@
+{
+  "id": 12,
+  "order_index": 11,
+  "name": "fancode ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fancode-app-icon-on-transparent-background-free-png.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFmYW5jb2RlIDE3Njk2MTUzMzY2ODU.txt",
+  "links": [
+    {
+      "name": "FANCODE 1 - AQ",
+      "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+      "scheme": 0,
+      "api": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE 2 - AQ",
+      "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "scheme": 0,
+      "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+      "tokenApi": ""
+    }
+  ]
+}

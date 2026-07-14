@@ -1,0 +1,66 @@
+{
+  "id": 35,
+  "order_index": 1,
+  "eventDetails": {
+    "category": "Boxing",
+    "eventName": "AEW Dynamite",
+    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+  },
+  "teamA": {
+    "name": "AEW",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+  },
+  "teamB": {
+    "name": "AEW",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "16/07/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/QUVXIER5bmFtaXRlLUFFVy12cy1BRVcxNzgwNTE1NjY5NzI2.txt",
+  "links": [
+    {
+      "name": "TSN SPORTS AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+      "scheme": 0,
+      "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+      "tokenApi": ""
+    },
+    {
+      "name": "WWE LIVE ",
+      "link": "https://601.formaturamaxi.com.br/aew.m3u8|Referer=https://roxiestreams.su&Origin=https://roxiestreams.su&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WWE AQ",
+      "link": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX SPORTS AQ",
+      "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+      "scheme": 0,
+      "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+      "tokenApi": ""
+    },
+    {
+      "name": "BACKUP AQ",
+      "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "BACKUP LQ",
+      "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

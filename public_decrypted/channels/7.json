@@ -1,0 +1,32 @@
+{
+  "id": 7,
+  "order_index": 6,
+  "name": "t sports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/T_Sports_logo.svg_.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUF0IHNwb3J0czE3Njk2MTUwMjk1MTI.txt",
+  "links": [
+    {
+      "name": "HD1",
+      "link": "https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD2",
+      "link": "https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD3",
+      "link": "https://allinonereborn.xyz/filex.m3u8/live2.php?id=111409",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

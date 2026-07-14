@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "order_index": 4,
+  "name": "star Sports ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Star-Sports.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFzdGFyIFNwb3J0cyAxNzY5NjE0ODA2MDAw.txt",
+  "links": [
+    {
+      "name": "HD1",
+      "link": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=le-beta&pass=maar-moj",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 39,
+  "table_name": "Q1JJQ0hEMTc2OTcyMzUxMjE1Nw",
+  "order_index": 15,
+  "cat": {
+    "visible": true,
+    "name": "CRICHD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ08h1gOe7MPxwehZBrbYKAUtjv22B6rAJ1kMkN-cea64Ka49KUyGU2lpTz&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
+  }
+}

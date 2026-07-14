@@ -1,0 +1,39 @@
+{
+  "id": 23,
+  "order_index": 22,
+  "name": "fs1",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/FS1.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFmczExNzY5NjE2NTc0MzUz.txt",
+  "links": [
+    {
+      "name": "FS1 - AQ",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+      "scheme": 0,
+      "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+      "tokenApi": ""
+    },
+    {
+      "name": "FS2 - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+      "scheme": 0,
+      "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+      "tokenApi": ""
+    },
+    {
+      "name": "FS1 - HD",
+      "link": "http://23.237.104.106:8080/USA_FS1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FS2 - HD",
+      "link": "http://23.237.104.106:8080/USA_FS2/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

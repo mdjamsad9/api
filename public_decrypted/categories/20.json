@@ -1,0 +1,12 @@
+{
+  "id": 20,
+  "table_name": "Vk9PVCBJTkQxNzY5NzIyNzIzMTM5",
+  "order_index": 31,
+  "cat": {
+    "visible": true,
+    "name": "VOOT IND",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfS6QZFts2FoedMGZE28H7Kh158PsrNIiabFBVJMy_jXa8Tvvb9WAlut8&s=10",
+    "type": "m3u",
+    "api": "https://jiocinema-live.cloud-hatchh.workers.dev/?token=42e4f5-2d414b-3c37d8-5f3f45"
+  }
+}

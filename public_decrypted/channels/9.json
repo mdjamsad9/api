@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "order_index": 8,
+  "name": "Fox cricket ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fox-cricket-logo-png_seeklogo-612614.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFGb3ggY3JpY2tldCAxNzY5NjE1MTgzOTgy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://foxenglish.pages.dev/playlist.m3u8"
+    },
+    {
+      "name": "Link 2",
+      "link": "https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-37/3phi-4r51/chunklist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

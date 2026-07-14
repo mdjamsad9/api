@@ -1,0 +1,12 @@
+{
+  "id": 65,
+  "table_name": "TGl2ZSBFdmVudHMgLSBIRDE3ODMwMDA3MjIwNTI",
+  "order_index": 0,
+  "cat": {
+    "visible": true,
+    "name": "Live Events - HD",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/05/LiveSP.webp",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "order_index": 59,
+  "name": "Rugby passtv",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/RugbyPass.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFSdWdieSBwYXNzdHYxNzY5NjE5NjQ4Njgx.txt",
+  "links": [
+    {
+      "name": "Rugbypass",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/emn1qibfun/out/v1/0e442a73dc9841158975a938f8b31087/cenc.mpd",
+      "scheme": 0,
+      "api": "63a084a354d126bcd099c9eabf0cbb93:bd2b00bce574c33af46d0538937b3ac3",
+      "tokenApi": ""
+    }
+  ]
+}

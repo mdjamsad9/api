@@ -1,0 +1,12 @@
+{
+  "id": 32,
+  "table_name": "SklPIENJTkVNQSBJTkQxNzY5NzIzMjQ4ODEx",
+  "order_index": 40,
+  "cat": {
+    "visible": true,
+    "name": "JIO CINEMA IND",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3qZ1WgzPyFRX4cWIBJF0MSjWW3gZcLFycg&usqp=CAU",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/jcinema.m3u"
+  }
+}

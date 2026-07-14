@@ -1,0 +1,113 @@
+{
+  "api_name": "Cricfy TV Decrypted API",
+  "base_url": "https://mdjamsad9.github.io/api/public_decrypted",
+  "description": "This is a clean, decrypted static JSON API database for CricFy TV, generated automatically every 5 minutes via GitHub Actions.",
+  "endpoints": {
+    "startup_config": {
+      "path": "/genzdev_config.json",
+      "description": "Global app configuration, popups, and API redirection URLs.",
+      "fields": {
+        "schema": "Schema version number",
+        "Mode": "Configuration mode (e.g. GenZ)",
+        "api_url": "Decrypted pages base URL for fallback operations",
+        "api2": "Decrypted pages base URL for fallback operations",
+        "categories_api": "Static categories API URL",
+        "events_api": "Static events API URL",
+        "channels_api_base": "Base directory URL for dynamic category channels",
+        "message": "Global announcement/notice text displayed in the app",
+        "latest_version_code": "Latest Android app version code",
+        "update_url": "App update or landing page URL"
+      }
+    },
+    "categories_menu": {
+      "path": "/categories.json",
+      "description": "Main category menu list. Contains the category names, logos, types, and table_names.",
+      "fields": {
+        "id": "Unique category identifier",
+        "cat": "Raw or parsed JSON metadata containing name, logo, type, and source endpoint",
+        "table_name": "Dynamic category table name (used to fetch the category's channel list from /channels/{table_name}.json)",
+        "order_index": "Sort priority order"
+      },
+      "usage_flow": "Step 1: Fetch categories.json to render the main menu. For each item: if 'table_name' is present, fetch the category channels list from 'base_url + /channels/{table_name}.json', or load individual parsed category metadata from '/categories/{id}.json'."
+    },
+    "sports_tv_channels": {
+      "path": "/channels.json",
+      "description": "Global list of standard TV channels with raw stringified and nested attributes.",
+      "fields": {
+        "id": "Unique TV channel identifier",
+        "channel": "Stringified TV channel details (name, logo, visible, links_path)",
+        "links": "Stringified JSON array containing playback servers and links",
+        "order_index": "Sort priority order"
+      },
+      "usage_flow": "To play a TV channel: Fetch its clean, fully parsed direct streaming links using '/channels/{id}.json' (e.g. '/channels/2.json')."
+    },
+    "live_events": {
+      "path": "/events.json",
+      "description": "List of active live and upcoming sports matches and events.",
+      "fields": {
+        "id": "Unique event identifier (e.g. 35)",
+        "event": "Stringified event details including eventDetails, teamA, teamB details, visible, date, and time",
+        "links": "Stringified JSON array containing active playback streams and DRM keys for the event"
+      },
+      "usage_flow": "To play a live event: Fetch its clean, fully parsed direct streaming links and match info using '/events/{id}.json' (e.g. '/events/35.json')."
+    },
+    "tournament_logos": {
+      "path": "/event_cats.json",
+      "description": "Filter categories/tournament logo mappings for live events (e.g. Boxing, Cricket, Football).",
+      "fields": {
+        "TournamentName": "Tournament category name associated with a logo URL string"
+      }
+    }
+  },
+  "sub_directories": {
+    "individual_category_details": {
+      "path_pattern": "/categories/{id}.json",
+      "description": "Contains clean, parsed metadata for any specific category.",
+      "fields": {
+        "id": "Unique category identifier",
+        "table_name": "Category table name",
+        "order_index": "Category display sorting order index",
+        "cat": "Object containing name, logo, visible, type, and source API endpoint"
+      }
+    },
+    "category_channels": {
+      "path_pattern": "/channels/{table_name}.json",
+      "description": "Contains list of channels inside a specific custom category (e.g. `/channels/SW5kaWExNzY5NjIyNDI1NzM5.json`).",
+      "fields": {
+        "id": "Channel identifier",
+        "name": "Channel display name",
+        "logo": "Channel logo thumbnail URL",
+        "links": "Array of stream objects containing name, playback link, and DRM decryption keys"
+      }
+    },
+    "decrypted_channel_links": {
+      "path_pattern": "/channels/{id}.json",
+      "description": "Contains clean decrypted playback streams, name, logo, and DRM decryption keys for any specific TV Channel ID.",
+      "fields": {
+        "id": "Channel identifier",
+        "name": "Channel display name",
+        "logo": "Channel logo URL",
+        "visible": "Visibility status in application",
+        "is_playlist": "Boolean flag if channel is an M3U playlist",
+        "links": "Array of stream objects containing name, link, scheme, and api (DRM Key)",
+        "order_index": "Sort priority order"
+      }
+    },
+    "decrypted_event_links": {
+      "path_pattern": "/events/{id}.json",
+      "description": "Contains clean decrypted playback streams, tournament details, teams information, and DRM keys for any specific Live Event ID.",
+      "fields": {
+        "id": "Event identifier",
+        "eventDetails": "Object containing category, eventName, and eventLogo",
+        "teamA": "Object containing name and logo for Team A",
+        "teamB": "Object containing name and logo for Team B",
+        "visible": "Visibility status",
+        "priority": "Sort priority",
+        "date": "Event scheduled date",
+        "time": "Event scheduled start time",
+        "links": "Array of stream objects containing server name, playback link, scheme, and api (DRM Key)"
+      },
+      "player_decryption_handling": "If 'api' is present in stream links (e.g. 'daa8ea92...:4042e04...'), it represents a DRM protected stream. Split the 'api' string by ':' to get the Key ID (left) and Key (right), and pass them to your player's DRM ClearKey configuration."
+    }
+  }
+}

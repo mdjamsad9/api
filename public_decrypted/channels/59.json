@@ -1,0 +1,25 @@
+{
+  "id": 59,
+  "order_index": 58,
+  "name": "dpworldtour",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/DPWORLD.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFkcHdvcmxkdG91cjE3Njk2MTk1ODIxMjE.txt",
+  "links": [
+    {
+      "name": "DP Tour",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tviyv7mvu6/out/v1/e5eb618ddee5431fbaaa3035bf5592ad/cenc.mpd",
+      "scheme": 0,
+      "api": "9fd973abf1593f66685bd1fbd94b79bb:568fd25a2da4a0a74160d0a11d108235",
+      "tokenApi": ""
+    },
+    {
+      "name": "PGA Tour",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hhnehhkeir/out/v1/02431723198c4049be5025c47e67d611/cenc.mpd",
+      "scheme": 0,
+      "api": "3403e7c9fd07b11d2d146167dffc8859:d891cc941e65b47606846f8b78bd1cf5",
+      "tokenApi": ""
+    }
+  ]
+}

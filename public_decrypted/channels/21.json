@@ -1,0 +1,60 @@
+{
+  "id": 21,
+  "order_index": 20,
+  "name": "wwe",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WWE.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUF3d2UxNzY5NjE2MTE0NDg1.txt",
+  "links": [
+    {
+      "name": "WWE - AQ",
+      "link": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd",
+      "scheme": 0,
+      "api": "00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102",
+      "tokenApi": ""
+    },
+    {
+      "name": "WWE - HD",
+      "link": "https://dpv6ceilvhyrw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7ufe851j0vqbg/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORTS TV",
+      "link": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD",
+      "link": "https://smart.bengaldigital.live/WWE/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Swerve Combat",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lbgomzfdel/out/v1/99687c04728943498f884d9bf6a0c837/cenc.mpd",
+      "scheme": 0,
+      "api": "1918ddf008413696077e06138983c5f9:2d66e0d80ca9ac6ad8b8c230a97f74b4",
+      "tokenApi": ""
+    },
+    {
+      "name": "MLIVE",
+      "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+      "scheme": 0,
+      "api": "{\n    \"keys\": [\n        {\n            \"kty\": \"oct\",\n            \"k\": \"MNW1eZZtgishXsUakdiicQ\",\n            \"kid\": \"YNwIquUvTAuAao5D8koSyA\"\n        }\n    ],\n    \"type\": \"temporary\"\n}",
+      "tokenApi": ""
+    },
+    {
+      "name": "One Fight",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+      "scheme": 0,
+      "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+      "tokenApi": ""
+    }
+  ]
+}

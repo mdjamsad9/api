@@ -1,0 +1,18 @@
+{
+  "id": 48,
+  "order_index": 47,
+  "name": "BEK",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/BEK.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFCRUsxNzY5NjE4OTE1NzI1.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

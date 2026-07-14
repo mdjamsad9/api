@@ -1,0 +1,12 @@
+{
+  "id": 42,
+  "table_name": "WVVQUFRWMTc2OTcyMzc2MDcxNQ",
+  "order_index": 46,
+  "cat": {
+    "visible": true,
+    "name": "YUPPTV",
+    "logo": "https://d229kpbsb5jevy.cloudfront.net/bott/v2/networks/circularimages/yupptv.png",
+    "type": "m3u",
+    "api": "https://tv.noobon.top/playlist/yapp.php"
+  }
+}

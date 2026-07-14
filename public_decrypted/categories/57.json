@@ -1,0 +1,12 @@
+{
+  "id": 57,
+  "table_name": "V2F2ZXMgT1RUMTc3NjQxMjExNDAzOQ",
+  "order_index": 13,
+  "cat": {
+    "visible": true,
+    "name": "Waves OTT",
+    "logo": "https://assets-playztv.pages.dev/category/wvot.jpg",
+    "type": "m3u",
+    "api": "https://playlists-by-playztv.pages.dev/wavesno.m3u"
+  }
+}

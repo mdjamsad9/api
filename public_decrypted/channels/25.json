@@ -1,0 +1,46 @@
+{
+  "id": 25,
+  "order_index": 24,
+  "name": "arena sport",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Arenaa.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFhcmVuYSBzcG9ydDE3Njk2MTY2ODk4NjU.txt",
+  "links": [
+    {
+      "name": "Arena Sport 1",
+      "link": "http://78.108.251.7/Arena_Sport_1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Arena Sport 2",
+      "link": "http://78.108.251.7/Arena_Sport_2/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Arena Sport 3",
+      "link": "http://78.108.251.7/Arena_Sport_3/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Arena Sport 4",
+      "link": "http://78.108.251.7/Arena_Sport_4/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Arena Sport 5",
+      "link": "http://78.108.251.7/Arena_Sport_5/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

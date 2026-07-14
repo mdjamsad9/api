@@ -1,0 +1,18 @@
+{
+  "id": 55,
+  "order_index": 54,
+  "name": "COMBATE GLOBAL",
+  "logo": "s",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFDT01CQVRFIEdMT0JBTDE3Njk2MTkyNzAzNDM.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://d1u6wgaa8xb3mk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9fazlfu4at6aj/server/distrib/QDLoJT9yeWXS4WJP6/zuvPJYoOOdEMDNF2j2mvmg.u11pIHHxg4zn_J5_7NMwCvbxoAihWCJsSeWRKxhEKeoFgynWSWKVB3Jj4tTtIZWWcoaFPXDCjGvkNCD5r3qc8iuea_TCCOedUj2PegrO6kozyyjPsrlkz2DJ_dCfvxqdTxvlzkjhMHtTFaBoYlyZQf7MVggFEv4XSUNSJIBMujHhn5guG50Cdd9mIqIzFjbAxl4RiWCqeweKVNSQFxI-PA/manifest.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

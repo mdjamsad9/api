@@ -1,0 +1,53 @@
+{
+  "id": 28,
+  "order_index": 27,
+  "name": "Foxsports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/FOX.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFGb3hzcG9ydHMxNzY5NjE3MDUxNDYz.txt",
+  "links": [
+    {
+      "name": "FOX USA",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xr97sgrflz/out/v1/e4a043f7cbcf4d308e7c5439c320c8aa/cenc.mpd",
+      "scheme": 0,
+      "api": "482d41282412c2a36faae9c15d42b462:88e6ef62e9cfb3dd7f28686844b7cee2",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX DESPORT",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+      "scheme": 0,
+      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX SPORTS 1",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+      "scheme": 0,
+      "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX SPORTS 2",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
+      "scheme": 0,
+      "api": "8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX SPORTS 3",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
+      "scheme": 0,
+      "api": "11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX PREMIUM",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+      "scheme": 0,
+      "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+      "tokenApi": ""
+    }
+  ]
+}

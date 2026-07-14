@@ -1,0 +1,66 @@
+{
+  "id": 69,
+  "order_index": 4,
+  "eventDetails": {
+    "category": "Boxing",
+    "eventName": "🥊 WWE Friday Night SmackDown",
+    "eventLogo": "https://github.com/xmrt624/logo/blob/main/wwe-logo-white-red-render.png?raw=true"
+  },
+  "teamA": {
+    "name": "WWE",
+    "logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
+  },
+  "teamB": {
+    "name": "WWE",
+    "logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "18/07/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/8J+liiBXV0UgRnJpZGF5IE5pZ2h0IFNtYWNrRG93bi1XV0UtdnMtV1dFMTc4MDY0MzY5NjY4MA.txt",
+  "links": [
+    {
+      "name": "CricFy WWE HD",
+      "link": "https://chatgpt.hereisman.net/playlist/52583/load-playlist?|Referer=https://gooz.aapmains.net/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WWE LIVE HD",
+      "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.44/hls/RGREGREQZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricFy TV+ HD",
+      "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "USA TV",
+      "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+      "scheme": 0,
+      "api": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

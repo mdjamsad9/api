@@ -1,0 +1,12 @@
+{
+  "id": 35,
+  "table_name": "U0FNU1VORyBUVjE3Njk3MjMzNzIzNTU",
+  "order_index": 43,
+  "cat": {
+    "visible": true,
+    "name": "SAMSUNG TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9T5vcm8wU-dLuaK5vBfoHpz8KL9Ru0aU1eoVaKNcqauxGtRTfvI1rGTA&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/samsungtv.m3u"
+  }
+}

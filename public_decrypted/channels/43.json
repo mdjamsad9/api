@@ -1,0 +1,32 @@
+{
+  "id": 43,
+  "order_index": 42,
+  "name": "Fubosports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/fubo.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFGdWJvc3BvcnRzMTc2OTYxODU3NzA2MA.txt",
+  "links": [
+    {
+      "name": "Fubo 1",
+      "link": "https://abm5x5xaaaaaaaamcqsg3izt3pszd.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd",
+      "scheme": 0,
+      "api": "3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135",
+      "tokenApi": ""
+    },
+    {
+      "name": "Fubo 2",
+      "link": "https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd?encoding=segmentBase",
+      "scheme": 0,
+      "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+      "tokenApi": ""
+    },
+    {
+      "name": "Fubo 3",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mactz7rd3x/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd",
+      "scheme": 0,
+      "api": "bc662f5b30cb7707eea016ee3b30b543:f4a4bae3a1b71933101dd1c381dddfa2",
+      "tokenApi": ""
+    }
+  ]
+}

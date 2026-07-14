@@ -1,0 +1,32 @@
+{
+  "id": 18,
+  "order_index": 17,
+  "name": "sportv",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sport.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFzcG9ydHYxNzY5NjE1Nzc3NTQw.txt",
+  "links": [
+    {
+      "name": "SporTV - AQ1",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+      "scheme": 0,
+      "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+      "tokenApi": ""
+    },
+    {
+      "name": "SporTV - AQ2",
+      "link": "https://ablhv3zaaaaaaaammndourvrl7ioa.otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
+      "scheme": 0,
+      "api": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
+      "tokenApi": ""
+    },
+    {
+      "name": "SporTV2 - AQ3",
+      "link": "https://otte.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
+      "scheme": 0,
+      "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+      "tokenApi": ""
+    }
+  ]
+}

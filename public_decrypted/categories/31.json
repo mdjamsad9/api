@@ -1,0 +1,12 @@
+{
+  "id": 31,
+  "table_name": "QVlOQTE3Njk3MjMxNzUyNjQ",
+  "order_index": 39,
+  "cat": {
+    "visible": true,
+    "name": "AYNA",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvAant65yQ_au1e51MFs-uiE6juswXv4ZJoNCpzBBSg4q7DzJ1NeliS80c&s=10",
+    "type": "m3u",
+    "api": "https://playlist-cricfy.noobon.top/aynaott.php"
+  }
+}

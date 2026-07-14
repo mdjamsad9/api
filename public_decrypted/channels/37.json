@@ -1,0 +1,25 @@
+{
+  "id": 37,
+  "order_index": 36,
+  "name": "nbcsports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/NBCSports.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFuYmNzcG9ydHMxNzY5NjE4MDgwNjM2.txt",
+  "links": [
+    {
+      "name": "NBC NEWS NOW",
+      "link": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814557/hls/master.m3u8?ads.xumo_channelId=88814557",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CNBC",
+      "link": "https://ac-009.live.p7s1video.net/d2e237d7/t_009/cnbc/cenc-default.mpd",
+      "scheme": 0,
+      "api": "2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913",
+      "tokenApi": ""
+    }
+  ]
+}

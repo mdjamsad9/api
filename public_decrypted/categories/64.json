@@ -1,0 +1,12 @@
+{
+  "id": 64,
+  "table_name": "RkFOQ09ERSBTTDE3ODMwMDA2NDcwNzM",
+  "order_index": 53,
+  "cat": {
+    "visible": true,
+    "name": "FANCODE SL",
+    "logo": "https://play-lh.googleusercontent.com/lp1Tdhp75MQyrHqrsyRBV74HxoL3Ko8KRAjOUI1wUHREAxuuVwKR6vnamgvMEn4C4Q",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/lk.m3u"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 8,
+  "order_index": 7,
+  "name": "willow ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/WILLOW_2023_Primary-Stacked.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUF3aWxsb3cgMTc2OTYxNTEwMzQ4OQ.txt",
+  "links": [
+    {
+      "name": "WILLOW - FHD",
+      "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+      "scheme": 0,
+      "api": "1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - SD",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpdhttps://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e",
+      "tokenApi": ""
+    },
+    {
+      "name": "INDIA IP",
+      "link": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

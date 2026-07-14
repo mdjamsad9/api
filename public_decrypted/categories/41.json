@@ -1,0 +1,12 @@
+{
+  "id": 41,
+  "table_name": "UGlyYXRlcyBUVjE3Njk3MjM3MzMzMzk",
+  "order_index": 45,
+  "cat": {
+    "visible": true,
+    "name": "Pirates TV",
+    "logo": "https://raw.githubusercontent.com/FunctionError/Logos/main/Pirates-Tv.png",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/FunctionError/PiratesTv/refs/heads/main/combined_playlist.m3u"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": 23,
+  "table_name": "RElTVFJPIFRWMTc2OTcyMjgwMzEwNQ",
+  "order_index": 34,
+  "cat": {
+    "visible": true,
+    "name": "DISTRO TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQjBTT5SL_kuJF7CbQtoSEA7PzyiH9RYIuDO9F1sx87CtiULDyiDf7ybt&s=10",
+    "type": "m3u",
+    "api": "https://playlist-storage.pages.dev/PLAYLIST/DistroTV.m3u"
+  }
+}

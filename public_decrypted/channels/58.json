@@ -1,0 +1,32 @@
+{
+  "id": 58,
+  "order_index": 57,
+  "name": "tudn",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/TUDN.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUF0dWRuMTc2OTYxOTQ3MTc3NA.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://a162aivottevtad-a.akamaihd.net/IAD/83926f460d3441c0981f73bd62d7abab/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_38f331a6-f6dd-4396-9193-4c0d5b6678b4_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd?aws.sessionId=bac94a06-9cdd-4392-a494-8e68c98055ae&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+      "scheme": 0,
+      "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 2",
+      "link": "https://a201aivottevtad-a.akamaihd.net/IAD/6d6d28efd5884b23be73bc02ba142767/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_01bd82cf-0029-4c71-a3ae-7ac6db43fb43_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/hpkano3vse/out/v1/19b9622a91c34e299e7d695cd644c13e/cenc.mpd?aws.sessionId=18b09674-bd75-4dfb-b9c3-f29ab7caab60&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+      "scheme": 0,
+      "api": "00901dc8c82d4b6c740cbd59f0cd369b:ff0b9bfcaf2814b223dd885a3ca9602e",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3",
+      "link": "https://a92aivottevtad-a.akamaihd.net/IAD/ff40556b428c424cb5db13e7f3549a66/v1/dash/091788724010/univision_vix_linear_amzn1_dv_live_csid_e91f5e65-ef2c-4e7b-88b6-97e5f66e81d1_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/5r6zqfc5oz/out/v1/c8be7786fb7e4e75b87f7408cc66d508/cenc.mpd?aws.sessionId=4b077bb3-3674-4c11-8fbe-d7f75ee85337&amznDtid=AOAGZA014O5RE&encoding=segmentBase",
+      "scheme": 0,
+      "api": "392dbb57607d8fb00d6941d2b86cef90:e4119e363c1fa27a7633f1a09dbeea82",
+      "tokenApi": ""
+    }
+  ]
+}

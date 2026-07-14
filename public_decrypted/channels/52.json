@@ -1,0 +1,18 @@
+{
+  "id": 52,
+  "order_index": 51,
+  "name": "PAC 12 INSIDER",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFQQUMgMTIgSU5TSURFUjE3Njk2MTkxMTg3MDk.txt",
+  "links": [
+    {
+      "name": "Server 1",
+      "link": "https://pac12-vizio.amagi.tv/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

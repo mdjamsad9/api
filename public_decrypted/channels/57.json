@@ -1,0 +1,15 @@
+{
+  "id": 57,
+  "order_index": 56,
+  "name": "PROFESSIONAL FIGHTER LEAGUE ",
+  "logo": "a",
+  "visible": false,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFQUk9GRVNTSU9OQUwgRklHSFRFUiBMRUFHVUUgMTc2OTYxOTM5OTMxNA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://d2irko5f9gt1c5.cloudfront.net/10008/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203"
+    }
+  ]
+}

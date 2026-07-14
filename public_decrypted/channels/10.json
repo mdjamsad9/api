@@ -1,0 +1,25 @@
+{
+  "id": 10,
+  "order_index": 9,
+  "name": "sky cricket ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sky-sports-cricket.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFza3kgY3JpY2tldCAxNzY5NjE1MjMxMzEz.txt",
+  "links": [
+    {
+      "name": "HD1",
+      "link": "http://178.33.239.54:8080/503a/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD2",
+      "link": "https://tv.noobon.top/streamx/api/playlist.php?id=10527",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

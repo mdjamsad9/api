@@ -1,0 +1,221 @@
+{
+  "id": 4,
+  "order_index": 3,
+  "name": "Bein Sports ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Bein_sport_logo-scaled.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFCZWluIFNwb3J0cyAxNzY5NjE0MzgxNjk4.txt",
+  "links": [
+    {
+      "name": "BEIN SPORTS ENG 1 - AQ",
+      "link": "https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+      "scheme": 0,
+      "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "tokenApi": ""
+    },
+    {
+      "name": "BEIN SPORTS ENG 2 - AQ",
+      "link": "https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "scheme": 0,
+      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "tokenApi": ""
+    },
+    {
+      "name": "BEIN SPORTS ENG 3 - AQ",
+      "link": "https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+      "scheme": 0,
+      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "tokenApi": ""
+    },
+    {
+      "name": "BEIN SPORTS EXTRA 1 - AQ",
+      "link": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Sports 1",
+      "link": "http://5.135.26.128/stream/bein/bein1/out/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Sports 2",
+      "link": "http://5.135.26.128/stream/bein/bein2/out/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD1",
+      "link": "http://135.125.109.73:9000/beinsport1_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD2",
+      "link": "http://135.125.109.73:9000/beinsport2_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD3",
+      "link": "http://135.125.109.73:9000/beinsport3_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD4",
+      "link": "http://135.125.109.73:9000/beinsport4_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD5",
+      "link": "http://135.125.109.73:9000/beinsport5_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD6",
+      "link": "http://135.125.109.73:9000/beinsport6_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD7",
+      "link": "http://135.125.109.73:9000/beinsport7_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD8",
+      "link": "http://135.125.109.73:9000/beinsport8_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD9",
+      "link": "http://135.125.109.73:9000/beinsport9_.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN Sports Extra ES",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/mbtl8gl54f/out/v1/9f14f14bcdd94fb09c3423ee95934fde/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "1d97e574dcb4c89efe95691d7b66b813:3b075e5293cfbead942e44105c86420c",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Max 1",
+      "link": "https://tmaxapp.site/beinmax1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Max 2",
+      "link": "https://tmaxapp.site/beinmax2.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Max 3",
+      "link": "https://tmaxapp.site/beinmax3.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Max 4",
+      "link": "https://tmaxapp.site/beinmax4.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Mix ENG",
+      "link": "https://tmaxapp.site/beinmax5eng.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Mix FR",
+      "link": "https://tmaxapp.site/beinmax6fr.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 1",
+      "link": "https://tmaxapp.site/beinarabic1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 2",
+      "link": "https://tmaxapp.site/beinarabic2.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 3",
+      "link": "https://tmaxapp.site/beinarabic3.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 4",
+      "link": "https://tmaxapp.site/beinarabic4.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 5",
+      "link": "https://tmaxapp.site/beinarabic5.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 6",
+      "link": "https://tmaxapp.site/beinarabic6.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 7",
+      "link": "https://tmaxapp.site/beinarabic7.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Arabic 8",
+      "link": "https://tmaxapp.site/beinarabic8.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

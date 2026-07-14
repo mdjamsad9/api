@@ -1,0 +1,12 @@
+{
+  "id": 60,
+  "table_name": "RklGQSBQTFVTMTc3OTA1MDQyMDcyMg",
+  "order_index": 50,
+  "cat": {
+    "visible": true,
+    "name": "FIFA PLUS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhokREPmu7NevdecCRJejEY1AOZZalcL-OOfxBTAw7dA&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/srhady/fifaplus/refs/heads/main/fifa_live.m3u"
+  }
+}

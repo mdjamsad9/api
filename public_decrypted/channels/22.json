@@ -1,0 +1,67 @@
+{
+  "id": 22,
+  "order_index": 21,
+  "name": "skysports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/sky-sports.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFza3lzcG9ydHMxNzY5NjE2Mjk4MjA0.txt",
+  "links": [
+    {
+      "name": "Sky sports Premier League",
+      "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd",
+      "scheme": 0,
+      "api": "ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sport Bundesliga 1 HD",
+      "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd",
+      "scheme": 0,
+      "api": "67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sports Top Event",
+      "link": "https://abe4mdzaaaaaaaamahgw2vnqzxmfy.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jglxtfgzxa/out/v1/28a70425aec84b55bb9d29ccd5d53f45/cenc.mpd",
+      "scheme": 0,
+      "api": "04e1aff27c2a13ad9aa9556501684743:2097e55038d3cee7d69e88f4069840d1",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sports MiX",
+      "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd",
+      "scheme": 0,
+      "api": "3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sports F1 DE",
+      "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mayn9zpunj/out/v1/5623834d108749bebb71979abdfe7dd8/cenc.mpd",
+      "scheme": 0,
+      "api": "62ac0f0c382a696058c8598821d6591d:75a5350cc5bc7eb38efeb694ec13e0a0",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sport Tennis",
+      "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n7k8iy6fcq/out/v1/b58874d47be74695806ce7b9e58fe48b/cenc.mpd",
+      "scheme": 0,
+      "api": "8a7c8437ab14cb75f8522fd0d4b7f2f8:dc9be1750410e91be85f96ef0efdacd7",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sports Golf",
+      "link": "https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ncmribkdc7/out/v1/49bc2ffb395b4212995f3ec7842f6099/cenc.mpd",
+      "scheme": 0,
+      "api": "837fef9bd326ba13bccd8f286f8cea33:6439272b47285a00b52920a99fcc8197",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky News",
+      "link": "https://abe4mdzaaaaaaaambme32mp6lzyxg.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/5gbgzzzjqy/out/v1/e0a9818842f6489796cfa6b05bc3d401/cenc.mpd",
+      "scheme": 0,
+      "api": "16d820d0e981b7f68da1956869cf479f:b152ccf580ce2e60576afc468693369c",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 19,
+  "order_index": 18,
+  "name": "tsn sports ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/tsn.jpg",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUF0c24gc3BvcnRzIDE3Njk2MTU5MDg5NTY.txt",
+  "links": [
+    {
+      "name": "TSN AQ1",
+      "link": "https://abkf7g7aaaaaaaamcmmhhhyli5fwh.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/out/v1/1caa3b2dfa9e448d8f61209bdfc1acdc/cenc.mpd",
+      "scheme": 0,
+      "api": "7e99f734748d098cbfa2f7bde968dd44:98ea6088c3222e9abaf61e537804d6cc",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN AQ2",
+      "link": "https://abm5x5xaaaaaaaampie4zrlukq55o.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/v5v9yfn62i/out/v1/0991e33d09da46b2857fcc845db95c40/cenc.mpd",
+      "scheme": 0,
+      "api": "362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN AQ3",
+      "link": "https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd",
+      "scheme": 0,
+      "api": "d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN AQ4",
+      "link": "https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd",
+      "scheme": 0,
+      "api": "e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN AQ5",
+      "link": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+      "scheme": 0,
+      "api": "8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e",
+      "tokenApi": ""
+    }
+  ]
+}

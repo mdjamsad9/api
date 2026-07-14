@@ -1,0 +1,32 @@
+{
+  "id": 15,
+  "order_index": 14,
+  "name": "criclife",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/images.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFjcmljbGlmZTE3Njk2MTU1ODA4NjQ.txt",
+  "links": [
+    {
+      "name": "CricLife 1 - IND IP",
+      "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd",
+      "scheme": 0,
+      "api": "1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricBuzz 1 - IND IP",
+      "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd",
+      "scheme": 0,
+      "api": "48bef83b4c6a3c5189b01b0126210da4:bd085230b7b09e50954fe0af111a8a9f",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricBuzz 2 - IND IP",
+      "link": "https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd",
+      "scheme": 0,
+      "api": "4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8",
+      "tokenApi": ""
+    }
+  ]
+}

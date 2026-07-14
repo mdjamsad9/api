@@ -1,0 +1,12 @@
+{
+  "id": 40,
+  "table_name": "WkFQIFNQT1JUUzE3Njk3MjM2NzQ1MjM",
+  "order_index": 44,
+  "cat": {
+    "visible": true,
+    "name": "ZAP SPORTS",
+    "logo": "https://i.ibb.co/dJfysm3V/zap-Sports.png",
+    "type": "m3u",
+    "api": "https://tv.noobon.top/zapx/api.php?action=getIPTVPlaylist"
+  }
+}

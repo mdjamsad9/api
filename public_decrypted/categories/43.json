@@ -1,0 +1,12 @@
+{
+  "id": 43,
+  "table_name": "REFOR0FMIFRWMTc2OTcyMzgyOTQyMQ",
+  "order_index": 47,
+  "cat": {
+    "visible": true,
+    "name": "DANGAL TV",
+    "logo": "https://assets-playztv.pages.dev/category/dangal.jpg",
+    "type": "m3u",
+    "api": "https://playlists-by-playztv.pages.dev/dangalp.m3u"
+  }
+}

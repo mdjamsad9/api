@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "order_index": 5,
+  "name": "astro cricket ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/ch674_425_305.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFhc3RybyBjcmlja2V0IDE3Njk2MTQ5Nzg2MjU.txt",
+  "links": [
+    {
+      "name": "ASTRO CRICKET",
+      "link": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

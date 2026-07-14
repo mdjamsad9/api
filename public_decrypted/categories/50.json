@@ -1,0 +1,12 @@
+{
+  "id": 50,
+  "table_name": "TXVzaWMgQ2hhbm5lbHMgMTc3NDc3MjQ0OTAyOA",
+  "order_index": 49,
+  "cat": {
+    "visible": true,
+    "name": "Music Channels ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Music_logo.png",
+    "type": "m3u",
+    "api": "https://wasitv-pro.site/sportz.php?token=1wzIrANIxEtHDHKdVw9yYSddXRs_wyxn3PzVQN_mnIF4&gid=748863831"
+  }
+}

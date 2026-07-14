@@ -1,0 +1,12 @@
+{
+  "id": 49,
+  "table_name": "SklPVFYrIFMzMTc2OTcyMzk5NjM2OQ",
+  "order_index": 5,
+  "cat": {
+    "visible": true,
+    "name": "JIOTV+ S3",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5KeAyYdOyxaCWDPbiUsJW7Oy4v_7uFqf06rIwGxaWc6nQuNVqZ2Q_Qej&s=10",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/Sflex0719/ZioGarmTara/main/ZioGarmTara.m3u"
+  }
+}

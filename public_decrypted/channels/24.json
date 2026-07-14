@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "order_index": 23,
+  "name": "nba",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/NBA.webp",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFuYmExNzY5NjE2NjU0MDE2.txt",
+  "links": [
+    {
+      "name": "NBA",
+      "link": "https://live-atv-cdn.izzigo.tv/2/out/u/dash/NBAHD/default.mpd",
+      "scheme": 0,
+      "api": "a5cd47bba986b233d3731297cb62fdf9:0d067e22a727ae9f264478f5c2ed903a",
+      "tokenApi": ""
+    }
+  ]
+}

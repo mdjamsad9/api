@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "table_name": "RGlzY292ZXJ5MTc2OTcyMDM1MzQyMw",
+  "order_index": 19,
+  "cat": {
+    "visible": true,
+    "name": "Discovery",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/discovery.jpg",
+    "type": "custom",
+    "api": "channels/RGlzY292ZXJ5MTc2OTcyMDM1MzQyMw.txt"
+  }
+}

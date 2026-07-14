@@ -1,0 +1,12 @@
+{
+  "id": 56,
+  "table_name": "UGlzaG93MTc3NjQxMjA1MDY2MQ",
+  "order_index": 12,
+  "cat": {
+    "visible": true,
+    "name": "Pishow",
+    "logo": "https://assets-playztv.pages.dev/category/pishow.jpg",
+    "type": "m3u",
+    "api": "https://playztv-ol-pl.deadxploit.workers.dev/?get-pl&id=pishowxc.m3u|user-agent=mozila"
+  }
+}

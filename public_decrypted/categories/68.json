@@ -1,0 +1,12 @@
+{
+  "id": 68,
+  "table_name": "U3BhaW4xNzgzMDAxMTgwNzE5",
+  "order_index": 54,
+  "cat": {
+    "visible": true,
+    "name": "Spain",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYrM14PRAzRE3BnpNsM6lYMl_rtf1MZfoL3B5y8U44EFAxofzUUVyzdA7yUHAP-gzMcKRPjn_0lfr0tMeXrIC0wsHaJhEhAIGJvJa4ClgRGxysoErmZxGDax9A91nTKVI_x9_GLCsKuxAM6ymVF0ZxAck5yjhP7Zk8fUg_D_fyZL-EkZcHTZEwgC2pQVw/s320/1000026181.png",
+    "type": "m3u",
+    "api": "https://dolanteram.xyz/playlist/global/app/playlist.m3u?id=cc62a9bdf96b"
+  }
+}

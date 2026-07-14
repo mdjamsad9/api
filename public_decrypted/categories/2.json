@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "table_name": "S29sa2F0YTE3Njk3MTk4MzMwODg",
+  "order_index": 17,
+  "cat": {
+    "visible": true,
+    "name": "Kolkata",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/kolkata-tv.png",
+    "type": "custom",
+    "api": "channels/S29sa2F0YTE3Njk3MTk4MzMwODg.txt"
+  }
+}

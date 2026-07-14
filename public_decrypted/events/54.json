@@ -1,0 +1,87 @@
+{
+  "id": 54,
+  "order_index": 3,
+  "eventDetails": {
+    "category": "Motorsport",
+    "eventName": "F1 | Monaco Grand Prix",
+    "eventLogo": "https://raw.githubusercontent.com/xmrt624/logo/refs/heads/main/f1.png"
+  },
+  "teamA": {
+    "name": "Formula 1",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg"
+  },
+  "teamB": {
+    "name": "Formula 1",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "17/07/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/RjEgfCBNb25hY28gR3JhbmQgUHJpeC1Gb3JtdWxhIDEtdnMtRm9ybXVsYSAxMTc4MDY0MzM5Mjk2OQ.txt",
+  "links": [
+    {
+      "name": "APPLE TV+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uivuundx0o/out/v1/847ce646e6b5442491682bbb6602be11/cenc.mpd",
+      "scheme": 0,
+      "api": "1fa42226476f1e88ee7a3430684e3ee4:95d04e9596bb63db9ee5ad6b25035786",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mfnptraqh/out/v1/05b575b744274766a37f6a6241aa0309/cenc.mpd",
+      "scheme": 0,
+      "api": "e7a2aaef0a290e8c7c6b60465e4c4ccf:19c6e9904c23e34d62d92d871d6b96b6",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "scheme": 0,
+      "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+      "tokenApi": ""
+    },
+    {
+      "name": "F1 HD",
+      "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "APPLE TV",
+      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/0fd4f8faa595ff8b72b4cf1aeaa818bb/index.m3u8?|referer=https://pushembdz.store/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy ES",
+      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/bbae016bb7b4268f9840a1811c507545/index.m3u8?|referer=https://pushembdz.store/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy ITALIA",
+      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/fbf28db395c645bb9a171ade16e90d36/index.m3u8?|referer=https://pushembdz.store/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy F1",
+      "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

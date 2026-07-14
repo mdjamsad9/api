@@ -1,0 +1,15 @@
+{
+  "id": 64,
+  "order_index": 63,
+  "name": "Test",
+  "logo": "a",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFUZXN0MTc4MTEyMjY0NzQ1OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "a"
+    }
+  ]
+}

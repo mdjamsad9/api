@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "order_index": 2,
+  "name": "Dazn",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/DAZN-Logo-scaled.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFEYXpuMTc2OTYxMDYyMDU2MQ.txt",
+  "links": [
+    {
+      "name": "DAZN Ringside",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qgrbp3lt5t/out/v1/499bd988c5bb4ef59694158fae8f1adb/cenc.mpd",
+      "scheme": 0,
+      "api": "351c4daf7fde6b3bc61b53b10c8dc852:3df8f866282135351e7ab1e428a382ff",
+      "tokenApi": ""
+    }
+  ]
+}

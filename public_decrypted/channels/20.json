@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "order_index": 19,
+  "name": "formula",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/formula.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFmb3JtdWxhMTc2OTYxNjA3MDU1OQ.txt",
+  "links": [
+    {
+      "name": "F1",
+      "link": "https://pepsi.abntv.live/hls/4spstream.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

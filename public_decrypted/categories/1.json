@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "table_name": "SW5kaWExNzY5NjIyNDI1NzM5",
+  "order_index": 16,
+  "cat": {
+    "visible": true,
+    "name": "India",
+    "logo": "https://apkfolder.io/wp-content/uploads/2026/01/India.webp",
+    "type": "custom",
+    "api": "channels/SW5kaWExNzY5NjIyNDI1NzM5.txt"
+  }
+}

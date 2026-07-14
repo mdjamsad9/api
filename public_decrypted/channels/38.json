@@ -1,0 +1,32 @@
+{
+  "id": 38,
+  "order_index": 37,
+  "name": "go3 sports ",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/Go33.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFnbzMgc3BvcnRzIDE3Njk2MTgxNTI2MTI.txt",
+  "links": [
+    {
+      "name": "GO3 SPORT 1 - AQ",
+      "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560502/index.mpd",
+      "scheme": 0,
+      "api": "f48a8131e05f4d6e84de19f086c781a6:fd28f2f966a906f4d4dcfd72ae90094e",
+      "tokenApi": ""
+    },
+    {
+      "name": "GO3 SPORT 2 - AQ",
+      "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560505/index.mpd",
+      "scheme": 0,
+      "api": "8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b",
+      "tokenApi": ""
+    },
+    {
+      "name": "GO3 OPEN - AQ",
+      "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+      "scheme": 0,
+      "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 395,
+  "order_index": 9,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "FIFA World Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
+  },
+  "teamA": {
+    "name": "England",
+    "logo": "https://img.sofascore.com/api/v1/team/4713/image"
+  },
+  "teamB": {
+    "name": "Argentina",
+    "logo": "https://img.sofascore.com/api/v1/team/4819/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "15/07/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RklGQSBXb3JsZCBDdXAtRW5nbGFuZC12cy1BcmdlbnRpbmExNzgzODcxMjk0NTQ2.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

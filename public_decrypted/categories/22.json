@@ -1,0 +1,12 @@
+{
+  "id": 22,
+  "table_name": "QUlSVEVMIElORDE3Njk3MjI3NjkwMDk",
+  "order_index": 33,
+  "cat": {
+    "visible": true,
+    "name": "AIRTEL IND",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7pkggfHJKj2R8O6ttuHxgv-vQVL03xUeAg&usqp=CAU",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/artl.m3u"
+  }
+}

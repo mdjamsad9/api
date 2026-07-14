@@ -1,0 +1,25 @@
+{
+  "id": 30,
+  "order_index": 29,
+  "name": "adsports",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/abu-dhabi.jpg",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFhZHNwb3J0czE3Njk2MTczMjYxNDM.txt",
+  "links": [
+    {
+      "name": "Premium 1 - AQ",
+      "link": "http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Premium 2 - AQ",
+      "link": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

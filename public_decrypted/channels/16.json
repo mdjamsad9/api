@@ -1,0 +1,25 @@
+{
+  "id": 16,
+  "order_index": 15,
+  "name": "espn",
+  "logo": "https://apkfolder.io/wp-content/uploads/2026/01/41lChb5QKL.png",
+  "visible": true,
+  "is_playlist": false,
+  "links_metadata_path": "pro/VTNCdmNuUnpJRWh2YldVZ1VISnZNVGMyT1RRME1UTTNPRFkwTUFlc3BuMTc2OTYxNTY1NTA4Mw.txt",
+  "links": [
+    {
+      "name": "ESPN SPORTS - AQ",
+      "link": "https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd",
+      "scheme": 0,
+      "api": "bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPN NL",
+      "link": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

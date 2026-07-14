@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "table_name": "U09OWUxJVjE3Njk3MjI1Njg2NjI",
+  "order_index": 27,
+  "cat": {
+    "visible": true,
+    "name": "SONYLIV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzscCrHEfnHNeZdMO3haF1XSVgjskN4TNv0g&usqp=CAU",
+    "type": "m3u",
+    "api": "https://ranapk-playlist.site/SONYBD.php"
+  }
+}

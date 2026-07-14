@@ -1,0 +1,12 @@
+{
+  "id": 33,
+  "table_name": "RElTSCBUVjE3Njk3MjMyNzUxMDI",
+  "order_index": 41,
+  "cat": {
+    "visible": true,
+    "name": "DISH TV",
+    "logo": "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/1/AmazonStores/A21TJRUUN4KGV/d5086253b614724be106c06be13f7d54.w600.h600._RO299,1",
+    "type": "m3u",
+    "api": "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/dishtv.m3u"
+  }
+}

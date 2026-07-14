@@ -1,0 +1,12 @@
+{
+  "id": 30,
+  "table_name": "V09STEQgVFYxNzY5NzIzMTUyOTk1",
+  "order_index": 38,
+  "cat": {
+    "visible": true,
+    "name": "WORLD TV",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8OiEwOT5UL5UttBZ5Tnhgsod8i2EQlfB97FFchdBOo8e_PfxvR8RJ68&s=10",
+    "type": "m3u",
+    "api": "https://ranapk.short.gy/WorldTV11.m3u"
+  }
+}
