@@ -1,40 +1,38 @@
-name: Fetch and Decrypt Live Cricfy Data
+name: Run Cricfy Feed Processor
 
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
-    # Allows manual trigger from GitHub UI
+    - cron: '*/5 * * * *'   # Runs every 5 minutes
+  workflow_dispatch:      # Allows manual trigger
 
 permissions:
   contents: write
 
 jobs:
-  update-data:
+  run-processor:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - name: Checkout Code
+      uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt
 
-      - name: Run decryption script
-        run: python fetch_fresh.py
+    - name: Run Decryption and Scraper
+      run: |
+        python fetch_and_decrypt.py
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add decrypted_output/
-          git commit -m "Automated update of decrypted files [skip ci]" || exit 0
-          git push
+    - name: Commit and Push Decrypted Files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add public_decrypted/
+        git commit -m "chore: update cricfy decrypted feeds [skip ci]" || exit 0
+        git push
