@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUVORy12cy1JTkQxNzg0MDUyODY0NTQ1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
+      "scheme": 0,
+      "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
+      "tokenApi": ""
+    },
+    {
+      "name": "CRICFY HD ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
+      "scheme": 0,
+      "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
+      "tokenApi": ""
     }
   ]
 }
