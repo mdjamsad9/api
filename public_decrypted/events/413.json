@@ -1,0 +1,31 @@
+{
+  "id": 413,
+  "order_index": 24,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Botafogo",
+    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+  },
+  "teamB": {
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "16/07/2026",
+  "time": "22:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Cb3RhZm9nby12cy1TYW50b3MxNzg0MjMyNzA3MjE1.txt",
+  "links": [
+    {
+      "name": "SportDigital Fussball",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+      "scheme": 0,
+      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "tokenApi": ""
+    }
+  ]
+}
