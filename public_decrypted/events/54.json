@@ -21,17 +21,17 @@
   "links_metadata_path": "pro/RjEgfCBNb25hY28gR3JhbmQgUHJpeC1Gb3JtdWxhIDEtdnMtRm9ybXVsYSAxMTc4MDY0MzM5Mjk2OQ.txt",
   "links": [
     {
-      "name": "APPLE TV+ - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uivuundx0o/out/v1/847ce646e6b5442491682bbb6602be11/cenc.mpd",
+      "name": "TSN SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "1fa42226476f1e88ee7a3430684e3ee4:95d04e9596bb63db9ee5ad6b25035786",
+      "api": "66e14add60c30be992503fa9a0ae5e20:8c736ae52ce3cab1e918d5f9e8ed6c62",
       "tokenApi": ""
     },
     {
       "name": "Cricfy Live ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mfnptraqh/out/v1/05b575b744274766a37f6a6241aa0309/cenc.mpd",
+      "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
       "scheme": 0,
-      "api": "e7a2aaef0a290e8c7c6b60465e4c4ccf:19c6e9904c23e34d62d92d871d6b96b6",
+      "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
       "tokenApi": ""
     },
     {
@@ -42,22 +42,43 @@
       "tokenApi": ""
     },
     {
-      "name": "TSN SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "SPORTSCAST ",
+      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b724e8b5-8392-413e-ad3f-c1f61f3f9238/master.m3u8",
       "scheme": 0,
-      "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "F1 GERMANY [USA]",
+      "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+      "scheme": 0,
+      "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
       "tokenApi": ""
     },
     {
       "name": "F1 HD",
-      "link": "https://chatgpt.hereisman.net/playlist/52517/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "link": "https://chatgpt.hereisman.net/playlist/52514/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "F1 RUSSIA ",
+      "link": "https://bl.rutube.ru/livestream/3bfd7e0551dfa83ac4a6c3a6803eff54/index.m3u8?s=wif44__Ptz-wqUEYdFRvbw&e=1784386868&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "DAZN ESPANOL",
+      "link": "https://g001.sadhoofiton.shop/out/v2/c216ca330f7030e8fa28442c968c946f/index.m3u8?|referer=https://pushembdz.store/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
       "name": "APPLE TV",
-      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/0fd4f8faa595ff8b72b4cf1aeaa818bb/index.m3u8?|referer=https://pushembdz.store/",
+      "link": "https://g001.sadhoofiton.shop/out/v2/4d292cde43eec080c14da5a832cdcec5/index.m3u8?|referer=https://pushembdz.store/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -81,6 +102,20 @@
       "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8",
       "scheme": 0,
       "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW RES",
+      "link": "https://g001.sadhoofiton.shop/out/v2/aae098d403afd7df073bbfb09885afdc/index.m3u8?|referer=https://pushembdz.store/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Tipik FRANCE",
+      "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+      "scheme": 0,
+      "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
       "tokenApi": ""
     }
   ]

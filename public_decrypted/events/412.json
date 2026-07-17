@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtSkstdnMtR0cxNzg0Mjc4ODE3MzM1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
+      "scheme": 0,
+      "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
+      "scheme": 0,
+      "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
+      "tokenApi": ""
     }
   ]
 }

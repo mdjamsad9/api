@@ -1,0 +1,28 @@
+{
+  "id": 429,
+  "order_index": 40,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "FIFA World Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16/image/dark"
+  },
+  "teamA": {
+    "name": "France",
+    "logo": "https://img.sofascore.com/api/v1/team/4481/image"
+  },
+  "teamB": {
+    "name": "England",
+    "logo": "https://img.sofascore.com/api/v1/team/4713/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "18/07/2026",
+  "time": "21:00:00",
+  "links_metadata_path": "pro/RklGQSBXb3JsZCBDdXAtRnJhbmNlLXZzLUVuZ2xhbmQxNzg0MzA1MTU0MzIx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
