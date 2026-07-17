@@ -2,23 +2,23 @@
   "id": 414,
   "order_index": 25,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Vitória",
-    "logo": "https://img.sofascore.com/api/v1/team/1962/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "Vasco",
-    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+    "name": "Marlins",
+    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/07/2026",
-  "time": "22:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1WaXTDs3JpYS12cy1WYXNjbzE3ODQyMzI3MDcyMTU.txt",
+  "date": "17/07/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtTWFybGluczE3ODQyNzg4Nzk3NzQ.txt",
   "links": [
     {
       "name": "Link 1",

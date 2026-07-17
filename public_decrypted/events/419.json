@@ -1,24 +1,24 @@
 {
-  "id": 413,
-  "order_index": 24,
+  "id": 419,
+  "order_index": 30,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "teamB": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Rays",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "visible": true,
   "priority": -1,
   "date": "17/07/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1XaGl0ZSBTb3gxNzg0Mjc4ODc5Nzc0.txt",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtUmF5czE3ODQyNzg4Nzk3NzQ.txt",
   "links": [
     {
       "name": "Link 1",

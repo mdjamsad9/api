@@ -2,30 +2,27 @@
   "id": 412,
   "order_index": 23,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
   },
   "teamA": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "JK",
+    "logo": "https://img.sofascore.com/api/v1/team/453388/image"
   },
   "teamB": {
-    "name": "Mets",
-    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+    "name": "GG",
+    "logo": "https://img.sofascore.com/api/v1/team/453389/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLU1ldHMxNzg0MjI2NDk5Mjk2.txt",
+  "date": "17/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtSkstdnMtR0cxNzg0Mjc4ODE3MzM1.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
