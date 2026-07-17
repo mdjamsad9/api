@@ -1,0 +1,31 @@
+{
+  "id": 435,
+  "order_index": 46,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "NBA Summer League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark"
+  },
+  "teamA": {
+    "name": "Knicks",
+    "logo": "https://img.sofascore.com/api/v1/team/3421/image"
+  },
+  "teamB": {
+    "name": "Mavericks",
+    "logo": "https://img.sofascore.com/api/v1/team/3411/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "18/07/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/TkJBIFN1bW1lciBMZWFndWUtS25pY2tzLXZzLU1hdmVyaWNrczE3ODQzMDk4NjQ0MTQ.txt",
+  "links": [
+    {
+      "name": "Cricfy Live ",
+      "link": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 431,
+  "order_index": 42,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Fluminense",
+    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+  },
+  "teamB": {
+    "name": "RB Bragantino",
+    "logo": "https://img.sofascore.com/api/v1/team/1999/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "17/07/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1GbHVtaW5lbnNlLXZzLVJCIEJyYWdhbnRpbm8xNzg0MzA5NTc2MzIx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

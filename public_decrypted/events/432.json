@@ -1,0 +1,31 @@
+{
+  "id": 432,
+  "order_index": 43,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+  },
+  "teamA": {
+    "name": "Sky",
+    "logo": "https://img.sofascore.com/api/v1/team/35546/image"
+  },
+  "teamB": {
+    "name": "Sparks",
+    "logo": "https://img.sofascore.com/api/v1/team/3447/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "17/07/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/V05CQS1Ta3ktdnMtU3BhcmtzMTc4NDMwOTg2NDQxNA.txt",
+  "links": [
+    {
+      "name": "Cricfy HD ",
+      "link": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1SYW5nZXJzMTc4NDI3ODg3OTc3NA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

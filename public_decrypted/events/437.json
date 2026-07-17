@@ -1,0 +1,38 @@
+{
+  "id": 437,
+  "order_index": 48,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+  },
+  "teamA": {
+    "name": "Tempo",
+    "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
+  },
+  "teamB": {
+    "name": "Dream",
+    "logo": "https://img.sofascore.com/api/v1/team/35545/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "17/07/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/V05CQS1UZW1wby12cy1EcmVhbTE3ODQzMDk4NjQ0MTQ.txt",
+  "links": [
+    {
+      "name": "TSN SPORTS ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 430,
+  "order_index": 41,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Bahia",
+    "logo": "https://img.sofascore.com/api/v1/team/1955/image"
+  },
+  "teamB": {
+    "name": "Chapecoense",
+    "logo": "https://img.sofascore.com/api/v1/team/21845/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "17/07/2026",
+  "time": "22:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1CYWhpYS12cy1DaGFwZWNvZW5zZTE3ODQzMDk1NzYzMjE.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
