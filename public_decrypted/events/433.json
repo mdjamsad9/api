@@ -2,30 +2,27 @@
   "id": 433,
   "order_index": 44,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "NBA Summer League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark"
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
   },
   "teamA": {
-    "name": "Heat",
-    "logo": "https://img.sofascore.com/api/v1/team/3435/image"
+    "name": "GG",
+    "logo": "https://img.sofascore.com/api/v1/team/453389/image"
   },
   "teamB": {
-    "name": "Pistons",
-    "logo": "https://img.sofascore.com/api/v1/team/3424/image"
+    "name": "CK",
+    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
   },
   "visible": true,
   "priority": -1,
   "date": "18/07/2026",
-  "time": "01:00:00",
-  "links_metadata_path": "pro/TkJBIFN1bW1lciBMZWFndWUtSGVhdC12cy1QaXN0b25zMTc4NDMwOTg2NDQxNA.txt",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtR0ctdnMtQ0sxNzg0MzY4MzkxMjc5.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

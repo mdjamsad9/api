@@ -2,27 +2,55 @@
   "id": 432,
   "order_index": 43,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "WNBA",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+    "category": "Cricket",
+    "eventName": "T20 Blast",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark"
   },
   "teamA": {
-    "name": "Sky",
-    "logo": "https://img.sofascore.com/api/v1/team/35546/image"
+    "name": "NOR",
+    "logo": "https://img.sofascore.com/api/v1/team/187831/image"
   },
   "teamB": {
-    "name": "Sparks",
-    "logo": "https://img.sofascore.com/api/v1/team/3447/image"
+    "name": "SOM",
+    "logo": "https://img.sofascore.com/api/v1/team/187832/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/07/2026",
-  "time": "23:30:00",
-  "links_metadata_path": "pro/V05CQS1Ta3ktdnMtU3BhcmtzMTc4NDMwOTg2NDQxNA.txt",
+  "date": "18/07/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/VDIwIEJsYXN0LU5PUi12cy1TT00xNzg0MzYzMjQ0NzI5.txt",
   "links": [
     {
-      "name": "Cricfy HD ",
-      "link": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
+      "scheme": 0,
+      "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy TV FHD",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8 |referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
+      "scheme": 0,
+      "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD STREAM ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

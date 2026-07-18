@@ -2,23 +2,23 @@
   "id": 430,
   "order_index": 41,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "category": "Cricket",
+    "eventName": "T20 Blast",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark"
   },
   "teamA": {
-    "name": "Bahia",
-    "logo": "https://img.sofascore.com/api/v1/team/1955/image"
+    "name": "HAM",
+    "logo": "https://img.sofascore.com/api/v1/team/187821/image"
   },
   "teamB": {
-    "name": "Chapecoense",
-    "logo": "https://img.sofascore.com/api/v1/team/21845/image"
+    "name": "NOT",
+    "logo": "https://img.sofascore.com/api/v1/team/187826/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/07/2026",
-  "time": "22:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1CYWhpYS12cy1DaGFwZWNvZW5zZTE3ODQzMDk1NzYzMjE.txt",
+  "date": "18/07/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/VDIwIEJsYXN0LUhBTS12cy1OT1QxNzg0MzYzMjQ0NzI5.txt",
   "links": [
     {
       "name": "Link 1",
