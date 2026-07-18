@@ -56,6 +56,20 @@
       "tokenApi": ""
     },
     {
+      "name": "FAST SERVER 2",
+      "link": "https://live2.streambylivepulse.com/live/channel17.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://soco.livebytexscorez.com/&Origin=https://soco.livebytexscorez.com&X-Requested-With=mark.via.gp",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8?sign=3ca5b8045da8cafa5c14c2eba8883970&t=1784386708|referer=https://www.thesports.today/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "TSN4 SPORTS - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
@@ -137,6 +151,13 @@
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
       "scheme": 0,
       "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN MAX HD",
+      "link": "https://wez.khaialogy.store/dream1.m3u8",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -240,6 +261,132 @@
     {
       "name": "ESPANOL SD",
       "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER [ENG]",
+      "link": "http://193.47.62.59/hls/XIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ENG SD SERVER",
+      "link": "http://193.47.62.51/hls/XIIIIF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER [SWE]",
+      "link": "http://193.47.62.59/hls/XIIIIFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPANOL SD",
+      "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Telemundo ES (USA)",
+      "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+      "scheme": 0,
+      "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+      "tokenApi": ""
+    },
+    {
+      "name": "FUSSBALL TV (GER)",
+      "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+      "scheme": 0,
+      "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+      "tokenApi": ""
+    },
+    {
+      "name": "ZDF (GERMAN IP)",
+      "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+      "scheme": 0,
+      "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+      "tokenApi": ""
+    },
+    {
+      "name": "ORF (GERMAN IP)",
+      "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+      "scheme": 0,
+      "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+      "tokenApi": ""
+    },
+    {
+      "name": "TELEMUNDO (USA)",
+      "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+      "scheme": 0,
+      "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN MAX HD",
+      "link": "https://wez.khaialogy.store/dream1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "BBC SPORTS SD",
+      "link": "http://193.47.62.43/hls/XIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TV4 SPORTS SD",
+      "link": "http://193.47.62.43/hls/XIIIIFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CCTV SPORTS HD",
+      "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN SPORTS FR",
+      "link": "http://193.47.62.51/hls/XIIIIF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD STREAM ENG",
+      "link": "http://193.47.62.55/hls/XIIII.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Sports 1",
+      "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ARABIC S2",
+      "link": "https://vototo2.xyz/fetch?u=aHR0cHM6Ly91c2hlci50dHZudy5uZXQvYXBpL2NoYW5uZWwvaGxzL21vbW9ub3NreTEyLm0zdTg_YWxsb3dfc291cmNlPXRydWUmZmFzdF9icmVhZD10cnVlJnA9ODU1NzgxJnBsYXllcl9iYWNrZW5kPW1lZGlhcGxheWVyJnNpZz00YTE0MDFiODkyZjA5YzFhOWJmOTNkZGNjZWI4NjM2ZmQwYzlkZDIwJnRva2VuPSU3QiUyMmFkYmxvY2slMjIlM0FmYWxzZSUyQyUyMmF1dGhvcml6YXRpb24lMjIlM0ElN0IlMjJmb3JiaWRkZW4lMjIlM0FmYWxzZSUyQyUyMnJlYXNvbiUyMiUzQSUyMiUyMiU3RCUyQyUyMmJsYWNrb3V0X2VuYWJsZWQlMjIlM0FmYWxzZSUyQyUyMmNoYW5uZWwlMjIlM0ElMjJtb21vbm9za3kxMiUyMiUyQyUyMmNoYW5uZWxfaWQlMjIlM0ExNTIwNDI0MTc3JTJDJTIyY2hhbnN1YiUyMiUzQSU3QiUyMnJlc3RyaWN0ZWRfYml0cmF0ZXMlMjIlM0ElNUIlNUQlMkMlMjJ2aWV3X3VudGlsJTIyJTNBMTkyNDkwNTYwMCU3RCUyQyUyMmNpX2diJTIyJTNBZmFsc2UlMkMlMjJnZW9ibG9ja19yZWFzb24lMjIlM0ElMjIlMjIlMkMlMjJkZXZpY2VfaWQlMjIlM0FudWxsJTJDJTIyZXhwaXJlcyUyMiUzQTE3ODQ0MDg1NTklMkMlMjJleHRlbmRlZF9oaXN0b3J5X2FsbG93ZWQlMjIlM0FmYWxzZSUyQyUyMmdhbWUlMjIlM0ElMjIlMjIlMkMlMjJoaWRlX2FkcyUyMiUzQWZhbHNlJTJDJTIyaHR0cHNfcmVxdWlyZWQlMjIlM0F0cnVlJTJDJTIybWF0dXJlJTIyJTNBZmFsc2UlMkMlMjJub3RpZmljYXRpb25faWQlMjIlM0FudWxsJTJDJTIycGFydG5lciUyMiUzQWZhbHNlJTJDJTIycGxhdGZvcm0lMjIlM0ElMjJ3ZWIlMjIlMkMlMjJwbGF5ZXJfdHlwZSUyMiUzQSUyMmVtYmVkJTIyJTJDJTIycHJpdmF0ZSUyMiUzQSU3QiUyMmFsbG93ZWRfdG9fdmlldyUyMiUzQXRydWUlN0QlMkMlMjJwcml2aWxlZ2VkJTIyJTNBZmFsc2UlMkMlMjJyb2xlJTIyJTNBJTIyJTIyJTJDJTIyc2VydmVyX2FkcyUyMiUzQXRydWUlMkMlMjJzaG93X2FkcyUyMiUzQXRydWUlMkMlMjJzdWJzY3JpYmVyJTIyJTNBZmFsc2UlMkMlMjJ0dXJibyUyMiUzQWZhbHNlJTJDJTIydXNlcl9pZCUyMiUzQW51bGwlMkMlMjJ1c2VyX2lwJTIyJTNBJTIyMTQ0Ljc2LjE5LjExNCUyMiUyQyUyMnZlcnNpb24lMjIlM0EzJTJDJTIybWF4aW11bV9yZXNvbHV0aW9uJTIyJTNBJTIyRlVMTF9IRCUyMiUyQyUyMm1heGltdW1fdmlkZW9fYml0cmF0ZV9rYnBzJTIyJTNBMTI1MDAlMkMlMjJtYXhpbXVtX3Jlc29sdXRpb25fcmVhc29ucyUyMiUzQSU3QiUyMlFVQURfSEQlMjIlM0ElNUIlMjJBVVRIWl9OT1RfTE9HR0VEX0lOJTIyJTVEJTJDJTIyVUxUUkFfSEQlMjIlM0ElNUIlMjJBVVRIWl9OT1RfTE9HR0VEX0lOJTIyJTVEJTdEJTJDJTIybWF4aW11bV92aWRlb19iaXRyYXRlX2ticHNfcmVhc29ucyUyMiUzQSU1QiUyMkFVVEhaX0RJU0FMTE9XRURfQklUUkFURSUyMiU1RCU3RA==",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ARABIC S3",
+      "link": "https://3.simokora.com/my-hls/0wo68p0w54v/source/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

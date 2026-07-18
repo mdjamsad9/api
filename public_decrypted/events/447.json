@@ -1,0 +1,59 @@
+{
+  "id": 447,
+  "order_index": 32,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Major League Cricket",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/20583/image/dark"
+  },
+  "teamA": {
+    "name": "LAKR",
+    "logo": "https://img.sofascore.com/api/v1/team/485011/image"
+  },
+  "teamB": {
+    "name": "WF",
+    "logo": "https://img.sofascore.com/api/v1/team/485015/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "18/07/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/TWFqb3IgTGVhZ3VlIENyaWNrZXQtTEFLUi12cy1XRjE3ODQ0MDY1NjMxODk.txt",
+  "links": [
+    {
+      "name": "Willow HD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy TV",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CRICFY HD ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HOTSTAR (IND)",
+      "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+      "scheme": 0,
+      "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+      "tokenApi": ""
+    }
+  ]
+}
