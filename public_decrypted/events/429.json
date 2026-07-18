@@ -1,6 +1,6 @@
 {
   "id": 429,
-  "order_index": 40,
+  "order_index": 0,
   "eventDetails": {
     "category": "Football",
     "eventName": "FIFA World Cup",
@@ -35,15 +35,43 @@
       "tokenApi": ""
     },
     {
-      "name": "FAST SERVER",
-      "link": "https://live2.streambylivepulse.com/live/channel17.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://soco.livebytexscorez.com/&Origin=https://soco.livebytexscorez.com&X-Requested-With=mark.via.gp",
+      "name": "TSN SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/53497/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
+      "name": "FAST SERVER",
+      "link": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "BBC SPORTS ",
+      "link": "https://chatgpt.hereisman.net/playlist/53498/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN4 SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+      "tokenApi": ""
+    },
+    {
       "name": "BIOSCOPE BD - AQ",
       "link": "https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36&Referer=https://ivy.bioscopelive.com/&x-authorization=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyNDU3OTI5MjUxNjY5OTc1MDQiLCJhdWQiOlsiMSJdLCJleHAiOjE4MTU1OTUyMTQsIm5iZiI6MTc4NDA1OTIxNCwiaWF0IjoxNzg0MDU5MjE0LCJqdGkiOiIzYWIyYjI0ZGM4YzQ3Y2E5NGJjNWJjYzFmYTI5ZmQxMzJkMzFmNDlkOTA2MThhZDQzYjlhY2M2Yzc5YzhjNmU0OTQwMTc0NDM2NTlhN2I1OCIsInNjb3BlcyI6WyJtYW5hZ2VfcHJvZmlsZXMiXSwicGlkIjoiMjQ1NzkyOTI1MTY2OTk3NTA1In0.l0Y331eK4wSxJU3VIR-zE_8vo2n9JsHrOgUKWZVpvsR2qh1EeJkDVPGeQm4CYvNid-OTz10JjtuqSm_2CTyvY8yKr5YOABo5l1g8HCYRdy6BC-0KNXP7dX160yYLMt8Pi5B0FY4TcC9Sz4A8iA3ppQ0no0NM8iJi6bPf4TVL07G875GXGxEVy5ySJdIFv6XhivNahT4e8T9x-mng3hlmxxKqWlv9YToV2RNkMsNgICwIyRIHTpY2B43KsiTjwh-o_Kyh7-cD2flbkPW8HQGpReigg277_5BVnEHQ8eZvkLTlCanoZklKH9sqGlKy8B5tmUYQuQ8ukC8OLr_Hbspn-SbOzg7MhnFIK94FyVAb9F77tfjvnq1PpHpxnB0TIa5AfruMHtRTueMBQPKNeYPUxtJoxIf9UrZYn1SAhN5ywMmQ1JYf-z5ZQB4UlQrxkSD0dskkXltTqElR7THV3GRhQfJmZTnZ3BGiSh8fESy4OuX-ly_OEQMVkkuHGwZWUn-nsrErV7JPYlSqiceilzRTSW6yJrwhITigxILd4KRPY4uXII-ASRnwDJtS_I-svbumnufZetHhG4q_TyWu1wnbo8m113i5k8Zhp8txNcMqbMitjSZRTfRzSCEgNZ9SiHQwYKJpvFUjnjUBycYzTvSK0UZpIJLcDHUNs43OI25QuJQ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TUDN HD",
+      "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -65,6 +93,13 @@
     {
       "name": "ISCREEN BD - AQ",
       "link": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|referer=https://iscreen.com.bd/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TELEMUNDO ",
+      "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -112,6 +147,13 @@
       "tokenApi": ""
     },
     {
+      "name": "CT SPORTS ",
+      "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+      "scheme": 0,
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
+    },
+    {
       "name": "TUDN MEXICO",
       "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
       "scheme": 0,
@@ -123,6 +165,83 @@
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
       "scheme": 0,
       "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD PK - AQ",
+      "link": "https://premierleageplnew2.akamaized.net/hls/live/2107109/Fifa2026/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "PZIRB - 4K",
+      "link": "https://live-aburayhan1101.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN ARABIC HD",
+      "link": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "BTV BD",
+      "link": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS ",
+      "link": "http://103.165.93.31:8095/tsports/video.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SOMOY TV HD",
+      "link": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TIPIK FR ",
+      "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+      "scheme": 0,
+      "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bein Sports 1",
+      "link": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "NPO1 DUTCH ",
+      "link": "https://npo-nl-ams-p23-am3.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODMxMDE0OTcsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiOWFiNGJiNiJ9.Mrnl7cHSAplbWGh_DtEC4Hd4FbgBXDyYCJGN9DdkgiA/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
+      "scheme": 0,
+      "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
+      "tokenApi": ""
+    },
+    {
+      "name": "M6 FRANCE (USA)",
+      "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N1/dash-short-hd.mpd",
+      "scheme": 0,
+      "api": "4a7997b47edc3124a6c51651fea26470:90154d0a7f4f5ba772911bb72c76c86e",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPANOL SD",
+      "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     }
   ]

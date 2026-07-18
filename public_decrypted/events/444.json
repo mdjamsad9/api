@@ -1,6 +1,6 @@
 {
   "id": 444,
-  "order_index": 55,
+  "order_index": 29,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/TUxCLUN1YnMtdnMtVHdpbnMxNzg0Mzg2Njk4MDU1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://chatgpt.hereisman.net/playlist/53477/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "MLB LIVE HD",
+      "link": "https://chatgpt.hereisman.net/playlist/53478/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD ",
+      "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
