@@ -2,30 +2,27 @@
   "id": 436,
   "order_index": 47,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "NBA Summer League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Clippers",
-    "logo": "https://img.sofascore.com/api/v1/team/3425/image"
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
   },
   "teamB": {
-    "name": "Timberwolves",
-    "logo": "https://img.sofascore.com/api/v1/team/3426/image"
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
   },
   "visible": true,
   "priority": -1,
   "date": "18/07/2026",
-  "time": "03:00:00",
-  "links_metadata_path": "pro/TkJBIFN1bW1lciBMZWFndWUtQ2xpcHBlcnMtdnMtVGltYmVyd29sdmVzMTc4NDMwOTg2NDQxNA.txt",
+  "time": "19:10:00",
+  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtUmVkczE3ODQzODY2OTgwNTU.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

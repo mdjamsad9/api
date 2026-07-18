@@ -2,27 +2,34 @@
   "id": 435,
   "order_index": 46,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "NBA Summer League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark"
+    "category": "Rugby",
+    "eventName": "Nations Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34478/image/dark"
   },
   "teamA": {
-    "name": "Knicks",
-    "logo": "https://img.sofascore.com/api/v1/team/3421/image"
+    "name": "South Africa",
+    "logo": "https://img.sofascore.com/api/v1/team/4231/image"
   },
   "teamB": {
-    "name": "Mavericks",
-    "logo": "https://img.sofascore.com/api/v1/team/3411/image"
+    "name": "Wales",
+    "logo": "https://img.sofascore.com/api/v1/team/7058/image"
   },
   "visible": true,
   "priority": -1,
   "date": "18/07/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/TkJBIFN1bW1lciBMZWFndWUtS25pY2tzLXZzLU1hdmVyaWNrczE3ODQzMDk4NjQ0MTQ.txt",
+  "time": "15:40:00",
+  "links_metadata_path": "pro/TmF0aW9ucyBDaGFtcGlvbnNoaXAtU291dGggQWZyaWNhLXZzLVdhbGVzMTc4NDM4NTg3ODcwMA.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "ITV SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

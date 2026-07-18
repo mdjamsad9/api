@@ -2,27 +2,41 @@
   "id": 434,
   "order_index": 45,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "NBA Summer League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Jazz",
-    "logo": "https://img.sofascore.com/api/v1/team/3434/image"
+    "name": "Man Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35/image"
   },
   "teamB": {
-    "name": "Trail Blazers",
-    "logo": "https://img.sofascore.com/api/v1/team/3414/image"
+    "name": "Wrexham",
+    "logo": "https://img.sofascore.com/api/v1/team/64/image"
   },
   "visible": true,
   "priority": -1,
   "date": "18/07/2026",
-  "time": "02:30:00",
-  "links_metadata_path": "pro/TkJBIFN1bW1lciBMZWFndWUtSmF6ei12cy1UcmFpbCBCbGF6ZXJzMTc4NDMwOTg2NDQxNA.txt",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gVXRkLXZzLVdyZXhoYW0xNzg0Mzg1ODQyNTE5.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "name": "CRICFy LIVE",
+      "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "MU TV",
+      "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER ",
+      "link": "http://193.47.62.42/hls/FNNNE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
