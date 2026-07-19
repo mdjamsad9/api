@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/VDIwIEludGVybmF0aW9uYWwtWklNLXZzLUJBTjE3ODQwNTI4OTE3NTU.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FANCODE - AQ",
+      "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+      "scheme": 0,
+      "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - LQ",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - BD",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - IN",
+      "link": "https://in-mc-pdlive.fancode.com/mumbai/143405_english_hls_17da386da48875_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

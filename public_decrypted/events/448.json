@@ -1,0 +1,28 @@
+{
+  "id": 448,
+  "order_index": 33,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+  },
+  "teamA": {
+    "name": "CK",
+    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
+  },
+  "teamB": {
+    "name": "KRL",
+    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "19/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtQ0stdnMtS1JMMTc4NDQ1MDQ4ODQ5Mg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
