@@ -1,0 +1,31 @@
+{
+  "id": 462,
+  "order_index": 32,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+  },
+  "teamB": {
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "19/07/2026",
+  "time": "20:10:00",
+  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLUdpYW50czE3ODQ0ODE2NDIxNDU.txt",
+  "links": [
+    {
+      "name": "Cricfy Live ",
+      "link": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

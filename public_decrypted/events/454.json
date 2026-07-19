@@ -1,0 +1,38 @@
+{
+  "id": 454,
+  "order_index": 24,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+  },
+  "teamB": {
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "19/07/2026",
+  "time": "17:35:00",
+  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1SYW5nZXJzMTc4NDQ4MTY0MjE0NQ.txt",
+  "links": [
+    {
+      "name": "Cricfy Live ",
+      "link": "https://chatgpt.hereisman.net/playlist/53545/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
