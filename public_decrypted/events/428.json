@@ -1,6 +1,6 @@
 {
   "id": 428,
-  "order_index": 16,
+  "order_index": 0,
   "eventDetails": {
     "category": "Football",
     "eventName": "FIFA World Cup",
@@ -15,14 +15,59 @@
     "logo": "https://img.sofascore.com/api/v1/team/4819/image"
   },
   "visible": true,
-  "priority": -1,
+  "priority": 1,
   "date": "19/07/2026",
   "time": "19:00:00",
   "links_metadata_path": "pro/RklGQSBXb3JsZCBDdXAtU3BhaW4tdnMtQXJnZW50aW5hMTc4NDMwNTE1NDMyMQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FOX ONE - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+      "tokenApi": ""
+    },
+    {
+      "name": "WC TV FHD",
+      "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+      "scheme": 0,
+      "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
+      "tokenApi": ""
+    },
+    {
+      "name": "ITV SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/53265/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TSN SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/53264/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TOFFEE LIVE",
+      "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1000.m3u8?hdntl=Expires=1783909257~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNGY5ODk5ZDQtZDQyNS00ZmVlLTg4ZjYtMjJjYTVkMDgyYjdkIn0~Signature=AWIR_5HkH7xxsF67loOLJx_cyw8VqA_DaMsuFaftoiWxwtV3LZ1gnwCGJYGkIkdyXqUgvbvgrTZkkXaGXUqTI-xCwmkF",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPX FHD LIVE",
+      "link": "https://stream.mux.com/021OlUfuGmqdUhz00L021SzSqC2Jpfs56e5.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwMjFPbFVmdUdtcWRVaHowMEwwMjFTelNxQzJKcGZzNTZlNSIsImV4cCI6MTc4Mzg3MTMzOCwia2lkIjoiYmxCQUs4ZEhDZmkyM3F2bGJWckNRaW9aYnNya1ZzNlAiLCJhdWQiOiJ2In0.UHC03YPm3SAgtgmirVdLeLA1Vn-lPfzjtuQ6B6lZH6tKz0LBJ9j99JZowceCwYxXguyjwdz3xcgx_4CF0XeWL6Jnrm8OfWbYL-W7LMz3wp4LpKGN64LT_Jkx1vlDQJRaKrMAmtWwMjSK_s_7wLC39UauGCbDg8tdLfaVl87qO4iMasjFmChuxS6naMapT8YzE1bGHxkOoImvoqzj6YHsZhVTeNZdprsC9hQd56EiZe3ZodAZu6_8R5MHS5-1-CKTRlSrDrvG-zy9U8z72cPwoaqnW2WpPE7gNxDImGsOGLCMOhu3HiXxhsComtbjrrSfnQE80vlSFjxAPivAJT9ZKw",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TELEMUNDO HD",
+      "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streame.center/&Origin=https://streame.center",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
