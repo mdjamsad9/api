@@ -1,37 +1,30 @@
 {
   "id": 412,
-  "order_index": 23,
+  "order_index": 16,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "JK",
-    "logo": "https://img.sofascore.com/api/v1/team/453388/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "teamB": {
-    "name": "GG",
-    "logo": "https://img.sofascore.com/api/v1/team/453389/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtSkstdnMtR0cxNzg0Mjc4ODE3MzM1.txt",
+  "date": "21/07/2026",
+  "time": "01:40:00",
+  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1BdGhsZXRpY3MxNzg0NTQ3NTE5MzAz.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
+      "name": "HD QUALITY",
+      "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
-      "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
-      "scheme": 0,
-      "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
+      "api": "",
       "tokenApi": ""
     }
   ]

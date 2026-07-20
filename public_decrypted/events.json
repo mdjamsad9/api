@@ -76,5 +76,53 @@
     "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Twenty20 International Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11222\\/image\\/dark\"},\"teamA\":{\"name\":\"SL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187806\\/image\"},\"teamB\":{\"name\":\"PAK-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187808\\/image\"},\"visible\":true,\"date\":\"31\\/07\\/2026\",\"time\":\"04:30:00\",\"links\":\"pro\\/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1TTC1XLXZzLVBBSy1XMTc4NDA1MzA0NTEzNA.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 15
+  },
+  {
+    "id": 412,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Diamondbacks\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3640\\/image\"},\"teamB\":{\"name\":\"Athletics\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3645\\/image\"},\"links\":\"pro\\/TUxCLURpYW1vbmRiYWNrcy12cy1BdGhsZXRpY3MxNzg0NTQ3NTE5MzAz.txt\",\"time\":\"01:40:00\",\"date\":\"21\\/07\\/2026\",\"end_time\":\"04:40:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/jzabfazkbf27.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 16
+  },
+  {
+    "id": 413,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Braves\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3656\\/image\"},\"teamB\":{\"name\":\"Padres\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3636\\/image\"},\"links\":\"pro\\/TUxCLUJyYXZlcy12cy1QYWRyZXMxNzg0NTQ3NTE5MzAz.txt\",\"time\":\"23:15:00\",\"date\":\"20\\/07\\/2026\",\"end_time\":\"02:15:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream1.pro\\/hls\\/jkzahzadach20.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 17
+  },
+  {
+    "id": 414,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Royals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3651\\/image\"},\"teamB\":{\"name\":\"Giants\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3634\\/image\"},\"links\":\"pro\\/TUxCLVJveWFscy12cy1HaWFudHMxNzg0NTQ3NTE5MzAz.txt\",\"time\":\"23:40:00\",\"date\":\"20\\/07\\/2026\",\"end_time\":\"02:40:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/ijfnakfidch22.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 18
+  },
+  {
+    "id": 415,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Angels\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5929\\/image\"},\"teamB\":{\"name\":\"Cardinals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3632\\/image\"},\"links\":\"pro\\/TUxCLUFuZ2Vscy12cy1DYXJkaW5hbHMxNzg0NTQ3NTE5MzAz.txt\",\"time\":\"02:10:00\",\"date\":\"21\\/07\\/2026\",\"end_time\":\"05:10:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/hfzljfahzcax29.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 19
+  },
+  {
+    "id": 416,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Phillies\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3635\\/image\"},\"teamB\":{\"name\":\"Dodgers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3638\\/image\"},\"links\":\"pro\\/TUxCLVBoaWxsaWVzLXZzLURvZGdlcnMxNzg0NTQ3NTE5MzAz.txt\",\"time\":\"23:10:00\",\"date\":\"20\\/07\\/2026\",\"end_time\":\"02:10:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/Czajafjihafch18.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 20
+  },
+  {
+    "id": 417,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Yankees\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3654\\/image\"},\"teamB\":{\"name\":\"Pirates\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3637\\/image\"},\"links\":\"pro\\/TUxCLVlhbmtlZXMtdnMtUGlyYXRlczE3ODQ1NDc1MTkzMDM.txt\",\"time\":\"23:05:00\",\"date\":\"20\\/07\\/2026\",\"end_time\":\"02:05:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 21
+  },
+  {
+    "id": 418,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Astros\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3655\\/image\"},\"teamB\":{\"name\":\"Marlins\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3639\\/image\"},\"links\":\"pro\\/TUxCLUFzdHJvcy12cy1NYXJsaW5zMTc4NDU0NzUxOTMwMw.txt\",\"time\":\"00:10:00\",\"date\":\"21\\/07\\/2026\",\"end_time\":\"03:10:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream1.pro\\/hls\\/kjhfzua25.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 22
+  },
+  {
+    "id": 419,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Brewers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3630\\/image\"},\"teamB\":{\"name\":\"Mets\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3629\\/image\"},\"links\":\"pro\\/TUxCLUJyZXdlcnMtdnMtTWV0czE3ODQ1NDc1MTkzMDM.txt\",\"time\":\"23:40:00\",\"date\":\"20\\/07\\/2026\",\"end_time\":\"02:40:00\",\"end_date\":\"21\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/ojzkajnach21.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=https:\\/\\/streame.center&Origin=https:\\/\\/streame.center\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 23
   }
 ]

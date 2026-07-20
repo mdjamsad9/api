@@ -1,28 +1,28 @@
 {
   "id": 419,
-  "order_index": 30,
+  "order_index": 23,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtUmF5czE3ODQyNzg4Nzk3NzQ.txt",
+  "date": "20/07/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtTWV0czE3ODQ1NDc1MTkzMDM.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "HD QUALITY",
+      "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

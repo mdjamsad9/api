@@ -1,49 +1,28 @@
 {
   "id": 417,
-  "order_index": 28,
+  "order_index": 21,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "teamB": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/07/2026",
-  "time": "17:35:00",
-  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtUmF5czE3ODQyNzg4Nzk3NzQ.txt",
+  "date": "20/07/2026",
+  "time": "23:05:00",
+  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtUGlyYXRlczE3ODQ1NDc1MTkzMDM.txt",
   "links": [
     {
-      "name": "Cricfy TV ",
-      "link": "https://chatgpt.hereisman.net/playlist/53418/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://instreams.live/live/MLB4/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB4&Origin=https://instream.click/jwp2-us.php?stream=MLB4",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.46/hls/nyyyq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
       "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
