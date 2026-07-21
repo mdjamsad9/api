@@ -1,38 +1,28 @@
 {
   "id": 431,
-  "order_index": 42,
+  "order_index": 35,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "KRL",
-    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
+    "name": "Pau",
+    "logo": "https://img.sofascore.com/api/v1/team/1685/image"
   },
   "teamB": {
-    "name": "DS",
-    "logo": "https://img.sofascore.com/api/v1/team/369189/image"
+    "name": "Espanyol",
+    "logo": "https://img.sofascore.com/api/v1/team/2814/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "18/07/2026",
-  "time": "09:30:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtS1JMLXZzLURTMTc4NDM2MzI0NDcyOQ.txt",
+  "date": "21/07/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QYXUtdnMtRXNwYW55b2wxNzg0NjE4MDA1MTU0.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
-      "scheme": 0,
-      "api": "75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd",
-      "scheme": 0,
-      "api": "75f854d2c277ce9e3735817f9c6c77ad:9c4f93decc3c9a4065e8f4e09a3adecc",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

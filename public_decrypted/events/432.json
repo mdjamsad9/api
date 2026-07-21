@@ -1,59 +1,28 @@
 {
   "id": 432,
-  "order_index": 43,
+  "order_index": 36,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "T20 Blast",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "NOR",
-    "logo": "https://img.sofascore.com/api/v1/team/187831/image"
+    "name": "Walsall",
+    "logo": "https://img.sofascore.com/api/v1/team/26/image"
   },
   "teamB": {
-    "name": "SOM",
-    "logo": "https://img.sofascore.com/api/v1/team/187832/image"
+    "name": "Aston Villa",
+    "logo": "https://img.sofascore.com/api/v1/team/40/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "18/07/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/VDIwIEJsYXN0LU5PUi12cy1TT00xNzg0MzYzMjQ0NzI5.txt",
+  "date": "21/07/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1XYWxzYWxsLXZzLUFzdG9uIFZpbGxhMTc4NDYxODAwNTE1NA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
-      "scheme": 0,
-      "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy TV FHD",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8 |referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
-      "scheme": 0,
-      "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD STREAM ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

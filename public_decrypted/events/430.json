@@ -1,59 +1,28 @@
 {
   "id": 430,
-  "order_index": 41,
+  "order_index": 34,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "T20 Blast",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark"
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "HAM",
-    "logo": "https://img.sofascore.com/api/v1/team/187821/image"
+    "name": "Atlético-MG",
+    "logo": "https://img.sofascore.com/api/v1/team/1977/image"
   },
   "teamB": {
-    "name": "NOT",
-    "logo": "https://img.sofascore.com/api/v1/team/187826/image"
+    "name": "Bahia",
+    "logo": "https://img.sofascore.com/api/v1/team/1955/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "18/07/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/VDIwIEJsYXN0LUhBTS12cy1OT1QxNzg0MzYzMjQ0NzI5.txt",
+  "date": "21/07/2026",
+  "time": "22:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1BdGzDqXRpY28tTUctdnMtQmFoaWExNzg0NjE4MDA1MTU0.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
-      "scheme": 0,
-      "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live FHD ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
-      "scheme": 0,
-      "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8 |referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET ",
-      "link": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

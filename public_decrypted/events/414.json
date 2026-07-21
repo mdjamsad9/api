@@ -2,30 +2,27 @@
   "id": 414,
   "order_index": 18,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "MIL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377200/image"
   },
   "teamB": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "SL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/07/2026",
-  "time": "23:40:00",
-  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1HaWFudHMxNzg0NTQ3NTE5MzAz.txt",
+  "date": "21/07/2026",
+  "time": "13:45:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTUlMLVctdnMtU0wtVzE3ODQ2MTc4NjY1OTQ.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Angels",
-    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
   },
   "teamB": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Nationals",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "02:10:00",
-  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1DYXJkaW5hbHMxNzg0NTQ3NTE5MzAz.txt",
+  "date": "22/07/2026",
+  "time": "00:40:00",
+  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtTmF0aW9uYWxzMTc4NDYxNzkxODA1OA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
