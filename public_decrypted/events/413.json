@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTUlMLXZzLVNMMTc4NDYxNzg2NjU5NA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd",
+      "scheme": 0,
+      "api": "247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567",
+      "tokenApi": ""
+    },
+    {
+      "name": "BBC SPORTS ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLVdJLXZzLU5aMTc4NDA1MjkxMTE0Ng.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ltqjjbxxce/out/v1/2fcb6f3d2a8c4bc1b56b0fa422d344ea/cenc.mpd",
+      "scheme": 0,
+      "api": "b2fa1d303823d920e4f25ba0de9834f5:74152f2556ea42c3ecad079190e85630",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "scheme": 0,
+      "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ltqjjbxxce/out/v1/2fcb6f3d2a8c4bc1b56b0fa422d344ea/cenc.mpd",
+      "scheme": 0,
+      "api": "b2fa1d303823d920e4f25ba0de9834f5:74152f2556ea42c3ecad079190e85630",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE SD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+      "tokenApi": ""
     }
   ]
 }
