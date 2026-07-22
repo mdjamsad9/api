@@ -2,30 +2,27 @@
   "id": 417,
   "order_index": 21,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
   },
   "teamA": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "DS",
+    "logo": "https://img.sofascore.com/api/v1/team/369189/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "GG",
+    "logo": "https://img.sofascore.com/api/v1/team/453389/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLURvZGdlcnMxNzg0NjE3OTE4MDU4.txt",
+  "date": "22/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtRFMtdnMtR0cxNzg0NzA3NzQ1NDQ3.txt",
   "links": [
     {
-      "name": "HD STREAM ",
-      "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

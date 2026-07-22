@@ -2,30 +2,27 @@
   "id": 421,
   "order_index": 25,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Lanka Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
   },
   "teamA": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "KRL",
+    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
   },
   "teamB": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "CK",
+    "logo": "https://img.sofascore.com/api/v1/team/453390/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "23:40:00",
-  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1HaWFudHMxNzg0NjE3OTE4MDU4.txt",
+  "date": "23/07/2026",
+  "time": "09:30:00",
+  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtS1JMLXZzLUNLMTc4NDcwNzc0NTQ0Nw.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,37 +2,27 @@
   "id": 413,
   "order_index": 17,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "MIL",
-    "logo": "https://img.sofascore.com/api/v1/team/377172/image"
+    "name": "FC Kharkiv",
+    "logo": "https://img.sofascore.com/api/v1/team/266889/image"
   },
   "teamB": {
-    "name": "SL",
-    "logo": "https://img.sofascore.com/api/v1/team/377178/image"
+    "name": "Schalke",
+    "logo": "https://img.sofascore.com/api/v1/team/2530/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTUlMLXZzLVNMMTc4NDYxNzg2NjU5NA.txt",
+  "date": "22/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GQyBLaGFya2l2LXZzLVNjaGFsa2UxNzg0NzA3Njg3ODMw.txt",
   "links": [
     {
-      "name": "WILLOW - AQ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3r3pos4qag/out/v1/491e4ff7bf7a4098b5481b2c590271e0/cenc.mpd",
-      "scheme": 0,
-      "api": "247001b170f0ef5b46c40276f6435a82:30a61d7051926d8b63ae81e8b1502567",
-      "tokenApi": ""
-    },
-    {
-      "name": "BBC SPORTS ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "id": 412,
   "order_index": 16,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "DS",
-    "logo": "https://img.sofascore.com/api/v1/team/369189/image"
+    "name": "Forest",
+    "logo": "https://img.sofascore.com/api/v1/team/14/image"
   },
   "teamB": {
-    "name": "KRL",
-    "logo": "https://img.sofascore.com/api/v1/team/369187/image"
+    "name": "Blackburn",
+    "logo": "https://img.sofascore.com/api/v1/team/46/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtRFMtdnMtS1JMMTc4NDYxNzg2NjU5NA.txt",
+  "date": "22/07/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Gb3Jlc3QtdnMtQmxhY2tidXJuMTc4NDcwNzY4NzgzMA.txt",
   "links": [
     {
       "name": "Link 1",

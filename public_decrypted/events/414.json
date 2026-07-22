@@ -2,51 +2,27 @@
   "id": 414,
   "order_index": 18,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "MIL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377200/image"
+    "name": "Tottenham",
+    "logo": "https://img.sofascore.com/api/v1/team/33/image"
   },
   "teamB": {
-    "name": "SL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+    "name": "MK Dons",
+    "logo": "https://img.sofascore.com/api/v1/team/4/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "13:45:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTUlMLVctdnMtU0wtVzE3ODQ2MTc4NjY1OTQ.txt",
+  "date": "22/07/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ub3R0ZW5oYW0tdnMtTUsgRG9uczE3ODQ3MDc2ODc4MzA.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd",
-      "scheme": 0,
-      "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy TV FHD",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd",
-      "scheme": 0,
-      "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
