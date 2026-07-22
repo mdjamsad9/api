@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
   },
   "teamB": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "Padres",
+    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "23:05:00",
-  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtUGlyYXRlczE3ODQ2MTc5MTgwNTg.txt",
+  "date": "22/07/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1QYWRyZXMxNzg0NzM0OTQyMTk0.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

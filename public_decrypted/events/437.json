@@ -1,31 +1,28 @@
 {
   "id": 437,
-  "order_index": 22,
+  "order_index": 41,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
   },
   "teamB": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "18/07/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1SYW5nZXJzMTc4NDM4NjY5ODA1NQ.txt",
+  "date": "23/07/2026",
+  "time": "00:10:00",
+  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtVGlnZXJzMTc4NDczNDk0MjE5NA.txt",
   "links": [
     {
-      "name": "HD SERVER ",
-      "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtRFMtdnMtR0cxNzg0NzA3NzQ1NDQ3.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kicvsservq/out/v1/9ef29c77083f4e1eb82913850f178564/cenc.mpd",
+      "scheme": 0,
+      "api": "492b0f8090fe97d3d8f1bb7615d8f985:c0e58c0d404e501063762e8472a5faac",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE ",
+      "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+      "scheme": 0,
+      "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kicvsservq/out/v1/9ef29c77083f4e1eb82913850f178564/cenc.mpd",
+      "scheme": 0,
+      "api": "492b0f8090fe97d3d8f1bb7615d8f985:c0e58c0d404e501063762e8472a5faac",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE SD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+      "scheme": 0,
+      "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (IND)",
+      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (BD)",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

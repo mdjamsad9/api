@@ -16,13 +16,20 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "23:40:00",
-  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtTWV0czE3ODQ2MTc5MTgwNTg.txt",
+  "date": "22/07/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtTWV0czE3ODQ3MzQ5NDIxOTQ.txt",
   "links": [
     {
+      "name": "Cricfy Live ",
+      "link": "https://instreams.live/live/MLB2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB2&Origin=https://instream.click/jwp2-us.php?stream=MLB2",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tU09CLVctdnMtV0VGLVcxNzg0NzA3NzQ1NDQ3.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "8787005b2c501603a117e26044f93e50:e57ce8dcc0158ef1002ab5bba0f25d14",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd",
+      "scheme": 0,
+      "api": "8787005b2c501603a117e26044f93e50:e57ce8dcc0158ef1002ab5bba0f25d14",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORT",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

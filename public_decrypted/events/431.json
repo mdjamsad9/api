@@ -2,23 +2,23 @@
   "id": 431,
   "order_index": 35,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Pau",
-    "logo": "https://img.sofascore.com/api/v1/team/1685/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "teamB": {
-    "name": "Espanyol",
-    "logo": "https://img.sofascore.com/api/v1/team/2814/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QYXUtdnMtRXNwYW55b2wxNzg0NjE4MDA1MTU0.txt",
+  "date": "22/07/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLURvZGdlcnMxNzg0NzM0OTQyMTk0.txt",
   "links": [
     {
       "name": "Link 1",

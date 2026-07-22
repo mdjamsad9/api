@@ -1,38 +1,28 @@
 {
   "id": 436,
-  "order_index": 21,
+  "order_index": 40,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "teamB": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "18/07/2026",
-  "time": "19:10:00",
-  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtUmVkczE3ODQzODY2OTgwNTU.txt",
+  "date": "22/07/2026",
+  "time": "20:07:00",
+  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1DYXJkaW5hbHMxNzg0NzM0OTQyMTk0.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/53473/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER ",
-      "link": "https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

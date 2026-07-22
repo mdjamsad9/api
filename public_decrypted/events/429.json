@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "teamB": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "Rays",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/07/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1Ud2luczE3ODQ2MTc5MTgwNTg.txt",
+  "date": "22/07/2026",
+  "time": "23:07:00",
+  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1SYXlzMTc4NDczNDk0MjE5NA.txt",
   "links": [
     {
-      "name": "HD SERVER ",
-      "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
