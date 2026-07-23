@@ -2,34 +2,41 @@
   "id": 431,
   "order_index": 35,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC CWC League 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
   },
   "teamA": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "NED",
+    "logo": "https://img.sofascore.com/api/v1/team/187840/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "NEP",
+    "logo": "https://img.sofascore.com/api/v1/team/187772/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "22/07/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLURvZGdlcnMxNzg0NzM0OTQyMTk0.txt",
+  "date": "23/07/2026",
+  "time": "09:00:00",
+  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1ORUQtdnMtTkVQMTc4NDc5NjA0OTgxOA.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://instreams.live/live/MLB8/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB8&Origin=https://instream.click/jwp2-us.php?stream=MLB8",
+      "name": "ICC TV - AQ",
+      "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825128~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=667d560ae33471b8b1896f1a4a685dc1f39586966624cc87fe905b1315de7658/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE - IN",
+      "link": "https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "name": "FANCODE - BD",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
