@@ -2,29 +2,36 @@
   "id": 432,
   "order_index": 36,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Live Events | Global Super League, T20",
+    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10"
   },
   "teamA": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Global Super League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10"
   },
   "teamB": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Global Super League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10"
   },
   "visible": true,
   "priority": -1,
-  "date": "22/07/2026",
-  "time": "19:40:00",
-  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1BdGhsZXRpY3MxNzg0NzM0OTQyMTk0.txt",
+  "date": "23/07/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBHbG9iYWwgU3VwZXIgTGVhZ3VlLCBUMjAtR2xvYmFsIFN1cGVyIExlYWd1ZS12cy1HbG9iYWwgU3VwZXIgTGVhZ3VlMTc4NDgxNDgyMTQyNQ.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd",
       "scheme": 0,
-      "api": "",
+      "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd",
+      "scheme": 0,
+      "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
       "tokenApi": ""
     }
   ]

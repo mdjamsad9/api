@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTE5TLVctdnMtTVNHLVcxNzg0NzA3NzQ1NDQ3.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd",
+      "scheme": 0,
+      "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd",
+      "scheme": 0,
+      "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
