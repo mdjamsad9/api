@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1EaWFtb25kYmFja3MxNzg0Nzk1NjkxMDAy.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "HD QUALITY",
+      "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://instreams.pro/live/MLB4/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB4&Origin=https://instream.click/jwp2-us.php?stream=MLB4",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
