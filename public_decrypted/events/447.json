@@ -1,38 +1,28 @@
 {
   "id": 447,
-  "order_index": 17,
+  "order_index": 51,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Lanka Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "DS",
-    "logo": "https://img.sofascore.com/api/v1/team/369189/image"
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
   },
   "teamB": {
-    "name": "JK",
-    "logo": "https://img.sofascore.com/api/v1/team/453388/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "19/07/2026",
-  "time": "09:30:00",
-  "links_metadata_path": "pro/TGFua2EgUHJlbWllciBMZWFndWUtRFMtdnMtSksxNzg0NDUwNDg4NDky.txt",
+  "date": "25/07/2026",
+  "time": "00:10:00",
+  "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLUF0aGxldGljczE3ODQ4Nzc3MDA5Njg.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
-      "scheme": 0,
-      "api": "287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd",
-      "scheme": 0,
-      "api": "287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

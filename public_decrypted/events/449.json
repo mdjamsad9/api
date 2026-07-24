@@ -1,31 +1,28 @@
 {
   "id": 449,
-  "order_index": 19,
+  "order_index": 53,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Brewers",
-    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "teamB": {
-    "name": "Marlins",
-    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "19/07/2026",
-  "time": "18:10:00",
-  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtTWFybGluczE3ODQ0ODE2NDIxNDU.txt",
+  "date": "24/07/2026",
+  "time": "22:45:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLVlhbmtlZXMxNzg0ODc3NzAwOTY4.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

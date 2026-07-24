@@ -2,23 +2,23 @@
   "id": 435,
   "order_index": 39,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Wolfsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2524/image"
   },
   "teamB": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Lyon",
+    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/07/2026",
-  "time": "00:05:00",
-  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtV2hpdGUgU294MTc4NDczNDk0MjE5NA.txt",
+  "date": "24/07/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Xb2xmc2J1cmctdnMtTHlvbjE3ODQ4Nzc2NDU5MDg.txt",
   "links": [
     {
       "name": "Link 1",

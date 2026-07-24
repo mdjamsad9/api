@@ -1,80 +1,28 @@
 {
   "id": 446,
-  "order_index": 16,
+  "order_index": 50,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "One Day International",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "ENG",
-    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "IND",
-    "logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "19/07/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUVORy12cy1JTkQxNzg0NDA2NTYzMTg5.txt",
+  "date": "24/07/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Sb3lhbHMxNzg0ODc3NzAwOTY4.txt",
   "links": [
     {
-      "name": "Cricfy FHD",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
-      "scheme": 0,
-      "api": "5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY CRICKET - AQ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
-      "scheme": 0,
-      "api": "5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER ",
-      "link": "http://193.47.62.41/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SONY TEN 1 - IN",
-      "link": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SONY TEN 3 - IN",
-      "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SONY TEN 4 - IN",
-      "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

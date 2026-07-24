@@ -1,38 +1,28 @@
 {
   "id": 455,
-  "order_index": 25,
+  "order_index": 59,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Marlins",
+    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
   },
   "teamB": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "Padres",
+    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "19/07/2026",
-  "time": "17:40:00",
-  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1QaXJhdGVzMTc4NDQ4MTY0MjE0NQ.txt",
+  "date": "24/07/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtUGFkcmVzMTc4NDg3NzcwMDk2OA.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/53548/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

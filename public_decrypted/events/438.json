@@ -1,31 +1,28 @@
 {
   "id": 438,
-  "order_index": 23,
+  "order_index": 42,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Rosenborg",
+    "logo": "https://img.sofascore.com/api/v1/team/1161/image"
   },
   "teamB": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Man Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "18/07/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtUmF5czE3ODQzODY2OTgwNTU.txt",
+  "date": "24/07/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Sb3NlbmJvcmctdnMtTWFuIFV0ZDE3ODQ4Nzc2NDU5MDg.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://edgestream1.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

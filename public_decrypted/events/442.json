@@ -1,31 +1,28 @@
 {
   "id": 442,
-  "order_index": 27,
+  "order_index": 46,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
   },
   "teamB": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "19/07/2026",
-  "time": "02:05:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1OYXRpb25hbHMxNzg0Mzg2Njk4MDU1.txt",
+  "date": "25/07/2026",
+  "time": "02:15:00",
+  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1BbmdlbHMxNzg0ODc3NzAwOTY3.txt",
   "links": [
     {
-      "name": "CRICFY LIVE ",
-      "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
