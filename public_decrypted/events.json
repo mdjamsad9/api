@@ -72,34 +72,16 @@
     "order_index": 37
   },
   {
-    "id": 435,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Wolfsburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2524\\/image\"},\"teamB\":{\"name\":\"Lyon\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1649\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Xb2xmc2J1cmctdnMtTHlvbjE3ODQ4Nzc2NDU5MDg.txt\",\"time\":\"12:00:00\",\"date\":\"24\\/07\\/2026\",\"end_time\":\"14:20:00\",\"end_date\":\"24\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY \"]}",
-    "links": "[{\"name\":\"LOW QUALITY \",\"link\":\"http:\\/\\/193.47.62.50\\/hls\\/RRRRA.m3u8|Referer=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 39
-  },
-  {
     "id": 436,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Royal Antwerp\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2889\\/image\"},\"teamB\":{\"name\":\"Olympiacos\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3245\\/image\"},\"visible\":true,\"date\":\"24\\/07\\/2026\",\"time\":\"17:00:00\",\"end_date\":\"24\\/07\\/2026\",\"end_time\":\"19:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Sb3lhbCBBbnR3ZXJwLXZzLU9seW1waWFjb3MxNzg0ODc3NjQ1OTA4.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 40
   },
   {
-    "id": 437,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Hilal\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21895\\/image\"},\"teamB\":{\"name\":\"Sundowns\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7665\\/image\"},\"visible\":true,\"date\":\"24\\/07\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"24\\/07\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1BbC1IaWxhbC12cy1TdW5kb3duczE3ODQ4Nzc2NDU5MDg.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 41
-  },
-  {
     "id": 438,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Rosenborg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1161\\/image\"},\"teamB\":{\"name\":\"Man Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/35\\/image\"},\"visible\":true,\"date\":\"24\\/07\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"24\\/07\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Sb3NlbmJvcmctdnMtTWFuIFV0ZDE3ODQ4Nzc2NDU5MDg.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Rosenborg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1161\\/image\"},\"teamB\":{\"name\":\"Man Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/35\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Sb3NlbmJvcmctdnMtTWFuIFV0ZDE3ODQ4Nzc2NDU5MDg.txt\",\"time\":\"16:00:00\",\"date\":\"24\\/07\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"24\\/07\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live \",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/pul-tenm.gkykp.com\\/live\\/sd-1-4529441.m3u8?txSecret=2709b5e704ff7ddea49a8dff6518aa8b&txTime=6A64D1C9\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.48\\/hls\\/kkkk.m3u8|User-Agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/134.0.0.0 Safari\\/537.36 Edg\\/134.0.0.0&Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 42
-  },
-  {
-    "id": 439,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Swansea\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/74\\/image\"},\"teamB\":{\"name\":\"Udinese\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2695\\/image\"},\"visible\":true,\"date\":\"24\\/07\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"24\\/07\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Td2Fuc2VhLXZzLVVkaW5lc2UxNzg0ODc3NjQ1OTA5.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 43
   },
   {
     "id": 440,
