@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Cb2NodW0tdnMtSGVydGhhMTc4NjA4NzIwMDUxMQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://xzbonlinepull.52kq.top/live/sd-1-4566178.m3u8?txSecret=508b18e9909cc17c0a07788e801c9379&txTime=6a762cd1|Referer=https://zhiboapi1001.bszb.me/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.193/hls/AYYYDDDA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
