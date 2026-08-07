@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GdWxoYW0tdnMtQ3J5c3RhbCBQYWxhY2UxNzg2MDg3MjAwNTEx.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://chatgpt.hereisman.net/playlist/54297/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

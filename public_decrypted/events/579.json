@@ -22,9 +22,9 @@
   "links": [
     {
       "name": "WILLOW - AQ ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "56f46d806961b2b8b30d208b713c5061:dc474a96d57b2d143f477b4d5ade9ef0",
+      "api": "5d528100f5052c5bbe18503ccf5dc845:ee73d720083412797646f90c64f10060",
       "tokenApi": ""
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd",
       "scheme": 0,
       "api": "56f46d806961b2b8b30d208b713c5061:dc474a96d57b2d143f477b4d5ade9ef0",
       "tokenApi": ""
@@ -57,7 +57,7 @@
     },
     {
       "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/BBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "link": "http://193.47.62.190/hls/EPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
