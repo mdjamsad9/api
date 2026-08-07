@@ -1,0 +1,28 @@
+{
+  "id": 623,
+  "order_index": 227,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+  },
+  "teamA": {
+    "name": "Vietnam",
+    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
+  },
+  "teamB": {
+    "name": "Cambodia",
+    "logo": "https://img.sofascore.com/api/v1/team/7929/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVZpZXRuYW0tdnMtQ2FtYm9kaWExNzg2MDk0MDE2OTQx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

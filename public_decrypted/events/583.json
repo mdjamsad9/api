@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TlJMLVN5ZG5leS12cy1DYW50ZXJidXJ5MTc4NjA4NjY1NDU3OQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FOX LEAGUE ",
+      "link": "https://messi.damitv.st/papi/tv/dlhd/820/playlist.m3u8?|Referer=https://ondemand.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.190/hls/bsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
