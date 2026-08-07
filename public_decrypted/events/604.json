@@ -1,0 +1,28 @@
+{
+  "id": 604,
+  "order_index": 208,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
+  },
+  "teamB": {
+    "name": "Wrexham",
+    "logo": "https://img.sofascore.com/api/v1/team/64/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1NaWRkbGVzYnJvdWdoLXZzLVdyZXhoYW0xNzg2MDg3NDc0MzYw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

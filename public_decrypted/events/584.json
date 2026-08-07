@@ -1,0 +1,38 @@
+{
+  "id": 584,
+  "order_index": 188,
+  "eventDetails": {
+    "category": "Rugby",
+    "eventName": "NRL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+  },
+  "teamA": {
+    "name": "New Zealand",
+    "logo": "https://img.sofascore.com/api/v1/team/4267/image"
+  },
+  "teamB": {
+    "name": "Penrith",
+    "logo": "https://img.sofascore.com/api/v1/team/4262/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "08:00:00",
+  "links_metadata_path": "pro/TlJMLU5ldyBaZWFsYW5kLXZzLVBlbnJpdGgxNzg2MDg2NjU0NTc5.txt",
+  "links": [
+    {
+      "name": "Fox",
+      "link": "https://messi.damitv.st/papi/tv/dlhd/820/playlist.m3u8?|Referer=https://ondemand.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://embedindia.st/embed/nrl/2026-08-07/new-pen",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

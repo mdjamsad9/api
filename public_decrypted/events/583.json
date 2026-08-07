@@ -1,0 +1,28 @@
+{
+  "id": 583,
+  "order_index": 187,
+  "eventDetails": {
+    "category": "Rugby",
+    "eventName": "NRL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+  },
+  "teamA": {
+    "name": "Sydney",
+    "logo": "https://img.sofascore.com/api/v1/team/4264/image"
+  },
+  "teamB": {
+    "name": "Canterbury",
+    "logo": "https://img.sofascore.com/api/v1/team/4253/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/TlJMLVN5ZG5leS12cy1DYW50ZXJidXJ5MTc4NjA4NjY1NDU3OQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 594,
+  "order_index": 198,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Hoffenheim",
+    "logo": "https://img.sofascore.com/api/v1/team/2569/image"
+  },
+  "teamB": {
+    "name": "M'gladbach",
+    "logo": "https://img.sofascore.com/api/v1/team/2527/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Ib2ZmZW5oZWltLXZzLU0nZ2xhZGJhY2gxNzg2MDg3MjAwNTEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

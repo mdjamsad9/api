@@ -1,0 +1,28 @@
+{
+  "id": 622,
+  "order_index": 226,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+  },
+  "teamB": {
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLUJsdWUgSmF5czE3ODYwODc1NDY1MTc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

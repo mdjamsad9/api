@@ -1,0 +1,28 @@
+{
+  "id": 592,
+  "order_index": 196,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Verona",
+    "logo": "https://img.sofascore.com/api/v1/team/2701/image"
+  },
+  "teamB": {
+    "name": "Cremonese",
+    "logo": "https://img.sofascore.com/api/v1/team/2761/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1WZXJvbmEtdnMtQ3JlbW9uZXNlMTc4NjA4NzIwMDUxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

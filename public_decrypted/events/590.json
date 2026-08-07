@@ -1,0 +1,28 @@
+{
+  "id": 590,
+  "order_index": 194,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Bochum",
+    "logo": "https://img.sofascore.com/api/v1/team/2542/image"
+  },
+  "teamB": {
+    "name": "Hertha",
+    "logo": "https://img.sofascore.com/api/v1/team/2528/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Cb2NodW0tdnMtSGVydGhhMTc4NjA4NzIwMDUxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

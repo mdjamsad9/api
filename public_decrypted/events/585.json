@@ -1,0 +1,30 @@
+{
+  "id": 585,
+  "order_index": 189,
+  "eventDetails": {
+    "category": "Boxing",
+    "eventName": "Friday Fights",
+    "eventLogo": "https://iili.io/FDjaT1R.md.png"
+  },
+  "teamA": {
+    "name": "Friday Fights",
+    "logo": "https://iili.io/FDjaT1R.md.png"
+  },
+  "teamB": {
+    "name": "Friday Fights",
+    "logo": "https://iili.io/FDjaT1R.md.png"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/RnJpZGF5IEZpZ2h0cy1GcmlkYXkgRmlnaHRzLXZzLUZyaWRheSBGaWdodHMxNzg2MDg2NzcwMDc0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+      "scheme": 0
+    }
+  ]
+}

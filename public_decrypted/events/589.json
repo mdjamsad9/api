@@ -1,0 +1,28 @@
+{
+  "id": 589,
+  "order_index": 193,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "R. Racing Club",
+    "logo": "https://img.sofascore.com/api/v1/team/2835/image"
+  },
+  "teamB": {
+    "name": "Alavés",
+    "logo": "https://img.sofascore.com/api/v1/team/2885/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "07/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SLiBSYWNpbmcgQ2x1Yi12cy1BbGF2w6lzMTc4NjA4NzIwMDUxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
