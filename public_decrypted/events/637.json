@@ -26,6 +26,41 @@
       "scheme": 0,
       "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
       "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS HD",
+      "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FHD SERVER",
+      "link": "https://tedesco.paradilux.store/cbssn.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SportTV HD [PT]",
+      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SportyNET HD",
+      "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://live2.jxa76.com/live/sd-6MwdLFVM7Qf8CkzCC3_540p.m3u8?txSecret=4ddc2063cd8a7484ea6f6998dd5a877b&txTime=19FE28B4C05",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
