@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/RUZMIEN1cC1Td2Fuc2VhLXZzLUJpcm1pbmdoYW0xNzg2MTc1NzAzNjY0.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SD SERVER",
+      "link": "http://193.47.62.191/hls/tpppa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy tv",
+      "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/swa-bir",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

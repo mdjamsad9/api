@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/RUZMIEN1cC1EZXJieS12cy1MaW5jb2xuMTc4NjE3NTcwMzY2NA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SD SERVER",
+      "link": "http://193.47.62.193/hls/SIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD ",
+      "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/der-lcn",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
