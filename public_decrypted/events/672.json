@@ -1,0 +1,31 @@
+{
+  "id": 672,
+  "order_index": 276,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Wolfsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2524/image"
+  },
+  "teamB": {
+    "name": "Kaiserslautern",
+    "logo": "https://img.sofascore.com/api/v1/team/2675/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Xb2xmc2J1cmctdnMtS2Fpc2Vyc2xhdXRlcm4xNzg2MjEzNjM2NjE5.txt",
+  "links": [
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.192/hls/EIIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 669,
+  "order_index": 273,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Valencia",
+    "logo": "https://img.sofascore.com/api/v1/team/2828/image"
+  },
+  "teamB": {
+    "name": "Newcastle",
+    "logo": "https://img.sofascore.com/api/v1/team/39/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1WYWxlbmNpYS12cy1OZXdjYXN0bGUxNzg2MjEzNTQyMDkz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

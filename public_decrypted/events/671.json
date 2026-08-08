@@ -1,0 +1,28 @@
+{
+  "id": 671,
+  "order_index": 275,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Grêmio",
+    "logo": "https://img.sofascore.com/api/v1/team/5926/image"
+  },
+  "teamB": {
+    "name": "São Paulo",
+    "logo": "https://img.sofascore.com/api/v1/team/1981/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1HcsOqbWlvLXZzLVPDo28gUGF1bG8xNzg2MjEzNTQyMDkz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
