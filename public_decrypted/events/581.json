@@ -22,9 +22,9 @@
   "links": [
     {
       "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zzewbuyorn/out/v1/6623baa5e7b94c128546859053548286/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd",
       "scheme": 0,
-      "api": "e6fdff00ac32feebe95be4085720db04:413de7de4ed7ea75215e0fcdf38fb811",
+      "api": "fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d",
       "tokenApi": ""
     },
     {
@@ -36,9 +36,9 @@
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zzewbuyorn/out/v1/6623baa5e7b94c128546859053548286/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd",
       "scheme": 0,
-      "api": "e6fdff00ac32feebe95be4085720db04:413de7de4ed7ea75215e0fcdf38fb811",
+      "api": "fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d",
       "tokenApi": ""
     },
     {

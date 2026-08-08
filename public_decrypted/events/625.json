@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TlJMLVNvdXRoIFN5ZG5leS12cy1QYXJyYW1hdHRhMTc4NjE3NTQ5ODAyNg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SKY SPORT ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORTS ",
+      "link": "https://messi.damitv.st/papi/tv/dlhd/589/playlist.m3u8?|Referer=https://ondemand.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
