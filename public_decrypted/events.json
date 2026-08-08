@@ -298,5 +298,41 @@
     "event": "{\"eventDetails\":{\"category\":\"AFL\",\"eventName\":\"AFL\",\"eventLogo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/unique-tournament\\/656\\/image\"},\"teamA\":{\"name\":\"Adelaide Crows\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4442\\/image\"},\"teamB\":{\"name\":\"Richmond Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4442\\/image\"},\"visible\":true,\"priority\":-1,\"date\":\"08\\/08\\/2026\",\"time\":\"09:35:00\",\"links\":\"pro\\/QUZMLUFkZWxhaWRlIENyb3dzLXZzLVJpY2htb25kIFRpZ2VyczE3ODYxNzYzOTU3MjY.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"a\"}]",
     "order_index": 266
+  },
+  {
+    "id": 663,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"SL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377206\\/image\"},\"teamB\":{\"name\":\"WEF-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377207\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"10:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tU0wtVy12cy1XRUYtVzE3ODYxNzY1NTcwNjE.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 267
+  },
+  {
+    "id": 664,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"LNS-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377203\\/image\"},\"teamB\":{\"name\":\"BPH-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377202\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"13:30:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tTE5TLVctdnMtQlBILVcxNzg2MTc2NTU3MDYx.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 268
+  },
+  {
+    "id": 665,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"SOB\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377177\\/image\"},\"teamB\":{\"name\":\"MSG\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377173\\/image\"},\"visible\":true,\"date\":\"08\\/08\\/2026\",\"time\":\"17:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQtU09CLXZzLU1TRzE3ODYxNzY1NTcwNjE.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 269
+  },
+  {
+    "id": 666,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Lanka Premier League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16365\\/image\\/dark\"},\"teamA\":{\"name\":\"JK\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/453388\\/image\"},\"teamB\":{\"name\":\"GG\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/453389\\/image\"},\"visible\":true,\"date\":\"08\\/08\\/2026\",\"time\":\"14:00:00\",\"links\":\"pro\\/TGFua2EgUHJlbWllciBMZWFndWUtSkstdnMtR0cxNzg2MTc2NTU3MDYx.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 270
+  },
+  {
+    "id": 667,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"SL\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377178\\/image\"},\"teamB\":{\"name\":\"WEF\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377179\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"13:30:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQtU0wtdnMtV0VGMTc4NjE3NjU1NzA2MQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 271
+  },
+  {
+    "id": 668,
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"LNS\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377175\\/image\"},\"teamB\":{\"name\":\"BPH\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377174\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"17:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQtTE5TLXZzLUJQSDE3ODYxNzY1NTcwNjE.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 272
   }
 ]
