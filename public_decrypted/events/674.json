@@ -1,0 +1,31 @@
+{
+  "id": 674,
+  "order_index": 278,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Remo",
+    "logo": "https://img.sofascore.com/api/v1/team/2012/image"
+  },
+  "teamB": {
+    "name": "Atlético-MG",
+    "logo": "https://img.sofascore.com/api/v1/team/1977/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1SZW1vLXZzLUF0bMOpdGljby1NRzE3ODYyMjQwMDY4Nzc.txt",
+  "links": [
+    {
+      "name": "PREMIERE BR - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "tokenApi": ""
+    }
+  ]
+}
