@@ -22,7 +22,24 @@
   "links": [
     {
       "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/54353/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/&Origin=https://gooz.aapmains.net/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD ",
+      "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "MLB LIVE [FHD]",
+      "link": "https://embedindia.st/embed/mlb/2026-08-08/atl-nyy",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
