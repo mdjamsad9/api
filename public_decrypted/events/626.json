@@ -1,0 +1,28 @@
+{
+  "id": 626,
+  "order_index": 230,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Juventus",
+    "logo": "https://img.sofascore.com/api/v1/team/2687/image"
+  },
+  "teamB": {
+    "name": "Inter",
+    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1KdXZlbnR1cy12cy1JbnRlcjE3ODYxNzU3MDM2NjQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 640,
+  "order_index": 244,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "PSG",
+    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
+  },
+  "teamB": {
+    "name": "Man Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QU0ctdnMtTWFuIFV0ZDE3ODYxNzU3MDM2NjU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

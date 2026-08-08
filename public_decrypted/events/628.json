@@ -1,0 +1,28 @@
+{
+  "id": 628,
+  "order_index": 232,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Swansea",
+    "logo": "https://img.sofascore.com/api/v1/team/74/image"
+  },
+  "teamB": {
+    "name": "Birmingham",
+    "logo": "https://img.sofascore.com/api/v1/team/9/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1Td2Fuc2VhLXZzLUJpcm1pbmdoYW0xNzg2MTc1NzAzNjY0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

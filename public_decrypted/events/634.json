@@ -1,0 +1,28 @@
+{
+  "id": 634,
+  "order_index": 238,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Stuttgart",
+    "logo": "https://img.sofascore.com/api/v1/team/2677/image"
+  },
+  "teamB": {
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdHV0dGdhcnQtdnMtRXZlcnRvbjE3ODYxNzU3MDM2NjU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

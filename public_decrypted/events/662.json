@@ -1,0 +1,28 @@
+{
+  "id": 662,
+  "order_index": 266,
+  "eventDetails": {
+    "category": "AFL",
+    "eventName": "AFL",
+    "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/656/image"
+  },
+  "teamA": {
+    "name": "Adelaide Crows",
+    "logo": "https://img.sofascore.com/api/v1/team/4442/image"
+  },
+  "teamB": {
+    "name": "Richmond Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/4442/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "09:35:00",
+  "links_metadata_path": "pro/QUZMLUFkZWxhaWRlIENyb3dzLXZzLVJpY2htb25kIFRpZ2VyczE3ODYxNzYzOTU3MjY.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "a"
+    }
+  ]
+}

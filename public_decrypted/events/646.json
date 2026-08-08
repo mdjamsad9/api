@@ -1,0 +1,28 @@
+{
+  "id": 646,
+  "order_index": 250,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Colchester",
+    "logo": "https://img.sofascore.com/api/v1/team/66/image"
+  },
+  "teamB": {
+    "name": "Southampton",
+    "logo": "https://img.sofascore.com/api/v1/team/45/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1Db2xjaGVzdGVyLXZzLVNvdXRoYW1wdG9uMTc4NjE3NTc5NTAwOQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

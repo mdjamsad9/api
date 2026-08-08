@@ -1,0 +1,28 @@
+{
+  "id": 643,
+  "order_index": 247,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+  },
+  "teamB": {
+    "name": "Bournemouth",
+    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SZWFsIEJldGlzLXZzLUJvdXJuZW1vdXRoMTc4NjE3NTc5NTAwOQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 639,
+  "order_index": 243,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Leicester",
+    "logo": "https://img.sofascore.com/api/v1/team/31/image"
+  },
+  "teamB": {
+    "name": "Northampton",
+    "logo": "https://img.sofascore.com/api/v1/team/57/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1MZWljZXN0ZXItdnMtTm9ydGhhbXB0b24xNzg2MTc1NzAzNjY1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

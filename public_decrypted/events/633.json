@@ -1,0 +1,28 @@
+{
+  "id": 633,
+  "order_index": 237,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+  },
+  "teamB": {
+    "name": "Notts County",
+    "logo": "https://img.sofascore.com/api/v1/team/56/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1CdXJubGV5LXZzLU5vdHRzIENvdW50eTE3ODYxNzU3MDM2NjU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

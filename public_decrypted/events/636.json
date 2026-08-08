@@ -1,0 +1,28 @@
+{
+  "id": 636,
+  "order_index": 240,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Köln",
+    "logo": "https://img.sofascore.com/api/v1/team/2671/image"
+  },
+  "teamB": {
+    "name": "Real Sociedad",
+    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Lw7Zsbi12cy1SZWFsIFNvY2llZGFkMTc4NjE3NTcwMzY2NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

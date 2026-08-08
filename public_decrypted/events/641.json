@@ -1,0 +1,28 @@
+{
+  "id": 641,
+  "order_index": 245,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Brighton",
+    "logo": "https://img.sofascore.com/api/v1/team/30/image"
+  },
+  "teamB": {
+    "name": "Roma",
+    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CcmlnaHRvbi12cy1Sb21hMTc4NjE3NTcwMzY2NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

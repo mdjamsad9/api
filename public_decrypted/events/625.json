@@ -2,30 +2,27 @@
   "id": 625,
   "order_index": 229,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "category": "Rugby",
+    "eventName": "NRL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
   },
   "teamA": {
-    "name": "Singapore",
-    "logo": "https://img.sofascore.com/api/v1/team/4738/image"
+    "name": "South Sydney",
+    "logo": "https://img.sofascore.com/api/v1/team/4263/image"
   },
   "teamB": {
-    "name": "Indonesia",
-    "logo": "https://img.sofascore.com/api/v1/team/4829/image"
+    "name": "Parramatta",
+    "logo": "https://img.sofascore.com/api/v1/team/4261/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVNpbmdhcG9yZS12cy1JbmRvbmVzaWExNzg2MDk0MDE2OTQy.txt",
+  "date": "08/08/2026",
+  "time": "09:35:00",
+  "links_metadata_path": "pro/TlJMLVNvdXRoIFN5ZG5leS12cy1QYXJyYW1hdHRhMTc4NjE3NTQ5ODAyNg.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/AVVVVAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

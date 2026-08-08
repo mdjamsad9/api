@@ -1,0 +1,28 @@
+{
+  "id": 642,
+  "order_index": 246,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Rotherham",
+    "logo": "https://img.sofascore.com/api/v1/team/13/image"
+  },
+  "teamB": {
+    "name": "West Brom",
+    "logo": "https://img.sofascore.com/api/v1/team/8/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1Sb3RoZXJoYW0tdnMtV2VzdCBCcm9tMTc4NjE3NTc5NTAwOQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

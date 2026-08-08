@@ -1,0 +1,28 @@
+{
+  "id": 631,
+  "order_index": 235,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
+  },
+  "teamB": {
+    "name": "Portsmouth",
+    "logo": "https://img.sofascore.com/api/v1/team/2/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1XZXN0IEhhbS12cy1Qb3J0c21vdXRoMTc4NjE3NTcwMzY2NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

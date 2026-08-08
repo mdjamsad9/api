@@ -1,0 +1,28 @@
+{
+  "id": 632,
+  "order_index": 236,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "QPR",
+    "logo": "https://img.sofascore.com/api/v1/team/1/image"
+  },
+  "teamB": {
+    "name": "Millwall",
+    "logo": "https://img.sofascore.com/api/v1/team/25/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1RUFItdnMtTWlsbHdhbGwxNzg2MTc1NzAzNjY1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

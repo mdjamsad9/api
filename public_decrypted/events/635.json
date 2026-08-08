@@ -1,0 +1,28 @@
+{
+  "id": 635,
+  "order_index": 239,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Leverkusen",
+    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+  },
+  "teamB": {
+    "name": "Sevilla",
+    "logo": "https://img.sofascore.com/api/v1/team/2833/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZXZlcmt1c2VuLXZzLVNldmlsbGExNzg2MTc1NzAzNjY1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

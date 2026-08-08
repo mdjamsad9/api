@@ -1,0 +1,28 @@
+{
+  "id": 645,
+  "order_index": 249,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+  },
+  "teamA": {
+    "name": "Ferencváros",
+    "logo": "https://img.sofascore.com/api/v1/team/1925/image"
+  },
+  "teamB": {
+    "name": "Real Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2829/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "08/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1GZXJlbmN2w6Fyb3MtdnMtUmVhbCBNYWRyaWQxNzg2MTc1Nzk1MDA5.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
