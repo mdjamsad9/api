@@ -1,0 +1,28 @@
+{
+  "id": 711,
+  "order_index": 315,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "ICC CWC League 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
+  },
+  "teamA": {
+    "name": "SCO",
+    "logo": "https://img.sofascore.com/api/v1/team/187576/image"
+  },
+  "teamB": {
+    "name": "UAE",
+    "logo": "https://img.sofascore.com/api/v1/team/187771/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "09/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1TQ08tdnMtVUFFMTc4NjI2MzAxMDk1OQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

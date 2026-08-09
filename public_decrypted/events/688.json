@@ -1,24 +1,24 @@
 {
-  "id": 671,
-  "order_index": 275,
+  "id": 688,
+  "order_index": 292,
   "eventDetails": {
     "category": "Football",
     "eventName": "Club Friendly Games",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Man City",
-    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    "name": "JDT",
+    "logo": "https://img.sofascore.com/api/v1/team/3327/image"
   },
   "teamB": {
-    "name": "Atl. Madrid",
-    "logo": "https://img.sofascore.com/api/v1/team/2836/image"
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "visible": true,
   "priority": -1,
   "date": "09/08/2026",
-  "time": "11:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gQ2l0eS12cy1BdGwuIE1hZHJpZDE3ODYyNjI4NzkyNzY.txt",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1KRFQtdnMtQ2hlbHNlYTE3ODYyNjI4NzkyNzY.txt",
   "links": [
     {
       "name": "Link 1",

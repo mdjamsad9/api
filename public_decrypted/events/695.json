@@ -1,24 +1,24 @@
 {
-  "id": 674,
-  "order_index": 278,
+  "id": 695,
+  "order_index": 299,
   "eventDetails": {
     "category": "Football",
     "eventName": "Brasileirão Betano",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Palmeiras",
-    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+    "name": "Flamengo",
+    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
   },
   "teamB": {
-    "name": "Internacional",
-    "logo": "https://img.sofascore.com/api/v1/team/1966/image"
+    "name": "Vitória",
+    "logo": "https://img.sofascore.com/api/v1/team/1962/image"
   },
   "visible": true,
   "priority": -1,
   "date": "09/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1QYWxtZWlyYXMtdnMtSW50ZXJuYWNpb25hbDE3ODYyNjI4NzkyNzY.txt",
+  "time": "22:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1GbGFtZW5nby12cy1WaXTDs3JpYTE3ODYyNjI4NzkyNzc.txt",
   "links": [
     {
       "name": "Link 1",

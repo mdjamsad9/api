@@ -1,24 +1,24 @@
 {
-  "id": 672,
-  "order_index": 276,
+  "id": 678,
+  "order_index": 282,
   "eventDetails": {
     "category": "Football",
     "eventName": "VriendenLoterij Eredivisie",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Zwolle",
-    "logo": "https://img.sofascore.com/api/v1/team/2971/image"
+    "name": "Sparta",
+    "logo": "https://img.sofascore.com/api/v1/team/2960/image"
   },
   "teamB": {
-    "name": "Ajax",
-    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    "name": "Feyenoord",
+    "logo": "https://img.sofascore.com/api/v1/team/2959/image"
   },
   "visible": true,
   "priority": -1,
   "date": "09/08/2026",
-  "time": "12:30:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtWndvbGxlLXZzLUFqYXgxNzg2MjYyODc5Mjc2.txt",
+  "time": "10:15:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtU3BhcnRhLXZzLUZleWVub29yZDE3ODYyNjI4NzkyNzY.txt",
   "links": [
     {
       "name": "Link 1",

@@ -1,0 +1,28 @@
+{
+  "id": 675,
+  "order_index": 279,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "Motherwell",
+    "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+  },
+  "teamB": {
+    "name": "Falkirk",
+    "logo": "https://img.sofascore.com/api/v1/team/2363/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "09/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtTW90aGVyd2VsbC12cy1GYWxraXJrMTc4NjI2Mjg3OTI3Ng.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

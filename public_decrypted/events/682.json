@@ -1,0 +1,28 @@
+{
+  "id": 682,
+  "order_index": 286,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/2351/image"
+  },
+  "teamB": {
+    "name": "Hibernian",
+    "logo": "https://img.sofascore.com/api/v1/team/2354/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "09/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtUmFuZ2Vycy12cy1IaWJlcm5pYW4xNzg2MjYyODc5Mjc2.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

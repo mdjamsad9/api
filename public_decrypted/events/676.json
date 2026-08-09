@@ -1,24 +1,24 @@
 {
-  "id": 670,
-  "order_index": 274,
+  "id": 676,
+  "order_index": 280,
   "eventDetails": {
     "category": "Football",
     "eventName": "Liga Portugal Betclic",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Porto",
-    "logo": "https://img.sofascore.com/api/v1/team/3002/image"
+    "name": "Gil Vicente",
+    "logo": "https://img.sofascore.com/api/v1/team/3010/image"
   },
   "teamB": {
-    "name": "Alverca",
-    "logo": "https://img.sofascore.com/api/v1/team/190328/image"
+    "name": "Rio Ave",
+    "logo": "https://img.sofascore.com/api/v1/team/3036/image"
   },
   "visible": true,
   "priority": -1,
   "date": "09/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVBvcnRvLXZzLUFsdmVyY2ExNzg2MjYyODc5Mjc2.txt",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUdpbCBWaWNlbnRlLXZzLVJpbyBBdmUxNzg2MjYyODc5Mjc2.txt",
   "links": [
     {
       "name": "Link 1",

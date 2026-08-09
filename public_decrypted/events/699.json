@@ -1,0 +1,28 @@
+{
+  "id": 699,
+  "order_index": 303,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+  },
+  "teamB": {
+    "name": "Guardians",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "09/08/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1HdWFyZGlhbnMxNzg2MjYyOTI1MTQy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

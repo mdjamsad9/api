@@ -1,0 +1,28 @@
+{
+  "id": 681,
+  "order_index": 285,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "Kilmarnock",
+    "logo": "https://img.sofascore.com/api/v1/team/2347/image"
+  },
+  "teamB": {
+    "name": "Celtic",
+    "logo": "https://img.sofascore.com/api/v1/team/2352/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "09/08/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtS2lsbWFybm9jay12cy1DZWx0aWMxNzg2MjYyODc5Mjc2.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
