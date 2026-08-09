@@ -103,8 +103,8 @@
   },
   {
     "id": 677,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Marseille\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1641\\/image\"},\"teamB\":{\"name\":\"Athletic Club\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2825\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"15:30:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"17:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYXJzZWlsbGUtdnMtQXRobGV0aWMgQ2x1YjE3ODYyNjI4NzkyNzY.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Marseille\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1641\\/image\"},\"teamB\":{\"name\":\"Athletic Club\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2825\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYXJzZWlsbGUtdnMtQXRobGV0aWMgQ2x1YjE3ODYyNjI4NzkyNzY.txt\",\"time\":\"15:30:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"17:50:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/FGGGAAAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 281
   },
   {
