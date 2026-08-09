@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUJlbmZpY2EtdnMtQWNhZMOpbWljbyBWaXNldTE3ODYyNjI4NzkyNzc.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "HD QUALITY",
+      "link": "http://162.251.160.53:8089/SUNfot6/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN SPORTS ES",
+      "link": "https://bein-esp-xumo.amagi.tv/playlist.m3u8|Referer=https://roxiestreams.info/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://31.148.48.15/Match_Futbol_2_HD/index.m3u8?token=test",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
