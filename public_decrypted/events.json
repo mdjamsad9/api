@@ -78,15 +78,9 @@
     "order_index": 274
   },
   {
-    "id": 672,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"Zwolle\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2971\\/image\"},\"teamB\":{\"name\":\"Ajax\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2953\\/image\"},\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtWndvbGxlLXZzLUFqYXgxNzg2MjYyODc5Mjc2.txt\",\"time\":\"12:30:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"14:50:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"SportDigital Fussball\",\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"SportDigital Fussball\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ssdefyhkkr\\/out\\/v1\\/cf01290cb7f64525bdf861580a016ca8\\/cenc.mpd\",\"scheme\":0,\"api\":\"0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/CCCCFFF.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 276
-  },
-  {
     "id": 673,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"EFL Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/21\\/image\\/dark\"},\"teamA\":{\"name\":\"Mansfield\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/70\\/image\"},\"teamB\":{\"name\":\"Sheffield Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/15\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"15:00:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"17:20:00\",\"links\":\"pro\\/RUZMIEN1cC1NYW5zZmllbGQtdnMtU2hlZmZpZWxkIFV0ZDE3ODYyNjI4NzkyNzY.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"EFL Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/21\\/image\\/dark\"},\"teamA\":{\"name\":\"Mansfield\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/70\\/image\"},\"teamB\":{\"name\":\"Sheffield Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/15\\/image\"},\"links\":\"pro\\/RUZMIEN1cC1NYW5zZmllbGQtdnMtU2hlZmZpZWxkIFV0ZDE3ODYyNjI4NzkyNzY.txt\",\"time\":\"15:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"17:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beiN ENGLISH - AQ\"]}",
+    "links": "[{\"name\":\"beiN ENGLISH - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/q4u5nwaogz\\/out\\/v1\\/18de6d3e65934f3a8de4358e69eab86c\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e\",\"tokenApi\":\"\"}]",
     "order_index": 277
   },
   {
@@ -114,27 +108,15 @@
     "order_index": 281
   },
   {
-    "id": 679,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Cottbus\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2532\\/image\"},\"teamB\":{\"name\":\"Hannover\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2541\\/image\"},\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Db3R0YnVzLXZzLUhhbm5vdmVyMTc4NjI2Mjg3OTI3Ng.txt\",\"time\":\"11:30:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"13:50:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"ELEVEN SPORTS \"]}",
-    "links": "[{\"name\":\"ELEVEN SPORTS \",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-eleven-sports-2-0\\/index.m3u8?|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 283
-  },
-  {
     "id": 680,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Brasileirão Betano\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/325\\/image\\/dark\"},\"teamA\":{\"name\":\"Cruzeiro\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1954\\/image\"},\"teamB\":{\"name\":\"Mirassol\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21982\\/image\"},\"links\":\"pro\\/QnJhc2lsZWlyw6NvIEJldGFuby1DcnV6ZWlyby12cy1NaXJhc3NvbDE3ODYyNjI4NzkyNzY.txt\",\"time\":\"14:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\",\"LOW QUALITY\"]}",
     "links": "[{\"name\":\"HD QUALITY\",\"link\":\"http:\\/\\/31.148.48.15\\/Match_Futbol_3_HD\\/index.m3u8?token=test\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GPPPAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 284
   },
   {
-    "id": 681,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Kilmarnock\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2347\\/image\"},\"teamB\":{\"name\":\"Celtic\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2352\\/image\"},\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtS2lsbWFybm9jay12cy1DZWx0aWMxNzg2MjYyODc5Mjc2.txt\",\"time\":\"12:30:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"14:50:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beiN ENGLISH - AQ \",\"SPORT TV HD\",\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"beiN ENGLISH - AQ \",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/q4u5nwaogz\\/out\\/v1\\/18de6d3e65934f3a8de4358e69eab86c\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV HD\",\"link\":\"https:\\/\\/t7.ultrastream.vip\\/sporttv3\\/index.m3u8?|Referer=https:\\/\\/foottime.top\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.193\\/hls\\/HRRR.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 285
-  },
-  {
     "id": 682,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Rangers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2351\\/image\"},\"teamB\":{\"name\":\"Hibernian\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2354\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"15:00:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"17:20:00\",\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtUmFuZ2Vycy12cy1IaWJlcm5pYW4xNzg2MjYyODc5Mjc2.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Rangers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2351\\/image\"},\"teamB\":{\"name\":\"Hibernian\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2354\\/image\"},\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtUmFuZ2Vycy12cy1IaWJlcm5pYW4xNzg2MjYyODc5Mjc2.txt\",\"time\":\"15:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"17:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"PREMIER SPORTS - AQ\",\"beiN ENGLISH - AQ\",\"CBS SPORTS - AQ\",\"SportDigital Fussball\",\"HD QUALITY\"]}",
+    "links": "[{\"name\":\"PREMIER SPORTS - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/m6sqanvm2m\\/out\\/v1\\/f6beb46c6e9a4132ad739f3ca27df6aa\\/cenc.mpd\",\"scheme\":0,\"api\":\"1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f\",\"tokenApi\":\"\"},{\"name\":\"beiN ENGLISH - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/8m8cd46i1t\\/out\\/v1\\/83985c68e4174e90a58a1f2c024be4c9\\/cenc.mpd\",\"scheme\":0,\"api\":\"0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8\",\"tokenApi\":\"\"},{\"name\":\"CBS SPORTS - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/5qz8wmdome\\/out\\/v1\\/b9323e853dce427eac214b77bd48a204\\/cenc.mpd|Origin=https:\\/\\/amazon.com&user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/150.0.0.0 Safari\\/537.36 Edg\\/150.0.0.0\",\"scheme\":0,\"api\":\"d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861\",\"tokenApi\":\"\"},{\"name\":\"SportDigital Fussball\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ssdefyhkkr\\/out\\/v1\\/cf01290cb7f64525bdf861580a016ca8\\/cenc.mpd?|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8\",\"tokenApi\":\"\"},{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-sport-tv5-0\\/index.m3u8|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 286
   },
   {
@@ -150,12 +132,6 @@
     "order_index": 288
   },
   {
-    "id": 685,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Nürnberg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2523\\/image\"},\"teamB\":{\"name\":\"Dresden\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2595\\/image\"},\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Ow7xybmJlcmctdnMtRHJlc2RlbjE3ODYyNjI4NzkyNzY.txt\",\"time\":\"11:30:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"13:50:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"ELEVEN SPORTS \"]}",
-    "links": "[{\"name\":\"ELEVEN SPORTS \",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-eleven-sports-3-0\\/index.m3u8?|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 289
-  },
-  {
     "id": 686,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"Heerenveen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2964\\/image\"},\"teamB\":{\"name\":\"Twente\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2955\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"14:45:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"17:05:00\",\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtSGVlcmVudmVlbi12cy1Ud2VudGUxNzg2MjYyODc5Mjc2.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
@@ -166,12 +142,6 @@
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Malawi\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/298498\\/image\"},\"teamB\":{\"name\":\"Ghana\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7417\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"20:00:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"22:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTWFsYXdpLXZzLUdoYW5hMTc4NjI2Mjg3OTI3Ng.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 291
-  },
-  {
-    "id": 688,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"JDT\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3327\\/image\"},\"teamB\":{\"name\":\"Chelsea\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/38\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1KRFQtdnMtQ2hlbHNlYTE3ODYyNjI4NzkyNzY.txt\",\"time\":\"12:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"14:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HUB SPORTS \",\"CHELSEA TV HD\",\"SportyNET \",\"HD QUALITY\",\"SPORT TV \",\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"HUB SPORTS \",\"link\":\"https:\\/\\/admin2.paradilux.store\\/hub.m3u8?|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"CHELSEA TV HD\",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54401\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SportyNET \",\"link\":\"https:\\/\\/rdcstream.life\\/live\\/sportynet\\/index.m3u8?|Referer=https:\\/\\/bolodechocolate.fit\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD QUALITY\",\"link\":\"https:\\/\\/live2.jxa76.com\\/live\\/sd-6MwarCdWqameKTHh15_540p.m3u8?txSecret=1ed4291524c10c61ba376495cd3983ad&txTime=19FE7AA7BB2\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV \",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-sport-tv5-0\\/index.m3u8|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.192\\/hls\\/RRRRRRRR.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 292
   },
   {
     "id": 689,
@@ -190,12 +160,6 @@
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Liga Portugal Betclic\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/238\\/image\\/dark\"},\"teamA\":{\"name\":\"Benfica\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3006\\/image\"},\"teamB\":{\"name\":\"Académico Viseu\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3022\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"19:30:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"21:50:00\",\"links\":\"pro\\/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUJlbmZpY2EtdnMtQWNhZMOpbWljbyBWaXNldTE3ODYyNjI4NzkyNzc.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 295
-  },
-  {
-    "id": 692,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"Groningen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2951\\/image\"},\"teamB\":{\"name\":\"Utrecht\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2948\\/image\"},\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtR3JvbmluZ2VuLXZzLVV0cmVjaHQxNzg2MjYyODc5Mjc3.txt\",\"time\":\"12:30:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"14:50:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/CCCCFF.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 296
   },
   {
     "id": 693,
