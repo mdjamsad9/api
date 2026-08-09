@@ -85,8 +85,8 @@
   },
   {
     "id": 671,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Man City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/17\\/image\"},\"teamB\":{\"name\":\"Atl. Madrid\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2836\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gQ2l0eS12cy1BdGwuIE1hZHJpZDE3ODYyNjI4NzkyNzY.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Man City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/17\\/image\"},\"teamB\":{\"name\":\"Atl. Madrid\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2836\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gQ2l0eS12cy1BdGwuIE1hZHJpZDE3ODYyNjI4NzkyNzY.txt\",\"time\":\"11:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"13:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"ESPN 2\"]}",
+    "links": "[{\"name\":\"ESPN 2\",\"link\":\"https:\\/\\/hamis.romponalis.st\\/premiumtv\\/daddy3.php?id=386|referer=https:\\/\\/dlhd.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"https:\\\\\\/\\\\\\/hamis.romponalis.st\\\\\\/premiumtv\\\\\\/daddy3.php?id=386|referer=https:\\\\\\/\\\\\\/dlhd.st\\\\\\/\\\",\\\"api\\\":\\\"june22|fMV0jMC6Nl9mjBehj3VlSWPxfYThk29lf2Iljl5eSYL\\\",\\\"type\\\":\\\"daddy\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 275
   },
   {
