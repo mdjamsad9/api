@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtWndvbGxlLXZzLUFqYXgxNzg2MjYyODc5Mjc2.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SportDigital Fussball",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+      "scheme": 0,
+      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.190/hls/CCCCFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

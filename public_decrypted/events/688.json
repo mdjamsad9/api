@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1KRFQtdnMtQ2hlbHNlYTE3ODYyNjI4NzkyNzY.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "HUB SPORTS ",
+      "link": "https://admin2.paradilux.store/hub.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CHELSEA TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/54401/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SportyNET ",
+      "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://live2.jxa76.com/live/sd-6MwarCdWqameKTHh15_540p.m3u8?txSecret=1ed4291524c10c61ba376495cd3983ad&txTime=19FE7AA7BB2",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORT TV ",
+      "link": "https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
