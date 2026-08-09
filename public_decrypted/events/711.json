@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1TQ08tdnMtVUFFMTc4NjI2MzAxMDk1OQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "ICC TV - AQ",
+      "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785532656~acl=/variant/v1blackout/vcg-01-d/*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=599c3d7545051c8f4898edd1676620086b15dd90ba52e19d110171dde8e0ae0f/manifest.mpd?e=197958055960 197958282210&vcfilter=e854d6fc-e1f7-4242-bf18-43863f52c3e4|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
+      "scheme": 0,
+      "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE IN",
+      "link": "https://livecf.fancode.com/4246706_english_hls_0477c0fff848776_1ta-di_h264/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
