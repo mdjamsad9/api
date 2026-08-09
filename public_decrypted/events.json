@@ -97,8 +97,8 @@
   },
   {
     "id": 675,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Motherwell\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2346\\/image\"},\"teamB\":{\"name\":\"Falkirk\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2363\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtTW90aGVyd2VsbC12cy1GYWxraXJrMTc4NjI2Mjg3OTI3Ng.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Motherwell\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2346\\/image\"},\"teamB\":{\"name\":\"Falkirk\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2363\\/image\"},\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtTW90aGVyd2VsbC12cy1GYWxraXJrMTc4NjI2Mjg3OTI3Ng.txt\",\"time\":\"14:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.46\\/hls\\/ZBBBA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 279
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "id": 680,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Brasileirão Betano\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/325\\/image\\/dark\"},\"teamA\":{\"name\":\"Cruzeiro\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1954\\/image\"},\"teamB\":{\"name\":\"Mirassol\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21982\\/image\"},\"links\":\"pro\\/QnJhc2lsZWlyw6NvIEJldGFuby1DcnV6ZWlyby12cy1NaXJhc3NvbDE3ODYyNjI4NzkyNzY.txt\",\"time\":\"14:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\"]}",
-    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"http:\\/\\/31.148.48.15\\/Match_Futbol_3_HD\\/index.m3u8?token=test\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Brasileirão Betano\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/325\\/image\\/dark\"},\"teamA\":{\"name\":\"Cruzeiro\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1954\\/image\"},\"teamB\":{\"name\":\"Mirassol\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21982\\/image\"},\"links\":\"pro\\/QnJhc2lsZWlyw6NvIEJldGFuby1DcnV6ZWlyby12cy1NaXJhc3NvbDE3ODYyNjI4NzkyNzY.txt\",\"time\":\"14:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY\",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"HD QUALITY\",\"link\":\"http:\\/\\/31.148.48.15\\/Match_Futbol_3_HD\\/index.m3u8?token=test\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GPPPAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 284
   },
   {
@@ -181,8 +181,8 @@
   },
   {
     "id": 690,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Hearts\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2353\\/image\"},\"teamB\":{\"name\":\"Dundee Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2349\\/image\"},\"visible\":true,\"date\":\"09\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtSGVhcnRzLXZzLUR1bmRlZSBVdGQxNzg2MjYyODc5Mjc3.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Scottish Premiership\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/36\\/image\\/dark\"},\"teamA\":{\"name\":\"Hearts\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2353\\/image\"},\"teamB\":{\"name\":\"Dundee Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2349\\/image\"},\"links\":\"pro\\/U2NvdHRpc2ggUHJlbWllcnNoaXAtSGVhcnRzLXZzLUR1bmRlZSBVdGQxNzg2MjYyODc5Mjc3.txt\",\"time\":\"14:00:00\",\"date\":\"09\\/08\\/2026\",\"end_time\":\"16:20:00\",\"end_date\":\"09\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.46\\/hls\\/ZBBB.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 294
   },
   {
