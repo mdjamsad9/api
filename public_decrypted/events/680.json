@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1DcnV6ZWlyby12cy1NaXJhc3NvbDE3ODYyNjI4NzkyNzY.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "HD QUALITY",
+      "link": "http://31.148.48.15/Match_Futbol_3_HD/index.m3u8?token=test",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
