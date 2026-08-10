@@ -14,7 +14,7 @@
     "name": "MotoGP",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgDXg8WOTxDGYhsU_r4iaau8PucLtaXmSVO3Y_9CwO2Q&s=10"
   },
-  "visible": true,
+  "visible": false,
   "priority": -1,
   "date": "09/08/2026",
   "time": "12:00:00",

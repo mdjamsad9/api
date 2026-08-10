@@ -1,0 +1,28 @@
+{
+  "id": 717,
+  "order_index": 321,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+  },
+  "teamA": {
+    "name": "IRE",
+    "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+  },
+  "teamB": {
+    "name": "AFG",
+    "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "10/08/2026",
+  "time": "09:45:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg2MzQ5ODMyMjI4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

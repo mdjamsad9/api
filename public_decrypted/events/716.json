@@ -1,0 +1,28 @@
+{
+  "id": 716,
+  "order_index": 320,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Plymouth",
+    "logo": "https://img.sofascore.com/api/v1/team/71/image"
+  },
+  "teamB": {
+    "name": "Exeter",
+    "logo": "https://img.sofascore.com/api/v1/team/86/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "10/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1QbHltb3V0aC12cy1FeGV0ZXIxNzg2MzQ5ODEyNzk3.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
