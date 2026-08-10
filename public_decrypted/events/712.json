@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQtVFJULXZzLVNPQjE3ODYyNjMwNDg5Mjg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd",
+      "scheme": 0,
+      "api": "2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd",
+      "scheme": 0,
+      "api": "2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy TV ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET ",
+      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.41/hls/EVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
