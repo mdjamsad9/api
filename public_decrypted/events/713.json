@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tVFJULVctdnMtU09CLVcxNzg2MjYzMDQ4OTI4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hfggzozkzw/out/v1/5a0e7944b83942b4afeba99b1385ec89/cenc.mpd",
+      "scheme": 0,
+      "api": "b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hfggzozkzw/out/v1/5a0e7944b83942b4afeba99b1385ec89/cenc.mpd",
+      "scheme": 0,
+      "api": "b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv (Asia)",
+      "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786290644~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a8cffb4b41acde17baa7159e6de52e8ad8e7e0692cc2362d376e4a6a0a8ed6e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

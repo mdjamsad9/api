@@ -1,0 +1,28 @@
+{
+  "id": 719,
+  "order_index": 323,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+  },
+  "teamB": {
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "11/08/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtUm95YWxzMTc4NjM2NDY1NDkzNQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
