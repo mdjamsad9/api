@@ -60,27 +60,15 @@
     "order_index": 319
   },
   {
-    "id": 716,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Champions League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/7\\/image\\/dark\"},\"teamA\":{\"name\":\"Kauno Žalgiris\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/80741\\/image\"},\"teamB\":{\"name\":\"Dinamo\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2032\\/image\"},\"links\":\"pro\\/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUthdW5vIMW9YWxnaXJpcy12cy1EaW5hbW8xNzg2NDM4ODMzMzU2.txt\",\"time\":\"17:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"19:20:00\",\"end_date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"cricfy HD \"]}",
-    "links": "[{\"name\":\"cricfy HD \",\"link\":\"http:\\/\\/193.47.62.40\\/hls\\/DAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 320
-  },
-  {
     "id": 717,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Champions League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/7\\/image\\/dark\"},\"teamA\":{\"name\":\"Lyon\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1649\\/image\"},\"teamB\":{\"name\":\"Sparta Praha\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2218\\/image\"},\"links\":\"pro\\/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUx5b24tdnMtU3BhcnRhIFByYWhhMTc4NjQzODgzMzM1Ng.txt\",\"time\":\"19:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"21:20:00\",\"end_date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Link 1\",\"SPORT TV FHD\",\"LOW QUALITY\",\"SPORT TV HD\"]}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54474\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV FHD\",\"link\":\"https:\\/\\/rdcstream.life\\/live\\/sport-tv-1-pt\\/index.m3u8?|Referer=https:\\/\\/bolodechocolate.fit\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.42\\/hls\\/DAAAAAAFAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV HD\",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-sport-tv1-0\\/index.m3u8|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 321
   },
   {
-    "id": 719,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Champions League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/7\\/image\\/dark\"},\"teamA\":{\"name\":\"NEC\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2962\\/image\"},\"teamB\":{\"name\":\"Olympiacos\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3245\\/image\"},\"links\":\"pro\\/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLU5FQy12cy1PbHltcGlhY29zMTc4NjQzODgzMzM1Ng.txt\",\"time\":\"17:30:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"19:50:00\",\"end_date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"SD STREAM \"]}",
-    "links": "[{\"name\":\"SD STREAM \",\"link\":\"http:\\/\\/193.47.62.44\\/hls\\/DAAAA.m3u8|referer=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 323
-  },
-  {
     "id": 720,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Sudamericana\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/480\\/image\\/dark\"},\"teamA\":{\"name\":\"Boca Juniors\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3202\\/image\"},\"teamB\":{\"name\":\"Recoleta\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/292595\\/image\"},\"visible\":true,\"date\":\"11\\/08\\/2026\",\"time\":\"22:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"00:20:00\",\"links\":\"pro\\/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvY2EgSnVuaW9ycy12cy1SZWNvbGV0YTE3ODY0Mzg4MzMzNTY.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Sudamericana\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/480\\/image\\/dark\"},\"teamA\":{\"name\":\"Boca Juniors\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3202\\/image\"},\"teamB\":{\"name\":\"Recoleta\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/292595\\/image\"},\"links\":\"pro\\/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvY2EgSnVuaW9ycy12cy1SZWNvbGV0YTE3ODY0Mzg4MzMzNTY.txt\",\"time\":\"22:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"00:20:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"SportDigital Fussball\"]}",
+    "links": "[{\"name\":\"SportDigital Fussball\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ssdefyhkkr\\/out\\/v1\\/cf01290cb7f64525bdf861580a016ca8\\/cenc.mpd?|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8\",\"tokenApi\":\"\"}]",
     "order_index": 324
   },
   {
