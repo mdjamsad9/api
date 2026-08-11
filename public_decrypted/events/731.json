@@ -1,24 +1,24 @@
 {
-  "id": 727,
-  "order_index": 331,
+  "id": 731,
+  "order_index": 335,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1HdWFyZGlhbnMxNzg2NDM4OTUwMzA1.txt",
+  "date": "12/08/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtUm95YWxzMTc4NjQzODk1MDMwNQ.txt",
   "links": [
     {
       "name": "Link 1",

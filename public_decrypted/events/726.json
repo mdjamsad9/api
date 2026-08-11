@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "teamB": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "10/08/2026",
-  "time": "23:45:00",
-  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1QaGlsbGllczE3ODYzNjQ2NTQ5MzU.txt",
+  "date": "11/08/2026",
+  "time": "23:05:00",
+  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtTWFyaW5lcnMxNzg2NDM4OTUwMzA1.txt",
   "links": [
     {
       "name": "Link 1",

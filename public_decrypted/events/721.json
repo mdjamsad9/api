@@ -2,23 +2,23 @@
   "id": 721,
   "order_index": 325,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
   },
   "teamA": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Fluminense",
+    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Ind. Rivadavia",
+    "logo": "https://img.sofascore.com/api/v1/team/36842/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "10/08/2026",
-  "time": "23:07:00",
-  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1SZWQgU294MTc4NjM2NDY1NDkzNQ.txt",
+  "date": "11/08/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsdW1pbmVuc2UtdnMtSW5kLiBSaXZhZGF2aWExNzg2NDM4ODMzMzU2.txt",
   "links": [
     {
       "name": "Link 1",

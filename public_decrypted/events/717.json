@@ -2,44 +2,27 @@
   "id": 717,
   "order_index": 321,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "One Day International",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "IRE",
-    "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+    "name": "Lyon",
+    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
   },
   "teamB": {
-    "name": "AFG",
-    "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+    "name": "Sparta Praha",
+    "logo": "https://img.sofascore.com/api/v1/team/2218/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "10/08/2026",
-  "time": "09:45:00",
-  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg2MzQ5ODMyMjI4.txt",
+  "date": "11/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUx5b24tdnMtU3BhcnRhIFByYWhhMTc4NjQzODgzMzM1Ng.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd",
-      "scheme": 0,
-      "api": "d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd",
-      "scheme": 0,
-      "api": "d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (IND)",
-      "link": "https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

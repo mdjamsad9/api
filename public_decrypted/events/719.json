@@ -2,23 +2,23 @@
   "id": 719,
   "order_index": 323,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "NEC",
+    "logo": "https://img.sofascore.com/api/v1/team/2962/image"
   },
   "teamB": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "Olympiacos",
+    "logo": "https://img.sofascore.com/api/v1/team/3245/image"
   },
   "visible": true,
   "priority": -1,
   "date": "11/08/2026",
-  "time": "02:10:00",
-  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtUm95YWxzMTc4NjM2NDY1NDkzNQ.txt",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLU5FQy12cy1PbHltcGlhY29zMTc4NjQzODgzMzM1Ng.txt",
   "links": [
     {
       "name": "Link 1",

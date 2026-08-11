@@ -2,23 +2,23 @@
   "id": 720,
   "order_index": 324,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
   },
   "teamA": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Boca Juniors",
+    "logo": "https://img.sofascore.com/api/v1/team/3202/image"
   },
   "teamB": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Recoleta",
+    "logo": "https://img.sofascore.com/api/v1/team/292595/image"
   },
   "visible": true,
   "priority": -1,
   "date": "11/08/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1Sb2NraWVzMTc4NjM2NDY1NDkzNQ.txt",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvY2EgSnVuaW9ycy12cy1SZWNvbGV0YTE3ODY0Mzg4MzMzNTY.txt",
   "links": [
     {
       "name": "Link 1",

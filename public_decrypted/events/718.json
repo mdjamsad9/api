@@ -2,23 +2,23 @@
   "id": 718,
   "order_index": 322,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "Palermo",
+    "logo": "https://img.sofascore.com/api/v1/team/2715/image"
   },
   "teamB": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Juventus",
+    "logo": "https://img.sofascore.com/api/v1/team/2687/image"
   },
   "visible": true,
   "priority": -1,
   "date": "11/08/2026",
-  "time": "01:45:00",
-  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1Bc3Ryb3MxNzg2MzY0NjU0OTM1.txt",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QYWxlcm1vLXZzLUp1dmVudHVzMTc4NjQzODgzMzM1Ng.txt",
   "links": [
     {
       "name": "Link 1",
