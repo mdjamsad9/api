@@ -26,6 +26,20 @@
       "scheme": 0,
       "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
       "tokenApi": ""
+    },
+    {
+      "name": "SPORT TV ",
+      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN SPORTS ",
+      "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
