@@ -22,9 +22,9 @@
   "links": [
     {
       "name": "WILLOW - AQ",
-      "link": "https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd",
       "scheme": 0,
-      "api": "2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee",
+      "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
       "tokenApi": ""
     },
     {
@@ -32,6 +32,13 @@
       "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
       "scheme": 0,
       "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd",
+      "scheme": 0,
+      "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
       "tokenApi": ""
     },
     {
@@ -44,6 +51,13 @@
     {
       "name": "FOX CRICKET HD",
       "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.40/hls/UZZZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

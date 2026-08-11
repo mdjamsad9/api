@@ -1,0 +1,28 @@
+{
+  "id": 742,
+  "order_index": 346,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "AFC Champions League Elite",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/463/image/dark"
+  },
+  "teamA": {
+    "name": "Pakhtakor",
+    "logo": "https://img.sofascore.com/api/v1/team/34310/image"
+  },
+  "teamB": {
+    "name": "Al-Hussein Irbid",
+    "logo": "https://img.sofascore.com/api/v1/team/117204/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "11/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtUGFraHRha29yLXZzLUFsLUh1c3NlaW4gSXJiaWQxNzg2NDU4NTM2NTU0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
