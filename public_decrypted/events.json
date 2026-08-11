@@ -217,8 +217,8 @@
   },
   {
     "id": 743,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"AFC Champions League Elite\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/463\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Jazira\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/8090\\/image\"},\"teamB\":{\"name\":\"Al-Ittihad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34315\\/image\"},\"visible\":true,\"date\":\"11\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"11\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtQWwtSmF6aXJhLXZzLUFsLUl0dGloYWQxNzg2NDU4NTM2NTU0.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"AFC Champions League Elite\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/463\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Jazira\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/8090\\/image\"},\"teamB\":{\"name\":\"Al-Ittihad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34315\\/image\"},\"links\":\"pro\\/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtQWwtSmF6aXJhLXZzLUFsLUl0dGloYWQxNzg2NDU4NTM2NTU0.txt\",\"time\":\"16:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live \"]}",
+    "links": "[{\"name\":\"Cricfy Live \",\"link\":\"http:\\/\\/193.47.62.40\\/hls\\/GGGGF.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 347
   }
 ]
