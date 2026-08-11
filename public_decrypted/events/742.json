@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgRWxpdGUtUGFraHRha29yLXZzLUFsLUh1c3NlaW4gSXJiaWQxNzg2NDU4NTM2NTU0.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "http://193.47.62.40/hls/GGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
