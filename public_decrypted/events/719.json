@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLU5FQy12cy1PbHltcGlhY29zMTc4NjQzODgzMzM1Ng.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SD STREAM ",
+      "link": "http://193.47.62.44/hls/DAAAA.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
