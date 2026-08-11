@@ -1,0 +1,31 @@
+{
+  "id": 741,
+  "order_index": 345,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "ICC CWC League 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
+  },
+  "teamA": {
+    "name": "UAE",
+    "logo": "https://img.sofascore.com/api/v1/team/187771/image"
+  },
+  "teamB": {
+    "name": "CAN",
+    "logo": "https://img.sofascore.com/api/v1/team/189195/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "11/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1VQUUtdnMtQ0FOMTc4NjQ0MjMxODc5OQ.txt",
+  "links": [
+    {
+      "name": "ICC TV - AQ ",
+      "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786471144~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=d5d65ee3846599d4605047847b9d01b09251f8d82ad66dbab7e09af18291ea23/manifest.mpd?vcfilter=f87d9422-819c-404d-b05b-86997ba17d3c|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com",
+      "scheme": 0,
+      "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+      "tokenApi": ""
+    }
+  ]
+}
