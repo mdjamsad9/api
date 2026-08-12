@@ -1,0 +1,28 @@
+{
+  "id": 758,
+  "order_index": 362,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Vtoraya Liga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/22139/image/dark"
+  },
+  "teamA": {
+    "name": "Niva (CHAUSY)",
+    "logo": "https://img.sofascore.com/api/v1/team/417910/image"
+  },
+  "teamB": {
+    "name": "FC Gorki",
+    "logo": "https://img.sofascore.com/api/v1/team/71596/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "12/08/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/VnRvcmF5YSBMaWdhLU5pdmEgKENIQVVTWSktdnMtRkMgR29ya2kxNzg2NTM5NDM1NzY0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 756,
+  "order_index": 360,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "AFC Champions League Two",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/668/image/dark"
+  },
+  "teamA": {
+    "name": "East Bengal",
+    "logo": "https://img.sofascore.com/api/v1/team/40655/image"
+  },
+  "teamB": {
+    "name": "Al-Arabi",
+    "logo": "https://img.sofascore.com/api/v1/team/35892/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "12/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QUZDIENoYW1waW9ucyBMZWFndWUgVHdvLUVhc3QgQmVuZ2FsLXZzLUFsLUFyYWJpMTc4NjUzOTQzNTc2NA.txt",
+  "links": [
+    {
+      "name": "FANCODE HD",
+      "link": "https://hls.streamhub.media/hls/thesport-api-eac7989d8c8d442e58ab/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://hls.live123.fans/live/4565883.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY ",
+      "link": "https://stream.sports3.win/iptv/live/signal-4565883-34900.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.190/hls/DSSSSD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
