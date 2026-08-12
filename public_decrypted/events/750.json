@@ -1,24 +1,24 @@
 {
-  "id": 742,
-  "order_index": 346,
+  "id": 750,
+  "order_index": 354,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "teamB": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "23:40:00",
-  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1SZWRzMTc4NjUyMTg4MzQxNA.txt",
+  "date": "13/08/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtUm95YWxzMTc4NjUyMTg4MzQxNA.txt",
   "links": [
     {
       "name": "Link 1",

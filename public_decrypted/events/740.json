@@ -2,30 +2,27 @@
   "id": 740,
   "order_index": 344,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "WEF",
+    "logo": "https://img.sofascore.com/api/v1/team/377179/image"
   },
   "teamB": {
-    "name": "Mets",
-    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+    "name": "LNS",
+    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1NZXRzMTc4NjQzODk1MDMwNg.txt",
+  "date": "12/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtV0VGLXZzLUxOUzE3ODY1MjE4MTgyNDY.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

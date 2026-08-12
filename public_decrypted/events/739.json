@@ -2,30 +2,27 @@
   "id": 739,
   "order_index": 343,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "WEF-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
   },
   "teamB": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "LNS-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377203/image"
   },
   "visible": true,
   "priority": -1,
   "date": "12/08/2026",
-  "time": "01:45:00",
-  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1Bc3Ryb3MxNzg2NDM4OTUwMzA2.txt",
+  "time": "10:30:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtTE5TLVcxNzg2NTIxODE4MjQ2.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

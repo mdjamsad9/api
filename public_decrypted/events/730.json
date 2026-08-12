@@ -2,30 +2,27 @@
   "id": 730,
   "order_index": 334,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "København",
+    "logo": "https://img.sofascore.com/api/v1/team/1284/image"
   },
   "teamB": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "DVSC",
+    "logo": "https://img.sofascore.com/api/v1/team/1921/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "22:45:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1DdWJzMTc4NjQzODk1MDMwNQ.txt",
+  "date": "12/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Lw7hiZW5oYXZuLXZzLURWU0MxNzg2NTIxNzc2ODcw.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

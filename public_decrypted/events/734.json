@@ -2,23 +2,23 @@
   "id": 734,
   "order_index": 338,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Newcastle",
+    "logo": "https://img.sofascore.com/api/v1/team/39/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "23:07:00",
-  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1SZWQgU294MTc4NjQzODk1MDMwNQ.txt",
+  "date": "12/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1FdmVydG9uLXZzLU5ld2Nhc3RsZTE3ODY1MjE3NzY4NzA.txt",
   "links": [
     {
       "name": "Link 1",

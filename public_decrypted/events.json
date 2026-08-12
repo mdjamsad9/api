@@ -37,7 +37,7 @@
   },
   {
     "id": 575,
-    "event": "{\"eventDetails\":{\"category\":\"Tennis\",\"eventName\":\"ATP & WTA TENNIS\",\"eventLogo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRLWwdt6bQdg3K2WTEigjn2XDFGQZcGCRhe-lDsDTKRJg&s=10\"},\"teamA\":{\"name\":\"ATP\",\"logo\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1995612160613920768\\/jdwbOzZi_400x400.jpg\"},\"teamB\":{\"name\":\"WTA\",\"logo\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1988264011935137792\\/Y_AYbwxg_400x400.jpg\"},\"visible\":true,\"priority\":-1,\"date\":\"11\\/08\\/2026\",\"time\":\"15:00:00\",\"link_names\":[\"beIN ENGLISH (ATP)\",\"beiN ENGLISH (WTA)\",\"TENNIS 2 - AQ\",\"Montreal (ATP)\",\"Toronto (WTA)\"],\"links\":\"pro\\/QVRQICYgV1RBIFRFTk5JUy1BVFAtdnMtV1RBMTc4NjAyNzEzMzUxMw.txt\"}",
+    "event": "{\"eventDetails\":{\"category\":\"Tennis\",\"eventName\":\"ATP & WTA TENNIS\",\"eventLogo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcRLWwdt6bQdg3K2WTEigjn2XDFGQZcGCRhe-lDsDTKRJg&s=10\"},\"teamA\":{\"name\":\"ATP\",\"logo\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1995612160613920768\\/jdwbOzZi_400x400.jpg\"},\"teamB\":{\"name\":\"WTA\",\"logo\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/1988264011935137792\\/Y_AYbwxg_400x400.jpg\"},\"visible\":true,\"priority\":-1,\"date\":\"12\\/08\\/2026\",\"time\":\"15:00:00\",\"link_names\":[\"beIN ENGLISH (ATP)\",\"beiN ENGLISH (WTA)\",\"TENNIS 2 - AQ\",\"Montreal (ATP)\",\"Toronto (WTA)\"],\"links\":\"pro\\/QVRQICYgV1RBIFRFTk5JUy1BVFAtdnMtV1RBMTc4NjAyNzEzMzUxMw.txt\"}",
     "links": "[{\"name\":\"beIN ENGLISH (ATP)\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ghwcl6hv68\\/out\\/v1\\/83536910d8034e9b9895a20fbe1c1687\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281\",\"tokenApi\":\"\"},{\"name\":\"beiN ENGLISH (WTA)\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/8m8cd46i1t\\/out\\/v1\\/83985c68e4174e90a58a1f2c024be4c9\\/cenc.mpd\",\"scheme\":0,\"api\":\"0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8\",\"tokenApi\":\"\"},{\"name\":\"TENNIS 2 - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/bfigtl960n\\/out\\/v1\\/5ba5484550e84681bff2e8ca994266c1\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a\",\"tokenApi\":\"\"},{\"name\":\"Montreal (ATP)\",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-tennis-channel-0\\/index.m3u8?|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"Toronto (WTA)\",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-sky-sports-tennis-0\\/index.m3u8?|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 179
   },
@@ -49,134 +49,200 @@
   },
   {
     "id": 714,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Caribbean Premier League T20\",\"eventLogo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/unique-tournament\\/11167\\/image\"},\"teamA\":{\"name\":\"CPL T20\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10\"},\"teamB\":{\"name\":\"CPL T20\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10\"},\"visible\":true,\"priority\":-1,\"date\":\"12\\/08\\/2026\",\"time\":\"00:00:00\",\"link_names\":[\"FOX CRICKET HD\",\"WILLOW HD\",\"TNT SPORTS \",\"TAPMAD \",\"FANCODE (IND)\"],\"links\":\"pro\\/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlIFQyMC1DUEwgVDIwLXZzLUNQTCBUMjAxNzg2MzEyMzUzNzM4.txt\"}",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"Caribbean Premier League T20\",\"eventLogo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/unique-tournament\\/11167\\/image\"},\"teamA\":{\"name\":\"CPL T20\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10\"},\"teamB\":{\"name\":\"CPL T20\",\"logo\":\"https:\\/\\/encrypted-tbn0.gstatic.com\\/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10\"},\"visible\":true,\"priority\":-1,\"date\":\"13\\/08\\/2026\",\"time\":\"00:00:00\",\"link_names\":[\"FOX CRICKET HD\",\"WILLOW HD\",\"TNT SPORTS \",\"TAPMAD \",\"FANCODE (IND)\"],\"links\":\"pro\\/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlIFQyMC1DUEwgVDIwLXZzLUNQTCBUMjAxNzg2MzEyMzUzNzM4.txt\"}",
     "links": "[{\"name\":\"FOX CRICKET HD\",\"link\":\"http:\\/\\/line.tvdsz.cc\\/play\\/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"WILLOW HD\",\"link\":\"http:\\/\\/tvsen5.aynascope.net\\/willowhd\\/index.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"TNT SPORTS \",\"link\":\"https:\\/\\/tmaxapp.site\\/8wirwjs76erftg\\/tntsports2.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"TAPMAD \",\"link\":\"https:\\/\\/saseries.akamaized.net\\/hls\\/live\\/2110097\\/ZIMvsIND-3827e1\\/master.m3u8|referer=https:\\/\\/tapmad.com\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"FANCODE (IND)\",\"link\":\"https:\\/\\/dai-fancode.pages.dev\\/mumbai\\/4248286_english_hls_c15d148d2e71126_1ta-di_h264\\/index.m3u8|User-Agent=ReactNativeVideo\\/9.11.1 (Linux;Android 13) AndroidXMedia3\\/1.6.1&Referer=https:\\/\\/fancode.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 318
   },
   {
-    "id": 715,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Champions League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/7\\/image\\/dark\"},\"teamA\":{\"name\":\"Sturm\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2051\\/image\"},\"teamB\":{\"name\":\"Fenerbahçe\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3052\\/image\"},\"links\":\"pro\\/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVN0dXJtLXZzLUZlbmVyYmFow6dlMTc4NjQzODgzMzM1Ng.txt\",\"time\":\"18:30:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"20:50:00\",\"end_date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.42\\/hls\\/DAAAAAAFA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 319
-  },
-  {
-    "id": 717,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Champions League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/7\\/image\\/dark\"},\"teamA\":{\"name\":\"Lyon\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1649\\/image\"},\"teamB\":{\"name\":\"Sparta Praha\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2218\\/image\"},\"links\":\"pro\\/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUx5b24tdnMtU3BhcnRhIFByYWhhMTc4NjQzODgzMzM1Ng.txt\",\"time\":\"19:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"21:20:00\",\"end_date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Link 1\",\"SPORT TV FHD\",\"LOW QUALITY\",\"SPORT TV HD\"]}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54474\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV FHD\",\"link\":\"https:\\/\\/rdcstream.life\\/live\\/sport-tv-1-pt\\/index.m3u8?|Referer=https:\\/\\/bolodechocolate.fit\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.42\\/hls\\/DAAAAAAFAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV HD\",\"link\":\"https:\\/\\/cast.zlive.st\\/p\\/auto-sport-tv1-0\\/index.m3u8|referer=https:\\/\\/zlive.st\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 321
-  },
-  {
-    "id": 720,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Sudamericana\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/480\\/image\\/dark\"},\"teamA\":{\"name\":\"Boca Juniors\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3202\\/image\"},\"teamB\":{\"name\":\"Recoleta\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/292595\\/image\"},\"links\":\"pro\\/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvY2EgSnVuaW9ycy12cy1SZWNvbGV0YTE3ODY0Mzg4MzMzNTY.txt\",\"time\":\"22:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"00:20:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"SportDigital Fussball\",\"SPORT TV \",\"beiN SPORTS \"]}",
-    "links": "[{\"name\":\"SportDigital Fussball\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ssdefyhkkr\\/out\\/v1\\/cf01290cb7f64525bdf861580a016ca8\\/cenc.mpd?|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV \",\"link\":\"https:\\/\\/rdcstream.life\\/live\\/sport-tv-2-pt\\/index.m3u8?|Referer=https:\\/\\/bolodechocolate.fit\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"beiN SPORTS \",\"link\":\"https:\\/\\/bein-esp-xumo.amagi.tv\\/playlistR720P.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 324
-  },
-  {
-    "id": 721,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Libertadores\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/384\\/image\\/dark\"},\"teamA\":{\"name\":\"Fluminense\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1961\\/image\"},\"teamB\":{\"name\":\"Ind. Rivadavia\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/36842\\/image\"},\"links\":\"pro\\/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsdW1pbmVuc2UtdnMtSW5kLiBSaXZhZGF2aWExNzg2NDM4ODMzMzU2.txt\",\"time\":\"22:00:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"00:20:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beIN ENGLISH - AQ\",\"ESPN BR \",\"SPORT TV \"]}",
-    "links": "[{\"name\":\"beIN ENGLISH - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/q4u5nwaogz\\/out\\/v1\\/18de6d3e65934f3a8de4358e69eab86c\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e\",\"tokenApi\":\"\"},{\"name\":\"ESPN BR \",\"link\":\"https:\\/\\/rdcstream.life\\/live\\/espn\\/index.m3u8?|Referer=https:\\/\\/bolodechocolate.fit\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SPORT TV \",\"link\":\"https:\\/\\/rdcstream.life\\/live\\/sport-tv-1-pt\\/index.m3u8?|Referer=https:\\/\\/bolodechocolate.fit\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
-    "order_index": 325
-  },
-  {
-    "id": 723,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"WEF-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377207\\/image\"},\"teamB\":{\"name\":\"LNS-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377203\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"10:30:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtTE5TLVcxNzg2NDM4ODg5NjU3.txt\"}",
+    "id": 724,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Morocco\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/261908\\/image\"},\"teamB\":{\"name\":\"Cameroon\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/69218\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"20:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"22:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTW9yb2Njby12cy1DYW1lcm9vbjE3ODY1MjE3NzY4Njk.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 327
+    "order_index": 328
   },
   {
     "id": 725,
-    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"MSG\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377173\\/image\"},\"teamB\":{\"name\":\"SL\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377178\\/image\"},\"links\":\"pro\\/VGhlIEh1bmRyZWQtTVNHLXZzLVNMMTc4NjQzODg4OTY1OA.txt\",\"time\":\"17:30:00\",\"date\":\"11\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"WILLOW - AQ\",\"Cricfy Live \",\"WILLOW ALT\",\"SKY SPORT NZ\",\"FOX CRICKET HD\",\"LOW QUALITY\"]}",
-    "links": "[{\"name\":\"WILLOW - AQ\",\"link\":\"https:\\/\\/otte.live.fly.ww.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/e8xfiwkrmm\\/out\\/v1\\/edffbaac67e44d9aa6eb6c9a01fb5aeb\\/cenc.mpd\",\"scheme\":0,\"api\":\"0b3a4173d4e7318247831287ce00395e:7144eda20ed87559acc226d79ea686fa\",\"tokenApi\":\"\"},{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/bl.rutube.ru\\/livestream\\/7c13a51576b9ff2601f08f5d57dd5169\\/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"WILLOW ALT\",\"link\":\"https:\\/\\/abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/e8xfiwkrmm\\/out\\/v1\\/edffbaac67e44d9aa6eb6c9a01fb5aeb\\/cenc.mpd\",\"scheme\":0,\"api\":\"0b3a4173d4e7318247831287ce00395e:7144eda20ed87559acc226d79ea686fa\",\"tokenApi\":\"\"},{\"name\":\"SKY SPORT NZ\",\"link\":\"https:\\/\\/tmaxapp.site\\/8wirwjs76erftg\\/skysport2nzf5az.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"FOX CRICKET HD\",\"link\":\"http:\\/\\/line.tvdsz.cc\\/play\\/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.40\\/hls\\/UZZZA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Algeria\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/180004\\/image\"},\"teamB\":{\"name\":\"Malawi\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/298498\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"17:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"19:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtQWxnZXJpYS12cy1NYWxhd2kxNzg2NTIxNzc2ODcw.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 329
   },
   {
     "id": 726,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Yankees\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3654\\/image\"},\"teamB\":{\"name\":\"Mariners\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3641\\/image\"},\"links\":\"pro\\/TUxCLVlhbmtlZXMtdnMtTWFyaW5lcnMxNzg2NDM4OTUwMzA1.txt\",\"time\":\"23:05:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"02:05:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream1.pro\\/hls\\/Czajafjihafch18.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Super Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/465\\/image\\/dark\"},\"teamA\":{\"name\":\"PSG\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1644\\/image\"},\"teamB\":{\"name\":\"Aston Villa\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/40\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"19:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"21:20:00\",\"links\":\"pro\\/VUVGQSBTdXBlciBDdXAtUFNHLXZzLUFzdG9uIFZpbGxhMTc4NjUyMTc3Njg3MA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 330
   },
   {
     "id": 727,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3648\\/image\"},\"teamB\":{\"name\":\"Guardians\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3650\\/image\"},\"links\":\"pro\\/TUxCLVRpZ2Vycy12cy1HdWFyZGlhbnMxNzg2NDM4OTUwMzA1.txt\",\"time\":\"22:40:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"01:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/dazhfiach15.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Arsenal\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/42\\/image\"},\"teamB\":{\"name\":\"Como\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2704\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"18:30:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"20:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1BcnNlbmFsLXZzLUNvbW8xNzg2NTIxNzc2ODcw.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 331
   },
   {
     "id": 728,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Twins\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3649\\/image\"},\"teamB\":{\"name\":\"Orioles\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3652\\/image\"},\"links\":\"pro\\/TUxCLVR3aW5zLXZzLU9yaW9sZXMxNzg2NDM4OTUwMzA1.txt\",\"time\":\"23:40:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"02:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream1.pro\\/hls\\/jkzahzadach20.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Forest\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/14\\/image\"},\"teamB\":{\"name\":\"Leverkusen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2681\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"18:45:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"21:05:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Gb3Jlc3QtdnMtTGV2ZXJrdXNlbjE3ODY1MjE3NzY4NzA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 332
   },
   {
     "id": 729,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Marlins\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3639\\/image\"},\"teamB\":{\"name\":\"Pirates\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3637\\/image\"},\"links\":\"pro\\/TUxCLU1hcmxpbnMtdnMtUGlyYXRlczE3ODY0Mzg5NTAzMDU.txt\",\"time\":\"22:40:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"01:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/16yuitzaerghbhc16.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Libertadores\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/384\\/image\\/dark\"},\"teamA\":{\"name\":\"Palmeiras\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1963\\/image\"},\"teamB\":{\"name\":\"Cerro Porteño\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5991\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"22:00:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"00:20:00\",\"links\":\"pro\\/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLVBhbG1laXJhcy12cy1DZXJybyBQb3J0ZcOxbzE3ODY1MjE3NzY4NzA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 333
   },
   {
     "id": 730,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Nationals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5930\\/image\"},\"teamB\":{\"name\":\"Cubs\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3627\\/image\"},\"links\":\"pro\\/TUxCLU5hdGlvbmFscy12cy1DdWJzMTc4NjQzODk1MDMwNQ.txt\",\"time\":\"22:45:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"01:45:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/ihfazugfyjcazich17.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Conference League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/17015\\/image\\/dark\"},\"teamA\":{\"name\":\"København\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1284\\/image\"},\"teamB\":{\"name\":\"DVSC\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1921\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Lw7hiZW5oYXZuLXZzLURWU0MxNzg2NTIxNzc2ODcw.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 334
   },
   {
     "id": 731,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Dodgers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3638\\/image\"},\"teamB\":{\"name\":\"Royals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3651\\/image\"},\"links\":\"pro\\/TUxCLURvZGdlcnMtdnMtUm95YWxzMTc4NjQzODk1MDMwNQ.txt\",\"time\":\"02:10:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"05:10:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/hfzljfahzcax29.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Deportivo\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2832\\/image\"},\"teamB\":{\"name\":\"Real Madrid\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2829\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"19:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"21:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1EZXBvcnRpdm8tdnMtUmVhbCBNYWRyaWQxNzg2NTIxNzc2ODcw.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 335
   },
   {
     "id": 732,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Diamondbacks\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3640\\/image\"},\"teamB\":{\"name\":\"Rockies\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3628\\/image\"},\"links\":\"pro\\/TUxCLURpYW1vbmRiYWNrcy12cy1Sb2NraWVzMTc4NjQzODk1MDMwNQ.txt\",\"time\":\"01:40:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"04:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/kjhfzua25.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Libertadores\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/384\\/image\\/dark\"},\"teamA\":{\"name\":\"Cruzeiro\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1954\\/image\"},\"teamB\":{\"name\":\"Flamengo\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5981\\/image\"},\"visible\":true,\"date\":\"13\\/08\\/2026\",\"time\":\"00:30:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"02:50:00\",\"links\":\"pro\\/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUNydXplaXJvLXZzLUZsYW1lbmdvMTc4NjUyMTc3Njg3MA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 336
   },
   {
     "id": 733,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Cardinals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3632\\/image\"},\"teamB\":{\"name\":\"Phillies\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3635\\/image\"},\"links\":\"pro\\/TUxCLUNhcmRpbmFscy12cy1QaGlsbGllczE3ODY0Mzg5NTAzMDU.txt\",\"time\":\"23:45:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"02:45:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/jnzkdzjfanch23.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Man Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/35\\/image\"},\"teamB\":{\"name\":\"Leeds\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"18:30:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"20:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gVXRkLXZzLUxlZWRzMTc4NjUyMTc3Njg3MA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 337
   },
   {
     "id": 734,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Blue Jays\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3642\\/image\"},\"teamB\":{\"name\":\"Red Sox\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3646\\/image\"},\"visible\":true,\"date\":\"11\\/08\\/2026\",\"time\":\"23:07:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"02:07:00\",\"links\":\"pro\\/TUxCLUJsdWUgSmF5cy12cy1SZWQgU294MTc4NjQzODk1MDMwNQ.txt\"}",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Everton\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/48\\/image\"},\"teamB\":{\"name\":\"Newcastle\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/39\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"16:15:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"18:35:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1FdmVydG9uLXZzLU5ld2Nhc3RsZTE3ODY1MjE3NzY4NzA.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 338
   },
   {
     "id": 735,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Athletics\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3645\\/image\"},\"teamB\":{\"name\":\"Rays\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3653\\/image\"},\"links\":\"pro\\/TUxCLUF0aGxldGljcy12cy1SYXlzMTc4NjQzODk1MDMwNg.txt\",\"time\":\"01:40:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"04:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live \",\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54438\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/dzjhkfazbka26.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Napoli\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2714\\/image\"},\"teamB\":{\"name\":\"Aris\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3252\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"19:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"21:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1OYXBvbGktdnMtQXJpczE3ODY1MjE3NzY4NzA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 339
   },
   {
     "id": 736,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Padres\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3636\\/image\"},\"teamB\":{\"name\":\"Brewers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3630\\/image\"},\"links\":\"pro\\/TUxCLVBhZHJlcy12cy1CcmV3ZXJzMTc4NjQzODk1MDMwNg.txt\",\"time\":\"01:40:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"04:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live \",\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54441\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/hefbafbakx28.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"BPH\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377174\\/image\"},\"teamB\":{\"name\":\"MIL\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377172\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"17:30:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQtQlBILXZzLU1JTDE3ODY1MjE4MTgyNDY.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 340
   },
   {
     "id": 737,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"White Sox\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3644\\/image\"},\"teamB\":{\"name\":\"Reds\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3633\\/image\"},\"links\":\"pro\\/TUxCLVdoaXRlIFNveC12cy1SZWRzMTc4NjQzODk1MDMwNg.txt\",\"time\":\"23:40:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"02:40:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/ojzkajnach21.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"BPH-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377202\\/image\"},\"teamB\":{\"name\":\"MIL-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377200\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"14:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tQlBILVctdnMtTUlMLVcxNzg2NTIxODE4MjQ2.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 341
   },
   {
     "id": 738,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Angels\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5929\\/image\"},\"teamB\":{\"name\":\"Rangers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3647\\/image\"},\"links\":\"pro\\/TUxCLUFuZ2Vscy12cy1SYW5nZXJzMTc4NjQzODk1MDMwNg.txt\",\"time\":\"01:38:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"04:38:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live \",\"Cricfy Live \"]}",
-    "links": "[{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54473\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/fskjanach24.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"One Day International\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11190\\/image\\/dark\"},\"teamA\":{\"name\":\"IRE\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187766\\/image\"},\"teamB\":{\"name\":\"AFG\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187575\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"09:45:00\",\"links\":\"pro\\/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg2NTIxODE4MjQ2.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 342
   },
   {
     "id": 739,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Giants\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3634\\/image\"},\"teamB\":{\"name\":\"Astros\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3655\\/image\"},\"links\":\"pro\\/TUxCLUdpYW50cy12cy1Bc3Ryb3MxNzg2NDM4OTUwMzA2.txt\",\"time\":\"01:45:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"04:45:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/jzabfazkbf27.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred Women\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16717\\/image\\/dark\"},\"teamA\":{\"name\":\"WEF-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377207\\/image\"},\"teamB\":{\"name\":\"LNS-W\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377203\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"10:30:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtTE5TLVcxNzg2NTIxODE4MjQ2.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 343
   },
   {
     "id": 740,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Braves\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3656\\/image\"},\"teamB\":{\"name\":\"Mets\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3629\\/image\"},\"links\":\"pro\\/TUxCLUJyYXZlcy12cy1NZXRzMTc4NjQzODk1MDMwNg.txt\",\"time\":\"23:15:00\",\"date\":\"11\\/08\\/2026\",\"end_time\":\"02:15:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
-    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream2.pro\\/hls\\/ijfnakfidch22.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"The Hundred\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/16710\\/image\\/dark\"},\"teamA\":{\"name\":\"WEF\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377179\\/image\"},\"teamB\":{\"name\":\"LNS\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/377175\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"14:00:00\",\"links\":\"pro\\/VGhlIEh1bmRyZWQtV0VGLXZzLUxOUzE3ODY1MjE4MTgyNDY.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 344
+  },
+  {
+    "id": 741,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Athletics\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3645\\/image\"},\"teamB\":{\"name\":\"Rays\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3653\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"19:05:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"22:05:00\",\"links\":\"pro\\/TUxCLUF0aGxldGljcy12cy1SYXlzMTc4NjUyMTg4MzQxMw.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 345
+  },
+  {
+    "id": 742,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"White Sox\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3644\\/image\"},\"teamB\":{\"name\":\"Reds\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3633\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"23:40:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"02:40:00\",\"links\":\"pro\\/TUxCLVdoaXRlIFNveC12cy1SZWRzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 346
+  },
+  {
+    "id": 743,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Padres\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3636\\/image\"},\"teamB\":{\"name\":\"Brewers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3630\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"20:10:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"23:10:00\",\"links\":\"pro\\/TUxCLVBhZHJlcy12cy1CcmV3ZXJzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 347
+  },
+  {
+    "id": 744,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Diamondbacks\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3640\\/image\"},\"teamB\":{\"name\":\"Rockies\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3628\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"19:40:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"22:40:00\",\"links\":\"pro\\/TUxCLURpYW1vbmRiYWNrcy12cy1Sb2NraWVzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 348
+  },
+  {
+    "id": 745,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Blue Jays\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3642\\/image\"},\"teamB\":{\"name\":\"Red Sox\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3646\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"23:07:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"02:07:00\",\"links\":\"pro\\/TUxCLUJsdWUgSmF5cy12cy1SZWQgU294MTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 349
+  },
+  {
+    "id": 746,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Twins\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3649\\/image\"},\"teamB\":{\"name\":\"Orioles\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3652\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"17:40:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"20:40:00\",\"links\":\"pro\\/TUxCLVR3aW5zLXZzLU9yaW9sZXMxNzg2NTIxODgzNDE0.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 350
+  },
+  {
+    "id": 747,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Angels\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5929\\/image\"},\"teamB\":{\"name\":\"Rangers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3647\\/image\"},\"visible\":true,\"date\":\"13\\/08\\/2026\",\"time\":\"02:10:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"05:10:00\",\"links\":\"pro\\/TUxCLUFuZ2Vscy12cy1SYW5nZXJzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 351
+  },
+  {
+    "id": 748,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Yankees\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3654\\/image\"},\"teamB\":{\"name\":\"Mariners\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3641\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"23:05:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"02:05:00\",\"links\":\"pro\\/TUxCLVlhbmtlZXMtdnMtTWFyaW5lcnMxNzg2NTIxODgzNDE0.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 352
+  },
+  {
+    "id": 749,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Nationals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5930\\/image\"},\"teamB\":{\"name\":\"Cubs\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3627\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"22:45:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"01:45:00\",\"links\":\"pro\\/TUxCLU5hdGlvbmFscy12cy1DdWJzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 353
+  },
+  {
+    "id": 750,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Dodgers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3638\\/image\"},\"teamB\":{\"name\":\"Royals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3651\\/image\"},\"visible\":true,\"date\":\"13\\/08\\/2026\",\"time\":\"02:10:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"05:10:00\",\"links\":\"pro\\/TUxCLURvZGdlcnMtdnMtUm95YWxzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 354
+  },
+  {
+    "id": 751,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3648\\/image\"},\"teamB\":{\"name\":\"Guardians\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3650\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"22:40:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"01:40:00\",\"links\":\"pro\\/TUxCLVRpZ2Vycy12cy1HdWFyZGlhbnMxNzg2NTIxODgzNDE0.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 355
+  },
+  {
+    "id": 752,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Giants\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3634\\/image\"},\"teamB\":{\"name\":\"Astros\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3655\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"19:45:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"22:45:00\",\"links\":\"pro\\/TUxCLUdpYW50cy12cy1Bc3Ryb3MxNzg2NTIxODgzNDE0.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 356
+  },
+  {
+    "id": 753,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Cardinals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3632\\/image\"},\"teamB\":{\"name\":\"Phillies\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3635\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"18:15:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"21:15:00\",\"links\":\"pro\\/TUxCLUNhcmRpbmFscy12cy1QaGlsbGllczE3ODY1MjE4ODM0MTQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 357
+  },
+  {
+    "id": 754,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Braves\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3656\\/image\"},\"teamB\":{\"name\":\"Mets\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3629\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"23:15:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"02:15:00\",\"links\":\"pro\\/TUxCLUJyYXZlcy12cy1NZXRzMTc4NjUyMTg4MzQxNA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 358
+  },
+  {
+    "id": 755,
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Marlins\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3639\\/image\"},\"teamB\":{\"name\":\"Pirates\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3637\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"22:40:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"01:40:00\",\"links\":\"pro\\/TUxCLU1hcmxpbnMtdnMtUGlyYXRlczE3ODY1MjE4ODM0MTQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 359
   }
 ]
