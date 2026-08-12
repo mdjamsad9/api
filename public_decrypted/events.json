@@ -55,8 +55,8 @@
   },
   {
     "id": 724,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Morocco\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/261908\\/image\"},\"teamB\":{\"name\":\"Cameroon\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/69218\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"20:00:00\",\"end_date\":\"12\\/08\\/2026\",\"end_time\":\"22:20:00\",\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTW9yb2Njby12cy1DYW1lcm9vbjE3ODY1MjE3NzY4Njk.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Morocco\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/261908\\/image\"},\"teamB\":{\"name\":\"Cameroon\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/69218\\/image\"},\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTW9yb2Njby12cy1DYW1lcm9vbjE3ODY1MjE3NzY4Njk.txt\",\"time\":\"20:00:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"22:20:00\",\"end_date\":\"12\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beiN SPORTS \",\"HD SERVER\",\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"beiN SPORTS \",\"link\":\"https:\\/\\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\\/playlist.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD SERVER\",\"link\":\"https:\\/\\/bein-esp-xumo.amagi.tv\\/playlistR720P.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/JGGGAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 328
   },
   {
@@ -85,8 +85,8 @@
   },
   {
     "id": 729,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Libertadores\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/384\\/image\\/dark\"},\"teamA\":{\"name\":\"Palmeiras\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1963\\/image\"},\"teamB\":{\"name\":\"Cerro Porteño\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5991\\/image\"},\"visible\":true,\"date\":\"12\\/08\\/2026\",\"time\":\"22:00:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"00:20:00\",\"links\":\"pro\\/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLVBhbG1laXJhcy12cy1DZXJybyBQb3J0ZcOxbzE3ODY1MjE3NzY4NzA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"CONMEBOL Libertadores\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/384\\/image\\/dark\"},\"teamA\":{\"name\":\"Palmeiras\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1963\\/image\"},\"teamB\":{\"name\":\"Cerro Porteño\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5991\\/image\"},\"links\":\"pro\\/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLVBhbG1laXJhcy12cy1DZXJybyBQb3J0ZcOxbzE3ODY1MjE3NzY4NzA.txt\",\"time\":\"22:00:00\",\"date\":\"12\\/08\\/2026\",\"end_time\":\"00:20:00\",\"end_date\":\"13\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beIN ENGLISH \"]}",
+    "links": "[{\"name\":\"beIN ENGLISH \",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/q4u5nwaogz\\/out\\/v1\\/18de6d3e65934f3a8de4358e69eab86c\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e\",\"tokenApi\":\"\"}]",
     "order_index": 333
   },
   {
