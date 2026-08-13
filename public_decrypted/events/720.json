@@ -3,43 +3,26 @@
   "order_index": 324,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Sudamericana",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Boca Juniors",
-    "logo": "https://img.sofascore.com/api/v1/team/3202/image"
+    "name": "South Africa",
+    "logo": "https://img.sofascore.com/api/v1/team/65336/image"
   },
   "teamB": {
-    "name": "Recoleta",
-    "logo": "https://img.sofascore.com/api/v1/team/292595/image"
+    "name": "Nigeria",
+    "logo": "https://img.sofascore.com/api/v1/team/7420/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvY2EgSnVuaW9ycy12cy1SZWNvbGV0YTE3ODY0Mzg4MzMzNTY.txt",
+  "date": "13/08/2026",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLU5pZ2VyaWExNzg2NjEzMDk1MjM5.txt",
   "links": [
     {
-      "name": "SportDigital Fussball",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT TV ",
-      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "beiN SPORTS ",
-      "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

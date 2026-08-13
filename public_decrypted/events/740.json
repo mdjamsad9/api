@@ -2,65 +2,27 @@
   "id": 740,
   "order_index": 344,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "WEF",
-    "logo": "https://img.sofascore.com/api/v1/team/377179/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "teamB": {
-    "name": "LNS",
-    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtV0VGLXZzLUxOUzE3ODY1MjE4MTgyNDY.txt",
+  "date": "14/08/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtQnJld2VyczE3ODY2MTMxNDYwODM.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd",
-      "scheme": 0,
-      "api": "4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY CRICKET - HD",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd",
-      "scheme": 0,
-      "api": "4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY SPORT NZ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/UZZZddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "id": 723,
   "order_index": 327,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
   },
   "teamA": {
-    "name": "WEF-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
+    "name": "DAC 1904",
+    "logo": "https://img.sofascore.com/api/v1/team/23833/image"
   },
   "teamB": {
-    "name": "LNS-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377203/image"
+    "name": "Twente",
+    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "10:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtTE5TLVcxNzg2NDM4ODg5NjU3.txt",
+  "date": "13/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1EQUMgMTkwNC12cy1Ud2VudGUxNzg2NjEzMDk1MjM5.txt",
   "links": [
     {
       "name": "Link 1",

@@ -3,29 +3,26 @@
   "order_index": 319,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
   },
   "teamA": {
-    "name": "Sturm",
-    "logo": "https://img.sofascore.com/api/v1/team/2051/image"
+    "name": "Beşiktaş",
+    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
   },
   "teamB": {
-    "name": "Fenerbahçe",
-    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
+    "name": "Hradec Králové",
+    "logo": "https://img.sofascore.com/api/v1/team/2217/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVN0dXJtLXZzLUZlbmVyYmFow6dlMTc4NjQzODgzMzM1Ng.txt",
+  "date": "13/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUJlxZ9pa3RhxZ8tdnMtSHJhZGVjIEtyw6Fsb3bDqTE3ODY2MTMwOTUyMzk.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/DAAAAAAFA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

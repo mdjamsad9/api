@@ -16,13 +16,16 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
+  "date": "14/08/2026",
   "time": "00:30:00",
   "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUFVUy12cy1CQU4xNzg1OTYyNTA2ODI2.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

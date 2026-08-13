@@ -3,29 +3,26 @@
   "order_index": 329,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Algeria",
-    "logo": "https://img.sofascore.com/api/v1/team/180004/image"
+    "name": "Al-Shabab",
+    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
   },
   "teamB": {
-    "name": "Malawi",
-    "logo": "https://img.sofascore.com/api/v1/team/298498/image"
+    "name": "Al-Qadsiah",
+    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtQWxnZXJpYS12cy1NYWxhd2kxNzg2NTIxNzc2ODcw.txt",
+  "date": "13/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1TaGFiYWItdnMtQWwtUWFkc2lhaDE3ODY2MTMwOTUyMzk.txt",
   "links": [
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

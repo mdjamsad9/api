@@ -3,71 +3,26 @@
   "order_index": 330,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Super Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/465/image/dark"
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
   },
   "teamA": {
-    "name": "PSG",
-    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
+    "name": "Shelbourne",
+    "logo": "https://img.sofascore.com/api/v1/team/3174/image"
   },
   "teamB": {
-    "name": "Aston Villa",
-    "logo": "https://img.sofascore.com/api/v1/team/40/image"
+    "name": "Ajax",
+    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBTdXBlciBDdXAtUFNHLXZzLUFzdG9uIFZpbGxhMTc4NjUyMTc3Njg3MA.txt",
+  "date": "13/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1TaGVsYm91cm5lLXZzLUFqYXgxNzg2NjEzMDk1MjM5.txt",
   "links": [
     {
-      "name": "TNT Sports - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK ",
-      "link": "https://chatgpt.hereisman.net/playlist/54529/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TNT SPORTS ",
-      "link": "https://chatgpt.hereisman.net/playlist/54520/load-playlist?|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HBO MAX BR",
-      "link": "https://rdcstream.life/live/psg-x-aston-villa/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy TV ",
-      "link": "https://live.vivo200.com/live/sd-1-4547510.m3u8?txSecret=f05f338d72f29bab51e8f0500da32dfe&txTime=6A7CCF5B|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "PARAMOUNT+ ",
-      "link": "https://embedindia.st/embed/uefa-super-cup/2026-08-12/psg-avl/paramount-en",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

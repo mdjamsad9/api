@@ -2,58 +2,27 @@
   "id": 736,
   "order_index": 340,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "BPH",
-    "logo": "https://img.sofascore.com/api/v1/team/377174/image"
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
   },
   "teamB": {
-    "name": "MIL",
-    "logo": "https://img.sofascore.com/api/v1/team/377172/image"
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtQlBILXZzLU1JTDE3ODY1MjE4MTgyNDY.txt",
+  "date": "13/08/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1SZWRzMTc4NjYxMzE0NjA4Mw.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gylzfyopl1/out/v1/9f484b442bd74483ac438ae11a000d00/cenc.mpd",
-      "scheme": 0,
-      "api": "3b084d3dc2d9165a4dfbb5a79bedb6a3:29393c86bdcbec79889d4a8927444828",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gylzfyopl1/out/v1/9f484b442bd74483ac438ae11a000d00/cenc.mpd",
-      "scheme": 0,
-      "api": "3b084d3dc2d9165a4dfbb5a79bedb6a3:29393c86bdcbec79889d4a8927444828",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/UZZZddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "id": 732,
   "order_index": 336,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Cruzeiro",
-    "logo": "https://img.sofascore.com/api/v1/team/1954/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "teamB": {
-    "name": "Flamengo",
-    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUNydXplaXJvLXZzLUZsYW1lbmdvMTc4NjUyMTc3Njg3MA.txt",
+  "date": "14/08/2026",
+  "time": "02:07:00",
+  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1SYW5nZXJzMTc4NjYxMzE0NjA4Mw.txt",
   "links": [
     {
       "name": "Link 1",

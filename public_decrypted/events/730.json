@@ -2,23 +2,23 @@
   "id": 730,
   "order_index": 334,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC CWC League 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
   },
   "teamA": {
-    "name": "København",
-    "logo": "https://img.sofascore.com/api/v1/team/1284/image"
+    "name": "SCO",
+    "logo": "https://img.sofascore.com/api/v1/team/187576/image"
   },
   "teamB": {
-    "name": "DVSC",
-    "logo": "https://img.sofascore.com/api/v1/team/1921/image"
+    "name": "CAN",
+    "logo": "https://img.sofascore.com/api/v1/team/189195/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Lw7hiZW5oYXZuLXZzLURWU0MxNzg2NTIxNzc2ODcw.txt",
+  "date": "13/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1TQ08tdnMtQ0FOMTc4NjYxMzExOTE1Mg.txt",
   "links": [
     {
       "name": "Link 1",

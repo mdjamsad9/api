@@ -3,22 +3,22 @@
   "order_index": 326,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Levante",
-    "logo": "https://img.sofascore.com/api/v1/team/2849/image"
+    "name": "Abha",
+    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
   },
   "teamB": {
-    "name": "Silla CF",
-    "logo": "https://img.sofascore.com/api/v1/team/229621/image"
+    "name": "Al-Hazem",
+    "logo": "https://img.sofascore.com/api/v1/team/168086/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZXZhbnRlLXZzLVNpbGxhIENGMTc4NjQzODgzMzM1Ng.txt",
+  "date": "13/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BYmhhLXZzLUFsLUhhemVtMTc4NjYxMzA5NTIzOQ.txt",
   "links": [
     {
       "name": "Link 1",

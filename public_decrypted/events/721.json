@@ -3,43 +3,26 @@
   "order_index": 325,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
   },
   "teamA": {
-    "name": "Fluminense",
-    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
   },
   "teamB": {
-    "name": "Ind. Rivadavia",
-    "logo": "https://img.sofascore.com/api/v1/team/36842/image"
+    "name": "Macará",
+    "logo": "https://img.sofascore.com/api/v1/team/6001/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
+  "date": "13/08/2026",
   "time": "22:00:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsdW1pbmVuc2UtdnMtSW5kLiBSaXZhZGF2aWExNzg2NDM4ODMzMzU2.txt",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLVNhbnRvcy12cy1NYWNhcsOhMTc4NjYxMzA5NTIzOQ.txt",
   "links": [
     {
-      "name": "beIN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN BR ",
-      "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT TV ",
-      "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

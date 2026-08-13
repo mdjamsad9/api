@@ -3,50 +3,26 @@
   "order_index": 321,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
   },
   "teamA": {
-    "name": "Lyon",
-    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+    "name": "Hearts",
+    "logo": "https://img.sofascore.com/api/v1/team/2353/image"
   },
   "teamB": {
-    "name": "Sparta Praha",
-    "logo": "https://img.sofascore.com/api/v1/team/2218/image"
+    "name": "Benfica",
+    "logo": "https://img.sofascore.com/api/v1/team/3006/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "11/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUx5b24tdnMtU3BhcnRhIFByYWhhMTc4NjQzODgzMzM1Ng.txt",
+  "date": "13/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUhlYXJ0cy12cy1CZW5maWNhMTc4NjYxMzA5NTIzOQ.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://chatgpt.hereisman.net/playlist/54474/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT TV FHD",
-      "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/DAAAAAAFAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT TV HD",
-      "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

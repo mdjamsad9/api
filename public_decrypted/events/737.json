@@ -2,30 +2,27 @@
   "id": 737,
   "order_index": 341,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "BPH-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377202/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "teamB": {
-    "name": "MIL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377200/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tQlBILVctdnMtTUlMLVcxNzg2NTIxODE4MjQ2.txt",
+  "date": "13/08/2026",
+  "time": "19:07:00",
+  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1SZWQgU294MTc4NjYxMzE0NjA4Mw.txt",
   "links": [
     {
-      "name": "WILLOW FHD",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
-      "scheme": 0,
-      "api": "2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

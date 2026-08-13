@@ -3,36 +3,26 @@
   "order_index": 332,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Forest",
-    "logo": "https://img.sofascore.com/api/v1/team/14/image"
+    "name": "Côte d'Ivoire",
+    "logo": "https://img.sofascore.com/api/v1/team/186328/image"
   },
   "teamB": {
-    "name": "Leverkusen",
-    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    "name": "Ghana",
+    "logo": "https://img.sofascore.com/api/v1/team/7417/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Gb3Jlc3QtdnMtTGV2ZXJrdXNlbjE3ODY1MjE3NzY4NzA.txt",
+  "date": "13/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtQ8O0dGUgZCdJdm9pcmUtdnMtR2hhbmExNzg2NjEzMDk1MjM5.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/54528/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://live.vivo200.com/live/sd-1-4611833.m3u8?txSecret=15bc292f0653821f94048b2348f2b2ea&txTime=6A7CCC98|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

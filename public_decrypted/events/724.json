@@ -3,43 +3,26 @@
   "order_index": 328,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
   },
   "teamA": {
-    "name": "Morocco",
-    "logo": "https://img.sofascore.com/api/v1/team/261908/image"
+    "name": "Mirassol",
+    "logo": "https://img.sofascore.com/api/v1/team/21982/image"
   },
   "teamB": {
-    "name": "Cameroon",
-    "logo": "https://img.sofascore.com/api/v1/team/69218/image"
+    "name": "LDU",
+    "logo": "https://img.sofascore.com/api/v1/team/5257/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "20:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTW9yb2Njby12cy1DYW1lcm9vbjE3ODY1MjE3NzY4Njk.txt",
+  "date": "13/08/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLU1pcmFzc29sLXZzLUxEVTE3ODY2MTMwOTUyMzk.txt",
   "links": [
     {
-      "name": "beiN SPORTS ",
-      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/JGGGAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

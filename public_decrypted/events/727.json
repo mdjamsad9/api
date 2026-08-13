@@ -3,57 +3,26 @@
   "order_index": 331,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
   },
   "teamA": {
-    "name": "Arsenal",
-    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    "name": "Vasco",
+    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
   },
   "teamB": {
-    "name": "Como",
-    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
+    "name": "Olimpia",
+    "logo": "https://img.sofascore.com/api/v1/team/5997/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BcnNlbmFsLXZzLUNvbW8xNzg2NTIxNzc2ODcw.txt",
+  "date": "13/08/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLVZhc2NvLXZzLU9saW1waWExNzg2NjEzMDk1MjM5.txt",
   "links": [
     {
-      "name": "Arsenal TV HD",
-      "link": "https://chatgpt.hereisman.net/playlist/54527/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN BR ",
-      "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4565097.m3u8?txSecret=aac25085679fe682be0b3947509b3bfb&txTime=6A7CCBE2|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://edgestream1.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "AD SPORTS",
-      "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
-      "scheme": 0,
-      "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

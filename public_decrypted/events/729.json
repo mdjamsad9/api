@@ -3,29 +3,26 @@
   "order_index": 333,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Palmeiras",
-    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+    "name": "Al Diriyah",
+    "logo": "https://img.sofascore.com/api/v1/team/853574/image"
   },
   "teamB": {
-    "name": "Cerro Porteño",
-    "logo": "https://img.sofascore.com/api/v1/team/5991/image"
+    "name": "Al-Ahli",
+    "logo": "https://img.sofascore.com/api/v1/team/34469/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLVBhbG1laXJhcy12cy1DZXJybyBQb3J0ZcOxbzE3ODY1MjE3NzY4NzA.txt",
+  "date": "13/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbCBEaXJpeWFoLXZzLUFsLUFobGkxNzg2NjEzMDk1MjM5.txt",
   "links": [
     {
-      "name": "beIN ENGLISH ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
