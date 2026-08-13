@@ -115,8 +115,8 @@
   },
   {
     "id": 725,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Saudi Pro League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/955\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Shabab\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34313\\/image\"},\"teamB\":{\"name\":\"Al-Qadsiah\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56027\\/image\"},\"visible\":true,\"date\":\"13\\/08\\/2026\",\"time\":\"18:00:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"20:20:00\",\"links\":\"pro\\/U2F1ZGkgUHJvIExlYWd1ZS1BbC1TaGFiYWItdnMtQWwtUWFkc2lhaDE3ODY2MTMwOTUyMzk.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Saudi Pro League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/955\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Shabab\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34313\\/image\"},\"teamB\":{\"name\":\"Al-Qadsiah\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56027\\/image\"},\"links\":\"pro\\/U2F1ZGkgUHJvIExlYWd1ZS1BbC1TaGFiYWItdnMtQWwtUWFkc2lhaDE3ODY2MTMwOTUyMzk.txt\",\"time\":\"18:00:00\",\"date\":\"13\\/08\\/2026\",\"end_time\":\"20:20:00\",\"end_date\":\"13\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"FOX DEPORTES \"]}",
+    "links": "[{\"name\":\"FOX DEPORTES \",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/vkpoljjpkj\\/out\\/v1\\/502bcf68b3514cd28a220e6f0a43816f\\/cenc.mpd\",\"scheme\":0,\"api\":\"d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811\",\"tokenApi\":\"\"}]",
     "order_index": 329
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "id": 729,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Saudi Pro League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/955\\/image\\/dark\"},\"teamA\":{\"name\":\"Al Diriyah\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/853574\\/image\"},\"teamB\":{\"name\":\"Al-Ahli\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34469\\/image\"},\"visible\":true,\"date\":\"13\\/08\\/2026\",\"time\":\"18:00:00\",\"end_date\":\"13\\/08\\/2026\",\"end_time\":\"20:20:00\",\"links\":\"pro\\/U2F1ZGkgUHJvIExlYWd1ZS1BbCBEaXJpeWFoLXZzLUFsLUFobGkxNzg2NjEzMDk1MjM5.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Saudi Pro League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/955\\/image\\/dark\"},\"teamA\":{\"name\":\"Al Diriyah\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/853574\\/image\"},\"teamB\":{\"name\":\"Al-Ahli\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34469\\/image\"},\"links\":\"pro\\/U2F1ZGkgUHJvIExlYWd1ZS1BbCBEaXJpeWFoLXZzLUFsLUFobGkxNzg2NjEzMDk1MjM5.txt\",\"time\":\"18:00:00\",\"date\":\"13\\/08\\/2026\",\"end_time\":\"20:20:00\",\"end_date\":\"13\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"SportDigital Fussball\"]}",
+    "links": "[{\"name\":\"SportDigital Fussball\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ssdefyhkkr\\/out\\/v1\\/cf01290cb7f64525bdf861580a016ca8\\/cenc.mpd\",\"scheme\":0,\"api\":\"0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8\",\"tokenApi\":\"\"}]",
     "order_index": 333
   },
   {
