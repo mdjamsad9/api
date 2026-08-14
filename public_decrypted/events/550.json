@@ -21,10 +21,24 @@
   "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUFVUy12cy1CQU4xNzg1OTYyNTA2ODI2.txt",
   "links": [
     {
+      "name": "TAPMAD - AQ ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "WILLOW - AQ",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
       "scheme": 0,
       "api": "39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORTS NZ",
+      "link": "https://latestmovies.net/api/live/playlist/592",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     },
     {
