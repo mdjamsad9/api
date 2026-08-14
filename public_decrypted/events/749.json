@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Guardians",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
   },
   "teamB": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "Padres",
+    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "22:45:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1DdWJzMTc4NjUyMTg4MzQxNA.txt",
+  "date": "14/08/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1QYWRyZXMxNzg2NzMwNzA1NDU2.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

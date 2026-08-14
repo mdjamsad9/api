@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "teamB": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "18:15:00",
-  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1QaGlsbGllczE3ODY1MjE4ODM0MTQ.txt",
+  "date": "14/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtUmVkIFNveDE3ODY3MzA3MDU0NTY.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

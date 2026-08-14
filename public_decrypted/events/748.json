@@ -7,22 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "teamB": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "23:05:00",
-  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtTWFyaW5lcnMxNzg2NTIxODgzNDE0.txt",
+  "date": "15/08/2026",
+  "time": "01:40:00",
+  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1SYW5nZXJzMTc4NjczMDcwNTQ1Ng.txt",
   "links": [
     {
       "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

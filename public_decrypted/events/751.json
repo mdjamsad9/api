@@ -11,18 +11,18 @@
     "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
+  "date": "14/08/2026",
   "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1HdWFyZGlhbnMxNzg2NTIxODgzNDE0.txt",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1XaGl0ZSBTb3gxNzg2NzMwNzA1NDU2.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream2.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "HD QUALITY",
+      "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
