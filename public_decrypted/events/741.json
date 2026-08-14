@@ -2,37 +2,27 @@
   "id": 741,
   "order_index": 345,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Wolves",
+    "logo": "https://img.sofascore.com/api/v1/team/3/image"
   },
   "teamB": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Blackburn",
+    "logo": "https://img.sofascore.com/api/v1/team/46/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "19:05:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1SYXlzMTc4NjUyMTg4MzQxMw.txt",
+  "date": "14/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdvbHZlcy12cy1CbGFja2J1cm4xNzg2NzA2MzY3NDE1.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/54530/load-playlist?&. m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

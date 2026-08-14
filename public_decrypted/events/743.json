@@ -2,30 +2,27 @@
   "id": 743,
   "order_index": 347,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Padres",
-    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
+    "name": "Cagliari",
+    "logo": "https://img.sofascore.com/api/v1/team/2719/image"
   },
   "teamB": {
-    "name": "Brewers",
-    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
+    "name": "Arezzo",
+    "logo": "https://img.sofascore.com/api/v1/team/2731/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "12/08/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLVBhZHJlcy12cy1CcmV3ZXJzMTc4NjUyMTg4MzQxNA.txt",
+  "date": "14/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUNhZ2xpYXJpLXZzLUFyZXp6bzE3ODY3MDYzNjc0MTU.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

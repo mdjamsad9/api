@@ -2,37 +2,27 @@
   "id": 736,
   "order_index": 340,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Real Sociedad B",
+    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
   },
   "teamB": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "Castellón",
+    "logo": "https://img.sofascore.com/api/v1/team/5067/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "18:10:00",
-  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1SZWRzMTc4NjYxMzE0NjA4Mw.txt",
+  "date": "14/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBTb2NpZWRhZCBCLXZzLUNhc3RlbGzDs24xNzg2NzA2MzY3NDE1.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/54577/load-playlist?|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

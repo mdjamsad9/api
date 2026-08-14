@@ -2,30 +2,27 @@
   "id": 737,
   "order_index": 341,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Fiorentina",
+    "logo": "https://img.sofascore.com/api/v1/team/2693/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Benevento",
+    "logo": "https://img.sofascore.com/api/v1/team/2759/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "19:07:00",
-  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1SZWQgU294MTc4NjYxMzE0NjA4Mw.txt",
+  "date": "14/08/2026",
+  "time": "19:15:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUZpb3JlbnRpbmEtdnMtQmVuZXZlbnRvMTc4NjcwNjM2NzQxNQ.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
