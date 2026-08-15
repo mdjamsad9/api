@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NJ2dsYWRiYWNoLXZzLUFzdG9uIFZpbGxhMTc4Njc5NDYxNTQ4OQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FUBO SPORTS ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN SPORTS XTRA",
+      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FUBO SPORTS - SD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/r6xfuh6cco/out/v1/d861be5c8987450b848a14be98e1c3c6/cenc-sd.mpd",
+      "scheme": 0,
+      "api": "b427e6e286108e53b7e3a016f22fde8d:13710fa5489e1a6ca946adb44f158cf5",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.190/hls/TMMM.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
