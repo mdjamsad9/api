@@ -187,8 +187,8 @@
   },
   {
     "id": 737,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Chelsea\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/38\\/image\"},\"teamB\":{\"name\":\"Real Sociedad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2824\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVJlYWwgU29jaWVkYWQxNzg2Nzk0NjE1NDg5.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Chelsea\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/38\\/image\"},\"teamB\":{\"name\":\"Real Sociedad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2824\\/image\"},\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVJlYWwgU29jaWVkYWQxNzg2Nzk0NjE1NDg5.txt\",\"time\":\"13:00:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"15:20:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"ETB 1 HD (ES)\",\"HD SERVER\",\"SD SERVER\"]}",
+    "links": "[{\"name\":\"ETB 1 HD (ES)\",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54661\\/load-playlist?|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD SERVER\",\"link\":\"https:\\/\\/edgestream7.pro\\/hls\\/24SDAZFcsqnj24.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SD SERVER\",\"link\":\"http:\\/\\/193.47.62.191\\/hls\\/UMMMA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 341
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "id": 739,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Singapore\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4738\\/image\"},\"teamB\":{\"name\":\"Thailand\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4730\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVNpbmdhcG9yZS12cy1UaGFpbGFuZDE3ODY3OTQ2MTU0ODk.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Singapore\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4738\\/image\"},\"teamB\":{\"name\":\"Thailand\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4730\\/image\"},\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVNpbmdhcG9yZS12cy1UaGFpbGFuZDE3ODY3OTQ2MTU0ODk.txt\",\"time\":\"13:00:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"15:20:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD SERVER \",\"SD SERVER\"]}",
+    "links": "[{\"name\":\"HD SERVER \",\"link\":\"https:\\/\\/live.vivo200.com\\/live\\/sd-1-4612548.m3u8?txSecret=d5f3bc92c67e3df919823da116f5d0ec&txTime=6A807390|Referer=https:\\/\\/player.online909.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SD SERVER\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/NNNFAAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 343
   }
 ]
