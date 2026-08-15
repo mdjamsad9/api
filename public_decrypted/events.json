@@ -139,8 +139,8 @@
   },
   {
     "id": 743,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"Utrecht\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2948\\/image\"},\"teamB\":{\"name\":\"AZ\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2950\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"16:45:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"19:05:00\",\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVXRyZWNodC12cy1BWjE3ODY4MTA0NTYwNTQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"Utrecht\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2948\\/image\"},\"teamB\":{\"name\":\"AZ\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2950\\/image\"},\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVXRyZWNodC12cy1BWjE3ODY4MTA0NTYwNTQ.txt\",\"time\":\"16:45:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"19:05:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live \"]}",
+    "links": "[{\"name\":\"Cricfy Live \",\"link\":\"https:\\/\\/live.vivo200.com\\/live\\/sd-1-4552158.m3u8?txSecret=96f78cfecfc50babe6e6350b1665d163&txTime=6A80A906|Referer=https:\\/\\/player.online909.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 347
   },
   {
@@ -265,8 +265,8 @@
   },
   {
     "id": 764,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3648\\/image\"},\"teamB\":{\"name\":\"White Sox\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3644\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"17:10:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"20:10:00\",\"links\":\"pro\\/TUxCLVRpZ2Vycy12cy1XaGl0ZSBTb3gxNzg2ODEwNTMxNjUz.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3648\\/image\"},\"teamB\":{\"name\":\"White Sox\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3644\\/image\"},\"links\":\"pro\\/TUxCLVRpZ2Vycy12cy1XaGl0ZSBTb3gxNzg2ODEwNTMxNjUz.txt\",\"time\":\"17:10:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"20:10:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD QUALITY \"]}",
+    "links": "[{\"name\":\"HD QUALITY \",\"link\":\"https:\\/\\/edgestream3.pro\\/hls\\/dazhfiach15.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 368
   },
   {
