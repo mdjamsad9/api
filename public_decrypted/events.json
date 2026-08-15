@@ -184,5 +184,23 @@
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"LaLiga 2\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/54\\/image\\/dark\"},\"teamA\":{\"name\":\"FC Andorra\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/324871\\/image\"},\"teamB\":{\"name\":\"Ceuta\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2869\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"15:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"17:20:00\",\"links\":\"pro\\/TGFMaWdhIDItRkMgQW5kb3JyYS12cy1DZXV0YTE3ODY3ODkwNzE5ODU.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 340
+  },
+  {
+    "id": 737,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Chelsea\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/38\\/image\"},\"teamB\":{\"name\":\"Real Sociedad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2824\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVJlYWwgU29jaWVkYWQxNzg2Nzk0NjE1NDg5.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 341
+  },
+  {
+    "id": 738,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"M'gladbach\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2527\\/image\"},\"teamB\":{\"name\":\"Aston Villa\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/40\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"13:30:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"15:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NJ2dsYWRiYWNoLXZzLUFzdG9uIFZpbGxhMTc4Njc5NDYxNTQ4OQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 342
+  },
+  {
+    "id": 739,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Singapore\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4738\\/image\"},\"teamB\":{\"name\":\"Thailand\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4730\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVNpbmdhcG9yZS12cy1UaGFpbGFuZDE3ODY3OTQ2MTU0ODk.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 343
   }
 ]

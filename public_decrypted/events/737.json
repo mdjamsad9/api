@@ -3,22 +3,22 @@
   "order_index": 341,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Fiorentina",
-    "logo": "https://img.sofascore.com/api/v1/team/2693/image"
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "teamB": {
-    "name": "Benevento",
-    "logo": "https://img.sofascore.com/api/v1/team/2759/image"
+    "name": "Real Sociedad",
+    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "19:15:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUZpb3JlbnRpbmEtdnMtQmVuZXZlbnRvMTc4NjcwNjM2NzQxNQ.txt",
+  "date": "15/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVJlYWwgU29jaWVkYWQxNzg2Nzk0NjE1NDg5.txt",
   "links": [
     {
       "name": "Link 1",

@@ -7,32 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Atalanta",
-    "logo": "https://img.sofascore.com/api/v1/team/2686/image"
+    "name": "M'gladbach",
+    "logo": "https://img.sofascore.com/api/v1/team/2527/image"
   },
   "teamB": {
-    "name": "Athletic Club",
-    "logo": "https://img.sofascore.com/api/v1/team/2825/image"
+    "name": "Aston Villa",
+    "logo": "https://img.sofascore.com/api/v1/team/40/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BdGFsYW50YS12cy1BdGhsZXRpYyBDbHViMTc4NjcwNjM2NzQxNQ.txt",
+  "date": "15/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NJ2dsYWRiYWNoLXZzLUFzdG9uIFZpbGxhMTc4Njc5NDYxNTQ4OQ.txt",
   "links": [
     {
-      "name": "CRICFY LIVE",
-      "link": "https://live.vivo200.com/live/sd-1-4611488.m3u8?txSecret=21070d7bd64a63e741b13adf64b88479&txTime=6A7F6C0C|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.191/hls/DMMMAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

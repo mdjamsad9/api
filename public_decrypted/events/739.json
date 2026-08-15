@@ -3,57 +3,26 @@
   "order_index": 343,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Al-Hilal",
-    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
+    "name": "Singapore",
+    "logo": "https://img.sofascore.com/api/v1/team/4738/image"
   },
   "teamB": {
-    "name": "Al Faisaly",
-    "logo": "https://img.sofascore.com/api/v1/team/56035/image"
+    "name": "Thailand",
+    "logo": "https://img.sofascore.com/api/v1/team/4730/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1IaWxhbC12cy1BbCBGYWlzYWx5MTc4NjcwNjM2NzQxNQ.txt",
+  "date": "15/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVNpbmdhcG9yZS12cy1UaGFpbGFuZDE3ODY3OTQ2MTU0ODk.txt",
   "links": [
     {
-      "name": "FOX DEPORTES ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://chatgpt.hereisman.net/playlist/54611/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://hls.live123.fans/live/4599545.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT TV HD",
-      "link": "https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD QUALITY",
-      "link": "http://162.251.160.53:8089/78/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
