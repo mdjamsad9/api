@@ -1,0 +1,38 @@
+{
+  "id": 772,
+  "order_index": 376,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+  },
+  "teamA": {
+    "name": "Morocco",
+    "logo": "https://img.sofascore.com/api/v1/team/261908/image"
+  },
+  "teamB": {
+    "name": "Algeria",
+    "logo": "https://img.sofascore.com/api/v1/team/180004/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "15/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTW9yb2Njby12cy1BbGdlcmlhMTc4NjgxMzM5MDMxOA.txt",
+  "links": [
+    {
+      "name": "beIN Sports Xtra",
+      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.190/hls/EEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

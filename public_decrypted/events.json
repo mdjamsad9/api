@@ -163,8 +163,8 @@
   },
   {
     "id": 747,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"LaLiga 2\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/54\\/image\\/dark\"},\"teamA\":{\"name\":\"Cádiz\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4488\\/image\"},\"teamB\":{\"name\":\"Celta Fortuna\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/24336\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"17:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"19:20:00\",\"links\":\"pro\\/TGFMaWdhIDItQ8OhZGl6LXZzLUNlbHRhIEZvcnR1bmExNzg2ODEwNDU2MDU0.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"LaLiga 2\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/54\\/image\\/dark\"},\"teamA\":{\"name\":\"Cádiz\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/4488\\/image\"},\"teamB\":{\"name\":\"Celta Fortuna\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/24336\\/image\"},\"links\":\"pro\\/TGFMaWdhIDItQ8OhZGl6LXZzLUNlbHRhIEZvcnR1bmExNzg2ODEwNDU2MDU0.txt\",\"time\":\"17:00:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"19:20:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.40\\/hls\\/HHHHZAAAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 351
   },
   {
@@ -310,5 +310,11 @@
     "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Rays\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3653\\/image\"},\"teamB\":{\"name\":\"Orioles\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3652\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"22:10:00\",\"end_date\":\"16\\/08\\/2026\",\"end_time\":\"01:10:00\",\"links\":\"pro\\/TUxCLVJheXMtdnMtT3Jpb2xlczE3ODY4MTA1MzE2NTM.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 375
+  },
+  {
+    "id": 772,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Women's Africa Cup of Nations\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/9558\\/image\\/dark\"},\"teamA\":{\"name\":\"Morocco\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/261908\\/image\"},\"teamB\":{\"name\":\"Algeria\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/180004\\/image\"},\"links\":\"pro\\/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTW9yb2Njby12cy1BbGdlcmlhMTc4NjgxMzM5MDMxOA.txt\",\"time\":\"17:00:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"19:20:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beIN Sports Xtra\",\"SD SERVER\"]}",
+    "links": "[{\"name\":\"beIN Sports Xtra\",\"link\":\"https:\\/\\/amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv\\/playlist.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SD SERVER\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/EEEE.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 376
   }
 ]
