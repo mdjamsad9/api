@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg2Nzg2MTYwNDk1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v1jwc7b2k7/out/v1/dd824b4819b047c58496a3cf34b518de/cenc.mpd",
+      "scheme": 0,
+      "api": "1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://d3bq19vx8xhpwy.cloudfront.net/live/myStream/playlist.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/EOOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
