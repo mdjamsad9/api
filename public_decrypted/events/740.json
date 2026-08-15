@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HZW7Dp2xlcmJpcmxpxJ9pLXZzLUZlbmVyYmFow6dlMTc4NjgxMDQ1NjA1NA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://hls.live123.fans/live/4581274.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://stream.sports3.win/iptv/live/signal-4581274-37827.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beiN SPORTS HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.193/hls/DRRRAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

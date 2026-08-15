@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVZlbmV6aWEtdnMtTW9kZW5hMTc4NjgxMDQ1NjA1NA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "D SPORTS ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+      "scheme": 0,
+      "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+      "tokenApi": ""
+    },
+    {
+      "name": "PREMIER SPORTS ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "tokenApi": ""
     }
   ]
 }
