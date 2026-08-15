@@ -3,36 +3,26 @@
   "order_index": 348,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Neom",
-    "logo": "https://img.sofascore.com/api/v1/team/530631/image"
+    "name": "Fluminense",
+    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
   },
   "teamB": {
-    "name": "Al-Fayha",
-    "logo": "https://img.sofascore.com/api/v1/team/168094/image"
+    "name": "Palmeiras",
+    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "16:50:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1OZW9tLXZzLUFsLUZheWhhMTc4NjcwNjM2NzQxNQ.txt",
+  "date": "15/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1GbHVtaW5lbnNlLXZzLVBhbG1laXJhczE3ODY4MTA0NTYwNTQ.txt",
   "links": [
     {
-      "name": "HD SERVER",
-      "link": "https://pul-tenm.gkykp.com/live/sd-1-4599543.m3u8?txSecret=efb1b760b45fef0cf4f199d88d910b3c&txTime=6A8071D0",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.191/hls/FFSSSAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

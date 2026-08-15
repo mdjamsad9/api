@@ -3,64 +3,26 @@
   "order_index": 345,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Wolves",
-    "logo": "https://img.sofascore.com/api/v1/team/3/image"
+    "name": "Mallorca",
+    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
   },
   "teamB": {
-    "name": "Blackburn",
-    "logo": "https://img.sofascore.com/api/v1/team/46/image"
+    "name": "Real Valladolid",
+    "logo": "https://img.sofascore.com/api/v1/team/2831/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdvbHZlcy12cy1CbGFja2J1cm4xNzg2NzA2MzY3NDE1.txt",
+  "date": "15/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItTWFsbG9yY2EtdnMtUmVhbCBWYWxsYWRvbGlkMTc4NjgxMDQ1NjA1NA.txt",
   "links": [
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy HD ",
-      "link": "https://live.vivo200.com/live/sd-1-4563504.m3u8?txSecret=87c2ace4b02773771023c3f84532836f&txTime=6A7F763A|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Sport TV5 HD",
-      "link": "https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN BR HD",
-      "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS SPORTS [FHD]",
-      "link": "https://embedindia.st/embed/efl-championship/2026-08-14/wol-blk",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

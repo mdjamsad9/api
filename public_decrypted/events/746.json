@@ -2,58 +2,27 @@
   "id": 746,
   "order_index": 350,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "MSG",
-    "logo": "https://img.sofascore.com/api/v1/team/377173/image"
+    "name": "Al-Ittihad",
+    "logo": "https://img.sofascore.com/api/v1/team/34315/image"
   },
   "teamB": {
-    "name": "SL",
-    "logo": "https://img.sofascore.com/api/v1/team/377178/image"
+    "name": "Al-Kholood",
+    "logo": "https://img.sofascore.com/api/v1/team/269199/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTVNHLXZzLVNMMTc4NjcwNjYzMTA0OA.txt",
+  "date": "15/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1JdHRpaGFkLXZzLUFsLUtob2xvb2QxNzg2ODEwNDU2MDU0.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd",
-      "scheme": 0,
-      "api": "b15cdaf34362e1491ef3ae071e7e893d:166810dd6b122c4219b4901eb5d1a218",
-      "tokenApi": ""
-    },
-    {
-      "name": "cricfy CRICKET ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd",
-      "scheme": 0,
-      "api": "b15cdaf34362e1491ef3ae071e7e893d:166810dd6b122c4219b4901eb5d1a218",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY SPORT ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.193/hls/AFFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

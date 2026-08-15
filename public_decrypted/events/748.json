@@ -2,30 +2,27 @@
   "id": 748,
   "order_index": 352,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Al-Nassr",
+    "logo": "https://img.sofascore.com/api/v1/team/23400/image"
   },
   "teamB": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Al-Fateh",
+    "logo": "https://img.sofascore.com/api/v1/team/56023/image"
   },
   "visible": true,
   "priority": -1,
   "date": "15/08/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1SYW5nZXJzMTc4NjczMDcwNTQ1Ng.txt",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1OYXNzci12cy1BbC1GYXRlaDE3ODY4MTA0NTYwNTQ.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

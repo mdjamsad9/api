@@ -2,27 +2,37 @@
   "id": 749,
   "order_index": 353,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Udinese",
+    "logo": "https://img.sofascore.com/api/v1/team/2695/image"
   },
   "teamB": {
-    "name": "Padres",
-    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
+    "name": "Padova",
+    "logo": "https://img.sofascore.com/api/v1/team/2741/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1QYWRyZXMxNzg2NzMwNzA1NDU2.txt",
+  "date": "15/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVVkaW5lc2UtdnMtUGFkb3ZhMTc4NjgxMDQ1NjA1NA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "ITALIA 1 - AQ",
+      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+      "scheme": 0,
+      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+      "tokenApi": ""
+    },
+    {
+      "name": "D Sports - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+      "tokenApi": ""
     }
   ]
 }

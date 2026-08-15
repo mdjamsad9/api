@@ -3,36 +3,26 @@
   "order_index": 347,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Cagliari",
-    "logo": "https://img.sofascore.com/api/v1/team/2719/image"
+    "name": "Utrecht",
+    "logo": "https://img.sofascore.com/api/v1/team/2948/image"
   },
   "teamB": {
-    "name": "Arezzo",
-    "logo": "https://img.sofascore.com/api/v1/team/2731/image"
+    "name": "AZ",
+    "logo": "https://img.sofascore.com/api/v1/team/2950/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "16:30:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUNhZ2xpYXJpLXZzLUFyZXp6bzE3ODY3MDYzNjc0MTU.txt",
+  "date": "15/08/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVXRyZWNodC12cy1BWjE3ODY4MTA0NTYwNTQ.txt",
   "links": [
     {
-      "name": "ITALIA 1 - AQ",
-      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-      "scheme": 0,
-      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://hls.live123.fans/live/4613093.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

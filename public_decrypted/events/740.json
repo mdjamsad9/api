@@ -3,43 +3,26 @@
   "order_index": 344,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Monza",
-    "logo": "https://img.sofascore.com/api/v1/team/2729/image"
+    "name": "Gençlerbirliği",
+    "logo": "https://img.sofascore.com/api/v1/team/7802/image"
   },
   "teamB": {
-    "name": "Avellino",
-    "logo": "https://img.sofascore.com/api/v1/team/2730/image"
+    "name": "Fenerbahçe",
+    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLU1vbnphLXZzLUF2ZWxsaW5vMTc4NjcwNjM2NzQxNQ.txt",
+  "date": "15/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HZW7Dp2xlcmJpcmxpxJ9pLXZzLUZlbmVyYmFow6dlMTc4NjgxMDQ1NjA1NA.txt",
   "links": [
     {
-      "name": "Premier Sports",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy live",
-      "link": "https://live.vivo200.com/live/sd-1-4564315.m3u8?txSecret=22f5aea54c00c340e700e68adbb3885b&txTime=6A7F74F9|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

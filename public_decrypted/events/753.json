@@ -2,23 +2,23 @@
   "id": 753,
   "order_index": 357,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "Alavés",
+    "logo": "https://img.sofascore.com/api/v1/team/2885/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Getafe",
+    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtUmVkIFNveDE3ODY3MzA3MDU0NTY.txt",
+  "date": "15/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/TGFMaWdhLUFsYXbDqXMtdnMtR2V0YWZlMTc4NjgxMDQ1NjA1NA.txt",
   "links": [
     {
       "name": "Link 1",
