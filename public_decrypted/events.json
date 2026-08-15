@@ -67,8 +67,8 @@
   },
   {
     "id": 717,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"League One\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/24\\/image\\/dark\"},\"teamA\":{\"name\":\"Notts County\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56\\/image\"},\"teamB\":{\"name\":\"Leicester\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/31\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:30:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:50:00\",\"links\":\"pro\\/TGVhZ3VlIE9uZS1Ob3R0cyBDb3VudHktdnMtTGVpY2VzdGVyMTc4Njc4OTA3MTk4NA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"League One\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/24\\/image\\/dark\"},\"teamA\":{\"name\":\"Notts County\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56\\/image\"},\"teamB\":{\"name\":\"Leicester\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/31\\/image\"},\"links\":\"pro\\/TGVhZ3VlIE9uZS1Ob3R0cyBDb3VudHktdnMtTGVpY2VzdGVyMTc4Njc4OTA3MTk4NA.txt\",\"time\":\"11:30:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"13:50:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beiN ENGLISH - AQ\",\"SD QUALITY\"]}",
+    "links": "[{\"name\":\"beiN ENGLISH - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/8m8cd46i1t\\/out\\/v1\\/83985c68e4174e90a58a1f2c024be4c9\\/cenc.mpd?|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8\",\"tokenApi\":\"\"},{\"name\":\"SD QUALITY\",\"link\":\"http:\\/\\/162.251.160.53:8089\\/588\\/index.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 321
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "id": 719,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Osnabrück\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2581\\/image\"},\"teamB\":{\"name\":\"Magdeburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2591\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Pc25hYnLDvGNrLXZzLU1hZ2RlYnVyZzE3ODY3ODkwNzE5ODQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Osnabrück\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2581\\/image\"},\"teamB\":{\"name\":\"Magdeburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2591\\/image\"},\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Pc25hYnLDvGNrLXZzLU1hZ2RlYnVyZzE3ODY3ODkwNzE5ODQ.txt\",\"time\":\"11:00:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"13:20:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"beiN ENGLISH \",\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"beiN ENGLISH \",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ghwcl6hv68\\/out\\/v1\\/83536910d8034e9b9895a20fbe1c1687\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281\",\"tokenApi\":\"\"},{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/RRRRAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 323
   },
   {
