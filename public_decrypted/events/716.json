@@ -2,37 +2,27 @@
   "id": 716,
   "order_index": 320,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
   },
   "teamA": {
-    "name": "Pafos",
-    "logo": "https://img.sofascore.com/api/v1/team/171626/image"
+    "name": "IRE",
+    "logo": "https://img.sofascore.com/api/v1/team/187766/image"
   },
   "teamB": {
-    "name": "RB Salzburg",
-    "logo": "https://img.sofascore.com/api/v1/team/2046/image"
+    "name": "AFG",
+    "logo": "https://img.sofascore.com/api/v1/team/187575/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLVBhZm9zLXZzLVJCIFNhbHpidXJnMTc4NjYxMzA5NTIzOQ.txt",
+  "date": "15/08/2026",
+  "time": "09:45:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg2Nzg2MTYwNDk1.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://hls.live123.fans/live/4602547.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.193/hls/RPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
