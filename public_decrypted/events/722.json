@@ -3,29 +3,26 @@
   "order_index": 326,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Abha",
-    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
+    "name": "Bolton",
+    "logo": "https://img.sofascore.com/api/v1/team/5/image"
   },
   "teamB": {
-    "name": "Al-Hazem",
-    "logo": "https://img.sofascore.com/api/v1/team/168086/image"
+    "name": "Preston",
+    "logo": "https://img.sofascore.com/api/v1/team/21/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "16:15:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BYmhhLXZzLUFsLUhhemVtMTc4NjYxMzA5NTIzOQ.txt",
+  "date": "15/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJvbHRvbi12cy1QcmVzdG9uMTc4Njc4OTA3MTk4NQ.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "http://193.47.62.190/hls/SSSSAAAA.m3u8|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -3,29 +3,26 @@
   "order_index": 339,
   "eventDetails": {
     "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Telstar",
-    "logo": "https://img.sofascore.com/api/v1/team/2972/image"
+    "name": "Portsmouth",
+    "logo": "https://img.sofascore.com/api/v1/team/2/image"
   },
   "teamB": {
-    "name": "Sparta",
-    "logo": "https://img.sofascore.com/api/v1/team/2960/image"
+    "name": "QPR",
+    "logo": "https://img.sofascore.com/api/v1/team/1/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVGVsc3Rhci12cy1TcGFydGExNzg2NzA2MzY3NDE1.txt",
+  "date": "15/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVBvcnRzbW91dGgtdnMtUVBSMTc4Njc4OTA3MTk4NQ.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://162.251.160.53:8089/321/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

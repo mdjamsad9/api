@@ -3,36 +3,26 @@
   "order_index": 321,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
   },
   "teamA": {
-    "name": "Hearts",
-    "logo": "https://img.sofascore.com/api/v1/team/2353/image"
+    "name": "Notts County",
+    "logo": "https://img.sofascore.com/api/v1/team/56/image"
   },
   "teamB": {
-    "name": "Benfica",
-    "logo": "https://img.sofascore.com/api/v1/team/3006/image"
+    "name": "Leicester",
+    "logo": "https://img.sofascore.com/api/v1/team/31/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUhlYXJ0cy12cy1CZW5maWNhMTc4NjYxMzA5NTIzOQ.txt",
+  "date": "15/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1Ob3R0cyBDb3VudHktdnMtTGVpY2VzdGVyMTc4Njc4OTA3MTk4NA.txt",
   "links": [
     {
-      "name": "Sport TV1 ",
-      "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4602555.m3u8?txSecret=3dd59d27fe04c5d76aea98d1cc2efaa6&txTime=6A7E1F9E|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

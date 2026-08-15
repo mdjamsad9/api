@@ -3,29 +3,26 @@
   "order_index": 330,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Shelbourne",
-    "logo": "https://img.sofascore.com/api/v1/team/3174/image"
+    "name": "Catanzaro",
+    "logo": "https://img.sofascore.com/api/v1/team/2796/image"
   },
   "teamB": {
-    "name": "Ajax",
-    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    "name": "Südtirol",
+    "logo": "https://img.sofascore.com/api/v1/team/2760/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1TaGVsYm91cm5lLXZzLUFqYXgxNzg2NjEzMDk1MjM5.txt",
+  "date": "15/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUNhdGFuemFyby12cy1Tw7xkdGlyb2wxNzg2Nzg5MDcxOTg1.txt",
   "links": [
     {
-      "name": "Premier Sports",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -3,22 +3,22 @@
   "order_index": 338,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Sporting",
-    "logo": "https://img.sofascore.com/api/v1/team/3001/image"
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
   },
   "teamB": {
-    "name": "Vitória",
-    "logo": "https://img.sofascore.com/api/v1/team/3009/image"
+    "name": "Lincoln",
+    "logo": "https://img.sofascore.com/api/v1/team/92/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "19:15:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVNwb3J0aW5nLXZzLVZpdMOzcmlhMTc4NjcwNjM2NzQxNQ.txt",
+  "date": "15/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU1pZGRsZXNicm91Z2gtdnMtTGluY29sbjE3ODY3ODkwNzE5ODU.txt",
   "links": [
     {
       "name": "Link 1",

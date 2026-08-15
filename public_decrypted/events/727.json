@@ -3,43 +3,26 @@
   "order_index": 331,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Sudamericana",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Vasco",
-    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+    "name": "Al-Taawoun",
+    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
   },
   "teamB": {
-    "name": "Olimpia",
-    "logo": "https://img.sofascore.com/api/v1/team/5997/image"
+    "name": "Al-Khaleej",
+    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLVZhc2NvLXZzLU9saW1waWExNzg2NjEzMDk1MjM5.txt",
+  "date": "15/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1UYWF3b3VuLXZzLUFsLUtoYWxlZWoxNzg2Nzg5MDcxOTg1.txt",
   "links": [
     {
-      "name": "D SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
-    },
-    {
-      "name": "SporTV ",
-      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://cast.zlive.st/p/auto-sport-tv2-0/index.m3u8|referer=https://zlive.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

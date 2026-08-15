@@ -7,39 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Real Sociedad B",
-    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
+    "name": "FC Andorra",
+    "logo": "https://img.sofascore.com/api/v1/team/324871/image"
   },
   "teamB": {
-    "name": "Castellón",
-    "logo": "https://img.sofascore.com/api/v1/team/5067/image"
+    "name": "Ceuta",
+    "logo": "https://img.sofascore.com/api/v1/team/2869/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBTb2NpZWRhZCBCLXZzLUNhc3RlbGzDs24xNzg2NzA2MzY3NDE1.txt",
+  "date": "15/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItRkMgQW5kb3JyYS12cy1DZXV0YTE3ODY3ODkwNzE5ODU.txt",
   "links": [
     {
-      "name": "Cricfy HD ",
-      "link": "https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LaLiga TV - AQ",
-      "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
-      "scheme": 0,
-      "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-      "tokenApi": ""
-    },
-    {
-      "name": "LaLiga Hypermotion Es",
-      "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

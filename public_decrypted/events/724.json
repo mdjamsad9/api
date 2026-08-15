@@ -3,29 +3,26 @@
   "order_index": 328,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Mirassol",
-    "logo": "https://img.sofascore.com/api/v1/team/21982/image"
+    "name": "Kasımpaşa",
+    "logo": "https://img.sofascore.com/api/v1/team/6063/image"
   },
   "teamB": {
-    "name": "LDU",
-    "logo": "https://img.sofascore.com/api/v1/team/5257/image"
+    "name": "Trabzonspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLU1pcmFzc29sLXZzLUxEVTE3ODY2MTMwOTUyMzk.txt",
+  "date": "15/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1LYXPEsW1wYcWfYS12cy1UcmFiem9uc3BvcjE3ODY3ODkwNzE5ODU.txt",
   "links": [
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

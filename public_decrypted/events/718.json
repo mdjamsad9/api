@@ -3,29 +3,26 @@
   "order_index": 322,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Motherwell",
-    "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+    "name": "Dortmund",
+    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
   },
   "teamB": {
-    "name": "HJK",
-    "logo": "https://img.sofascore.com/api/v1/team/2242/image"
+    "name": "Roma",
+    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Nb3RoZXJ3ZWxsLXZzLUhKSzE3ODY2MTMwOTUyMzk.txt",
+  "date": "15/08/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Eb3J0bXVuZC12cy1Sb21hMTc4Njc4OTA3MTk4NA.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4602608.m3u8?txSecret=969815b53bafce1a65f7f0a8950c6e5f&txTime=6A7E1FCF|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

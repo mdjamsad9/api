@@ -3,29 +3,26 @@
   "order_index": 329,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Al-Shabab",
-    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
+    "name": "Charlton",
+    "logo": "https://img.sofascore.com/api/v1/team/47/image"
   },
   "teamB": {
-    "name": "Al-Qadsiah",
-    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
+    "name": "Derby",
+    "logo": "https://img.sofascore.com/api/v1/team/27/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1TaGFiYWItdnMtQWwtUWFkc2lhaDE3ODY2MTMwOTUyMzk.txt",
+  "date": "15/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNoYXJsdG9uLXZzLURlcmJ5MTc4Njc4OTA3MTk4NQ.txt",
   "links": [
     {
-      "name": "FOX DEPORTES ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

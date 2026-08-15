@@ -3,43 +3,26 @@
   "order_index": 323,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Midtjylland",
-    "logo": "https://img.sofascore.com/api/v1/team/1289/image"
+    "name": "Osnabrück",
+    "logo": "https://img.sofascore.com/api/v1/team/2581/image"
   },
   "teamB": {
-    "name": "Bohemian FC",
-    "logo": "https://img.sofascore.com/api/v1/team/3173/image"
+    "name": "Magdeburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2591/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1NaWR0anlsbGFuZC12cy1Cb2hlbWlhbiBGQzE3ODY2MTMwOTUyMzk.txt",
+  "date": "15/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Pc25hYnLDvGNrLXZzLU1hZ2RlYnVyZzE3ODY3ODkwNzE5ODQ.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://hls.live123.fans/live/4602560.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.192/hls/TIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

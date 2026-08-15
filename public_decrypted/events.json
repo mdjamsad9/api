@@ -64,5 +64,125 @@
     "event": "{\"eventDetails\":{\"category\":\"Cricket\",\"eventName\":\"One Day International\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11190\\/image\\/dark\"},\"teamA\":{\"name\":\"IRE\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187766\\/image\"},\"teamB\":{\"name\":\"AFG\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/187575\\/image\"},\"links\":\"pro\\/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg2Nzg2MTYwNDk1.txt\",\"time\":\"09:45:00\",\"date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"WILLOW - AQ \",\"WILLOW - ALT\",\"HD SERVER\",\"LOW SERVER\"]}",
     "links": "[{\"name\":\"WILLOW - AQ \",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/v1jwc7b2k7\\/out\\/v1\\/dd824b4819b047c58496a3cf34b518de\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d\",\"tokenApi\":\"\"},{\"name\":\"WILLOW - ALT\",\"link\":\"https:\\/\\/abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net\\/iad-nitro\\/live\\/clients\\/dash\\/enc\\/v1jwc7b2k7\\/out\\/v1\\/dd824b4819b047c58496a3cf34b518de\\/cenc.mpd\",\"scheme\":0,\"api\":\"1d0c252991eb5bc168a3fb4db1e9a850:ad27540c50636966576b34dda706405d\",\"tokenApi\":\"\"},{\"name\":\"HD SERVER\",\"link\":\"https:\\/\\/d3bq19vx8xhpwy.cloudfront.net\\/live\\/myStream\\/playlist.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/EOOOO.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 320
+  },
+  {
+    "id": 717,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"League One\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/24\\/image\\/dark\"},\"teamA\":{\"name\":\"Notts County\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56\\/image\"},\"teamB\":{\"name\":\"Leicester\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/31\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:30:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:50:00\",\"links\":\"pro\\/TGVhZ3VlIE9uZS1Ob3R0cyBDb3VudHktdnMtTGVpY2VzdGVyMTc4Njc4OTA3MTk4NA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 321
+  },
+  {
+    "id": 718,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Dortmund\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2673\\/image\"},\"teamB\":{\"name\":\"Roma\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2702\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"15:30:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"17:50:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Eb3J0bXVuZC12cy1Sb21hMTc4Njc4OTA3MTk4NA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 322
+  },
+  {
+    "id": 719,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Osnabrück\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2581\\/image\"},\"teamB\":{\"name\":\"Magdeburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2591\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Pc25hYnLDvGNrLXZzLU1hZ2RlYnVyZzE3ODY3ODkwNzE5ODQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 323
+  },
+  {
+    "id": 720,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Fürth\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2551\\/image\"},\"teamB\":{\"name\":\"Nürnberg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2523\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Gw7xydGgtdnMtTsO8cm5iZXJnMTc4Njc4OTA3MTk4NA.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 324
+  },
+  {
+    "id": 721,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Trendyol Süper Lig\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/52\\/image\\/dark\"},\"teamA\":{\"name\":\"Konyaspor\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3085\\/image\"},\"teamB\":{\"name\":\"Rizespor\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3064\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/VHJlbmR5b2wgU8O8cGVyIExpZy1Lb255YXNwb3ItdnMtUml6ZXNwb3IxNzg2Nzg5MDcxOTg0.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 325
+  },
+  {
+    "id": 722,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Bolton\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5\\/image\"},\"teamB\":{\"name\":\"Preston\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:30:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:50:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLUJvbHRvbi12cy1QcmVzdG9uMTc4Njc4OTA3MTk4NQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 326
+  },
+  {
+    "id": 723,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Tottenham\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/33\\/image\"},\"teamB\":{\"name\":\"Hoffenheim\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2569\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1Ub3R0ZW5oYW0tdnMtSG9mZmVuaGVpbTE3ODY3ODkwNzE5ODU.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 327
+  },
+  {
+    "id": 724,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Trendyol Süper Lig\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/52\\/image\\/dark\"},\"teamA\":{\"name\":\"Kasımpaşa\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/6063\\/image\"},\"teamB\":{\"name\":\"Trabzonspor\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3051\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/VHJlbmR5b2wgU8O8cGVyIExpZy1LYXPEsW1wYcWfYS12cy1UcmFiem9uc3BvcjE3ODY3ODkwNzE5ODU.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 328
+  },
+  {
+    "id": 725,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Charlton\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/47\\/image\"},\"teamB\":{\"name\":\"Derby\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/27\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLUNoYXJsdG9uLXZzLURlcmJ5MTc4Njc4OTA3MTk4NQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 329
+  },
+  {
+    "id": 726,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Coppa Italia\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/328\\/image\\/dark\"},\"teamA\":{\"name\":\"Catanzaro\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2796\\/image\"},\"teamB\":{\"name\":\"Südtirol\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2760\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/Q29wcGEgSXRhbGlhLUNhdGFuemFyby12cy1Tw7xkdGlyb2wxNzg2Nzg5MDcxOTg1.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 330
+  },
+  {
+    "id": 727,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Saudi Pro League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/955\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Taawoun\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56021\\/image\"},\"teamB\":{\"name\":\"Al-Khaleej\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/167228\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"16:15:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"18:35:00\",\"links\":\"pro\\/U2F1ZGkgUHJvIExlYWd1ZS1BbC1UYWF3b3VuLXZzLUFsLUtoYWxlZWoxNzg2Nzg5MDcxOTg1.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 331
+  },
+  {
+    "id": 728,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Stoke\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/29\\/image\"},\"teamB\":{\"name\":\"Swansea\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/74\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLVN0b2tlLXZzLVN3YW5zZWExNzg2Nzg5MDcxOTg1.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 332
+  },
+  {
+    "id": 729,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Newcastle\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/39\\/image\"},\"teamB\":{\"name\":\"Leverkusen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2681\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1OZXdjYXN0bGUtdnMtTGV2ZXJrdXNlbjE3ODY3ODkwNzE5ODU.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 333
+  },
+  {
+    "id": 730,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Liga Portugal Betclic\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/238\\/image\\/dark\"},\"teamA\":{\"name\":\"Alverca\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/190328\\/image\"},\"teamB\":{\"name\":\"Estrela Amadora\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3035\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:30:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:50:00\",\"links\":\"pro\\/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUFsdmVyY2EtdnMtRXN0cmVsYSBBbWFkb3JhMTc4Njc4OTA3MTk4NQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 334
+  },
+  {
+    "id": 731,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Norwich\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/263\\/image\"},\"teamB\":{\"name\":\"West Brom\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/8\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLU5vcndpY2gtdnMtV2VzdCBCcm9tMTc4Njc4OTA3MTk4NQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 335
+  },
+  {
+    "id": 732,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Club Friendly Games\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/853\\/image\\/dark\"},\"teamA\":{\"name\":\"Milan\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2692\\/image\"},\"teamB\":{\"name\":\"Man Utd\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/35\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:45:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"17:05:00\",\"links\":\"pro\\/Q2x1YiBGcmllbmRseSBHYW1lcy1NaWxhbi12cy1NYW4gVXRkMTc4Njc4OTA3MTk4NQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 336
+  },
+  {
+    "id": 733,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Bristol City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/58\\/image\"},\"teamB\":{\"name\":\"Millwall\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/25\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLUJyaXN0b2wgQ2l0eS12cy1NaWxsd2FsbDE3ODY3ODkwNzE5ODU.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 337
+  },
+  {
+    "id": 734,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Middlesbrough\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/36\\/image\"},\"teamB\":{\"name\":\"Lincoln\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/92\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLU1pZGRsZXNicm91Z2gtdnMtTGluY29sbjE3ODY3ODkwNzE5ODU.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 338
+  },
+  {
+    "id": 735,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Portsmouth\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2\\/image\"},\"teamB\":{\"name\":\"QPR\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"14:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"16:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLVBvcnRzbW91dGgtdnMtUVBSMTc4Njc4OTA3MTk4NQ.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 339
+  },
+  {
+    "id": 736,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"LaLiga 2\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/54\\/image\\/dark\"},\"teamA\":{\"name\":\"FC Andorra\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/324871\\/image\"},\"teamB\":{\"name\":\"Ceuta\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2869\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"15:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"17:20:00\",\"links\":\"pro\\/TGFMaWdhIDItRkMgQW5kb3JyYS12cy1DZXV0YTE3ODY3ODkwNzE5ODU.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 340
   }
 ]

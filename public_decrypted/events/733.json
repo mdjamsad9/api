@@ -3,29 +3,26 @@
   "order_index": 337,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Al-Ettifaq",
-    "logo": "https://img.sofascore.com/api/v1/team/34318/image"
+    "name": "Bristol City",
+    "logo": "https://img.sofascore.com/api/v1/team/58/image"
   },
   "teamB": {
-    "name": "Al-Riyadh",
-    "logo": "https://img.sofascore.com/api/v1/team/168088/image"
+    "name": "Millwall",
+    "logo": "https://img.sofascore.com/api/v1/team/25/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "14/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1FdHRpZmFxLXZzLUFsLVJpeWFkaDE3ODY3MDYzNjc0MTU.txt",
+  "date": "15/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJyaXN0b2wgQ2l0eS12cy1NaWxsd2FsbDE3ODY3ODkwNzE5ODU.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://hls.live123.fans/live/4599544.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

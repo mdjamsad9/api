@@ -2,37 +2,27 @@
   "id": 730,
   "order_index": 334,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "ICC CWC League 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark"
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "SCO",
-    "logo": "https://img.sofascore.com/api/v1/team/187576/image"
+    "name": "Alverca",
+    "logo": "https://img.sofascore.com/api/v1/team/190328/image"
   },
   "teamB": {
-    "name": "CAN",
-    "logo": "https://img.sofascore.com/api/v1/team/189195/image"
+    "name": "Estrela Amadora",
+    "logo": "https://img.sofascore.com/api/v1/team/3035/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "13/08/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/SUNDIENXQyBMZWFndWUgMi1TQ08tdnMtQ0FOMTc4NjYxMzExOTE1Mg.txt",
+  "date": "15/08/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUFsdmVyY2EtdnMtRXN0cmVsYSBBbWFkb3JhMTc4Njc4OTA3MTk4NQ.txt",
   "links": [
     {
-      "name": "ICC TV EN - AQ",
-      "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786644338~acl=/variant/v1blackout/vcg-01-d/*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=0b7eab4e0c3041b85d36ed1c63f77b211cbea705b53cb9633e7c049ca0e24c1f/manifest.mpd|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com",
-      "scheme": 0,
-      "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - IN",
-      "link": "https://dai-fancode.pages.dev/mumbai/4248216_english_hls_54a1ef6c3f88514_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
