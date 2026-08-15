@@ -85,8 +85,8 @@
   },
   {
     "id": 720,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Fürth\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2551\\/image\"},\"teamB\":{\"name\":\"Nürnberg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2523\\/image\"},\"visible\":true,\"date\":\"15\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"15\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Gw7xydGgtdnMtTsO8cm5iZXJnMTc4Njc4OTA3MTk4NA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"2. Bundesliga\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/44\\/image\\/dark\"},\"teamA\":{\"name\":\"Fürth\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2551\\/image\"},\"teamB\":{\"name\":\"Nürnberg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2523\\/image\"},\"links\":\"pro\\/Mi4gQnVuZGVzbGlnYS1Gw7xydGgtdnMtTsO8cm5iZXJnMTc4Njc4OTA3MTk4NA.txt\",\"time\":\"11:00:00\",\"date\":\"15\\/08\\/2026\",\"end_time\":\"13:20:00\",\"end_date\":\"15\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW QUALITY\"]}",
+    "links": "[{\"name\":\"LOW QUALITY\",\"link\":\"http:\\/\\/193.47.62.190\\/hls\\/RRRR.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 324
   },
   {
