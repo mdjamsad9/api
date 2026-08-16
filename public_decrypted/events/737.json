@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUFyb3VjYS12cy1Nb3JlaXJlbnNlMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "SPORT TV HD",
+      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://live.vivo200.com/live/sd-1-4578161.m3u8?txSecret=f9556a7bc85527cfbf42a6a1a05d9c82&txTime=6A81FFB7|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
