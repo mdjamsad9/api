@@ -3,29 +3,26 @@
   "order_index": 345,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Mallorca",
-    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+    "name": "Atlético-MG",
+    "logo": "https://img.sofascore.com/api/v1/team/1977/image"
   },
   "teamB": {
-    "name": "Real Valladolid",
-    "logo": "https://img.sofascore.com/api/v1/team/2831/image"
+    "name": "Grêmio",
+    "logo": "https://img.sofascore.com/api/v1/team/5926/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItTWFsbG9yY2EtdnMtUmVhbCBWYWxsYWRvbGlkMTc4NjgxMDQ1NjA1NA.txt",
+  "date": "16/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1BdGzDqXRpY28tTUctdnMtR3LDqm1pbzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "LaLiga Hypermotion Es",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

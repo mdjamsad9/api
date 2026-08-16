@@ -3,36 +3,26 @@
   "order_index": 332,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Stoke",
-    "logo": "https://img.sofascore.com/api/v1/team/29/image"
+    "name": "Al Bukayriyah",
+    "logo": "https://img.sofascore.com/api/v1/team/306937/image"
   },
   "teamB": {
-    "name": "Swansea",
-    "logo": "https://img.sofascore.com/api/v1/team/74/image"
+    "name": "Al-Hazem",
+    "logo": "https://img.sofascore.com/api/v1/team/168086/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVN0b2tlLXZzLVN3YW5zZWExNzg2Nzg5MDcxOTg1.txt",
+  "date": "16/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBCdWtheXJpeWFoLXZzLUFsLUhhemVtMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4563511.m3u8?txSecret=1b1a7fca68639cc9a6fbe26ba77d9c8b&txTime=6A808033|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.192/hls/AAFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

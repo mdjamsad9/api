@@ -3,29 +3,26 @@
   "order_index": 347,
   "eventDetails": {
     "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Utrecht",
-    "logo": "https://img.sofascore.com/api/v1/team/2948/image"
+    "name": "Frosinone",
+    "logo": "https://img.sofascore.com/api/v1/team/2801/image"
   },
   "teamB": {
-    "name": "AZ",
-    "logo": "https://img.sofascore.com/api/v1/team/2950/image"
+    "name": "Juve Stabia",
+    "logo": "https://img.sofascore.com/api/v1/team/5324/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "16:45:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVXRyZWNodC12cy1BWjE3ODY4MTA0NTYwNTQ.txt",
+  "date": "16/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUZyb3Npbm9uZS12cy1KdXZlIFN0YWJpYTE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4552158.m3u8?txSecret=96f78cfecfc50babe6e6350b1665d163&txTime=6A80A906|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

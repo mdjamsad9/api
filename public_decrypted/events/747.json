@@ -3,29 +3,26 @@
   "order_index": 351,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Cádiz",
-    "logo": "https://img.sofascore.com/api/v1/team/4488/image"
+    "name": "Vasco",
+    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
   },
   "teamB": {
-    "name": "Celta Fortuna",
-    "logo": "https://img.sofascore.com/api/v1/team/24336/image"
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItQ8OhZGl6LXZzLUNlbHRhIEZvcnR1bmExNzg2ODEwNDU2MDU0.txt",
+  "date": "16/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1WYXNjby12cy1TYW50b3MxNzg2ODY1MjU2MDkx.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.40/hls/HHHHZAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

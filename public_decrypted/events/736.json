@@ -3,22 +3,22 @@
   "order_index": 340,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "FC Andorra",
-    "logo": "https://img.sofascore.com/api/v1/team/324871/image"
+    "name": "Mirassol",
+    "logo": "https://img.sofascore.com/api/v1/team/21982/image"
   },
   "teamB": {
-    "name": "Ceuta",
-    "logo": "https://img.sofascore.com/api/v1/team/2869/image"
+    "name": "Flamengo",
+    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItRkMgQW5kb3JyYS12cy1DZXV0YTE3ODY3ODkwNzE5ODU.txt",
+  "date": "16/08/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1NaXJhc3NvbC12cy1GbGFtZW5nbzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
       "name": "Link 1",

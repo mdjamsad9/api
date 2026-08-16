@@ -3,29 +3,26 @@
   "order_index": 335,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Norwich",
-    "logo": "https://img.sofascore.com/api/v1/team/263/image"
+    "name": "Al Wehda",
+    "logo": "https://img.sofascore.com/api/v1/team/32994/image"
   },
   "teamB": {
-    "name": "West Brom",
-    "logo": "https://img.sofascore.com/api/v1/team/8/image"
+    "name": "Al-Shabab",
+    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU5vcndpY2gtdnMtV2VzdCBCcm9tMTc4Njc4OTA3MTk4NQ.txt",
+  "date": "16/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBXZWhkYS12cy1BbC1TaGFiYWIxNzg2ODY1MjU2MDkx.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4563509.m3u8?txSecret=0d2d6ded82fcfb952176efa0028b2e8e&txTime=6A807FE9|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

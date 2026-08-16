@@ -3,29 +3,26 @@
   "order_index": 343,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Sevilla",
-    "logo": "https://img.sofascore.com/api/v1/team/2833/image"
+    "name": "Newcastle",
+    "logo": "https://img.sofascore.com/api/v1/team/39/image"
   },
   "teamB": {
-    "name": "Rayo Vallecano",
-    "logo": "https://img.sofascore.com/api/v1/team/2818/image"
+    "name": "Strasbourg",
+    "logo": "https://img.sofascore.com/api/v1/team/1659/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhLVNldmlsbGEtdnMtUmF5byBWYWxsZWNhbm8xNzg2ODEwNDU2MDU0.txt",
+  "date": "16/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OZXdjYXN0bGUtdnMtU3RyYXNib3VyZzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "beiN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

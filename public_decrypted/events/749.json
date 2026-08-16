@@ -3,36 +3,26 @@
   "order_index": 353,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Udinese",
-    "logo": "https://img.sofascore.com/api/v1/team/2695/image"
+    "name": "Liverpool",
+    "logo": "https://img.sofascore.com/api/v1/team/44/image"
   },
   "teamB": {
-    "name": "Padova",
-    "logo": "https://img.sofascore.com/api/v1/team/2741/image"
+    "name": "Como",
+    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "16:30:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVVkaW5lc2UtdnMtUGFkb3ZhMTc4NjgxMDQ1NjA1NA.txt",
+  "date": "16/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MaXZlcnBvb2wtdnMtQ29tbzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "ITALIA 1 - AQ",
-      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-      "scheme": 0,
-      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-      "tokenApi": ""
-    },
-    {
-      "name": "D Sports - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

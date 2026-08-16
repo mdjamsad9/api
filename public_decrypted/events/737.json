@@ -3,43 +3,26 @@
   "order_index": 341,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Chelsea",
-    "logo": "https://img.sofascore.com/api/v1/team/38/image"
+    "name": "Arouca",
+    "logo": "https://img.sofascore.com/api/v1/team/25777/image"
   },
   "teamB": {
-    "name": "Real Sociedad",
-    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    "name": "Moreirense",
+    "logo": "https://img.sofascore.com/api/v1/team/3014/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVJlYWwgU29jaWVkYWQxNzg2Nzk0NjE1NDg5.txt",
+  "date": "16/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUFyb3VjYS12cy1Nb3JlaXJlbnNlMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "ETB 1 HD (ES)",
-      "link": "https://chatgpt.hereisman.net/playlist/54661/load-playlist?|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.191/hls/UMMMA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

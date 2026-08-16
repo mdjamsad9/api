@@ -3,43 +3,26 @@
   "order_index": 352,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Al-Nassr",
-    "logo": "https://img.sofascore.com/api/v1/team/23400/image"
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
   },
   "teamB": {
-    "name": "Al-Fateh",
-    "logo": "https://img.sofascore.com/api/v1/team/56023/image"
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1OYXNzci12cy1BbC1GYXRlaDE3ODY4MTA0NTYwNTQ.txt",
+  "date": "16/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJ1cm5sZXktdnMtV2VzdCBIYW0xNzg2ODY1MjU2MDkx.txt",
   "links": [
     {
-      "name": "FOX DEPORTES ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "SporTV BR ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-      "scheme": 0,
-      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

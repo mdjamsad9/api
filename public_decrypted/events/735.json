@@ -3,29 +3,26 @@
   "order_index": 339,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "Women's Africa Cup of Nations",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
   },
   "teamA": {
-    "name": "Portsmouth",
-    "logo": "https://img.sofascore.com/api/v1/team/2/image"
+    "name": "Cameroon",
+    "logo": "https://img.sofascore.com/api/v1/team/69218/image"
   },
   "teamB": {
-    "name": "QPR",
-    "logo": "https://img.sofascore.com/api/v1/team/1/image"
+    "name": "Malawi",
+    "logo": "https://img.sofascore.com/api/v1/team/298498/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVBvcnRzbW91dGgtdnMtUVBSMTc4Njc4OTA3MTk4NQ.txt",
+  "date": "16/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtQ2FtZXJvb24tdnMtTWFsYXdpMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.194/hls/YNNNA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

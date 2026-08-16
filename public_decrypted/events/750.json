@@ -3,36 +3,26 @@
   "order_index": 354,
   "eventDetails": {
     "category": "Football",
-    "eventName": "2. Bundesliga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Kaiserslautern",
-    "logo": "https://img.sofascore.com/api/v1/team/2675/image"
+    "name": "Vitória",
+    "logo": "https://img.sofascore.com/api/v1/team/1962/image"
   },
   "teamB": {
-    "name": "Karlsruhe",
-    "logo": "https://img.sofascore.com/api/v1/team/2553/image"
+    "name": "Botafogo",
+    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1LYWlzZXJzbGF1dGVybi12cy1LYXJsc3J1aGUxNzg2ODEwNDU2MDU0.txt",
+  "date": "16/08/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1WaXTDs3JpYS12cy1Cb3RhZm9nbzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://stream.sports3.win/iptv/live/signal-4566593-37824.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.193/hls/TYTYTYAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

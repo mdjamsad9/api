@@ -3,43 +3,26 @@
   "order_index": 338,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Middlesbrough",
-    "logo": "https://img.sofascore.com/api/v1/team/36/image"
+    "name": "Schalke",
+    "logo": "https://img.sofascore.com/api/v1/team/2530/image"
   },
   "teamB": {
-    "name": "Lincoln",
-    "logo": "https://img.sofascore.com/api/v1/team/92/image"
+    "name": "Real Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2829/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU1pZGRsZXNicm91Z2gtdnMtTGluY29sbjE3ODY3ODkwNzE5ODU.txt",
+  "date": "16/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TY2hhbGtlLXZzLVJlYWwgTWFkcmlkMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER ",
-      "link": "https://live.vivo200.com/live/sd-1-4563508.m3u8?txSecret=c36ca4ddadbd519e3870e2fa1423cc37&txTime=6A807F5E|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.192/hls/ECCCAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

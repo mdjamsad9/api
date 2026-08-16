@@ -3,36 +3,26 @@
   "order_index": 348,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Fluminense",
-    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+    "name": "Braga",
+    "logo": "https://img.sofascore.com/api/v1/team/2999/image"
   },
   "teamB": {
-    "name": "Palmeiras",
-    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+    "name": "Gil Vicente",
+    "logo": "https://img.sofascore.com/api/v1/team/3010/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
+  "date": "16/08/2026",
   "time": "19:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1GbHVtaW5lbnNlLXZzLVBhbG1laXJhczE3ODY4MTA0NTYwNTQ.txt",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUJyYWdhLXZzLUdpbCBWaWNlbnRlMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "PREMIERE BR ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-      "scheme": 0,
-      "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIER SPORTS ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -7,32 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Rio Ave",
-    "logo": "https://img.sofascore.com/api/v1/team/3036/image"
+    "name": "Famalicão",
+    "logo": "https://img.sofascore.com/api/v1/team/49531/image"
   },
   "teamB": {
-    "name": "Porto",
-    "logo": "https://img.sofascore.com/api/v1/team/3002/image"
+    "name": "Marítimo",
+    "logo": "https://img.sofascore.com/api/v1/team/3007/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
+  "date": "16/08/2026",
   "time": "19:30:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVJpbyBBdmUtdnMtUG9ydG8xNzg2ODEwNDU2MDU0.txt",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUZhbWFsaWPDo28tdnMtTWFyw610aW1vMTc4Njg2NTI1NjA5MQ.txt",
   "links": [
     {
-      "name": "SPORT TV HD",
-      "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "beiN SPORTS ES",
-      "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

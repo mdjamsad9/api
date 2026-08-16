@@ -3,29 +3,26 @@
   "order_index": 333,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Trophée des Champions",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/339/image/dark"
   },
   "teamA": {
-    "name": "Newcastle",
-    "logo": "https://img.sofascore.com/api/v1/team/39/image"
+    "name": "Lens",
+    "logo": "https://img.sofascore.com/api/v1/team/1648/image"
   },
   "teamB": {
-    "name": "Leverkusen",
-    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    "name": "PSG",
+    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OZXdjYXN0bGUtdnMtTGV2ZXJrdXNlbjE3ODY3ODkwNzE5ODU.txt",
+  "date": "16/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/VHJvcGjDqWUgZGVzIENoYW1waW9ucy1MZW5zLXZzLVBTRzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "CBS NETWORK",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
