@@ -26,6 +26,20 @@
       "scheme": 0,
       "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
       "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lhy8hqyaja/out/v1/fd7c9d32b5e94723a4b80eaf1c16a0a6/7aa47cb9-cacf-4c05-8025-a6fe3d520026-cenc.mpd?aws_sessionId=66b0f302-7337-400b-9731-d32eb910bf42|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "4a2814153cfd217988bbc7586b087bf4:05875805eed3b07ee69714bdc1116c01",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/TDDDDQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

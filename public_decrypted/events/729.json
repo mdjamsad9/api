@@ -26,6 +26,27 @@
       "scheme": 0,
       "api": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
       "tokenApi": ""
+    },
+    {
+      "name": "Sport TV3 HD",
+      "link": "https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Sports HD",
+      "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.51/hls/T5555.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
