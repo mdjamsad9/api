@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OZXdjYXN0bGUtdnMtU3RyYXNib3VyZzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CRICFy LIVE",
+      "link": "https://chatgpt.hereisman.net/playlist/54750/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "DISNEY+ HD",
+      "link": "https://rdcstream.life/live/newcastle-x-strasbourg/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://live.vivo200.com/live/sd-1-4594044.m3u8?txSecret=a44758a9df37e0dba98935ebec4b313c&txTime=6A81DBB6|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.42/hls/emmm.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
