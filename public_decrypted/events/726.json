@@ -3,36 +3,26 @@
   "order_index": 330,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "Community Shield",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/346/image/dark"
   },
   "teamA": {
-    "name": "Catanzaro",
-    "logo": "https://img.sofascore.com/api/v1/team/2796/image"
+    "name": "Arsenal",
+    "logo": "https://img.sofascore.com/api/v1/team/42/image"
   },
   "teamB": {
-    "name": "Südtirol",
-    "logo": "https://img.sofascore.com/api/v1/team/2760/image"
+    "name": "Man City",
+    "logo": "https://img.sofascore.com/api/v1/team/17/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUNhdGFuemFyby12cy1Tw7xkdGlyb2wxNzg2Nzg5MDcxOTg1.txt",
+  "date": "16/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q29tbXVuaXR5IFNoaWVsZC1BcnNlbmFsLXZzLU1hbiBDaXR5MTc4Njg1OTY0NjUxNw.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mlmsrlyeb6/out/v1/f24ec71750694b07a01030e537d399e7/0f91b816-1804-4aff-b76f-19576ad89ac8-cenc.mpd?aws_sessionId=163c1568-1405-4e6d-afcf-5fd5f67487c8",
-      "scheme": 0,
-      "api": "272437738484c21b0431b82b6cdce7bd:3f7053aef43b3171498da19887656493",
-      "tokenApi": ""
-    },
-    {
-      "name": "D SPORTS - AQ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-      "scheme": 0,
-      "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

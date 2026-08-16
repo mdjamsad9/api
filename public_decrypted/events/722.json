@@ -3,29 +3,26 @@
   "order_index": 326,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Bolton",
-    "logo": "https://img.sofascore.com/api/v1/team/5/image"
+    "name": "Dresden",
+    "logo": "https://img.sofascore.com/api/v1/team/2595/image"
   },
   "teamB": {
-    "name": "Preston",
-    "logo": "https://img.sofascore.com/api/v1/team/21/image"
+    "name": "Darmstadt",
+    "logo": "https://img.sofascore.com/api/v1/team/2576/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
+  "date": "16/08/2026",
   "time": "11:30:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJvbHRvbi12cy1QcmVzdG9uMTc4Njc4OTA3MTk4NQ.txt",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1EcmVzZGVuLXZzLURhcm1zdGFkdDE3ODY4NTk2NDY1MTc.txt",
   "links": [
     {
-      "name": "CBS NETWORK",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

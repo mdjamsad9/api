@@ -7,32 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Dortmund",
-    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
+    "name": "Basel",
+    "logo": "https://img.sofascore.com/api/v1/team/2501/image"
   },
   "teamB": {
-    "name": "Roma",
-    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+    "name": "Barcelona",
+    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "15:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Eb3J0bXVuZC12cy1Sb21hMTc4Njc4OTA3MTk4NA.txt",
+  "date": "16/08/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CYXNlbC12cy1CYXJjZWxvbmExNzg2ODU5NjQ2NTE3.txt",
   "links": [
     {
-      "name": "FOX DEPORTES",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "D Sports - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

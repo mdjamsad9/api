@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Fürth",
-    "logo": "https://img.sofascore.com/api/v1/team/2551/image"
+    "name": "Bielefeld",
+    "logo": "https://img.sofascore.com/api/v1/team/2540/image"
   },
   "teamB": {
-    "name": "Nürnberg",
-    "logo": "https://img.sofascore.com/api/v1/team/2523/image"
+    "name": "Cottbus",
+    "logo": "https://img.sofascore.com/api/v1/team/2532/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "11:00:00",
-  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Gw7xydGgtdnMtTsO8cm5iZXJnMTc4Njc4OTA3MTk4NA.txt",
+  "date": "16/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1CaWVsZWZlbGQtdnMtQ290dGJ1czE3ODY4NTk2NDY1MTc.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/RRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

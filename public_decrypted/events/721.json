@@ -3,22 +3,22 @@
   "order_index": 325,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Konyaspor",
-    "logo": "https://img.sofascore.com/api/v1/team/3085/image"
+    "name": "Feyenoord",
+    "logo": "https://img.sofascore.com/api/v1/team/2959/image"
   },
   "teamB": {
-    "name": "Rizespor",
-    "logo": "https://img.sofascore.com/api/v1/team/3064/image"
+    "name": "GA Eagles",
+    "logo": "https://img.sofascore.com/api/v1/team/2979/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1Lb255YXNwb3ItdnMtUml6ZXNwb3IxNzg2Nzg5MDcxOTg0.txt",
+  "date": "16/08/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtRmV5ZW5vb3JkLXZzLUdBIEVhZ2xlczE3ODY4NTk2NDY1MTc.txt",
   "links": [
     {
       "name": "Link 1",

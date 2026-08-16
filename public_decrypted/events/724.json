@@ -3,22 +3,22 @@
   "order_index": 328,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Kasımpaşa",
-    "logo": "https://img.sofascore.com/api/v1/team/6063/image"
+    "name": "Malaysia",
+    "logo": "https://img.sofascore.com/api/v1/team/6912/image"
   },
   "teamB": {
-    "name": "Trabzonspor",
-    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
+    "name": "Vietnam",
+    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1LYXPEsW1wYcWfYS12cy1UcmFiem9uc3BvcjE3ODY3ODkwNzE5ODU.txt",
+  "date": "16/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLU1hbGF5c2lhLXZzLVZpZXRuYW0xNzg2ODU5NjQ2NTE3.txt",
   "links": [
     {
       "name": "Link 1",

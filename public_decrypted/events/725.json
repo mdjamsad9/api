@@ -3,29 +3,26 @@
   "order_index": 329,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Charlton",
-    "logo": "https://img.sofascore.com/api/v1/team/47/image"
+    "name": "Chapecoense",
+    "logo": "https://img.sofascore.com/api/v1/team/21845/image"
   },
   "teamB": {
-    "name": "Derby",
-    "logo": "https://img.sofascore.com/api/v1/team/27/image"
+    "name": "Bahia",
+    "logo": "https://img.sofascore.com/api/v1/team/1955/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
+  "date": "16/08/2026",
   "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNoYXJsdG9uLXZzLURlcmJ5MTc4Njc4OTA3MTk4NQ.txt",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1DaGFwZWNvZW5zZS12cy1CYWhpYTE3ODY4NTk2NDY1MTc.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4563507.m3u8?txSecret=6e208e1c573ae844c0c24fea0c6c65f9&txTime=6A807DF4|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
