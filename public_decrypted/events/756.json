@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLVBoaWxsaWVzMTc4Njg4MDYwODk1NQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live ",
+      "link": "https://chatgpt.hereisman.net/playlist/54765/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD QUALITY ",
+      "link": "https://edgestream4.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
