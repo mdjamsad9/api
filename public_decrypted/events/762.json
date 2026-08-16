@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Angels",
-    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "teamB": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "visible": true,
   "priority": -1,
   "date": "16/08/2026",
-  "time": "01:38:00",
-  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1Sb3lhbHMxNzg2ODEwNTMxNjUz.txt",
+  "time": "17:35:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtUmVkIFNveDE3ODY4ODA2MDg5NTU.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

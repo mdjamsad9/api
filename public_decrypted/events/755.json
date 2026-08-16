@@ -2,37 +2,27 @@
   "id": 755,
   "order_index": 359,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
   },
   "teamA": {
-    "name": "Venezia",
-    "logo": "https://img.sofascore.com/api/v1/team/2688/image"
+    "name": "TRT",
+    "logo": "https://img.sofascore.com/api/v1/team/377176/image"
   },
   "teamB": {
-    "name": "Modena",
-    "logo": "https://img.sofascore.com/api/v1/team/2706/image"
+    "name": "MSG",
+    "logo": "https://img.sofascore.com/api/v1/team/377173/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVZlbmV6aWEtdnMtTW9kZW5hMTc4NjgxMDQ1NjA1NA.txt",
+  "date": "16/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtVFJULXZzLU1TRzE3ODY4ODA0MTgzMjQ.txt",
   "links": [
     {
-      "name": "D SPORTS ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-      "scheme": 0,
-      "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIER SPORTS ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

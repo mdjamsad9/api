@@ -2,41 +2,48 @@
   "id": 754,
   "order_index": 358,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "category": "Cricket",
+    "eventName": "The Hundred Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
   },
   "teamA": {
-    "name": "Gaziantep",
-    "logo": "https://img.sofascore.com/api/v1/team/5138/image"
+    "name": "TRT-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377204/image"
   },
   "teamB": {
-    "name": "Alanyaspor",
-    "logo": "https://img.sofascore.com/api/v1/team/6362/image"
+    "name": "SL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HYXppYW50ZXAtdnMtQWxhbnlhc3BvcjE3ODY4MTA0NTYwNTQ.txt",
+  "date": "16/08/2026",
+  "time": "13:15:00",
+  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tVFJULVctdnMtU0wtVzE3ODY4ODA0MTgzMjQ.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://hls.live123.fans/live/4581273.m3u8",
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vrvl6ur6af/out/v1/7ac2d43b1dff45c28977a0917d3b94c5/cenc.mpd",
+      "scheme": 0,
+      "api": "a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY CRICKET - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "HD QUALITY",
-      "link": "https://stream.sports3.win/iptv/live/signal-4581273-37826.m3u8",
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vrvl6ur6af/out/v1/7ac2d43b1dff45c28977a0917d3b94c5/cenc.mpd",
       "scheme": 0,
-      "api": "",
+      "api": "a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8",
       "tokenApi": ""
     },
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.193/hls/DRRRAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
