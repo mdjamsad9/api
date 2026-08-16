@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Db3JpbnRoaWFucy12cy1DcnV6ZWlybzE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PRIME VIDEO HD",
+      "link": "https://rdcstream.life/live/corinthians-x-cruzeiro/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
