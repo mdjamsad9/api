@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUdlbm9hLXZzLUFzY29saTE3ODY4NjUyNTYwOTE.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lswifer8tq/out/v1/04f1dfd105be4f36bf4edb07e9422f5d/47559adc-efd9-4d03-8322-d79d88b03520-cenc.mpd?aws_sessionId=e1230abf-f534-4ce8-a2a6-d8a4f25762f3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "ad5ec4271efe50fb0a197843cffe47d9:ce9a8fa43dc115a6d9a7ba8c07127103",
+      "tokenApi": ""
+    },
+    {
+      "name": "D Sports FHD",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+      "tokenApi": ""
+    },
+    {
+      "name": "ITALIA 1 FHD",
+      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+      "scheme": 0,
+      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+      "tokenApi": ""
     }
   ]
 }
