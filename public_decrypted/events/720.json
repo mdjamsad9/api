@@ -3,29 +3,26 @@
   "order_index": 324,
   "eventDetails": {
     "category": "Football",
-    "eventName": "2. Bundesliga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Bielefeld",
-    "logo": "https://img.sofascore.com/api/v1/team/2540/image"
+    "name": "Sassuolo",
+    "logo": "https://img.sofascore.com/api/v1/team/2793/image"
   },
   "teamB": {
-    "name": "Cottbus",
-    "logo": "https://img.sofascore.com/api/v1/team/2532/image"
+    "name": "Cesena",
+    "logo": "https://img.sofascore.com/api/v1/team/2742/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "11:30:00",
-  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1CaWVsZWZlbGQtdnMtQ290dGJ1czE3ODY4NTk2NDY1MTc.txt",
+  "date": "17/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVNhc3N1b2xvLXZzLUNlc2VuYTE3ODY5NTYyODY4ODk.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/TTBBBAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

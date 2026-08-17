@@ -3,22 +3,22 @@
   "order_index": 327,
   "eventDetails": {
     "category": "Football",
-    "eventName": "2. Bundesliga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Hannover",
-    "logo": "https://img.sofascore.com/api/v1/team/2541/image"
+    "name": "Pisa",
+    "logo": "https://img.sofascore.com/api/v1/team/2737/image"
   },
   "teamB": {
-    "name": "Wolfsburg",
-    "logo": "https://img.sofascore.com/api/v1/team/2524/image"
+    "name": "Empoli",
+    "logo": "https://img.sofascore.com/api/v1/team/2705/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "11:30:00",
-  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1IYW5ub3Zlci12cy1Xb2xmc2J1cmcxNzg2ODU5NjQ2NTE3.txt",
+  "date": "17/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVBpc2EtdnMtRW1wb2xpMTc4Njk1NjI4Njg4OQ.txt",
   "links": [
     {
       "name": "Link 1",

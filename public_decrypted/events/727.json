@@ -3,22 +3,22 @@
   "order_index": 331,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "R. Racing Club",
-    "logo": "https://img.sofascore.com/api/v1/team/2835/image"
+    "name": "Samsunspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3053/image"
   },
   "teamB": {
-    "name": "Villarreal",
-    "logo": "https://img.sofascore.com/api/v1/team/2819/image"
+    "name": "Göztepe",
+    "logo": "https://img.sofascore.com/api/v1/team/3054/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/TGFMaWdhLVIuIFJhY2luZyBDbHViLXZzLVZpbGxhcnJlYWwxNzg2ODY1MjU2MDkx.txt",
+  "date": "17/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1TYW1zdW5zcG9yLXZzLUfDtnp0ZXBlMTc4Njk1NjI4Njg4OQ.txt",
   "links": [
     {
       "name": "Link 1",

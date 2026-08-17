@@ -3,50 +3,26 @@
   "order_index": 330,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Community Shield",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/346/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Arsenal",
-    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    "name": "Internacional",
+    "logo": "https://img.sofascore.com/api/v1/team/1966/image"
   },
   "teamB": {
-    "name": "Man City",
-    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    "name": "Remo",
+    "logo": "https://img.sofascore.com/api/v1/team/2012/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q29tbXVuaXR5IFNoaWVsZC1BcnNlbmFsLXZzLU1hbiBDaXR5MTc4Njg1OTY0NjUxNw.txt",
+  "date": "17/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1JbnRlcm5hY2lvbmFsLXZzLVJlbW8xNzg2OTU2Mjg2ODg5.txt",
   "links": [
     {
-      "name": "TNT SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN SPORTS HD",
-      "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TNT SPORTS HD",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1cczsc.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://162.251.160.53:8089/46/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

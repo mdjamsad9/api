@@ -3,29 +3,26 @@
   "order_index": 328,
   "eventDetails": {
     "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Malaysia",
-    "logo": "https://img.sofascore.com/api/v1/team/6912/image"
+    "name": "Cardiff",
+    "logo": "https://img.sofascore.com/api/v1/team/61/image"
   },
   "teamB": {
-    "name": "Vietnam",
-    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
+    "name": "Wrexham",
+    "logo": "https://img.sofascore.com/api/v1/team/64/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLU1hbGF5c2lhLXZzLVZpZXRuYW0xNzg2ODU5NjQ2NTE3.txt",
+  "date": "17/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNhcmRpZmYtdnMtV3JleGhhbTE3ODY5NTYyODY4ODk.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/AMMM.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

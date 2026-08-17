@@ -3,29 +3,26 @@
   "order_index": 326,
   "eventDetails": {
     "category": "Football",
-    "eventName": "2. Bundesliga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Dresden",
-    "logo": "https://img.sofascore.com/api/v1/team/2595/image"
+    "name": "Sporting",
+    "logo": "https://img.sofascore.com/api/v1/team/2852/image"
   },
   "teamB": {
-    "name": "Darmstadt",
-    "logo": "https://img.sofascore.com/api/v1/team/2576/image"
+    "name": "Sabadell",
+    "logo": "https://img.sofascore.com/api/v1/team/24335/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "11:30:00",
-  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1EcmVzZGVuLXZzLURhcm1zdGFkdDE3ODY4NTk2NDY1MTc.txt",
+  "date": "17/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItU3BvcnRpbmctdnMtU2FiYWRlbGwxNzg2OTU2Mjg2ODg5.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/RBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

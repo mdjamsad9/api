@@ -7,18 +7,18 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Al Bukayriyah",
-    "logo": "https://img.sofascore.com/api/v1/team/306937/image"
+    "name": "Al Raed",
+    "logo": "https://img.sofascore.com/api/v1/team/56031/image"
   },
   "teamB": {
-    "name": "Al-Hazem",
-    "logo": "https://img.sofascore.com/api/v1/team/168086/image"
+    "name": "Al-Hilal",
+    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "16:15:00",
-  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBCdWtheXJpeWFoLXZzLUFsLUhhemVtMTc4Njg2NTI1NjA5MQ.txt",
+  "date": "17/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBSYWVkLXZzLUFsLUhpbGFsMTc4Njk1NjI4Njg5MA.txt",
   "links": [
     {
       "name": "Link 1",

@@ -3,36 +3,26 @@
   "order_index": 320,
   "eventDetails": {
     "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Twente",
-    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    "name": "Deportivo",
+    "logo": "https://img.sofascore.com/api/v1/team/2832/image"
   },
   "teamB": {
-    "name": "Zwolle",
-    "logo": "https://img.sofascore.com/api/v1/team/2971/image"
+    "name": "Elche",
+    "logo": "https://img.sofascore.com/api/v1/team/2846/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "12:30:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVHdlbnRlLXZzLVp3b2xsZTE3ODY4NTk2NDY1MTc.txt",
+  "date": "17/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLURlcG9ydGl2by12cy1FbGNoZTE3ODY5NTYyODY4ODg.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "http://162.251.160.53:8089/121/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/oeeeaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

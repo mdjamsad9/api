@@ -3,43 +3,26 @@
   "order_index": 322,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Basel",
-    "logo": "https://img.sofascore.com/api/v1/team/2501/image"
+    "name": "Al Anwar",
+    "logo": "https://img.sofascore.com/api/v1/team/853566/image"
   },
   "teamB": {
-    "name": "Barcelona",
-    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+    "name": "Al-Ahli",
+    "logo": "https://img.sofascore.com/api/v1/team/34469/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "14:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CYXNlbC12cy1CYXJjZWxvbmExNzg2ODU5NjQ2NTE3.txt",
+  "date": "17/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBBbndhci12cy1BbC1BaGxpMTc4Njk1NjI4Njg4OQ.txt",
   "links": [
     {
-      "name": "CRICFy LIVE",
-      "link": "https://live.vivo200.com/live/sd-1-4611941.m3u8?txSecret=f3a5cbe77cfd2f2c6909080035b1d941&txTime=6A81D9FE|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "3 CAT TV ",
-      "link": "https://edgestream6.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/zoooaaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

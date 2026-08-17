@@ -3,29 +3,26 @@
   "order_index": 323,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "Forest",
-    "logo": "https://img.sofascore.com/api/v1/team/14/image"
+    "name": "Palermo",
+    "logo": "https://img.sofascore.com/api/v1/team/2715/image"
   },
   "teamB": {
-    "name": "Brest",
-    "logo": "https://img.sofascore.com/api/v1/team/1715/image"
+    "name": "Lecce",
+    "logo": "https://img.sofascore.com/api/v1/team/2689/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Gb3Jlc3QtdnMtQnJlc3QxNzg2ODU5NjQ2NTE3.txt",
+  "date": "17/08/2026",
+  "time": "19:15:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVBhbGVybW8tdnMtTGVjY2UxNzg2OTU2Mjg2ODg5.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/AMMMAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
