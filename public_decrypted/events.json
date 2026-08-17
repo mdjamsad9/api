@@ -91,8 +91,8 @@
   },
   {
     "id": 722,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"LaLiga 2\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/54\\/image\\/dark\"},\"teamA\":{\"name\":\"Sporting\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2852\\/image\"},\"teamB\":{\"name\":\"Sabadell\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/24335\\/image\"},\"visible\":true,\"date\":\"17\\/08\\/2026\",\"time\":\"17:00:00\",\"end_date\":\"17\\/08\\/2026\",\"end_time\":\"19:20:00\",\"links\":\"pro\\/TGFMaWdhIDItU3BvcnRpbmctdnMtU2FiYWRlbGwxNzg2OTU2Mjg2ODg5.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"LaLiga 2\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/54\\/image\\/dark\"},\"teamA\":{\"name\":\"Sporting\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2852\\/image\"},\"teamB\":{\"name\":\"Sabadell\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/24335\\/image\"},\"links\":\"pro\\/TGFMaWdhIDItU3BvcnRpbmctdnMtU2FiYWRlbGwxNzg2OTU2Mjg2ODg5.txt\",\"time\":\"17:00:00\",\"date\":\"17\\/08\\/2026\",\"end_time\":\"19:20:00\",\"end_date\":\"17\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Laliga Hypermotion ES\"]}",
+    "links": "[{\"name\":\"Laliga Hypermotion ES\",\"link\":\"https:\\/\\/cache07.zapitv.com\\/live\\/eds_c2\\/HYPERMOTION1\\/dash_live_ez\\/HYPERMOTION1.mpd\",\"scheme\":0,\"api\":\"a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a\",\"tokenApi\":\"\"}]",
     "order_index": 326
   },
   {
