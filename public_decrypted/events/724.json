@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/S2luZydzIEN1cC1BbC1Pa2hkb29kLXZzLUFsLUtoYWxlZWoxNzg3MDU2ODAwMTQz.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "cricfytv.net",
+      "link": "https://hls.live123.fans/live/4570041.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

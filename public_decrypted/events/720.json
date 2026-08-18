@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/S2luZydzIEN1cC1BbC1OYWptYS12cy1BbC1JdHRpaGFkMTc4NzA1NjgwMDE0Mw.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "cricfytv.net",
+      "link": "https://hls.live123.fans/live/4570046.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.44/hls/TPPPA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

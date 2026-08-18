@@ -67,8 +67,8 @@
   },
   {
     "id": 720,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Najma\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/395831\\/image\"},\"teamB\":{\"name\":\"Al-Ittihad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34315\\/image\"},\"visible\":true,\"date\":\"18\\/08\\/2026\",\"time\":\"16:15:00\",\"end_date\":\"18\\/08\\/2026\",\"end_time\":\"18:35:00\",\"links\":\"pro\\/S2luZydzIEN1cC1BbC1OYWptYS12cy1BbC1JdHRpaGFkMTc4NzA1NjgwMDE0Mw.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Najma\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/395831\\/image\"},\"teamB\":{\"name\":\"Al-Ittihad\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34315\\/image\"},\"links\":\"pro\\/S2luZydzIEN1cC1BbC1OYWptYS12cy1BbC1JdHRpaGFkMTc4NzA1NjgwMDE0Mw.txt\",\"time\":\"16:15:00\",\"date\":\"18\\/08\\/2026\",\"end_time\":\"18:35:00\",\"end_date\":\"18\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"cricfytv.net\",\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"cricfytv.net\",\"link\":\"https:\\/\\/hls.live123.fans\\/live\\/4570046.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.44\\/hls\\/TPPPA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 324
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "id": 722,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Al Jabalin\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/213003\\/image\"},\"teamB\":{\"name\":\"Al-Ettifaq\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34318\\/image\"},\"visible\":true,\"date\":\"18\\/08\\/2026\",\"time\":\"16:15:00\",\"end_date\":\"18\\/08\\/2026\",\"end_time\":\"18:35:00\",\"links\":\"pro\\/S2luZydzIEN1cC1BbCBKYWJhbGluLXZzLUFsLUV0dGlmYXExNzg3MDU2ODAwMTQz.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Al Jabalin\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/213003\\/image\"},\"teamB\":{\"name\":\"Al-Ettifaq\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/34318\\/image\"},\"links\":\"pro\\/S2luZydzIEN1cC1BbCBKYWJhbGluLXZzLUFsLUV0dGlmYXExNzg3MDU2ODAwMTQz.txt\",\"time\":\"16:15:00\",\"date\":\"18\\/08\\/2026\",\"end_time\":\"18:35:00\",\"end_date\":\"18\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\",\"CRICFTV.NET\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.44\\/hls\\/TPPP.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"CRICFTV.NET\",\"link\":\"https:\\/\\/hls.live123.fans\\/live\\/4570055.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 326
   },
   {
@@ -91,8 +91,8 @@
   },
   {
     "id": 724,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Okhdood\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/336456\\/image\"},\"teamB\":{\"name\":\"Al-Khaleej\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/167228\\/image\"},\"visible\":true,\"date\":\"18\\/08\\/2026\",\"time\":\"16:15:00\",\"end_date\":\"18\\/08\\/2026\",\"end_time\":\"18:35:00\",\"links\":\"pro\\/S2luZydzIEN1cC1BbC1Pa2hkb29kLXZzLUFsLUtoYWxlZWoxNzg3MDU2ODAwMTQz.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Al-Okhdood\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/336456\\/image\"},\"teamB\":{\"name\":\"Al-Khaleej\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/167228\\/image\"},\"links\":\"pro\\/S2luZydzIEN1cC1BbC1Pa2hkb29kLXZzLUFsLUtoYWxlZWoxNzg3MDU2ODAwMTQz.txt\",\"time\":\"16:15:00\",\"date\":\"18\\/08\\/2026\",\"end_time\":\"18:35:00\",\"end_date\":\"18\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"cricfytv.net\"]}",
+    "links": "[{\"name\":\"cricfytv.net\",\"link\":\"https:\\/\\/hls.live123.fans\\/live\\/4570041.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 328
   },
   {
