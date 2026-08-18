@@ -3,22 +3,22 @@
   "order_index": 330,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Internacional",
-    "logo": "https://img.sofascore.com/api/v1/team/1966/image"
+    "name": "Al Diriyah",
+    "logo": "https://img.sofascore.com/api/v1/team/853574/image"
   },
   "teamB": {
-    "name": "Remo",
-    "logo": "https://img.sofascore.com/api/v1/team/2012/image"
+    "name": "Al-Nassr",
+    "logo": "https://img.sofascore.com/api/v1/team/23400/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "23:00:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1JbnRlcm5hY2lvbmFsLXZzLVJlbW8xNzg2OTU2Mjg2ODg5.txt",
+  "date": "18/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBEaXJpeWFoLXZzLUFsLU5hc3NyMTc4NzA1NjgwMDE0Mw.txt",
   "links": [
     {
       "name": "Link 1",

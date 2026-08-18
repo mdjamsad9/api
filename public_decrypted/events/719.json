@@ -3,43 +3,26 @@
   "order_index": 323,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Palermo",
-    "logo": "https://img.sofascore.com/api/v1/team/2715/image"
+    "name": "Fenerbahçe",
+    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
   },
   "teamB": {
-    "name": "Lecce",
-    "logo": "https://img.sofascore.com/api/v1/team/2689/image"
+    "name": "Lyon",
+    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "19:15:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVBhbGVybW8tdnMtTGVjY2UxNzg2OTU2Mjg2ODg5.txt",
+  "date": "18/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUZlbmVyYmFow6dlLXZzLUx5b24xNzg3MDU2ODAwMTQy.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
-    },
-    {
-      "name": "ITALIA 1 ",
-      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-      "scheme": 0,
-      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-      "tokenApi": ""
-    },
-    {
-      "name": "Sport TV HD",
-      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

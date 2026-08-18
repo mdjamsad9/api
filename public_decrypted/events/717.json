@@ -3,28 +3,28 @@
   "order_index": 321,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Cremonese",
-    "logo": "https://img.sofascore.com/api/v1/team/2761/image"
+    "name": "Thailand",
+    "logo": "https://img.sofascore.com/api/v1/team/4730/image"
   },
   "teamB": {
-    "name": "Sampdoria",
-    "logo": "https://img.sofascore.com/api/v1/team/2711/image"
+    "name": "Singapore",
+    "logo": "https://img.sofascore.com/api/v1/team/4738/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUNyZW1vbmVzZS12cy1TYW1wZG9yaWExNzg2OTU2Mjg2ODg4.txt",
+  "date": "18/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVRoYWlsYW5kLXZzLVNpbmdhcG9yZTE3ODcwNTY4MDAxNDI.txt",
   "links": [
     {
-      "name": "D SPORTS+ - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "Server 1",
+      "link": "https://hls.live123.fans/live/4612552.m3u8",
       "scheme": 0,
-      "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+      "api": "",
       "tokenApi": ""
     }
   ]

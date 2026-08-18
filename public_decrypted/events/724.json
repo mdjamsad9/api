@@ -3,36 +3,26 @@
   "order_index": 328,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Cardiff",
-    "logo": "https://img.sofascore.com/api/v1/team/61/image"
+    "name": "Al-Okhdood",
+    "logo": "https://img.sofascore.com/api/v1/team/336456/image"
   },
   "teamB": {
-    "name": "Wrexham",
-    "logo": "https://img.sofascore.com/api/v1/team/64/image"
+    "name": "Al-Khaleej",
+    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNhcmRpZmYtdnMtV3JleGhhbTE3ODY5NTYyODY4ODk.txt",
+  "date": "18/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbC1Pa2hkb29kLXZzLUFsLUtoYWxlZWoxNzg3MDU2ODAwMTQz.txt",
   "links": [
     {
-      "name": "beIN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN4 BR HD",
-      "link": "https://rdcstream.life/live/espn4/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

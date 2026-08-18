@@ -7,25 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Al Raed",
-    "logo": "https://img.sofascore.com/api/v1/team/56031/image"
+    "name": "Al Faisaly",
+    "logo": "https://img.sofascore.com/api/v1/team/56035/image"
   },
   "teamB": {
-    "name": "Al-Hilal",
-    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
+    "name": "Neom",
+    "logo": "https://img.sofascore.com/api/v1/team/530631/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
+  "date": "18/08/2026",
   "time": "18:00:00",
-  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBSYWVkLXZzLUFsLUhpbGFsMTc4Njk1NjI4Njg5MA.txt",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBGYWlzYWx5LXZzLU5lb20xNzg3MDU2ODAwMTQz.txt",
   "links": [
     {
-      "name": "Cricfy Live ",
-      "link": "https://live.vivo200.com/live/sd-1-4570035.m3u8?txSecret=c5d93b27eddb2cdd4bbf86de1d4f34db&txTime=6A835E2E|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

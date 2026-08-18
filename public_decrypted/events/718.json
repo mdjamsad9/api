@@ -3,29 +3,26 @@
   "order_index": 322,
   "eventDetails": {
     "category": "Football",
-    "eventName": "King's Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
+    "eventName": "Football League Trophy",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark"
   },
   "teamA": {
-    "name": "Al Anwar",
-    "logo": "https://img.sofascore.com/api/v1/team/853566/image"
+    "name": "Leyton Orient",
+    "logo": "https://img.sofascore.com/api/v1/team/83/image"
   },
   "teamB": {
-    "name": "Al-Ahli",
-    "logo": "https://img.sofascore.com/api/v1/team/34469/image"
+    "name": "Wimbledon",
+    "logo": "https://img.sofascore.com/api/v1/team/23957/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBBbndhci12cy1BbC1BaGxpMTc4Njk1NjI4Njg4OQ.txt",
+  "date": "18/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Rm9vdGJhbGwgTGVhZ3VlIFRyb3BoeS1MZXl0b24gT3JpZW50LXZzLVdpbWJsZWRvbjE3ODcwNTY4MDAxNDI.txt",
   "links": [
     {
-      "name": "Low Quality ",
-      "link": "http://193.47.62.44/hls/aaaab.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -3,50 +3,26 @@
   "order_index": 327,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "Football League Trophy",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark"
   },
   "teamA": {
-    "name": "Pisa",
-    "logo": "https://img.sofascore.com/api/v1/team/2737/image"
+    "name": "Reading",
+    "logo": "https://img.sofascore.com/api/v1/team/28/image"
   },
   "teamB": {
-    "name": "Empoli",
-    "logo": "https://img.sofascore.com/api/v1/team/2705/image"
+    "name": "Wycombe",
+    "logo": "https://img.sofascore.com/api/v1/team/62/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVBpc2EtdnMtRW1wb2xpMTc4Njk1NjI4Njg4OQ.txt",
+  "date": "18/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Rm9vdGJhbGwgTGVhZ3VlIFRyb3BoeS1SZWFkaW5nLXZzLVd5Y29tYmUxNzg3MDU2ODAwMTQz.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ FHD ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/mc0gsyzkul/out/v1/92dfe9688cb2401cbc4ba878a1a331e8/c9c84226-8c3d-455a-b326-370c1851f53e-cenc.mpd?aws_sessionId=4eaf4582-9120-4621-997f-8d2103d995cf",
-      "scheme": 0,
-      "api": "8e1baa0c5065eacc28292b5a88963ebf:52b9bbb2abc46378f2466b8aa1dd914c",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIER SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIER SPORTS",
-      "link": "https://chatgpt.hereisman.net/playlist/54783/load-playlist?|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

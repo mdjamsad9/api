@@ -2,30 +2,27 @@
   "id": 731,
   "order_index": 335,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "King's Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC World Test Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
   },
   "teamA": {
-    "name": "Al Wehda",
-    "logo": "https://img.sofascore.com/api/v1/team/32994/image"
+    "name": "ENG",
+    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
   },
   "teamB": {
-    "name": "Al-Shabab",
-    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
+    "name": "PAK",
+    "logo": "https://img.sofascore.com/api/v1/team/187754/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBXZWhkYS12cy1BbC1TaGFiYWIxNzg2ODY1MjU2MDkx.txt",
+  "date": "19/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUVORy12cy1QQUsxNzg3MDU3MzkwNzQ1.txt",
   "links": [
     {
-      "name": "Low",
-      "link": "http://193.47.62.57/hls/YKKKA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

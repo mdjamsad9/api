@@ -3,29 +3,26 @@
   "order_index": 334,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Girona",
-    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+    "name": "Heidenheim",
+    "logo": "https://img.sofascore.com/api/v1/team/5885/image"
   },
   "teamB": {
-    "name": "Leganés",
-    "logo": "https://img.sofascore.com/api/v1/team/2845/image"
+    "name": "Bayern",
+    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItR2lyb25hLXZzLUxlZ2Fuw6lzMTc4Njg2NTI1NjA5MQ.txt",
+  "date": "18/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1IZWlkZW5oZWltLXZzLUJheWVybjE3ODcwNTY4MDAxNDM.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

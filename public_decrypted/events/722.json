@@ -3,29 +3,26 @@
   "order_index": 326,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Sporting",
-    "logo": "https://img.sofascore.com/api/v1/team/2852/image"
+    "name": "Al Jabalin",
+    "logo": "https://img.sofascore.com/api/v1/team/213003/image"
   },
   "teamB": {
-    "name": "Sabadell",
-    "logo": "https://img.sofascore.com/api/v1/team/24335/image"
+    "name": "Al-Ettifaq",
+    "logo": "https://img.sofascore.com/api/v1/team/34318/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItU3BvcnRpbmctdnMtU2FiYWRlbGwxNzg2OTU2Mjg2ODg5.txt",
+  "date": "18/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBKYWJhbGluLXZzLUFsLUV0dGlmYXExNzg3MDU2ODAwMTQz.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

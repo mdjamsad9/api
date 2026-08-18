@@ -14,7 +14,7 @@
     "name": "CPL T20",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10"
   },
-  "visible": true,
+  "visible": false,
   "priority": -1,
   "date": "18/08/2026",
   "time": "00:00:00",
