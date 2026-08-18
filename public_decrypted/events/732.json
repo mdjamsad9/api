@@ -3,42 +3,35 @@
   "order_index": 336,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Lazio",
-    "logo": "https://img.sofascore.com/api/v1/team/2699/image"
+    "name": "Levski Sofia",
+    "logo": "https://img.sofascore.com/api/v1/team/3273/image"
   },
   "teamB": {
-    "name": "Mantova",
-    "logo": "https://img.sofascore.com/api/v1/team/2770/image"
+    "name": "AEK",
+    "logo": "https://img.sofascore.com/api/v1/team/3250/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "19:15:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUxhemlvLXZzLU1hbnRvdmExNzg2ODY1MjU2MDkx.txt",
+  "date": "18/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUxldnNraSBTb2ZpYS12cy1BRUsxNzg3MDc2MTE5MDcw.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "TNT Sports FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
       "tokenApi": ""
     },
     {
-      "name": "D Sports ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "TUDN MEXICO",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT 1 CZ",
-      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-      "scheme": 0,
-      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
       "tokenApi": ""
     }
   ]
