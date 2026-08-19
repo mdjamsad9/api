@@ -16,15 +16,15 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "26/08/2026",
+  "date": "20/08/2026",
   "time": "00:00:00",
   "links_metadata_path": "pro/QUVXIER5bmFtaXRlLUFFVy12cy1BRVcxNzgwNTE1NjY5NzI2.txt",
   "links": [
     {
-      "name": "TSN SPORTS AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+      "name": "TSN SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
       "scheme": 0,
-      "api": "daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b",
+      "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
       "tokenApi": ""
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "name": "WWE AQ",
-      "link": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?|Referer=https://gooz.aapmains.net",
+      "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -51,13 +51,6 @@
     {
       "name": "BACKUP AQ",
       "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "BACKUP LQ",
-      "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

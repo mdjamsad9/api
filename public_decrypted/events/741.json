@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVNsb3Zhbi12cy1DZWxqZTE3ODcxMjczMzM1OTM.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "TNT Sports - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/54860/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "https://live.vivo200.com/live/hd-en-1-4608838.m3u8?txSecret=fd384a7ee6dba703369bfb2d682098b7&txTime=6A860F5F|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HBO MAX BR HD",
+      "link": "https://rdcstream.life/live/slovan-bratislava-x-celje/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://hls.live123.fans/live/4608838.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
