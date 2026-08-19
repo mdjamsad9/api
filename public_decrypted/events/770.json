@@ -2,30 +2,27 @@
   "id": 770,
   "order_index": 374,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "Forest",
+    "logo": "https://img.sofascore.com/api/v1/team/14/image"
   },
   "teamB": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Leeds",
+    "logo": "https://img.sofascore.com/api/v1/team/34/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "19:15:00",
-  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtQ2FyZGluYWxzMTc4Njg4MDYwODk1NQ.txt",
+  "date": "22/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRm9yZXN0LXZzLUxlZWRzMTc4NzE3MDU2NTkzMg.txt",
   "links": [
     {
-      "name": "HD QUALITY ",
-      "link": "https://edgestream6.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

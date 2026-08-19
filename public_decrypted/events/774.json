@@ -1,24 +1,24 @@
 {
-  "id": 772,
-  "order_index": 376,
+  "id": 774,
+  "order_index": 378,
   "eventDetails": {
     "category": "Football",
     "eventName": "Premier League",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Man City",
-    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    "name": "Hull",
+    "logo": "https://img.sofascore.com/api/v1/team/96/image"
   },
   "teamB": {
-    "name": "Bournemouth",
-    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+    "name": "Man Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTWFuIENpdHktdnMtQm91cm5lbW91dGgxNzg3MTcwNTY1OTMy.txt",
+  "date": "22/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtSHVsbC12cy1NYW4gVXRkMTc4NzE3MDU2NTkzMg.txt",
   "links": [
     {
       "name": "Link 1",
