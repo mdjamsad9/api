@@ -32,14 +32,14 @@
       "link": "abs",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"abs\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-26.php\",\"type\":\"token\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"abs\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-26.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
       "name": "FOX doportes",
       "link": "y",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"y\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-643.php\",\"type\":\"token\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"y\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-643.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
       "name": "Sports 1 Israel ",
