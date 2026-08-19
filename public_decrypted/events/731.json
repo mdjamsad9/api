@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUVORy12cy1QQUsxNzg3MDU3MzkwNzQ1.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY CRICKET - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd",
+      "scheme": 0,
+      "api": "bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORT",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
