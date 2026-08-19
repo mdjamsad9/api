@@ -115,8 +115,8 @@
   },
   {
     "id": 742,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Damac\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/204126\\/image\"},\"teamB\":{\"name\":\"Al-Taawoun\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56021\\/image\"},\"visible\":true,\"date\":\"19\\/08\\/2026\",\"time\":\"16:15:00\",\"end_date\":\"19\\/08\\/2026\",\"end_time\":\"18:35:00\",\"links\":\"pro\\/S2luZydzIEN1cC1EYW1hYy12cy1BbC1UYWF3b3VuMTc4NzEyNzMzMzU5Mw.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"King's Cup\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/2058\\/image\\/dark\"},\"teamA\":{\"name\":\"Damac\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/204126\\/image\"},\"teamB\":{\"name\":\"Al-Taawoun\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/56021\\/image\"},\"links\":\"pro\\/S2luZydzIEN1cC1EYW1hYy12cy1BbC1UYWF3b3VuMTc4NzEyNzMzMzU5Mw.txt\",\"time\":\"16:15:00\",\"date\":\"19\\/08\\/2026\",\"end_time\":\"18:35:00\",\"end_date\":\"19\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Tnmanyah\"]}",
+    "links": "[{\"name\":\"Tnmanyah\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"http:\\\\\\/\\\\\\/cricfy-tv.net\\\\\\/promo\\\\\\/cricfy-promo.m3u8\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/nontongo.win\\\\\\/livetv\\\\\\/play-movie.php?id=1|referer=https:\\\\\\/\\\\\\/www.nontongo.win\\\\\\/livetv\\\\\\/26\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 346
   },
   {
@@ -199,8 +199,8 @@
   },
   {
     "id": 756,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Pirates\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3637\\/image\"},\"teamB\":{\"name\":\"Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3648\\/image\"},\"visible\":true,\"date\":\"19\\/08\\/2026\",\"time\":\"16:35:00\",\"end_date\":\"19\\/08\\/2026\",\"end_time\":\"19:35:00\",\"links\":\"pro\\/TUxCLVBpcmF0ZXMtdnMtVGlnZXJzMTc4NzEyNzUzNjE5Nw.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Pirates\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3637\\/image\"},\"teamB\":{\"name\":\"Tigers\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3648\\/image\"},\"links\":\"pro\\/TUxCLVBpcmF0ZXMtdnMtVGlnZXJzMTc4NzEyNzUzNjE5Nw.txt\",\"time\":\"16:35:00\",\"date\":\"19\\/08\\/2026\",\"end_time\":\"19:35:00\",\"end_date\":\"19\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD Server\",\"Cricfy Live\"]}",
+    "links": "[{\"name\":\"HD Server\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"Cricfy Live\",\"link\":\"aa\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"aa\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/daddylive1.cx\\\\\\/my\\\\\\/stream-11.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 360
   },
   {
