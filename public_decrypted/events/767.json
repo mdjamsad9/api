@@ -21,11 +21,18 @@
   "links_metadata_path": "pro/TUxTLUNvbHVtYnVzLXZzLU1vbnRyw6lhbDE3ODcxMjgyNDY1MzQ.txt",
   "links": [
     {
-      "name": "Sp - 1",
+      "name": "TSN SPORTS - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
       "tokenApi": ""
+    },
+    {
+      "name": "MLS LEAGUE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/mls\\/2026-08-19\\/clb-mtl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
