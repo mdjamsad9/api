@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/S2luZydzIEN1cC1KZWRkYWgtdnMtQWwtS2hvbG9vZDE3ODcxMjczMzM1OTM.txt",
   "links": [
     {
+      "name": "SP",
+      "link": "https://china-sp.pages.dev/khoolood-1908.json?&.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "https://live.vivo200.com/live/sd-1-4570044.m3u8?txSecret=bfc1051166b3529810fd619dd0cb4223&txTime=6A85DFAD|Referer=https://player.online909.com/",
       "scheme": 0,
