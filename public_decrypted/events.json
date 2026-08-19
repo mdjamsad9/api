@@ -217,8 +217,8 @@
   },
   {
     "id": 759,
-    "event": "{\"eventDetails\":{\"category\":\"Basketball\",\"eventName\":\"WNBA\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/486\\/image\\/dark\"},\"teamA\":{\"name\":\"Valkyries\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1041936\\/image\"},\"teamB\":{\"name\":\"Lynx\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3440\\/image\"},\"visible\":true,\"date\":\"20\\/08\\/2026\",\"time\":\"02:00:00\",\"end_date\":\"20\\/08\\/2026\",\"end_time\":\"05:00:00\",\"links\":\"pro\\/V05CQS1WYWxreXJpZXMtdnMtTHlueDE3ODcxMjgxMTAwNTg.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Basketball\",\"eventName\":\"WNBA\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/486\\/image\\/dark\"},\"teamA\":{\"name\":\"Valkyries\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1041936\\/image\"},\"teamB\":{\"name\":\"Lynx\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3440\\/image\"},\"links\":\"pro\\/V05CQS1WYWxreXJpZXMtdnMtTHlueDE3ODcxMjgxMTAwNTg.txt\",\"time\":\"02:00:00\",\"date\":\"20\\/08\\/2026\",\"end_time\":\"05:00:00\",\"end_date\":\"20\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live\",\"WNBA LIVE\"]}",
+    "links": "[{\"name\":\"Cricfy Live\",\"link\":\"https:\\/\\/edgestream6.pro\\/hls\\/ztyarueaghj71.m3u8?|Referer=https:\\/\\/streamscenter.online\\/&Origin=https:\\/\\/streamscenter.online\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"WNBA LIVE\",\"link\":\"https:\\/\\/embedindia.st\\/embed\\/wnba\\/2026-08-18\\/ind-tor\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 363
   },
   {
@@ -241,8 +241,8 @@
   },
   {
     "id": 763,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"MLS\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/242\\/image\\/dark\"},\"teamA\":{\"name\":\"LA Galaxy\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2513\\/image\"},\"teamB\":{\"name\":\"San Jose\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21825\\/image\"},\"visible\":true,\"date\":\"20\\/08\\/2026\",\"time\":\"02:30:00\",\"end_date\":\"20\\/08\\/2026\",\"end_time\":\"04:50:00\",\"links\":\"pro\\/TUxTLUxBIEdhbGF4eS12cy1TYW4gSm9zZTE3ODcxMjgyNDY1MzQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"MLS\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/242\\/image\\/dark\"},\"teamA\":{\"name\":\"LA Galaxy\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2513\\/image\"},\"teamB\":{\"name\":\"San Jose\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/21825\\/image\"},\"links\":\"pro\\/TUxTLUxBIEdhbGF4eS12cy1TYW4gSm9zZTE3ODcxMjgyNDY1MzQ.txt\",\"time\":\"02:30:00\",\"date\":\"20\\/08\\/2026\",\"end_time\":\"04:50:00\",\"end_date\":\"20\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"FOX SPORTS - AQ\"]}",
+    "links": "[{\"name\":\"FOX SPORTS - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/fsu3wl2rwb\\/out\\/v1\\/be61206c04e643349d53fb22301f3b50\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16\",\"tokenApi\":\"\"}]",
     "order_index": 367
   },
   {
@@ -259,8 +259,8 @@
   },
   {
     "id": 766,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"MLS\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/242\\/image\\/dark\"},\"teamA\":{\"name\":\"Vancouver\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/22010\\/image\"},\"teamB\":{\"name\":\"Houston\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2508\\/image\"},\"visible\":true,\"date\":\"20\\/08\\/2026\",\"time\":\"02:30:00\",\"end_date\":\"20\\/08\\/2026\",\"end_time\":\"04:50:00\",\"links\":\"pro\\/TUxTLVZhbmNvdXZlci12cy1Ib3VzdG9uMTc4NzEyODI0NjUzNA.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"MLS\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/242\\/image\\/dark\"},\"teamA\":{\"name\":\"Vancouver\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/22010\\/image\"},\"teamB\":{\"name\":\"Houston\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2508\\/image\"},\"links\":\"pro\\/TUxTLVZhbmNvdXZlci12cy1Ib3VzdG9uMTc4NzEyODI0NjUzNA.txt\",\"time\":\"02:30:00\",\"date\":\"20\\/08\\/2026\",\"end_time\":\"04:50:00\",\"end_date\":\"20\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"TSN4 SPORTS - AQ\",\"TSN5 SPORTS - AQ\"]}",
+    "links": "[{\"name\":\"TSN4 SPORTS - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/ihys8nw4wv\\/out\\/v1\\/fde190f369484bc6b6117cc16cd82a9f\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7\",\"tokenApi\":\"\"},{\"name\":\"TSN5 SPORTS - AQ\",\"link\":\"https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/cscevwljkq\\/out\\/v1\\/972185041b244140860b7d56398e9aaf\\/cenc.mpd|user-agent=Mozilla\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\/537.36 (KHTML, like Gecko) Chrome\\/149.0.0.0 Safari\\/537.36\",\"scheme\":0,\"api\":\"385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8\",\"tokenApi\":\"\"}]",
     "order_index": 370
   },
   {
