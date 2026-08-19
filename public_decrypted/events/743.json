@@ -21,11 +21,11 @@
   "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBVbGEtdnMtQWwtRmF0ZWgxNzg3MTI3MzMzNTkz.txt",
   "links": [
     {
-      "name": "Cricfy LIVE",
-      "link": "https://hamis.romponalis.st/premiumtv/daddy.php?id=3|referer=https://dlhd.st/",
+      "name": "Server 1",
+      "link": "https://hls.live123.fans/live/4570056.m3u8",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"https:\\/\\/hamis.romponalis.st\\/premiumtv\\/daddy.php?id=3|referer=https:\\/\\/dlhd.st\\/\",\"api\":\"june22|fMV0jMC6Nl9mjBehj3VlSWPxfYThk29lf2Iljl5eSYL\",\"type\":\"daddy\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     }
   ]
 }
