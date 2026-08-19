@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CYXJjZWxvbmEtdnMtQWwgQWhseTE3ODcxMjczMzM1OTM.txt",
   "links": [
     {
+      "name": "FOX DEPORTES - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+      "scheme": 0,
+      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+      "tokenApi": ""
+    },
+    {
       "name": "Barca TV",
       "link": "",
       "scheme": 0,
@@ -28,25 +35,18 @@
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-522.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "TV 3",
-      "link": "abs",
+      "name": "Cricfytv.net",
+      "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"abs\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-26.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     },
     {
-      "name": "FOX doportes",
-      "link": "y",
+      "name": "HD SERVER",
+      "link": "https://hls.live123.fans/live/4595895.m3u8",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"y\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-643.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Sports 1 Israel ",
-      "link": "u",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"u\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-140.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     }
   ]
 }
