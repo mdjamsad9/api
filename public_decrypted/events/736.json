@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUguIEJlJ2VyIFNoZXZhLXZzLVNhYmFoMTc4NzEyNzMzMzU5Mw.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "ARENA SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/54857/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HBO MAX BR HD",
+      "link": "https://rdcstream.life/live/hapoel-beer-sheva-x-sabah-baku/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
