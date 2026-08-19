@@ -2,23 +2,23 @@
   "id": 744,
   "order_index": 348,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Braga",
-    "logo": "https://img.sofascore.com/api/v1/team/2999/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "teamB": {
-    "name": "Gil Vicente",
-    "logo": "https://img.sofascore.com/api/v1/team/3010/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUJyYWdhLXZzLUdpbCBWaWNlbnRlMTc4Njg2NTI1NjA5MQ.txt",
+  "date": "19/08/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1BdGhsZXRpY3MxNzg3MTI3NTM2MTk2.txt",
   "links": [
     {
       "name": "Link 1",

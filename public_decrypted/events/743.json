@@ -3,36 +3,26 @@
   "order_index": 347,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Frosinone",
-    "logo": "https://img.sofascore.com/api/v1/team/2801/image"
+    "name": "Al Ula",
+    "logo": "https://img.sofascore.com/api/v1/team/853576/image"
   },
   "teamB": {
-    "name": "Juve Stabia",
-    "logo": "https://img.sofascore.com/api/v1/team/5324/image"
+    "name": "Al-Fateh",
+    "logo": "https://img.sofascore.com/api/v1/team/56023/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUZyb3Npbm9uZS12cy1KdXZlIFN0YWJpYTE3ODY4NjUyNTYwOTE.txt",
+  "date": "19/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBVbGEtdnMtQWwtRmF0ZWgxNzg3MTI3MzMzNTkz.txt",
   "links": [
     {
-      "name": "D SPORTS ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-      "scheme": 0,
-      "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://162.251.160.53:8089/78/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

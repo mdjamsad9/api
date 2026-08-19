@@ -2,30 +2,27 @@
   "id": 761,
   "order_index": 365,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Santa Fe",
+    "logo": "https://img.sofascore.com/api/v1/team/6116/image"
   },
   "teamB": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "River Plate",
+    "logo": "https://img.sofascore.com/api/v1/team/3211/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "20:05:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1SYW5nZXJzMTc4Njg4MDYwODk1NQ.txt",
+  "date": "20/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLVNhbnRhIEZlLXZzLVJpdmVyIFBsYXRlMTc4NzEyODI0NjUzNA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

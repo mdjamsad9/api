@@ -3,29 +3,26 @@
   "order_index": 342,
   "eventDetails": {
     "category": "Football",
-    "eventName": "King's Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Al Orobah",
-    "logo": "https://img.sofascore.com/api/v1/team/114259/image"
+    "name": "Atl. Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2836/image"
   },
   "teamB": {
-    "name": "Abha",
-    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
+    "name": "Málaga",
+    "logo": "https://img.sofascore.com/api/v1/team/2830/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "16:40:00",
-  "links_metadata_path": "pro/S2luZydzIEN1cC1BbCBPcm9iYWgtdnMtQWJoYTE3ODY4NjUyNTYwOTE.txt",
+  "date": "19/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLUF0bC4gTWFkcmlkLXZzLU3DoWxhZ2ExNzg3MTI3MzMzNTkz.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "http://193.47.62.49/hls/ekkkaaAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,44 +2,27 @@
   "id": 745,
   "order_index": 349,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Coppa Italia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Verona",
-    "logo": "https://img.sofascore.com/api/v1/team/2701/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "teamB": {
-    "name": "Entella",
-    "logo": "https://img.sofascore.com/api/v1/team/43680/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVZlcm9uYS12cy1FbnRlbGxhMTc4Njg2NTI1NjA5MQ.txt",
+  "date": "20/08/2026",
+  "time": "00:10:00",
+  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1BbmdlbHMxNzg3MTI3NTM2MTk2.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
-    },
-    {
-      "name": "PARAMOUNT+ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lhy8hqyaja/out/v1/fd7c9d32b5e94723a4b80eaf1c16a0a6/7aa47cb9-cacf-4c05-8025-a6fe3d520026-cenc.mpd?aws_sessionId=66b0f302-7337-400b-9731-d32eb910bf42|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "4a2814153cfd217988bbc7586b087bf4:05875805eed3b07ee69714bdc1116c01",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.41/hls/TDDDDQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

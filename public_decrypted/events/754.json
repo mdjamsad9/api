@@ -2,58 +2,27 @@
   "id": 754,
   "order_index": 358,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "TRT-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377204/image"
+    "name": "Rays",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "teamB": {
-    "name": "SL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377206/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "13:15:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tVFJULVctdnMtU0wtVzE3ODY4ODA0MTgzMjQ.txt",
+  "date": "19/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVJheXMtdnMtQmx1ZSBKYXlzMTc4NzEyNzUzNjE5Nw.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gdvs7aauzd/out/v1/1054878b9a9b4160bc04479d6d48c828/cenc.mpd",
-      "scheme": 0,
-      "api": "7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY CRICKET - AQ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gdvs7aauzd/out/v1/1054878b9a9b4160bc04479d6d48c828/cenc.mpd",
-      "scheme": 0,
-      "api": "7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/AMMMAAAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

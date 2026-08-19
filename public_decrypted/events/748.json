@@ -2,51 +2,27 @@
   "id": 748,
   "order_index": 352,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Burnley",
-    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+    "name": "Guardians",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
   },
   "teamB": {
-    "name": "West Ham",
-    "logo": "https://img.sofascore.com/api/v1/team/37/image"
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJ1cm5sZXktdnMtV2VzdCBIYW0xNzg2ODY1MjU2MDkx.txt",
+  "date": "19/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1HaWFudHMxNzg3MTI3NTM2MTk3.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/akmcc6qgzk/out/v1/28662664ad2c40c69916ded94c5ace08/b2f67da3-193f-4089-aad5-2eb72363719f-cenc.mpd?aws_sessionId=55002cfd-a7d4-43e5-840c-3df6024e09f6",
-      "scheme": 0,
-      "api": "ad3eaee6e411f68f9f2ed6f5aee50772:b4f2e48b561f0dfc83a457df2da42335",
-      "tokenApi": ""
-    },
-    {
-      "name": "beiN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK ",
-      "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/epppaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

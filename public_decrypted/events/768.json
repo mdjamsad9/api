@@ -2,30 +2,27 @@
   "id": 768,
   "order_index": 372,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "MLS",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark"
   },
   "teamA": {
-    "name": "Angels",
-    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
+    "name": "Kansas City",
+    "logo": "https://img.sofascore.com/api/v1/team/2509/image"
   },
   "teamB": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "St. Louis",
+    "logo": "https://img.sofascore.com/api/v1/team/407803/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "20:07:00",
-  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1Sb3lhbHMxNzg2ODgwNjA4OTU1.txt",
+  "date": "20/08/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/TUxTLUthbnNhcyBDaXR5LXZzLVN0LiBMb3VpczE3ODcxMjgyNDY1MzQ.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

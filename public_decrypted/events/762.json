@@ -2,30 +2,27 @@
   "id": 762,
   "order_index": 366,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
   },
   "teamA": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "Flamengo",
+    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Cruzeiro",
+    "logo": "https://img.sofascore.com/api/v1/team/1954/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "17:35:00",
-  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtUmVkIFNveDE3ODY4ODA2MDg5NTU.txt",
+  "date": "20/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsYW1lbmdvLXZzLUNydXplaXJvMTc4NzEyODI0NjUzNA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

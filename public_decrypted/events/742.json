@@ -3,36 +3,26 @@
   "order_index": 346,
   "eventDetails": {
     "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "eventName": "King's Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2058/image/dark"
   },
   "teamA": {
-    "name": "Ajax",
-    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    "name": "Damac",
+    "logo": "https://img.sofascore.com/api/v1/team/204126/image"
   },
   "teamB": {
-    "name": "Heerenveen",
-    "logo": "https://img.sofascore.com/api/v1/team/2964/image"
+    "name": "Al-Taawoun",
+    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "14:45:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtQWpheC12cy1IZWVyZW52ZWVuMTc4Njg2NTI1NjA5MQ.txt",
+  "date": "19/08/2026",
+  "time": "16:15:00",
+  "links_metadata_path": "pro/S2luZydzIEN1cC1EYW1hYy12cy1BbC1UYWF3b3VuMTc4NzEyNzMzMzU5Mw.txt",
   "links": [
     {
-      "name": "SportDigital Fussball",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "http://162.251.160.53:8089/121/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -3,36 +3,26 @@
   "order_index": 345,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Atlético-MG",
-    "logo": "https://img.sofascore.com/api/v1/team/1977/image"
+    "name": "Slovan",
+    "logo": "https://img.sofascore.com/api/v1/team/2404/image"
   },
   "teamB": {
-    "name": "Grêmio",
-    "logo": "https://img.sofascore.com/api/v1/team/5926/image"
+    "name": "Celje",
+    "logo": "https://img.sofascore.com/api/v1/team/2413/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
+  "date": "19/08/2026",
   "time": "19:00:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1BdGzDqXRpY28tTUctdnMtR3LDqm1pbzE3ODY4NjUyNTYwOTE.txt",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVNsb3Zhbi12cy1DZWxqZTE3ODcxMjczMzM1OTM.txt",
   "links": [
     {
-      "name": "PREMIERER BR",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-      "tokenApi": ""
-    },
-    {
-      "name": "GE TV HD",
-      "link": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

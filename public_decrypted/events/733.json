@@ -3,22 +3,22 @@
   "order_index": 337,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "eventName": "Club Friendly Games",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
   },
   "teamA": {
-    "name": "Başakşehir",
-    "logo": "https://img.sofascore.com/api/v1/team/3086/image"
+    "name": "Barcelona",
+    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
   },
   "teamB": {
-    "name": "Kocaelispor",
-    "logo": "https://img.sofascore.com/api/v1/team/3065/image"
+    "name": "Al Ahly",
+    "logo": "https://img.sofascore.com/api/v1/team/6910/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1CYcWfYWvFn2VoaXItdnMtS29jYWVsaXNwb3IxNzg2ODY1MjU2MDkx.txt",
+  "date": "19/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CYXJjZWxvbmEtdnMtQWwgQWhseTE3ODcxMjczMzM1OTM.txt",
   "links": [
     {
       "name": "Link 1",

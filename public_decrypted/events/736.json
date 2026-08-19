@@ -3,36 +3,26 @@
   "order_index": 340,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Mirassol",
-    "logo": "https://img.sofascore.com/api/v1/team/21982/image"
+    "name": "H. Be'er Sheva",
+    "logo": "https://img.sofascore.com/api/v1/team/5202/image"
   },
   "teamB": {
-    "name": "Flamengo",
-    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
+    "name": "Sabah",
+    "logo": "https://img.sofascore.com/api/v1/team/267828/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "21:30:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1NaXJhc3NvbC12cy1GbGFtZW5nbzE3ODY4NjUyNTYwOTE.txt",
+  "date": "19/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUguIEJlJ2VyIFNoZXZhLXZzLVNhYmFoMTc4NzEyNzMzMzU5Mw.txt",
   "links": [
     {
-      "name": "PREMIERE BR ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIER SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

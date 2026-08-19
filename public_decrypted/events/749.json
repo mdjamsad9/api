@@ -2,23 +2,23 @@
   "id": 749,
   "order_index": 353,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Liverpool",
-    "logo": "https://img.sofascore.com/api/v1/team/44/image"
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
   },
   "teamB": {
-    "name": "Como",
-    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MaXZlcnBvb2wtdnMtQ29tbzE3ODY4NjUyNTYwOTE.txt",
+  "date": "19/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVJlZHMtdnMtQ2FyZGluYWxzMTc4NzEyNzUzNjE5Nw.txt",
   "links": [
     {
       "name": "Link 1",

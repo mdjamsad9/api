@@ -2,72 +2,27 @@
   "id": 755,
   "order_index": 359,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "TRT",
-    "logo": "https://img.sofascore.com/api/v1/team/377176/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "MSG",
-    "logo": "https://img.sofascore.com/api/v1/team/377173/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtVFJULXZzLU1TRzE3ODY4ODA0MTgzMjQ.txt",
+  "date": "19/08/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtTWFyaW5lcnMxNzg3MTI3NTM2MTk3.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyknl5axz9/out/v1/d3fe34bdf22c45eaa6c59dbbcdfe495d/cenc.mpd",
-      "scheme": 0,
-      "api": "9f8d2cbb3fcf7e88084709609c2de0fa:00778f40af24103c23b81098d0089a4f",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyknl5axz9/out/v1/d3fe34bdf22c45eaa6c59dbbcdfe495d/cenc.mpd",
-      "scheme": 0,
-      "api": "9f8d2cbb3fcf7e88084709609c2de0fa:00778f40af24103c23b81098d0089a4f",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TEN SPORTS ",
-      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY SPORT NZ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.42/hls/AMMMAAAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -14,9 +14,9 @@
     "name": "WTA",
     "logo": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg"
   },
-  "visible": false,
+  "visible": true,
   "priority": -1,
-  "date": "17/08/2026",
+  "date": "19/08/2026",
   "time": "15:00:00",
   "links_metadata_path": "pro/QVRQICYgV1RBIFRFTk5JUy1BVFAtdnMtV1RBMTc4NjAyNzEzMzUxMw.txt",
   "links": [
