@@ -67,8 +67,8 @@
   },
   {
     "id": 734,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Vietnam\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7050\\/image\"},\"teamB\":{\"name\":\"Malaysia\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/6912\\/image\"},\"visible\":true,\"date\":\"19\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"19\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVZpZXRuYW0tdnMtTWFsYXlzaWExNzg3MTI3MzMzNTkz.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"ASEAN Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/602\\/image\\/dark\"},\"teamA\":{\"name\":\"Vietnam\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7050\\/image\"},\"teamB\":{\"name\":\"Malaysia\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/6912\\/image\"},\"links\":\"pro\\/QVNFQU4gQ2hhbXBpb25zaGlwLVZpZXRuYW0tdnMtTWFsYXlzaWExNzg3MTI3MzMzNTkz.txt\",\"time\":\"13:00:00\",\"date\":\"19\\/08\\/2026\",\"end_time\":\"15:20:00\",\"end_date\":\"19\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"HD Server \",\"Low Quality\"]}",
+    "links": "[{\"name\":\"HD Server \",\"link\":\"https:\\/\\/hls.live123.fans\\/live\\/4612553.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"Low Quality\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/UGGGGQQ.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 338
   },
   {
