@@ -1,0 +1,38 @@
+{
+  "id": 822,
+  "order_index": 426,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+  },
+  "teamA": {
+    "name": "Kairat",
+    "logo": "https://img.sofascore.com/api/v1/team/5172/image"
+  },
+  "teamB": {
+    "name": "Anderlecht",
+    "logo": "https://img.sofascore.com/api/v1/team/2900/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUthaXJhdC12cy1BbmRlcmxlY2h0MTc4NzIzNzAxNzI0OQ.txt",
+  "links": [
+    {
+      "name": "HD SERVER",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/uefa-europa-league-qualfiying\\/2026-08-20\\/kai-and\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "QazSports",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-1.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}
