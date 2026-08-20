@@ -22,10 +22,10 @@
   "links": [
     {
       "name": "Server 1",
-      "link": "",
+      "link": "https://hls.live123.fans/live/4608875.m3u8",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/playfa.st\\/ch?id=21\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     },
     {
       "name": "Server 2",
@@ -33,6 +33,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-722.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.53/hls/RQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
