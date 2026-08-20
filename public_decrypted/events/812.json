@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Ucm9tc8O4LXZzLUJyaWdodG9uMTc4NzIxMzMyMDIwMg.txt",
   "links": [
     {
+      "name": "Cricfy HD",
+      "link": "https://live.666666.zip/live/4608899.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "https://hls.live123.fans/live/4608899.m3u8",
       "scheme": 0,
@@ -30,6 +37,13 @@
     {
       "name": "Cricfy HD",
       "link": "https://hls.live123.fans/live/4602559.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server ",
+      "link": "http://193.47.62.44/hls/EJJJAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
