@@ -199,8 +199,8 @@
   },
   {
     "id": 793,
-    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Reds\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3633\\/image\"},\"teamB\":{\"name\":\"Cardinals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3632\\/image\"},\"visible\":true,\"date\":\"20\\/08\\/2026\",\"time\":\"16:40:00\",\"end_date\":\"20\\/08\\/2026\",\"end_time\":\"19:40:00\",\"links\":\"pro\\/TUxCLVJlZHMtdnMtQ2FyZGluYWxzMTc4NzIxMjkwNzIyMg.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Baseball\",\"eventName\":\"MLB\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/11205\\/image\\/dark\"},\"teamA\":{\"name\":\"Reds\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3633\\/image\"},\"teamB\":{\"name\":\"Cardinals\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3632\\/image\"},\"links\":\"pro\\/TUxCLVJlZHMtdnMtQ2FyZGluYWxzMTc4NzIxMjkwNzIyMg.txt\",\"time\":\"16:40:00\",\"date\":\"20\\/08\\/2026\",\"end_time\":\"19:40:00\",\"end_date\":\"20\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"MLB Pass\"]}",
+    "links": "[{\"name\":\"MLB Pass\",\"link\":\"\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/cricsfree.cfd\\\\\\/live\\\\\\/stream-10.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 397
   },
   {
@@ -229,8 +229,8 @@
   },
   {
     "id": 798,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Europa League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/679\\/image\\/dark\"},\"teamA\":{\"name\":\"Mjällby\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1783\\/image\"},\"teamB\":{\"name\":\"RB Salzburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2046\\/image\"},\"visible\":true,\"date\":\"20\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"20\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/VUVGQSBFdXJvcGEgTGVhZ3VlLU1qw6RsbGJ5LXZzLVJCIFNhbHpidXJnMTc4NzIxMzMyMDIwMQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"UEFA Europa League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/679\\/image\\/dark\"},\"teamA\":{\"name\":\"Mjällby\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1783\\/image\"},\"teamB\":{\"name\":\"RB Salzburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2046\\/image\"},\"links\":\"pro\\/VUVGQSBFdXJvcGEgTGVhZ3VlLU1qw6RsbGJ5LXZzLVJCIFNhbHpidXJnMTc4NzIxMzMyMDIwMQ.txt\",\"time\":\"16:00:00\",\"date\":\"20\\/08\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"20\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Servus Tv\"]}",
+    "links": "[{\"name\":\"Servus Tv\",\"link\":\"\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/cricsfree.cfd\\\\\\/live\\\\\\/stream-16.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 402
   },
   {
