@@ -1,0 +1,31 @@
+{
+  "id": 826,
+  "order_index": 430,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
+  },
+  "teamA": {
+    "name": "Olimpia",
+    "logo": "https://img.sofascore.com/api/v1/team/5997/image"
+  },
+  "teamB": {
+    "name": "Vasco",
+    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLU9saW1waWEtdnMtVmFzY28xNzg3MjYyMDYyMTcx.txt",
+  "links": [
+    {
+      "name": "SPORT TV HD",
+      "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
