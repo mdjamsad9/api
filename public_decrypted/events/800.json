@@ -1,0 +1,28 @@
+{
+  "id": 800,
+  "order_index": 404,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+  },
+  "teamA": {
+    "name": "Atalanta",
+    "logo": "https://img.sofascore.com/api/v1/team/2686/image"
+  },
+  "teamB": {
+    "name": "H. Tel Aviv",
+    "logo": "https://img.sofascore.com/api/v1/team/5396/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1BdGFsYW50YS12cy1ILiBUZWwgQXZpdjE3ODcyMTMzMjAyMDI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 817,
+  "order_index": 421,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "CONMEBOL Sudamericana",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
+  },
+  "teamA": {
+    "name": "Botafogo",
+    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+  },
+  "teamB": {
+    "name": "Cienciano",
+    "logo": "https://img.sofascore.com/api/v1/team/2301/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "21/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvdGFmb2dvLXZzLUNpZW5jaWFubzE3ODcyMTMzMjAyMDI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

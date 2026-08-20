@@ -1,0 +1,28 @@
+{
+  "id": 803,
+  "order_index": 407,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+  },
+  "teamA": {
+    "name": "Al-Fayha",
+    "logo": "https://img.sofascore.com/api/v1/team/168094/image"
+  },
+  "teamB": {
+    "name": "Al-Hilal",
+    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1GYXloYS12cy1BbC1IaWxhbDE3ODcyMTMzMjAyMDI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

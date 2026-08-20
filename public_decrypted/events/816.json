@@ -1,0 +1,28 @@
+{
+  "id": 816,
+  "order_index": 420,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
+  },
+  "teamA": {
+    "name": "Sheffield Wed",
+    "logo": "https://img.sofascore.com/api/v1/team/12/image"
+  },
+  "teamB": {
+    "name": "Bradford",
+    "logo": "https://img.sofascore.com/api/v1/team/22/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1TaGVmZmllbGQgV2VkLXZzLUJyYWRmb3JkMTc4NzIxMzMyMDIwMg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 815,
+  "order_index": 419,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+  },
+  "teamA": {
+    "name": "Twente",
+    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
+  },
+  "teamB": {
+    "name": "Qarabağ",
+    "logo": "https://img.sofascore.com/api/v1/team/5962/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Ud2VudGUtdnMtUWFyYWJhxJ8xNzg3MjEzMzIwMjAy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

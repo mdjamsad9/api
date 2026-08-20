@@ -1,0 +1,28 @@
+{
+  "id": 798,
+  "order_index": 402,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+  },
+  "teamA": {
+    "name": "Mjällby",
+    "logo": "https://img.sofascore.com/api/v1/team/1783/image"
+  },
+  "teamB": {
+    "name": "RB Salzburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2046/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLU1qw6RsbGJ5LXZzLVJCIFNhbHpidXJnMTc4NzIxMzMyMDIwMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

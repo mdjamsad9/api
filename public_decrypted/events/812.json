@@ -1,0 +1,28 @@
+{
+  "id": 812,
+  "order_index": 416,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+  },
+  "teamA": {
+    "name": "Tromsø",
+    "logo": "https://img.sofascore.com/api/v1/team/660/image"
+  },
+  "teamB": {
+    "name": "Brighton",
+    "logo": "https://img.sofascore.com/api/v1/team/30/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Ucm9tc8O4LXZzLUJyaWdodG9uMTc4NzIxMzMyMDIwMg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

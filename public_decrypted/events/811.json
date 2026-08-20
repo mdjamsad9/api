@@ -1,0 +1,28 @@
+{
+  "id": 811,
+  "order_index": 415,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+  },
+  "teamA": {
+    "name": "LDU",
+    "logo": "https://img.sofascore.com/api/v1/team/5257/image"
+  },
+  "teamB": {
+    "name": "Mirassol",
+    "logo": "https://img.sofascore.com/api/v1/team/21982/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUxEVS12cy1NaXJhc3NvbDE3ODcyMTMzMjAyMDI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

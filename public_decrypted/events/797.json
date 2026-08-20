@@ -1,0 +1,28 @@
+{
+  "id": 797,
+  "order_index": 401,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+  },
+  "teamB": {
+    "name": "Nationals",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "21/08/2026",
+  "time": "00:05:00",
+  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtTmF0aW9uYWxzMTc4NzIxMjkwNzIyMg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

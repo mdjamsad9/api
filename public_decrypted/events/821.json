@@ -1,0 +1,28 @@
+{
+  "id": 821,
+  "order_index": 425,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Europa League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+  },
+  "teamA": {
+    "name": "Benfica",
+    "logo": "https://img.sofascore.com/api/v1/team/3006/image"
+  },
+  "teamB": {
+    "name": "AGF",
+    "logo": "https://img.sofascore.com/api/v1/team/1291/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "20/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUJlbmZpY2EtdnMtQUdGMTc4NzIxMzMyMDIwMg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
