@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1JbnRlci12cy1Lw7hiZW5oYXZuMTc4NzIxMzMyMDIwMg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "https://play.aarray.cn/rrty/sd-1-4608894_gqzm.m3u8?auth_key=1787245708-0-0-a2f66360eea6fa88036d131fe48d6adc",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://stream.sports3.win/iptv/live/signal-4608894-41388.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

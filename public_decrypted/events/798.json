@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLU1qw6RsbGJ5LXZzLVJCIFNhbHpidXJnMTc4NzIxMzMyMDIwMQ.txt",
   "links": [
     {
+      "name": "Cricfy Live",
+      "link": "https://live.666666.zip/live/4608866.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Servus Tv",
       "link": "",
       "scheme": 0,

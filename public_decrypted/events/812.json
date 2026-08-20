@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Ucm9tc8O4LXZzLUJyaWdodG9uMTc4NzIxMzMyMDIwMg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live",
+      "link": "https://hls.live123.fans/live/4608899.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://hls.live123.fans/live/4602559.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
