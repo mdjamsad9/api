@@ -21,14 +21,35 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1Fcnp1cnVtc3Bvci12cy1HYWxhdGFzYXJheTE3ODcyOTk4Nzk5ODE.txt",
   "links": [
     {
-      "name": "beIN Sports 1 Turkey",
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4581280.m3u8?txSecret=05319c3860f66941332a8b52c893b526&txTime=6A88AAE7|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://live.666666.zip/live/4581280.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN1",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Sports 1",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-62.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "Sport TV3 Pt",
+      "name": "Sport TV3",
       "link": "",
       "scheme": 0,
       "api": "",
@@ -44,6 +65,13 @@
     {
       "name": "Low Server",
       "link": "https://live.666666.zip/live/4581280.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server",
+      "link": "http://193.47.62.41/hls/fvvvaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
