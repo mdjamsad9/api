@@ -1,0 +1,38 @@
+{
+  "id": 830,
+  "order_index": 434,
+  "eventDetails": {
+    "category": "Rugby",
+    "eventName": "NRL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+  },
+  "teamA": {
+    "name": "Dolphins",
+    "logo": "https://img.sofascore.com/api/v1/team/465010/image"
+  },
+  "teamB": {
+    "name": "Parramatta",
+    "logo": "https://img.sofascore.com/api/v1/team/4261/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "21/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/TlJMLURvbHBoaW5zLXZzLVBhcnJhbWF0dGExNzg3MzA1NTA0MjY1.txt",
+  "links": [
+    {
+      "name": "Cricfy HD ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/nrl\\/2026-08-21\\/dol-par\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

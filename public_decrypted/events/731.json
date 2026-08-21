@@ -22,9 +22,9 @@
   "links": [
     {
       "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ew50cdfato/out/v1/91ed1af86e414737baf326ef824829b8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mv2a4a16dt/out/v1/15437c63a814419182f1dfde499357f2/cenc.mpd",
       "scheme": 0,
-      "api": "eb7fbded389015f00942406d95587a86:00efd6fd1626a3a69863c31c9232622f",
+      "api": "29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8",
       "tokenApi": ""
     },
     {
@@ -36,9 +36,9 @@
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ew50cdfato/out/v1/91ed1af86e414737baf326ef824829b8/cenc.mpd?",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd",
       "scheme": 0,
-      "api": "eb7fbded389015f00942406d95587a86:00efd6fd1626a3a69863c31c9232622f",
+      "api": "29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8",
       "tokenApi": ""
     },
     {
@@ -63,8 +63,8 @@
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-370.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
+      "name": "TAPMAD - BD",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -78,7 +78,7 @@
     },
     {
       "name": "LOW SERVER",
-      "link": "http://193.47.62.194/hls/QQQQ.m3u8?|referer=http://www.fawanews.sc/",
+      "link": "http://193.47.62.194/hls/QQQQ.m3u8|referer=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

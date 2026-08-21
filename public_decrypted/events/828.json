@@ -1,0 +1,28 @@
+{
+  "id": 828,
+  "order_index": 432,
+  "eventDetails": {
+    "category": "Rugby",
+    "eventName": "Queensland Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2135/image/dark"
+  },
+  "teamA": {
+    "name": "Brisbane",
+    "logo": "https://img.sofascore.com/api/v1/team/191018/image"
+  },
+  "teamB": {
+    "name": "Burleigh",
+    "logo": "https://img.sofascore.com/api/v1/team/191023/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "06:10:00",
+  "links_metadata_path": "pro/UXVlZW5zbGFuZCBDdXAtQnJpc2JhbmUtdnMtQnVybGVpZ2gxNzg3MzA1MzY0ODEy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -2,37 +2,27 @@
   "id": 820,
   "order_index": 424,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
   },
   "teamA": {
-    "name": "Hearts",
-    "logo": "https://img.sofascore.com/api/v1/team/2353/image"
+    "name": "Jaguars",
+    "logo": "https://img.sofascore.com/api/v1/team/4386/image"
   },
   "teamB": {
-    "name": "Rapid",
-    "logo": "https://img.sofascore.com/api/v1/team/2055/image"
+    "name": "Panthers",
+    "logo": "https://img.sofascore.com/api/v1/team/4415/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1IZWFydHMtdnMtUmFwaWQxNzg3MjEzMzIwMjAy.txt",
+  "date": "21/08/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1KYWd1YXJzLXZzLVBhbnRoZXJzMTc4NzMwNDYxMTQ5NA.txt",
   "links": [
     {
-      "name": "Orf eins",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-6.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Kanal 1",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-22.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

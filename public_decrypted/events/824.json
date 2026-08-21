@@ -2,37 +2,27 @@
   "id": 824,
   "order_index": 428,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "CFL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
   },
   "teamA": {
-    "name": "Montréal",
-    "logo": "https://img.sofascore.com/api/v1/team/4439/image"
+    "name": "Münster",
+    "logo": "https://img.sofascore.com/api/v1/team/2590/image"
   },
   "teamB": {
-    "name": "Ottawa",
-    "logo": "https://img.sofascore.com/api/v1/team/4437/image"
+    "name": "Karlsruhe",
+    "logo": "https://img.sofascore.com/api/v1/team/2553/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "23:30:00",
-  "links_metadata_path": "pro/Q0ZMLU1vbnRyw6lhbC12cy1PdHRhd2ExNzg3MjYxMTU0NTM3.txt",
+  "date": "21/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLU3DvG5zdGVyLXZzLUthcmxzcnVoZTE3ODczMDUwMTY2NTY.txt",
   "links": [
     {
-      "name": "TSN SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy LIVE",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/cfl\\/2026-08-20\\/ott-mtl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

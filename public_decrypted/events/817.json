@@ -2,58 +2,27 @@
   "id": 817,
   "order_index": 421,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "CONMEBOL Sudamericana",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
   },
   "teamA": {
-    "name": "Botafogo",
-    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    "name": "Tempo",
+    "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
   },
   "teamB": {
-    "name": "Cienciano",
-    "logo": "https://img.sofascore.com/api/v1/team/2301/image"
+    "name": "Fire",
+    "logo": "https://img.sofascore.com/api/v1/team/1166446/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvdGFmb2dvLXZzLUNpZW5jaWFubzE3ODcyMTMzMjAyMDI.txt",
+  "date": "22/08/2026",
+  "time": "02:00:00",
+  "links_metadata_path": "pro/V05CQS1UZW1wby12cy1GaXJlMTc4NzMwNDU2NTgyNg.txt",
   "links": [
     {
-      "name": "beIN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "D Sports - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
-    },
-    {
-      "name": "SportDigital Fussball - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
-    },
-    {
-      "name": "Sport TV 2",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-74.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Bein Sports ES",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-372.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
