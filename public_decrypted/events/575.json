@@ -14,7 +14,7 @@
     "name": "WTA",
     "logo": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg"
   },
-  "visible": true,
+  "visible": false,
   "priority": -1,
   "date": "21/08/2026",
   "time": "17:00:00",
