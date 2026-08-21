@@ -2,51 +2,27 @@
   "id": 798,
   "order_index": 402,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Mjällby",
-    "logo": "https://img.sofascore.com/api/v1/team/1783/image"
+    "name": "Marlins",
+    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
   },
   "teamB": {
-    "name": "RB Salzburg",
-    "logo": "https://img.sofascore.com/api/v1/team/2046/image"
+    "name": "Nationals",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLU1qw6RsbGJ5LXZzLVJCIFNhbHpidXJnMTc4NzIxMzMyMDIwMQ.txt",
+  "date": "21/08/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtTmF0aW9uYWxzMTc4NzI5OTQ4MjIxMQ.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "https://live.666666.zip/live/4608866.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Servus Tv",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-16.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://edgestream7.pro/hls/sdghjvqazhvg80.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPX LIVE",
-      "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-20/mja-slz",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

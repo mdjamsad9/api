@@ -2,37 +2,27 @@
   "id": 799,
   "order_index": 403,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Inter",
-    "logo": "https://img.sofascore.com/api/v1/team/2247/image"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "teamB": {
-    "name": "København",
-    "logo": "https://img.sofascore.com/api/v1/team/1284/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1JbnRlci12cy1Lw7hiZW5oYXZuMTc4NzIxMzMyMDIwMg.txt",
+  "date": "22/08/2026",
+  "time": "00:15:00",
+  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtQW5nZWxzMTc4NzI5OTQ4MjIxMQ.txt",
   "links": [
     {
-      "name": "Server 1",
-      "link": "https://play.aarray.cn/rrty/sd-1-4608894_gqzm.m3u8?auth_key=1787245708-0-0-a2f66360eea6fa88036d131fe48d6adc",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://stream.sports3.win/iptv/live/signal-4608894-41388.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

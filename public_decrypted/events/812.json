@@ -3,50 +3,43 @@
   "order_index": 416,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
   },
   "teamA": {
-    "name": "Tromsø",
-    "logo": "https://img.sofascore.com/api/v1/team/660/image"
+    "name": "SC St Tönis 11/20",
+    "logo": "https://img.sofascore.com/api/v1/team/422208/image"
   },
   "teamB": {
-    "name": "Brighton",
-    "logo": "https://img.sofascore.com/api/v1/team/30/image"
+    "name": "Frankfurt",
+    "logo": "https://img.sofascore.com/api/v1/team/2674/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Ucm9tc8O4LXZzLUJyaWdodG9uMTc4NzIxMzMyMDIwMg.txt",
+  "date": "21/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVNDIFN0IFTDtm5pcyAxMS8yMC12cy1GcmFua2Z1cnQxNzg3Mjk5ODc5OTgy.txt",
   "links": [
     {
-      "name": "Cricfy HD",
-      "link": "https://live.666666.zip/live/4608899.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "Sky Sport 5 DE",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-10.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "Cricfy Live",
-      "link": "https://hls.live123.fans/live/4608899.m3u8",
+      "name": "Astro Football",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-124.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "Cricfy HD",
-      "link": "https://hls.live123.fans/live/4602559.m3u8",
+      "name": "beIN Sports 2 FR",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Low Server ",
-      "link": "http://193.47.62.44/hls/EJJJAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-117.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

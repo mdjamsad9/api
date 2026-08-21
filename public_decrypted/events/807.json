@@ -3,50 +3,26 @@
   "order_index": 411,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "eventName": "Liga MX, Apertura",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
   },
   "teamA": {
-    "name": "Corinthians",
-    "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+    "name": "León",
+    "logo": "https://img.sofascore.com/api/v1/team/36534/image"
   },
   "teamB": {
-    "name": "Rosario Central",
-    "logo": "https://img.sofascore.com/api/v1/team/3217/image"
+    "name": "Monterrey",
+    "logo": "https://img.sofascore.com/api/v1/team/1932/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUNvcmludGhpYW5zLXZzLVJvc2FyaW8gQ2VudHJhbDE3ODcyMTMzMjAyMDI.txt",
+  "date": "22/08/2026",
+  "time": "01:00:00",
+  "links_metadata_path": "pro/TGlnYSBNWCwgQXBlcnR1cmEtTGXDs24tdnMtTW9udGVycmV5MTc4NzI5OTg3OTk4MQ.txt",
   "links": [
     {
-      "name": "beIN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT 1 DE",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Spor TV 1",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-49.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Arabic",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-91.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

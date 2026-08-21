@@ -3,43 +3,26 @@
   "order_index": 419,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Twente",
-    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
   },
   "teamB": {
-    "name": "Qarabağ",
-    "logo": "https://img.sofascore.com/api/v1/team/5962/image"
+    "name": "Real Sociedad",
+    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Ud2VudGUtdnMtUWFyYWJhxJ8xNzg3MjEzMzIwMjAy.txt",
+  "date": "21/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLVJlYWwgQmV0aXMtdnMtUmVhbCBTb2NpZWRhZDE3ODcyOTk4Nzk5ODI.txt",
   "links": [
     {
-      "name": "CBS Sports AZ",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-3.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "ESPN ! NL",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-379.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Arena Sports 3 Serbia",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-431.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

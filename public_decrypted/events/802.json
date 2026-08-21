@@ -3,36 +3,26 @@
   "order_index": 406,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Górnik",
-    "logo": "https://img.sofascore.com/api/v1/team/3110/image"
+    "name": "Córdoba",
+    "logo": "https://img.sofascore.com/api/v1/team/2850/image"
   },
   "teamB": {
-    "name": "AS Monaco",
-    "logo": "https://img.sofascore.com/api/v1/team/1653/image"
+    "name": "Girona",
+    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "20/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1Hw7NybmlrLXZzLUFTIE1vbmFjbzE3ODcyMTMzMjAyMDI.txt",
+  "date": "21/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQ8OzcmRvYmEtdnMtR2lyb25hMTc4NzI5OTg3OTk4MQ.txt",
   "links": [
     {
-      "name": "Polsat Sports 2",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-50.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Polsat Sports Premium",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-992.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
