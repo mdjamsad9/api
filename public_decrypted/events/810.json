@@ -21,18 +21,25 @@
   "links_metadata_path": "pro/TGlnYSBNWCwgQXBlcnR1cmEtVGlncmVzLXZzLUF0bGFudGUxNzg3Mjk5ODc5OTgy.txt",
   "links": [
     {
-      "name": "FOX SPORTS",
+      "name": "FOX SPORTS - AQ ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
       "tokenApi": ""
     },
     {
-      "name": "FOX ONE",
+      "name": "FOX ONE - AQ",
       "link": "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE3MX_HD)/manifest.mpd",
       "scheme": 0,
       "api": "3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612",
       "tokenApi": ""
+    },
+    {
+      "name": "Liga MX",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/liga-mx\\/2026-08-21\\/uanl-atl\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
