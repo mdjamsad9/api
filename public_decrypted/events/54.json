@@ -35,6 +35,13 @@
       "tokenApi": ""
     },
     {
+      "name": "beIN SPORTS - AQ",
+      "link": "https://co2-bks400-04.starhubgo.com/bpk-token/2ab@aszred4aghsmyahzjnjb4tdjgmqmoezqamf0j1ca/bpk-tv/BeINSportsHD/output/manifest.mpd?bkm-query",
+      "scheme": 0,
+      "api": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48",
+      "tokenApi": ""
+    },
+    {
       "name": "Sky Sports HD",
       "link": "https://chatgpt.hereisman.net/playlist/54936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
