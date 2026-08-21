@@ -1,6 +1,6 @@
 {
   "id": 804,
-  "order_index": 408,
+  "order_index": 0,
   "eventDetails": {
     "category": "Football",
     "eventName": "Saudi Pro League",
@@ -15,7 +15,7 @@
     "logo": "https://img.sofascore.com/api/v1/team/23400/image"
   },
   "visible": true,
-  "priority": -1,
+  "priority": 1,
   "date": "21/08/2026",
   "time": "16:00:00",
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1SaXlhZGgtdnMtQWwtTmFzc3IxNzg3Mjk5ODc5OTgx.txt",
@@ -32,6 +32,20 @@
       "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+      "tokenApi": ""
+    },
+    {
+      "name": "SportDigital",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+      "scheme": 0,
+      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX SOCCER",
+      "link": "https://chatgpt.hereisman.net/playlist/54941/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -54,6 +68,20 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-49.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy LIVE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/saudi-pro-league\\/2026-08-21\\/riy-nsr\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW Server",
+      "link": "http://193.47.62.59/hls/KEEEAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

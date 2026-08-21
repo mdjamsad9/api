@@ -1,6 +1,6 @@
 {
   "id": 824,
-  "order_index": 428,
+  "order_index": 62,
   "eventDetails": {
     "category": "Football",
     "eventName": "DFB Pokal",
@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/REZCIFBva2FsLU3DvG5zdGVyLXZzLUthcmxzcnVoZTE3ODczMDUwMTY2NTY.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Sky Sport 4 DE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-9.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Diema Sport 3 Bulgaria",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"Diema Sport 3 Bulgaria\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
