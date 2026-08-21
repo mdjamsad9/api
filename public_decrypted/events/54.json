@@ -21,6 +21,20 @@
   "links_metadata_path": "pro/RjEgfCBNb25hY28gR3JhbmQgUHJpeC1Gb3JtdWxhIDEtdnMtRm9ybXVsYSAxMTc4MDY0MzM5Mjk2OQ.txt",
   "links": [
     {
+      "name": "FANCODE - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+      "scheme": 0,
+      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sky Sports HD",
+      "link": "https://chatgpt.hereisman.net/playlist/54936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "TSN SPORTS - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5xrogwf1bx/out/v1/d67356c474724ecc9ced667c7630dcab/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
@@ -32,20 +46,6 @@
       "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
       "scheme": 0,
       "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-      "scheme": 0,
-      "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORTSCAST ",
-      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b724e8b5-8392-413e-ad3f-c1f61f3f9238/master.m3u8",
-      "scheme": 0,
-      "api": "",
       "tokenApi": ""
     },
     {
