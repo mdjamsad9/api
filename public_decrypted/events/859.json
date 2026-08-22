@@ -21,11 +21,25 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy3Dh29ydW0tdnMtS2FzxLFtcGHFn2ExNzg3MzkwMzIzNzk3.txt",
   "links": [
     {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4581279.m3u8?txSecret=8e293c4018923691fc3e44a3e23e3e16&txTime=6A89D85A|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "beIN Sports 2 ",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-63.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.41/hls/ESESESA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
