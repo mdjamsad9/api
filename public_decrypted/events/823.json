@@ -16,27 +16,34 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "23/08/2026",
-  "time": "00:30:00",
+  "date": "22/08/2026",
+  "time": "08:00:00",
   "links_metadata_path": "pro/VG9wIEVuZCBUMjAgU2VyaWVzIDIwMjYtVE9QIEVORCBUMjAtdnMtVE9QIEVORCBUMjAxNzg3MzA0NzA4Njk1.txt",
   "links": [
     {
       "name": "Willow - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8cmdowyygj/out/v1/0ddc95beeadc4a738fff413339af20d4/cenc.mpd",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd",
       "scheme": 0,
-      "api": "5e82d75ac3a646f8de91831df04b2e07:af211d0b99fd3d973aaa6ac7e23a3e01",
+      "api": "628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
       "tokenApi": ""
     },
     {
       "name": "Willow - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8cmdowyygj/out/v1/0ddc95beeadc4a738fff413339af20d4/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd",
       "scheme": 0,
-      "api": "5e82d75ac3a646f8de91831df04b2e07:af211d0b99fd3d973aaa6ac7e23a3e01",
+      "api": "628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
       "tokenApi": ""
     },
     {
       "name": "T SPORTS HD",
       "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (IND)",
+      "link": "https://dai-fancode.pages.dev/mumbai/4248432_english_hls_6dff0812ea23371_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
