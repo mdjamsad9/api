@@ -1,0 +1,38 @@
+{
+  "id": 915,
+  "order_index": 153,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Cottbus",
+    "logo": "https://img.sofascore.com/api/v1/team/2532/image"
+  },
+  "teamB": {
+    "name": "Augsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2600/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLUNvdHRidXMtdnMtQXVnc2J1cmcxNzg3Mzk2NDE1ODI2.txt",
+  "links": [
+    {
+      "name": "Cricfy HD",
+      "link": "https://live.vivo200.com/live/sd-1-4550514.m3u8?txSecret=79b79de0cb4a6833546708ef2a0f7efb&txTime=6A899548|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server",
+      "link": "http://193.47.62.41/hls/ATTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
