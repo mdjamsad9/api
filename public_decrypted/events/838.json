@@ -1,0 +1,28 @@
+{
+  "id": 838,
+  "order_index": 76,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Wrexham",
+    "logo": "https://img.sofascore.com/api/v1/team/64/image"
+  },
+  "teamB": {
+    "name": "Watford",
+    "logo": "https://img.sofascore.com/api/v1/team/24/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdyZXhoYW0tdnMtV2F0Zm9yZDE3ODczODA4OTA0OTI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

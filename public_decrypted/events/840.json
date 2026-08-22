@@ -1,0 +1,28 @@
+{
+  "id": 840,
+  "order_index": 78,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Swansea",
+    "logo": "https://img.sofascore.com/api/v1/team/74/image"
+  },
+  "teamB": {
+    "name": "Sheffield Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/15/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVN3YW5zZWEtdnMtU2hlZmZpZWxkIFV0ZDE3ODczODA5MDAyMjQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

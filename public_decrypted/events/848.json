@@ -1,0 +1,28 @@
+{
+  "id": 848,
+  "order_index": 86,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Real Oviedo",
+    "logo": "https://img.sofascore.com/api/v1/team/2851/image"
+  },
+  "teamB": {
+    "name": "Leganés",
+    "logo": "https://img.sofascore.com/api/v1/team/2845/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBPdmllZG8tdnMtTGVnYW7DqXMxNzg3MzgwOTU5ODEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

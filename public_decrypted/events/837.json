@@ -1,0 +1,28 @@
+{
+  "id": 837,
+  "order_index": 75,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Blackburn",
+    "logo": "https://img.sofascore.com/api/v1/team/46/image"
+  },
+  "teamB": {
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJsYWNrYnVybi12cy1NaWRkbGVzYnJvdWdoMTc4NzM4MDg4MTgzNQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,45 +1,28 @@
 {
   "id": 830,
-  "order_index": 67,
+  "order_index": 68,
   "eventDetails": {
-    "category": "Rugby",
-    "eventName": "NRL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+    "category": "Football",
+    "eventName": "ASEAN Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
   },
   "teamA": {
-    "name": "Dolphins",
-    "logo": "https://img.sofascore.com/api/v1/team/465010/image"
+    "name": "Thailand",
+    "logo": "https://img.sofascore.com/api/v1/team/4730/image"
   },
   "teamB": {
-    "name": "Parramatta",
-    "logo": "https://img.sofascore.com/api/v1/team/4261/image"
+    "name": "Vietnam",
+    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/08/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/TlJMLURvbHBoaW5zLXZzLVBhcnJhbWF0dGExNzg3MzA1NTA0MjY1.txt",
+  "date": "22/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVRoYWlsYW5kLXZzLVZpZXRuYW0xNzg3MzgwODI1OTY3.txt",
   "links": [
     {
-      "name": "Cricfy HD ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/nrl\\/2026-08-21\\/dol-par\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "SKY SPORTS ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

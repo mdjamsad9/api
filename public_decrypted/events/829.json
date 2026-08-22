@@ -1,38 +1,31 @@
 {
   "id": 829,
-  "order_index": 433,
+  "order_index": 67,
   "eventDetails": {
-    "category": "Rugby",
-    "eventName": "NRL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Canberra",
-    "logo": "https://img.sofascore.com/api/v1/team/4256/image"
+    "name": "Lincoln",
+    "logo": "https://img.sofascore.com/api/v1/team/92/image"
   },
   "teamB": {
-    "name": "Broncos",
-    "logo": "https://img.sofascore.com/api/v1/team/4258/image"
+    "name": "Portsmouth",
+    "logo": "https://img.sofascore.com/api/v1/team/2/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "21/08/2026",
-  "time": "08:00:00",
-  "links_metadata_path": "pro/TlJMLUNhbmJlcnJhLXZzLUJyb25jb3MxNzg3MzA1MzY0ODEy.txt",
+  "date": "22/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUxpbmNvbG4tdnMtUG9ydHNtb3V0aDE3ODczODA1OTc5NjA.txt",
   "links": [
     {
-      "name": "Cricfy HD",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+      "name": "beIN ENGLISH - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
       "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/nrl\\/2026-08-21\\/can-bri\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

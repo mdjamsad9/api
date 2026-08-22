@@ -1,0 +1,28 @@
+{
+  "id": 846,
+  "order_index": 84,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Forest",
+    "logo": "https://img.sofascore.com/api/v1/team/14/image"
+  },
+  "teamB": {
+    "name": "Leeds",
+    "logo": "https://img.sofascore.com/api/v1/team/34/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRm9yZXN0LXZzLUxlZWRzMTc4NzM4MDk0NTg2Ng.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

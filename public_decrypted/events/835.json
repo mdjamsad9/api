@@ -1,0 +1,28 @@
+{
+  "id": 835,
+  "order_index": 73,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
+  },
+  "teamB": {
+    "name": "Charlton",
+    "logo": "https://img.sofascore.com/api/v1/team/47/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgSGFtLXZzLUNoYXJsdG9uMTc4NzM4MDg2NDk2MQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

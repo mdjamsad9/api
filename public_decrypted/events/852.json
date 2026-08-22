@@ -1,0 +1,28 @@
+{
+  "id": 852,
+  "order_index": 90,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Lens",
+    "logo": "https://img.sofascore.com/api/v1/team/1648/image"
+  },
+  "teamB": {
+    "name": "Auxerre",
+    "logo": "https://img.sofascore.com/api/v1/team/1646/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "15:15:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MZW5zLXZzLUF1eGVycmUxNzg3MzgwOTc0ODE0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
