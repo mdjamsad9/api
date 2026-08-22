@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TGlndWUgMS1Ucm95ZXMtdnMtUGFyaXMxNzg3MzkwMzIzNzk4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550850.m3u8?txSecret=31fea25121c1263bf1a4e12f3594193b&txTime=6A89FF1C|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 2",
+      "link": "https://edgestream4.pro/hls/iozauyezaioyur82.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/TGlndWUgMS1MZSBNYW5zLXZzLUJyZXN0MTc4NzM5MDMyMzc5OA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550844.m3u8?txSecret=f1ebffe5be562619f161520ad6c11d53&txTime=6A89FEB8|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 2",
+      "link": "https://edgestream3.pro/hls/ioazuryeahrfvzed84.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3",
+      "link": "https://embedindia.st/embed/ligue1/2026-08-22/mns-bre",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 4",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/ligue1\\/2026-08-22\\/mns-bre\\/ligue-1-fr\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
