@@ -33,6 +33,13 @@
       "scheme": 0,
       "api": "3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612",
       "tokenApi": ""
+    },
+    {
+      "name": "Liga MX",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/liga-mx\\/2026-08-21\\/jua-ame\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
