@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgSGFtLXZzLUNoYXJsdG9uMTc4NzM4MDg2NDk2MQ.txt",
   "links": [
     {
+      "name": "PARAMOUNT - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ua99gulv5v/out/v1/6d924ed63a914590b72e47ed07cc241e/8fe28a76-265d-4443-9ac3-64b9c99df26a-cenc.mpd?aws_sessionId=0177a43c-6051-4968-902d-7f9d01f3bb9d|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d35749e9c78c174453e8a6ceca34c32b:b70aa033b2ee88de0555a3365e4df4ef",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN ENGLISH",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "tokenApi": ""
+    },
+    {
+      "name": "ARENA SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55001/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Sky Sports+",
       "link": "",
       "scheme": 0,
@@ -33,6 +54,27 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-74.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4563524.m3u8?txSecret=fc9d8858640ac7826de454fe111b20d7&txTime=6A89BBDF|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.48/hls/T555QQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPX LIVE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/efl-championship\\/2026-08-22\\/whu-cha\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

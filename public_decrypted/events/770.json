@@ -21,8 +21,53 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRm9yZXN0LXZzLUxlZWRzMTc4NzE3MDU2NTkzMg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FUBO SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ycifnnxvvd/out/v1/af017ada0ebd4d5a9f7396ab4a4d85d1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f1437190a54e62a75f5b6d7e8faa5f6a:e41d0ff21c2e70a3f5ee0e082f03ca20",
+      "tokenApi": ""
+    },
+    {
+      "name": "PEACOCK TV  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qpw5a7mw5e/out/v1/8ac3baa563a540fa8707a0f0cdea673b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f1e837eeb45c29a72de7ccb88e295a5e:cb38704a165e54cd8b1bcd383b1e9c2e",
+      "tokenApi": ""
+    },
+    {
+      "name": "Peacock TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55013/load-playlist?|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/hd-en-1-4558457.m3u8?txSecret=5b7136dce4cabd90e098fec44f6cdc4d&txTime=6A89BD67|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.46/hls/LLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "PEACOCK TV",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/pl\\/2026-08-22\\/nfo-lee\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "SKY SPORTS",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/pl\\/2026-08-22\\/nfo-lee\\/sky-sport-9-nz-en-nz\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtRm9ydHVuYS12cy1BWjE3ODczODA5NDU4NjY.txt",
   "links": [
     {
+      "name": "SportDigital  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+      "tokenApi": ""
+    },
+    {
       "name": "DAZN USA",
       "link": "",
       "scheme": 0,

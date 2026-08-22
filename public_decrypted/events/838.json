@@ -21,11 +21,39 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdyZXhoYW0tdnMtV2F0Zm9yZDE3ODczODA4OTA0OTI.txt",
   "links": [
     {
+      "name": "PARAMOUNT - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/td3u4ewj9x/out/v1/aeff31c5727c4092aa82095a4f5846e5/1d533c55-92ea-42e5-967b-20b302a743c2-cenc.mpd?aws_sessionId=b79f14b3-c86b-47de-b0e5-68efca1c654f|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "87c8106869c8abfc3a07b96e8a1e5788:5f9037164cf1e0a4140fa17d9e2e42cc",
+      "tokenApi": ""
+    },
+    {
       "name": "Sky Sports+",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-155.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-155.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4563527.m3u8?txSecret=a66a53b41e2e251de12595511e803ca6&txTime=6A89BC6B|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.54/hls/TDDDQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPX LIVE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/efl-championship\\/2026-08-22\\/wxm-wat\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

@@ -21,8 +21,15 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVNvdXRoYW1wdG9uLXZzLVN0b2tlMTc4NzM4MDkxODI5MA.txt",
   "links": [
     {
-      "name": "Sky Sports+",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8",
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4563522.m3u8?txSecret=ff5231c66601363f32b81f90573b8860&txTime=6A89BEB5|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.47/hls/T555Q.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

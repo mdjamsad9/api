@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtSXBzd2ljaC12cy1TdW5kZXJsYW5kMTc4NzE3MDU2NTkzMw.txt",
   "links": [
     {
+      "name": "FUBO SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lqqsf5baly/out/v1/6fc16cc53c234c7bac703332db834b74/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "910ba61bdc72026711f3ddcb6f81121f:f5418dc4716a47ab60950f6401bc1218",
+      "tokenApi": ""
+    },
+    {
+      "name": "PEACOCK TV  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxdd2hwnzw/out/v1/46e11da4204f4da99d8216e8ca98baa2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "32f3d2d4eb9d71894db0060bac9716db:3d7bc62d01a434a63d83b692deffe630",
+      "tokenApi": ""
+    },
+    {
+      "name": "Peacock TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55014/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Hub Premier 4",
       "link": "",
       "scheme": 0,
@@ -40,13 +61,6 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-82.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Peacock TV HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55014/load-playlist?|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
     },
     {
       "name": "Cricfy Live",

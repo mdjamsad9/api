@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRXZlcnRvbi12cy1DcnlzdGFsIFBhbGFjZTE3ODcxNzA1NjU5MzI.txt",
   "links": [
     {
+      "name": "FUBO SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qfucwnqldz/out/v1/978e096457814e22b1f743277a2896b7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d04394c90111a1b3f37451c777f76210:aab352fbdb92a43e9091ebaec7d52f57",
+      "tokenApi": ""
+    },
+    {
       "name": "USA TV HD",
       "link": "https://chatgpt.hereisman.net/playlist/55015/load-playlist?|Referer=https://gooz.aapmains.net",
       "scheme": 0,

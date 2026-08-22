@@ -26,6 +26,20 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-308.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "PARAMOUNT - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/iak6gzlckp/out/v1/82af5c24032043d3b063886f97bbe347/008b9b18-b2d0-47f0-9cff-003202e4d425-cenc.mpd?aws_sessionId=01ae5347-7902-4b9a-9a68-aaf6af2977df|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "419a79f1488eabec19c27b41cbcafa5b:8691862827b65b29294a94280d460fde",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55000/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
