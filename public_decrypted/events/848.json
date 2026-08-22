@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBPdmllZG8tdnMtTGVnYW7DqXMxNzg3MzgwOTU5ODEx.txt",
   "links": [
     {
+      "name": "Laliga Hypermotion  - AQ",
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "scheme": 0,
+      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "tokenApi": ""
+    },
+    {
       "name": "DAZN USA",
       "link": "",
       "scheme": 0,
