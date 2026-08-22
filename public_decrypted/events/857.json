@@ -1,0 +1,28 @@
+{
+  "id": 857,
+  "order_index": 95,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Wehen",
+    "logo": "https://img.sofascore.com/api/v1/team/2597/image"
+  },
+  "teamB": {
+    "name": "Leverkusen",
+    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVdlaGVuLXZzLUxldmVya3VzZW4xNzg3Mzg5OTMzMTA0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
