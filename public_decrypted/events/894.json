@@ -1,0 +1,28 @@
+{
+  "id": 894,
+  "order_index": 132,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Vikings",
+    "logo": "https://img.sofascore.com/api/v1/team/4423/image"
+  },
+  "teamB": {
+    "name": "Ravens",
+    "logo": "https://img.sofascore.com/api/v1/team/4413/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1WaWtpbmdzLXZzLVJhdmVuczE3ODczOTA1NjgzNjc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

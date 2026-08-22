@@ -1,0 +1,28 @@
+{
+  "id": 912,
+  "order_index": 150,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+  },
+  "teamB": {
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLUN1YnMxNzg3MzkwNjk4Mzc0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

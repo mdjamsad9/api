@@ -1,0 +1,28 @@
+{
+  "id": 877,
+  "order_index": 115,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Espanyol",
+    "logo": "https://img.sofascore.com/api/v1/team/2814/image"
+  },
+  "teamB": {
+    "name": "Real Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2829/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhLUVzcGFueW9sLXZzLVJlYWwgTWFkcmlkMTc4NzM5MDMyMzc5OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 882,
+  "order_index": 120,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga MX, Apertura",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
+  },
+  "teamA": {
+    "name": "Cruz Azul",
+    "logo": "https://img.sofascore.com/api/v1/team/1947/image"
+  },
+  "teamB": {
+    "name": "Atlas",
+    "logo": "https://img.sofascore.com/api/v1/team/1949/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "03:00:00",
+  "links_metadata_path": "pro/TGlnYSBNWCwgQXBlcnR1cmEtQ3J1eiBBenVsLXZzLUF0bGFzMTc4NzM5MDQ3MzY0NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

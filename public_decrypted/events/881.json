@@ -1,0 +1,28 @@
+{
+  "id": 881,
+  "order_index": 119,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Internacional",
+    "logo": "https://img.sofascore.com/api/v1/team/1966/image"
+  },
+  "teamB": {
+    "name": "Atlético-MG",
+    "logo": "https://img.sofascore.com/api/v1/team/1977/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1JbnRlcm5hY2lvbmFsLXZzLUF0bMOpdGljby1NRzE3ODczOTAzMjM3OTg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

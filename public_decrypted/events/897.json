@@ -1,0 +1,28 @@
+{
+  "id": 897,
+  "order_index": 135,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+  },
+  "teamA": {
+    "name": "Liberty",
+    "logo": "https://img.sofascore.com/api/v1/team/3446/image"
+  },
+  "teamB": {
+    "name": "Fever",
+    "logo": "https://img.sofascore.com/api/v1/team/3452/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/V05CQS1MaWJlcnR5LXZzLUZldmVyMTc4NzM5MDYwNTIyNw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

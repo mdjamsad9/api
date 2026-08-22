@@ -1,0 +1,28 @@
+{
+  "id": 893,
+  "order_index": 131,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Buccaneers",
+    "logo": "https://img.sofascore.com/api/v1/team/4388/image"
+  },
+  "teamB": {
+    "name": "Chiefs",
+    "logo": "https://img.sofascore.com/api/v1/team/4422/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1CdWNjYW5lZXJzLXZzLUNoaWVmczE3ODczOTA1NjgzNjc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

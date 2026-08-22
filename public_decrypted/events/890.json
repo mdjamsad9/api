@@ -1,0 +1,28 @@
+{
+  "id": 890,
+  "order_index": 128,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/4412/image"
+  },
+  "teamB": {
+    "name": "Cowboys",
+    "logo": "https://img.sofascore.com/api/v1/team/4392/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "02:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1DYXJkaW5hbHMtdnMtQ293Ym95czE3ODczOTA1NjgzNjc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

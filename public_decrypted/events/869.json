@@ -1,0 +1,28 @@
+{
+  "id": 869,
+  "order_index": 107,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Valencia",
+    "logo": "https://img.sofascore.com/api/v1/team/2828/image"
+  },
+  "teamB": {
+    "name": "Celta",
+    "logo": "https://img.sofascore.com/api/v1/team/2821/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/TGFMaWdhLVZhbGVuY2lhLXZzLUNlbHRhMTc4NzM5MDMyMzc5OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

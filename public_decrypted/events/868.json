@@ -1,0 +1,28 @@
+{
+  "id": 868,
+  "order_index": 106,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+  },
+  "teamA": {
+    "name": "Heerenveen",
+    "logo": "https://img.sofascore.com/api/v1/team/2964/image"
+  },
+  "teamB": {
+    "name": "Zwolle",
+    "logo": "https://img.sofascore.com/api/v1/team/2971/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtSGVlcmVudmVlbi12cy1ad29sbGUxNzg3MzkwMzIzNzk4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

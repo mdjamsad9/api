@@ -1,0 +1,28 @@
+{
+  "id": 891,
+  "order_index": 129,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Rams",
+    "logo": "https://img.sofascore.com/api/v1/team/4387/image"
+  },
+  "teamB": {
+    "name": "Saints",
+    "logo": "https://img.sofascore.com/api/v1/team/4425/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "20:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1SYW1zLXZzLVNhaW50czE3ODczOTA1NjgzNjc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

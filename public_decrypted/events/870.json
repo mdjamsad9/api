@@ -1,0 +1,28 @@
+{
+  "id": 870,
+  "order_index": 108,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Genoa",
+    "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+  },
+  "teamB": {
+    "name": "Napoli",
+    "logo": "https://img.sofascore.com/api/v1/team/2714/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1HZW5vYS12cy1OYXBvbGkxNzg3MzkwMzIzNzk4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

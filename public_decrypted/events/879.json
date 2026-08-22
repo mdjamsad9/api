@@ -1,0 +1,28 @@
+{
+  "id": 879,
+  "order_index": 117,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Ceuta",
+    "logo": "https://img.sofascore.com/api/v1/team/2869/image"
+  },
+  "teamB": {
+    "name": "Las Palmas",
+    "logo": "https://img.sofascore.com/api/v1/team/6577/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQ2V1dGEtdnMtTGFzIFBhbG1hczE3ODczOTAzMjM3OTg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

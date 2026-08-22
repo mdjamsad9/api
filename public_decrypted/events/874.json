@@ -1,0 +1,28 @@
+{
+  "id": 874,
+  "order_index": 112,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Fluminense",
+    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+  },
+  "teamB": {
+    "name": "Remo",
+    "logo": "https://img.sofascore.com/api/v1/team/2012/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1GbHVtaW5lbnNlLXZzLVJlbW8xNzg3MzkwMzIzNzk4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

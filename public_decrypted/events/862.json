@@ -1,0 +1,28 @@
+{
+  "id": 862,
+  "order_index": 100,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Rizespor",
+    "logo": "https://img.sofascore.com/api/v1/team/3064/image"
+  },
+  "teamB": {
+    "name": "Samsunspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3053/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1SaXplc3Bvci12cy1TYW1zdW5zcG9yMTc4NzM5MDMyMzc5OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

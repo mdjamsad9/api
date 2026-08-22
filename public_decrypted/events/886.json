@@ -1,0 +1,28 @@
+{
+  "id": 886,
+  "order_index": 124,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "MLS",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark"
+  },
+  "teamA": {
+    "name": "San Jose",
+    "logo": "https://img.sofascore.com/api/v1/team/21825/image"
+  },
+  "teamB": {
+    "name": "Minnesota",
+    "logo": "https://img.sofascore.com/api/v1/team/41618/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "02:30:00",
+  "links_metadata_path": "pro/TUxTLVNhbiBKb3NlLXZzLU1pbm5lc290YTE3ODczOTA0NzM2NDU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 860,
+  "order_index": 98,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "Dundee Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/2349/image"
+  },
+  "teamB": {
+    "name": "Dundee",
+    "logo": "https://img.sofascore.com/api/v1/team/2357/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtRHVuZGVlIFV0ZC12cy1EdW5kZWUxNzg3MzkwMzIzNzk4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

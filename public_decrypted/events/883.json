@@ -1,0 +1,28 @@
+{
+  "id": 883,
+  "order_index": 121,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga MX, Apertura",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
+  },
+  "teamA": {
+    "name": "Puebla",
+    "logo": "https://img.sofascore.com/api/v1/team/1941/image"
+  },
+  "teamB": {
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1948/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "01:00:00",
+  "links_metadata_path": "pro/TGlnYSBNWCwgQXBlcnR1cmEtUHVlYmxhLXZzLVNhbnRvczE3ODczOTA0NzM2NDU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 861,
+  "order_index": 99,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Troyes",
+    "logo": "https://img.sofascore.com/api/v1/team/1652/image"
+  },
+  "teamB": {
+    "name": "Paris",
+    "logo": "https://img.sofascore.com/api/v1/team/6070/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1Ucm95ZXMtdnMtUGFyaXMxNzg3MzkwMzIzNzk4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

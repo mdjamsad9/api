@@ -1,0 +1,28 @@
+{
+  "id": 859,
+  "order_index": 97,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Çorum",
+    "logo": "https://img.sofascore.com/api/v1/team/77629/image"
+  },
+  "teamB": {
+    "name": "Kasımpaşa",
+    "logo": "https://img.sofascore.com/api/v1/team/6063/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy3Dh29ydW0tdnMtS2FzxLFtcGHFn2ExNzg3MzkwMzIzNzk3.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 889,
+  "order_index": 127,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Patriots",
+    "logo": "https://img.sofascore.com/api/v1/team/4424/image"
+  },
+  "teamB": {
+    "name": "Eagles",
+    "logo": "https://img.sofascore.com/api/v1/team/4428/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1QYXRyaW90cy12cy1FYWdsZXMxNzg3MzkwNTY4MzY3.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

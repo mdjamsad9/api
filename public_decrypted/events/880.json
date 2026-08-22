@@ -1,0 +1,28 @@
+{
+  "id": 880,
+  "order_index": 118,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Eldense",
+    "logo": "https://img.sofascore.com/api/v1/team/47321/image"
+  },
+  "teamB": {
+    "name": "Cádiz",
+    "logo": "https://img.sofascore.com/api/v1/team/4488/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItRWxkZW5zZS12cy1Dw6FkaXoxNzg3MzkwMzIzNzk4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 867,
+  "order_index": 105,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Parma",
+    "logo": "https://img.sofascore.com/api/v1/team/2690/image"
+  },
+  "teamB": {
+    "name": "Cagliari",
+    "logo": "https://img.sofascore.com/api/v1/team/2719/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1QYXJtYS12cy1DYWdsaWFyaTE3ODczOTAzMjM3OTg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

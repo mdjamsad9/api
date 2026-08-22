@@ -1,0 +1,28 @@
+{
+  "id": 885,
+  "order_index": 123,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "MLS",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark"
+  },
+  "teamA": {
+    "name": "Inter Miami",
+    "logo": "https://img.sofascore.com/api/v1/team/337602/image"
+  },
+  "teamB": {
+    "name": "Toronto",
+    "logo": "https://img.sofascore.com/api/v1/team/7080/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/TUxTLUludGVyIE1pYW1pLXZzLVRvcm9udG8xNzg3MzkwNDczNjQ1.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
