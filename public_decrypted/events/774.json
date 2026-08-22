@@ -28,6 +28,27 @@
       "tokenApi": ""
     },
     {
+      "name": "HUB PREMIER  - AQ",
+      "link": "https://star2.senbonzakurakageyoshi.workers.dev/HubPremier1/index.mpd",
+      "scheme": 0,
+      "api": "d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b",
+      "tokenApi": ""
+    },
+    {
+      "name": "USA TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55012/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "NBC UNIVERSO",
       "link": "",
       "scheme": 0,
@@ -40,6 +61,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-61.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOw SERVER",
+      "link": "http://193.47.62.58/hls/DYYY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

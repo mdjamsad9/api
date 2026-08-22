@@ -28,6 +28,13 @@
       "tokenApi": ""
     },
     {
+      "name": "PARAMOUNT+ FHD ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/k5ogca5yak/out/v1/f854f79f43a449ef99f57fb0438ba59a/bb2c7209-1a6b-4512-9879-63f7c4448191-cenc.mpd?aws_sessionId=bf296c33-1349-4705-8a7b-a0520351ab44",
+      "scheme": 0,
+      "api": "eb8844e46bbc1905868db27ce2e7e3bc:8f0edd0711e41193da7d51d955e54239",
+      "tokenApi": ""
+    },
+    {
       "name": "CBS Sports ",
       "link": "",
       "scheme": 0,
@@ -40,6 +47,20 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-8.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4563516.m3u8?txSecret=7efce61a76647320c00f42098c386bd9&txTime=6A899622|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/frrrdaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

@@ -21,10 +21,31 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUxpbmNvbG4tdnMtUG9ydHNtb3V0aDE3ODczODA1OTc5NjA.txt",
   "links": [
     {
+      "name": "PARAMOUNT  - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/r1sjmn0d0u/out/v1/449280214f4b46a6b3a84e5378d2cf2c/502e7f13-4718-4673-a465-8ea9cec8400b-cenc.mpd?aws_sessionId=e528d47f-e688-4949-b9e8-f0ccc7662b1f",
+      "scheme": 0,
+      "api": "c0a2b919583e6e519a4c6351b35e97fb:e2b6f171ccf2e276636eeb368e737b81",
+      "tokenApi": ""
+    },
+    {
       "name": "beIN ENGLISH - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY FOOTBALL",
+      "link": "https://chatgpt.hereisman.net/playlist/54995/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4563518.m3u8?txSecret=50f374dbef6dedd66b409ff489727d4a&txTime=6A89963B|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -40,6 +61,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-92.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low Server ",
+      "link": "https://hls.live123.fans/live/4563518.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
