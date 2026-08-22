@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1GYXRlaC12cy1BbC1FdHRpZmFxMTc4NzM4MDk4MjA0Mg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4599554.m3u8?txSecret=d29c887f691d505ba3cbc9bb3ac10ab9&txTime=6A89D791|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     },
     {
       "name": "Thmanyah 1",
