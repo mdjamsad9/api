@@ -574,5 +574,41 @@
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"Millwall\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/25\\/image\"},\"teamB\":{\"name\":\"Norwich\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/263\\/image\"},\"links\":\"pro\\/Q2hhbXBpb25zaGlwLU1pbGx3YWxsLXZzLU5vcndpY2gxNzg3Mzk3MzAyNjYx.txt\",\"time\":\"11:30:00\",\"date\":\"22\\/08\\/2026\",\"end_time\":\"13:50:00\",\"end_date\":\"22\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live\",\"HD SERVER\",\"SD SERVER\"]}",
     "links": "[{\"name\":\"Cricfy Live\",\"link\":\"https:\\/\\/chatgpt.hereisman.net\\/playlist\\/54994\\/load-playlist?&.m3u8|Referer=https:\\/\\/gooz.aapmains.net\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"HD SERVER\",\"link\":\"https:\\/\\/live.vivo200.com\\/live\\/sd-1-4563519.m3u8?txSecret=94e9d6bd3f41d6bdf932ecbc0eaca326&txTime=6A8995C2|Referer=https:\\/\\/player.online909.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SD SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/frrrdaaaaaa.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 154
+  },
+  {
+    "id": 917,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"Hansa Lüneburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/24084\\/image\"},\"teamB\":{\"name\":\"Bremen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2534\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLUhhbnNhIEzDvG5lYnVyZy12cy1CcmVtZW4xNzg3NDA0OTc0MTc3.txt\",\"time\":\"13:30:00\",\"date\":\"22\\/08\\/2026\",\"end_time\":\"15:50:00\",\"end_date\":\"22\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GOOOAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 155
+  },
+  {
+    "id": 918,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"Viktoria Köln\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/53365\\/image\"},\"teamB\":{\"name\":\"Nürnberg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2523\\/image\"},\"visible\":true,\"date\":\"22\\/08\\/2026\",\"time\":\"13:30:00\",\"end_date\":\"22\\/08\\/2026\",\"end_time\":\"15:50:00\",\"links\":\"pro\\/REZCIFBva2FsLVZpa3RvcmlhIEvDtmxuLXZzLU7DvHJuYmVyZzE3ODc0MDQ5NzQxNzc.txt\"}",
+    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "order_index": 156
+  },
+  {
+    "id": 919,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"Duisburg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2543\\/image\"},\"teamB\":{\"name\":\"Elversberg\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2598\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLUR1aXNidXJnLXZzLUVsdmVyc2JlcmcxNzg3NDA0OTc0MTc3.txt\",\"time\":\"13:30:00\",\"date\":\"22\\/08\\/2026\",\"end_time\":\"15:50:00\",\"end_date\":\"22\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GOOOA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 157
+  },
+  {
+    "id": 920,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"Aue\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2566\\/image\"},\"teamB\":{\"name\":\"Hoffenheim\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2569\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLUF1ZS12cy1Ib2ZmZW5oZWltMTc4NzQwNDk3NDE3Nw.txt\",\"time\":\"13:30:00\",\"date\":\"22\\/08\\/2026\",\"end_time\":\"15:50:00\",\"end_date\":\"22\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GOOO.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 158
+  },
+  {
+    "id": 921,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"Saarbrücken\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2554\\/image\"},\"teamB\":{\"name\":\"Hertha\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2528\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLVNhYXJicsO8Y2tlbi12cy1IZXJ0aGExNzg3NDA0OTc0MTc3.txt\",\"time\":\"13:30:00\",\"date\":\"22\\/08\\/2026\",\"end_time\":\"15:50:00\",\"end_date\":\"22\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GOOOAAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 159
+  },
+  {
+    "id": 922,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"SV Hemelingen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/323922\\/image\"},\"teamB\":{\"name\":\"Hannover\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2541\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLVNWIEhlbWVsaW5nZW4tdnMtSGFubm92ZXIxNzg3NDA0OTc0MTc3.txt\",\"time\":\"13:30:00\",\"date\":\"22\\/08\\/2026\",\"end_time\":\"15:50:00\",\"end_date\":\"22\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/GOOOAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 160
   }
 ]

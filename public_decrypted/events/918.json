@@ -1,0 +1,28 @@
+{
+  "id": 918,
+  "order_index": 156,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Viktoria Köln",
+    "logo": "https://img.sofascore.com/api/v1/team/53365/image"
+  },
+  "teamB": {
+    "name": "Nürnberg",
+    "logo": "https://img.sofascore.com/api/v1/team/2523/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVZpa3RvcmlhIEvDtmxuLXZzLU7DvHJuYmVyZzE3ODc0MDQ5NzQxNzc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

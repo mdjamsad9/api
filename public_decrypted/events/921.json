@@ -1,0 +1,31 @@
+{
+  "id": 921,
+  "order_index": 159,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Saarbrücken",
+    "logo": "https://img.sofascore.com/api/v1/team/2554/image"
+  },
+  "teamB": {
+    "name": "Hertha",
+    "logo": "https://img.sofascore.com/api/v1/team/2528/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVNhYXJicsO8Y2tlbi12cy1IZXJ0aGExNzg3NDA0OTc0MTc3.txt",
+  "links": [
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/GOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

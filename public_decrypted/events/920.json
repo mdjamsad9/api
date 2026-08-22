@@ -1,0 +1,31 @@
+{
+  "id": 920,
+  "order_index": 158,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Aue",
+    "logo": "https://img.sofascore.com/api/v1/team/2566/image"
+  },
+  "teamB": {
+    "name": "Hoffenheim",
+    "logo": "https://img.sofascore.com/api/v1/team/2569/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLUF1ZS12cy1Ib2ZmZW5oZWltMTc4NzQwNDk3NDE3Nw.txt",
+  "links": [
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/GOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

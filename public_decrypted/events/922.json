@@ -1,0 +1,31 @@
+{
+  "id": 922,
+  "order_index": 160,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "SV Hemelingen",
+    "logo": "https://img.sofascore.com/api/v1/team/323922/image"
+  },
+  "teamB": {
+    "name": "Hannover",
+    "logo": "https://img.sofascore.com/api/v1/team/2541/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVNWIEhlbWVsaW5nZW4tdnMtSGFubm92ZXIxNzg3NDA0OTc0MTc3.txt",
+  "links": [
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/GOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
