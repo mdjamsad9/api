@@ -1,0 +1,52 @@
+{
+  "id": 923,
+  "order_index": 161,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+  },
+  "teamA": {
+    "name": "Al-Kholood",
+    "logo": "https://img.sofascore.com/api/v1/team/269199/image"
+  },
+  "teamB": {
+    "name": "Al-Taawoun",
+    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "16:10:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1LaG9sb29kLXZzLUFsLVRhYXdvdW4xNzg3NDE0NDUwNzU1.txt",
+  "links": [
+    {
+      "name": "Thmanyah",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-69.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://hls.live123.fans/live/4599555.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live 2",
+      "link": "https://hls.live123.fans/live/4599555.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.44/hls/UUUUA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

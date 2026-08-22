@@ -1,0 +1,45 @@
+{
+  "id": 926,
+  "order_index": 164,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Udinese",
+    "logo": "https://img.sofascore.com/api/v1/team/2695/image"
+  },
+  "teamB": {
+    "name": "Como",
+    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1VZGluZXNlLXZzLUNvbW8xNzg3NDE1ODYwMTM0.txt",
+  "links": [
+    {
+      "name": "PARAMOUNT+  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yetgduub7l/out/v1/439611cf43f341969bfc382516bc3147/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1b3c1fa6ea0382c79953ecb87acb3e63:b92239eec7c7e76277dbac71adc84b5f",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55024/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/hd-en-1-4549159.m3u8?txSecret=b54e3c026d3d267b21d9b582037e348a&txTime=6A89E089|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

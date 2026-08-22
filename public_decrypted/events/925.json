@@ -1,0 +1,31 @@
+{
+  "id": 925,
+  "order_index": 163,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+  },
+  "teamA": {
+    "name": "Al-Khaleej",
+    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
+  },
+  "teamB": {
+    "name": "Al-Shabab",
+    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "22/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1LaGFsZWVqLXZzLUFsLVNoYWJhYjE3ODc0MTQ1Mjg3MTc.txt",
+  "links": [
+    {
+      "name": "Hub Premier 4",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-21.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

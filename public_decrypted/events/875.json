@@ -21,6 +21,41 @@
   "links_metadata_path": "pro/U2VyaWUgQS1JbnRlci12cy1Nb256YTE3ODczOTAzMjM3OTg.txt",
   "links": [
     {
+      "name": "PARAMOUNT  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bo0mjnhpmn/out/v1/e50e3821e338477eb24166eb27839b51/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "a89b2a551b37d21803b40cc0bebb4a13:ebe00f590cb29b5501c33f282dad5699",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN ENGLISH - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS NETWORK - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORT 1 CZ - AQ",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+      "scheme": 0,
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
+    },
+    {
+      "name": "Paramount+ HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55025/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Sport TV3 ",
       "link": "",
       "scheme": 0,
@@ -40,6 +75,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-747.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/hd-en-1-4549142.m3u8?txSecret=1494a37b1a3a478a3cc0d123623b0f5f&txTime=6A89E0DE|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
