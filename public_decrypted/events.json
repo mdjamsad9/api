@@ -37,8 +37,8 @@
   },
   {
     "id": 772,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Premier League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/17\\/image\\/dark\"},\"teamA\":{\"name\":\"Man City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/17\\/image\"},\"teamB\":{\"name\":\"Bournemouth\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/60\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"13:00:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"15:20:00\",\"links\":\"pro\\/UHJlbWllciBMZWFndWUtTWFuIENpdHktdnMtQm91cm5lbW91dGgxNzg3MTcwNTY1OTMy.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Premier League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/17\\/image\\/dark\"},\"teamA\":{\"name\":\"Man City\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/17\\/image\"},\"teamB\":{\"name\":\"Bournemouth\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/60\\/image\"},\"links\":\"pro\\/UHJlbWllciBMZWFndWUtTWFuIENpdHktdnMtQm91cm5lbW91dGgxNzg3MTcwNTY1OTMy.txt\",\"time\":\"13:00:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"15:20:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"DAZN Eleven 1 \"]}",
+    "links": "[{\"name\":\"DAZN Eleven 1 \",\"link\":\"\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/daddylive1.cx\\\\\\/my\\\\\\/stream-455.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 12
   },
   {
@@ -193,8 +193,8 @@
   },
   {
     "id": 941,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"West Brom\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/8\\/image\"},\"teamB\":{\"name\":\"Burnley\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/6\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"11:00:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"13:20:00\",\"links\":\"pro\\/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1CdXJubGV5MTc4NzQ3Mjc1NDMxMQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Championship\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/18\\/image\\/dark\"},\"teamA\":{\"name\":\"West Brom\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/8\\/image\"},\"teamB\":{\"name\":\"Burnley\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/6\\/image\"},\"links\":\"pro\\/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1CdXJubGV5MTc4NzQ3Mjc1NDMxMQ.txt\",\"time\":\"11:00:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"13:20:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Sport TV2 \"]}",
+    "links": "[{\"name\":\"Sport TV2 \",\"link\":\"\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/daddylive1.cx\\\\\\/my\\\\\\/stream-74.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 179
   },
   {
@@ -229,14 +229,14 @@
   },
   {
     "id": 947,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"GA Eagles\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2979\\/image\"},\"teamB\":{\"name\":\"ADO\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2966\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"10:15:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"12:35:00\",\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtR0EgRWFnbGVzLXZzLUFETzE3ODc0NzI3NTQzMTE.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"GA Eagles\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2979\\/image\"},\"teamB\":{\"name\":\"ADO\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2966\\/image\"},\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtR0EgRWFnbGVzLXZzLUFETzE3ODc0NzI3NTQzMTE.txt\",\"time\":\"10:15:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"12:35:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"ESPN 2 NL\"]}",
+    "links": "[{\"name\":\"ESPN 2 NL\",\"link\":\"\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/daddylive1.cx\\\\\\/my\\\\\\/stream-386.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 185
   },
   {
     "id": 948,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"PSV\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2952\\/image\"},\"teamB\":{\"name\":\"Groningen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2951\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"12:30:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"14:50:00\",\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtUFNWLXZzLUdyb25pbmdlbjE3ODc0NzI3NTQzMTE.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"VriendenLoterij Eredivisie\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/37\\/image\\/dark\"},\"teamA\":{\"name\":\"PSV\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2952\\/image\"},\"teamB\":{\"name\":\"Groningen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2951\\/image\"},\"links\":\"pro\\/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtUFNWLXZzLUdyb25pbmdlbjE3ODc0NzI3NTQzMTE.txt\",\"time\":\"12:30:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"14:50:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"ESPN2 \"]}",
+    "links": "[{\"name\":\"ESPN2 \",\"link\":\"\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https:\\\\\\/\\\\\\/daddylive1.cx\\\\\\/my\\\\\\/stream-82.php\\\",\\\"type\\\":\\\"embed\\\",\\\"link_key\\\":\\\"playback_url\\\",\\\"default_string\\\":\\\"N8x7Y%m+6n\\\",\\\"request_type\\\":\\\"get\\\",\\\"request_body_type\\\":\\\"text\\\",\\\"ip_api\\\":\\\"https:\\\\\\/\\\\\\/api.ipify.org\\\\\\/\\\"}\"}]",
     "order_index": 186
   },
   {
