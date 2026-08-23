@@ -1,0 +1,38 @@
+{
+  "id": 987,
+  "order_index": 225,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "CFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
+  },
+  "teamA": {
+    "name": "BC",
+    "logo": "https://img.sofascore.com/api/v1/team/4440/image"
+  },
+  "teamB": {
+    "name": "Saskatchewan",
+    "logo": "https://img.sofascore.com/api/v1/team/4438/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/Q0ZMLUJDLXZzLVNhc2thdGNoZXdhbjE3ODc1MTQ1ODU2MzY.txt",
+  "links": [
+    {
+      "name": "TSN SPORTS",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/cfl\\/2026-08-23\\/ssk-bc\",\"type\":\"embed\",\"link_key\":\"\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}
