@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQnJpZ2h0b24tdnMtQXN0b24gVmlsbGExNzg3MTcwNTY1OTMz.txt",
   "links": [
     {
+      "name": "FUBO SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u38bs9lgbm/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "c2f1290bf922a8ba99baa75cf733f8ec:bc64b8d290b9905caa19dbfc8c389c21",
+      "tokenApi": ""
+    },
+    {
       "name": "SKY PREMIER TV HD",
       "link": "https://chatgpt.hereisman.net/playlist/55105/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
