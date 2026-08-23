@@ -121,8 +121,8 @@
   },
   {
     "id": 928,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"RW Essen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2562\\/image\"},\"teamB\":{\"name\":\"St. Pauli\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2526\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/REZCIFBva2FsLVJXIEVzc2VuLXZzLVN0LiBQYXVsaTE3ODc0NzI3NTQzMTE.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"RW Essen\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2562\\/image\"},\"teamB\":{\"name\":\"St. Pauli\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2526\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLVJXIEVzc2VuLXZzLVN0LiBQYXVsaTE3ODc0NzI3NTQzMTE.txt\",\"time\":\"16:00:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Server 1\",\"LOW SERVER\"]}",
+    "links": "[{\"name\":\"Server 1\",\"link\":\"https:\\/\\/live.vivo200.com\\/live\\/sd-1-4550519.m3u8?txSecret=5b036318cc51dc76232be97aec22aee9&txTime=6A8B2C2B|Referer=https:\\/\\/player.online909.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"LOW SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/T5666AAAAA.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 166
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "id": 937,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Trendyol Süper Lig\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/52\\/image\\/dark\"},\"teamA\":{\"name\":\"Eyüpspor\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7040\\/image\"},\"teamB\":{\"name\":\"Gaziantep\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5138\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"16:00:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"18:20:00\",\"links\":\"pro\\/VHJlbmR5b2wgU8O8cGVyIExpZy1FecO8cHNwb3ItdnMtR2F6aWFudGVwMTc4NzQ3Mjc1NDMxMQ.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Trendyol Süper Lig\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/52\\/image\\/dark\"},\"teamA\":{\"name\":\"Eyüpspor\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/7040\\/image\"},\"teamB\":{\"name\":\"Gaziantep\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/5138\\/image\"},\"links\":\"pro\\/VHJlbmR5b2wgU8O8cGVyIExpZy1FecO8cHNwb3ItdnMtR2F6aWFudGVwMTc4NzQ3Mjc1NDMxMQ.txt\",\"time\":\"16:00:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Server 1\",\"SD SERVER\",\"Server 3\"]}",
+    "links": "[{\"name\":\"Server 1\",\"link\":\"https:\\/\\/live.vivo200.com\\/live\\/hd-en-1-4581281.m3u8?txSecret=6418017e09b8f88686e203ec4dd0a68a&txTime=6A8B2CA8|Referer=https:\\/\\/player.online909.com\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"SD SERVER\",\"link\":\"http:\\/\\/193.47.62.41\\/hls\\/T5666A.m3u8?|Referer=http:\\/\\/www.fawanews.sc\\/&Origin=http:\\/\\/www.fawanews.sc\\/\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"},{\"name\":\"Server 3\",\"link\":\"https:\\/\\/tmaxapp.site\\/8wirwjs76erftg\\/beinsports2tr.m3u8\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
     "order_index": 175
   },
   {
@@ -448,5 +448,11 @@
     "event": "{\"eventDetails\":{\"category\":\"Basketball\",\"eventName\":\"WNBA\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/486\\/image\\/dark\"},\"teamA\":{\"name\":\"Fire\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/1166446\\/image\"},\"teamB\":{\"name\":\"Mystics\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/3454\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"23:00:00\",\"end_date\":\"24\\/08\\/2026\",\"end_time\":\"02:00:00\",\"links\":\"pro\\/V05CQS1GaXJlLXZzLU15c3RpY3MxNzg3NDczNjc1MTgy.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
     "order_index": 223
+  },
+  {
+    "id": 986,
+    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"DFB Pokal\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/217\\/image\\/dark\"},\"teamA\":{\"name\":\"Phönix Lübeck\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/323848\\/image\"},\"teamB\":{\"name\":\"Paderborn\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2561\\/image\"},\"links\":\"pro\\/REZCIFBva2FsLVBow7ZuaXggTMO8YmVjay12cy1QYWRlcmJvcm4xNzg3NTAxMzM1MTM3.txt\",\"time\":\"16:00:00\",\"date\":\"23\\/08\\/2026\",\"end_time\":\"18:20:00\",\"end_date\":\"23\\/08\\/2026\",\"visible\":true,\"priority\":-1,\"link_names\":[\"Cricfy Live\"]}",
+    "links": "[{\"name\":\"Cricfy Live\",\"link\":\"https:\\/\\/live2.kinxie.com\\/live\\/71960056_fbcb6dc3a06334ebb446329b57fa9726_1080p.m3u8?auth_key=1787515177-0-0-29b834bd604439d9eb4211d77c216605\",\"scheme\":0,\"api\":\"\",\"tokenApi\":\"\"}]",
+    "order_index": 224
   }
 ]

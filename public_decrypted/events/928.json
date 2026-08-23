@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/REZCIFBva2FsLVJXIEVzc2VuLXZzLVN0LiBQYXVsaTE3ODc0NzI3NTQzMTE.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "https://live.vivo200.com/live/sd-1-4550519.m3u8?txSecret=5b036318cc51dc76232be97aec22aee9&txTime=6A8B2C2B|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/T5666AAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
