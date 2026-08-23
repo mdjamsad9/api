@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/TGlndWUgMS1MZSBIYXZyZS12cy1BUyBNb25hY28xNzg3NDcyNzU0MzEx.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "beIN USA HD",
+      "link": "https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 2",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550843.m3u8?txSecret=5cbd2f437bec69ec0be1c2df08768c0f&txTime=6A8B1DDB|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.41/hls/Y555.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/ligue1\\/2026-08-23\\/hac-mon\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

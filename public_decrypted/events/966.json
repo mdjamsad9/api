@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/U2VyaWUgQS1BdGFsYW50YS12cy1TYXNzdW9sbzE3ODc0NzM1MzA4NjE.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Link Server 1",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 2",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hlsxi1zfm5/out/v1/9f946893ed9846718544585b53de9b03/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "e3e789757fb52e171aff2be3825d6699:abe43d5731771eecd71256cd2ed05ba4",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 4",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+      "scheme": 0,
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 5",
+      "link": "https://hls.live123.fans/live/4549143.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
