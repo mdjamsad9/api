@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTmV3Y2FzdGxlLXZzLUxpdmVycG9vbDE3ODcxNzA2MDU4NjI.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Hub Premier 1",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-10.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Arabic",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-91.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Astro Premier League",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-125.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Astro Grandstand",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-123.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
