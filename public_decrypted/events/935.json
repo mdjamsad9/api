@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/REZCIFBva2FsLUZvcnR1bmEtdnMtRnJlaWJ1cmcxNzg3NDcyNzU0MzEx.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "https://live4.kinxie.com/live/71960104_4f5e347ecb2b4c4cd42d3aaf4bba0fef_1080p.m3u8?auth_key=1787515177-0-0-f13ac5d09bbed3d3002d315fbfda4964",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
