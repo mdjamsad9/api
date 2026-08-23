@@ -1,0 +1,28 @@
+{
+  "id": 935,
+  "order_index": 173,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Fortuna",
+    "logo": "https://img.sofascore.com/api/v1/team/2588/image"
+  },
+  "teamB": {
+    "name": "Freiburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2538/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLUZvcnR1bmEtdnMtRnJlaWJ1cmcxNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

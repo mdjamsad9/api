@@ -1,0 +1,28 @@
+{
+  "id": 981,
+  "order_index": 219,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga Profesional de Fútbol",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
+  },
+  "teamA": {
+    "name": "River Plate",
+    "logo": "https://img.sofascore.com/api/v1/team/3211/image"
+  },
+  "teamB": {
+    "name": "Vélez Sarsfield",
+    "logo": "https://img.sofascore.com/api/v1/team/3208/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "22:15:00",
+  "links_metadata_path": "pro/TGlnYSBQcm9mZXNpb25hbCBkZSBGw7p0Ym9sLVJpdmVyIFBsYXRlLXZzLVbDqWxleiBTYXJzZmllbGQxNzg3NDczNTMwODYy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 963,
+  "order_index": 201,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+  },
+  "teamB": {
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "20:15:00",
+  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1SZWRzMTc4NzQ3Mjk4MzI1MA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

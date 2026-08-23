@@ -1,0 +1,28 @@
+{
+  "id": 983,
+  "order_index": 221,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+  },
+  "teamA": {
+    "name": "Tempo",
+    "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
+  },
+  "teamB": {
+    "name": "Aces",
+    "logo": "https://img.sofascore.com/api/v1/team/35550/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/V05CQS1UZW1wby12cy1BY2VzMTc4NzQ3MzY3NTE4Mg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

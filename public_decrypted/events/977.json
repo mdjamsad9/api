@@ -1,0 +1,28 @@
+{
+  "id": 977,
+  "order_index": 215,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Palmeiras",
+    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+  },
+  "teamB": {
+    "name": "Vasco",
+    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1QYWxtZWlyYXMtdnMtVmFzY28xNzg3NDczNTMwODYy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

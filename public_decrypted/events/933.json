@@ -1,0 +1,28 @@
+{
+  "id": 933,
+  "order_index": 171,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Le Havre",
+    "logo": "https://img.sofascore.com/api/v1/team/1662/image"
+  },
+  "teamB": {
+    "name": "AS Monaco",
+    "logo": "https://img.sofascore.com/api/v1/team/1653/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "15:15:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MZSBIYXZyZS12cy1BUyBNb25hY28xNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

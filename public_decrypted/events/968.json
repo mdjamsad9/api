@@ -1,0 +1,28 @@
+{
+  "id": 968,
+  "order_index": 206,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Elche",
+    "logo": "https://img.sofascore.com/api/v1/team/2846/image"
+  },
+  "teamB": {
+    "name": "Barcelona",
+    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhLUVsY2hlLXZzLUJhcmNlbG9uYTE3ODc0NzM1MzA4NjE.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

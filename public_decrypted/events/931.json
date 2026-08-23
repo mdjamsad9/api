@@ -1,0 +1,28 @@
+{
+  "id": 931,
+  "order_index": 169,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Trabzonspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
+  },
+  "teamB": {
+    "name": "Başakşehir",
+    "logo": "https://img.sofascore.com/api/v1/team/3086/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1UcmFiem9uc3Bvci12cy1CYcWfYWvFn2VoaXIxNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 969,
+  "order_index": 207,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga Profesional de Fútbol",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
+  },
+  "teamA": {
+    "name": "Racing",
+    "logo": "https://img.sofascore.com/api/v1/team/3215/image"
+  },
+  "teamB": {
+    "name": "Boca Juniors",
+    "logo": "https://img.sofascore.com/api/v1/team/3202/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/TGlnYSBQcm9mZXNpb25hbCBkZSBGw7p0Ym9sLVJhY2luZy12cy1Cb2NhIEp1bmlvcnMxNzg3NDczNTMwODYx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

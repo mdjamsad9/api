@@ -1,0 +1,28 @@
+{
+  "id": 934,
+  "order_index": 172,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Sporting",
+    "logo": "https://img.sofascore.com/api/v1/team/2852/image"
+  },
+  "teamB": {
+    "name": "Burgos",
+    "logo": "https://img.sofascore.com/api/v1/team/2854/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItU3BvcnRpbmctdnMtQnVyZ29zMTc4NzQ3Mjc1NDMxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

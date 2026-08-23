@@ -1,0 +1,28 @@
+{
+  "id": 928,
+  "order_index": 166,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "RW Essen",
+    "logo": "https://img.sofascore.com/api/v1/team/2562/image"
+  },
+  "teamB": {
+    "name": "St. Pauli",
+    "logo": "https://img.sofascore.com/api/v1/team/2526/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVJXIEVzc2VuLXZzLVN0LiBQYXVsaTE3ODc0NzI3NTQzMTE.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

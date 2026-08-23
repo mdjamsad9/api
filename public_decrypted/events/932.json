@@ -1,0 +1,28 @@
+{
+  "id": 932,
+  "order_index": 170,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Atl. Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2836/image"
+  },
+  "teamB": {
+    "name": "Villarreal",
+    "logo": "https://img.sofascore.com/api/v1/team/2819/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLUF0bC4gTWFkcmlkLXZzLVZpbGxhcnJlYWwxNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

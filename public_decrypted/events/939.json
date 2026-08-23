@@ -1,0 +1,28 @@
+{
+  "id": 939,
+  "order_index": 177,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Braunschweig",
+    "logo": "https://img.sofascore.com/api/v1/team/2557/image"
+  },
+  "teamB": {
+    "name": "Union Berlin",
+    "logo": "https://img.sofascore.com/api/v1/team/2547/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLUJyYXVuc2Nod2VpZy12cy1VbmlvbiBCZXJsaW4xNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

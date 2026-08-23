@@ -1,0 +1,28 @@
+{
+  "id": 945,
+  "order_index": 183,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+  },
+  "teamA": {
+    "name": "Vitória",
+    "logo": "https://img.sofascore.com/api/v1/team/3009/image"
+  },
+  "teamB": {
+    "name": "Nacional",
+    "logo": "https://img.sofascore.com/api/v1/team/3013/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVZpdMOzcmlhLXZzLU5hY2lvbmFsMTc4NzQ3Mjc1NDMxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

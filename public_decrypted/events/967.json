@@ -1,0 +1,28 @@
+{
+  "id": 967,
+  "order_index": 205,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Göztepe",
+    "logo": "https://img.sofascore.com/api/v1/team/3054/image"
+  },
+  "teamB": {
+    "name": "Gençlerbirliği",
+    "logo": "https://img.sofascore.com/api/v1/team/7802/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1Hw7Z6dGVwZS12cy1HZW7Dp2xlcmJpcmxpxJ9pMTc4NzQ3MzUzMDg2MQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

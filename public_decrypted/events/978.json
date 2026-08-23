@@ -1,0 +1,28 @@
+{
+  "id": 978,
+  "order_index": 216,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "RB Bragantino",
+    "logo": "https://img.sofascore.com/api/v1/team/1999/image"
+  },
+  "teamB": {
+    "name": "Grêmio",
+    "logo": "https://img.sofascore.com/api/v1/team/5926/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1SQiBCcmFnYW50aW5vLXZzLUdyw6ptaW8xNzg3NDczNTMwODYy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

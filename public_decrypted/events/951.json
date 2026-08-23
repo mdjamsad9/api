@@ -1,0 +1,28 @@
+{
+  "id": 951,
+  "order_index": 189,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "1921 Krieschow",
+    "logo": "https://img.sofascore.com/api/v1/team/258720/image"
+  },
+  "teamB": {
+    "name": "Mainz 05",
+    "logo": "https://img.sofascore.com/api/v1/team/2556/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLTE5MjEgS3JpZXNjaG93LXZzLU1haW56IDA1MTc4NzQ3Mjc1NDMxMg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

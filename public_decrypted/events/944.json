@@ -1,0 +1,28 @@
+{
+  "id": 944,
+  "order_index": 182,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Frosinone",
+    "logo": "https://img.sofascore.com/api/v1/team/2801/image"
+  },
+  "teamB": {
+    "name": "Juventus",
+    "logo": "https://img.sofascore.com/api/v1/team/2687/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1Gcm9zaW5vbmUtdnMtSnV2ZW50dXMxNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

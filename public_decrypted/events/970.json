@@ -1,0 +1,28 @@
+{
+  "id": 970,
+  "order_index": 208,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Torino",
+    "logo": "https://img.sofascore.com/api/v1/team/2696/image"
+  },
+  "teamB": {
+    "name": "Milan",
+    "logo": "https://img.sofascore.com/api/v1/team/2692/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1Ub3Jpbm8tdnMtTWlsYW4xNzg3NDczNTMwODYx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

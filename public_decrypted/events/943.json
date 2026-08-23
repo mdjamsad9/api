@@ -1,0 +1,28 @@
+{
+  "id": 943,
+  "order_index": 181,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Man City",
+    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+  },
+  "teamB": {
+    "name": "Bournemouth",
+    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTWFuIENpdHktdnMtQm91cm5lbW91dGgxNzg3NDcyNzU0MzEx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

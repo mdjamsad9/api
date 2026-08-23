@@ -1,0 +1,28 @@
+{
+  "id": 979,
+  "order_index": 217,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Coritiba",
+    "logo": "https://img.sofascore.com/api/v1/team/1982/image"
+  },
+  "teamB": {
+    "name": "Corinthians",
+    "logo": "https://img.sofascore.com/api/v1/team/1957/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "22:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Db3JpdGliYS12cy1Db3JpbnRoaWFuczE3ODc0NzM1MzA4NjI.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 940,
+  "order_index": 178,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Eibar",
+    "logo": "https://img.sofascore.com/api/v1/team/2839/image"
+  },
+  "teamB": {
+    "name": "Real Valladolid",
+    "logo": "https://img.sofascore.com/api/v1/team/2831/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItRWliYXItdnMtUmVhbCBWYWxsYWRvbGlkMTc4NzQ3Mjc1NDMxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

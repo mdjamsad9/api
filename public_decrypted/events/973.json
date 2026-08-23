@@ -1,0 +1,28 @@
+{
+  "id": 973,
+  "order_index": 211,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Rennes",
+    "logo": "https://img.sofascore.com/api/v1/team/1658/image"
+  },
+  "teamB": {
+    "name": "PSG",
+    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1SZW5uZXMtdnMtUFNHMTc4NzQ3MzUzMDg2Mg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

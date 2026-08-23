@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/Q1BMIFQyMC1DUEwgVDIwLXZzLUNQTCBUMjAxNzg3MzA1MTYyODgw.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8?|referer=https://tapmad.com"
+      "name": "SP - 1",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eyn28732hv/out/v1/deefe4c97075432a800e1b8bf72af186/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "4c6419cad044ff267410bb76fdf63b64:e48d9fab72e98d5b23ef0f1556472607",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT Sports - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

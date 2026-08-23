@@ -1,0 +1,28 @@
+{
+  "id": 942,
+  "order_index": 180,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Newcastle",
+    "logo": "https://img.sofascore.com/api/v1/team/39/image"
+  },
+  "teamB": {
+    "name": "Liverpool",
+    "logo": "https://img.sofascore.com/api/v1/team/44/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTmV3Y2FzdGxlLXZzLUxpdmVycG9vbDE3ODc0NzI3NTQzMTE.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

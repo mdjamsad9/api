@@ -1,0 +1,28 @@
+{
+  "id": 980,
+  "order_index": 218,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+  },
+  "teamA": {
+    "name": "Chapecoense",
+    "logo": "https://img.sofascore.com/api/v1/team/21845/image"
+  },
+  "teamB": {
+    "name": "São Paulo",
+    "logo": "https://img.sofascore.com/api/v1/team/1981/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1DaGFwZWNvZW5zZS12cy1Tw6NvIFBhdWxvMTc4NzQ3MzUzMDg2Mg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

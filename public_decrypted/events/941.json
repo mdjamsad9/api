@@ -1,0 +1,28 @@
+{
+  "id": 941,
+  "order_index": 179,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "West Brom",
+    "logo": "https://img.sofascore.com/api/v1/team/8/image"
+  },
+  "teamB": {
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1CdXJubGV5MTc4NzQ3Mjc1NDMxMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

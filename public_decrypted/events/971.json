@@ -1,0 +1,28 @@
+{
+  "id": 971,
+  "order_index": 209,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Alanyaspor",
+    "logo": "https://img.sofascore.com/api/v1/team/6362/image"
+  },
+  "teamB": {
+    "name": "Beşiktaş",
+    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "23/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1BbGFueWFzcG9yLXZzLUJlxZ9pa3RhxZ8xNzg3NDczNTMwODYx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
