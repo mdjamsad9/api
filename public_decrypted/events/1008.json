@@ -1,0 +1,28 @@
+{
+  "id": 1008,
+  "order_index": 246,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Marlins",
+    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+  },
+  "teamB": {
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtUmVkIFNveDE3ODc1MjI2NDAzMDU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 995,
+  "order_index": 233,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Würzburger Kickers",
+    "logo": "https://img.sofascore.com/api/v1/team/23947/image"
+  },
+  "teamB": {
+    "name": "Köln",
+    "logo": "https://img.sofascore.com/api/v1/team/2671/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLVfDvHJ6YnVyZ2VyIEtpY2tlcnMtdnMtS8O2bG4xNzg3NTIyNTE1MjEz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

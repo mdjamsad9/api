@@ -1,0 +1,28 @@
+{
+  "id": 989,
+  "order_index": 227,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+  },
+  "teamA": {
+    "name": "Neom",
+    "logo": "https://img.sofascore.com/api/v1/team/530631/image"
+  },
+  "teamB": {
+    "name": "Al-Qadsiah",
+    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "16:40:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1OZW9tLXZzLUFsLVFhZHNpYWgxNzg3NTIyNTE1MjEy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
