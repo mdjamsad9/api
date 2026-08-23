@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTmV3Y2FzdGxlLXZzLUxpdmVycG9vbDE3ODcxNzA2MDU4NjI.txt",
   "links": [
     {
+      "name": "Server 2  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ssxpsgkjtp/out/v1/9030b59b336d4deabda16d8ab696670d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "b91a2794be508748d3799a24b4ee0f3f:517fe2a7ab2b4d81eb6575dbdba6a214",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 4",
+      "link": "https://chatgpt.hereisman.net/playlist/55109/load-playlist?&.m3u8%7CReferer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://ap-wow.clothwant-you-so-pull.online/hls/sunderland/index.spf?&.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Hub Premier 1",
       "link": "",
       "scheme": 0,
@@ -47,6 +68,34 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-123.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Arena 2 Premium",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-135.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Server 3",
+      "link": "https://ap-wow.clothwant-you-so-pull.online/hls/epl1/index.spf?&.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 5",
+      "link": "https://live.vivo200.com/live/hd-en-1-4558454.m3u8?txSecret=aa787d3018957f33ed562bdf7114ef90&txTime=6A89BD7E|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 6",
+      "link": "https://hls.live123.fans/live/4558454.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
