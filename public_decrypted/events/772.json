@@ -21,11 +21,46 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTWFuIENpdHktdnMtQm91cm5lbW91dGgxNzg3MTcwNTY1OTMy.txt",
   "links": [
     {
-      "name": "DAZN Eleven 1 ",
-      "link": "",
+      "name": "FUBO SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+      "tokenApi": ""
+    },
+    {
+      "name": "USA TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55106/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-455.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
+    },
+    {
+      "name": "Cazetv TV   - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORT HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "MAIN EVENT",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/hd-en-1-4558470.m3u8?txSecret=6c7c0e0a6b23a2b8c025db04995b703e&txTime=6A8AFF65|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
