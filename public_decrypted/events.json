@@ -198,12 +198,6 @@
     "order_index": 179
   },
   {
-    "id": 942,
-    "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Premier League\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/17\\/image\\/dark\"},\"teamA\":{\"name\":\"Newcastle\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/39\\/image\"},\"teamB\":{\"name\":\"Liverpool\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/44\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"15:30:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"17:50:00\",\"links\":\"pro\\/UHJlbWllciBMZWFndWUtTmV3Y2FzdGxlLXZzLUxpdmVycG9vbDE3ODc0NzI3NTQzMTE.txt\"}",
-    "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
-    "order_index": 180
-  },
-  {
     "id": 944,
     "event": "{\"eventDetails\":{\"category\":\"Football\",\"eventName\":\"Serie A\",\"eventLogo\":\"http:\\/\\/api.sofascore.com\\/api\\/v1\\/unique-tournament\\/23\\/image\\/dark\"},\"teamA\":{\"name\":\"Frosinone\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2801\\/image\"},\"teamB\":{\"name\":\"Juventus\",\"logo\":\"https:\\/\\/img.sofascore.com\\/api\\/v1\\/team\\/2687\\/image\"},\"visible\":true,\"date\":\"23\\/08\\/2026\",\"time\":\"16:30:00\",\"end_date\":\"23\\/08\\/2026\",\"end_time\":\"18:50:00\",\"links\":\"pro\\/U2VyaWUgQS1Gcm9zaW5vbmUtdnMtSnV2ZW50dXMxNzg3NDcyNzU0MzEx.txt\"}",
     "links": "[{\"name\":\"Link 1\",\"link\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\"}]",
