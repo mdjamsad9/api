@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVZpdMOzcmlhLXZzLU5hY2lvbmFsMTc4NzQ3Mjc1NDMxMQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "https://live.vivo200.com/live/sd-1-4578176.m3u8?txSecret=3231ef8230dc563fc9c1294fc626918a&txTime=6A8B13F0|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
