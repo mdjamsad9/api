@@ -3,35 +3,35 @@
   "order_index": 224,
   "eventDetails": {
     "category": "Football",
-    "eventName": "DFB Pokal",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+    "eventName": "Liga Profesional de Fútbol",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark"
   },
   "teamA": {
-    "name": "Phönix Lübeck",
-    "logo": "https://img.sofascore.com/api/v1/team/323848/image"
+    "name": "Racing",
+    "logo": "https://img.sofascore.com/api/v1/team/3215/image"
   },
   "teamB": {
-    "name": "Paderborn",
-    "logo": "https://img.sofascore.com/api/v1/team/2561/image"
+    "name": "Boca Juniors",
+    "logo": "https://img.sofascore.com/api/v1/team/3202/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "23/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/REZCIFBva2FsLVBow7ZuaXggTMO8YmVjay12cy1QYWRlcmJvcm4xNzg3NTAxMzM1MTM3.txt",
+  "date": "24/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/TGlnYSBQcm9mZXNpb25hbCBkZSBGw7p0Ym9sLVJhY2luZy12cy1Cb2NhIEp1bmlvcnMxNzg3NTEzNjcxNjQx.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "https://live2.kinxie.com/live/71960056_fbcb6dc3a06334ebb446329b57fa9726_1080p.m3u8?auth_key=1787515177-0-0-29b834bd604439d9eb4211d77c216605",
+      "name": "Premier Sports  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
       "tokenApi": ""
     },
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.41/hls/T5666AAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "D Sports  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
       "tokenApi": ""
     }
   ]
