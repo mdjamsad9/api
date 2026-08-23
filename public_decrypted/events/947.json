@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtR0EgRWFnbGVzLXZzLUFETzE3ODc0NzI3NTQzMTE.txt",
   "links": [
     {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4552169.m3u8?txSecret=3914ec8390b671d58ffaf5a2f4082187&txTime=6A8ADDCB|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "ESPN 2 NL",
       "link": "",
       "scheme": 0,

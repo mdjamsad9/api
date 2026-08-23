@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1CdXJubGV5MTc4NzQ3Mjc1NDMxMQ.txt",
   "links": [
     {
+      "name": "Bein Sports  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+      "scheme": 0,
+      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "tokenApi": ""
+    },
+    {
       "name": "Sport TV2 ",
       "link": "",
       "scheme": 0,
