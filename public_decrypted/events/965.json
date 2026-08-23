@@ -40,6 +40,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-19.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "CRICFy LIVE ",
+      "link": "https://chatgpt.hereisman.net/playlist/55115/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

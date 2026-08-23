@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/TGlndWUgMS1SZW5uZXMtdnMtUFNHMTc4NzQ3MzUzMDg2Mg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PRIME VIDEO - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55101/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LIGUE1+ HD",
+      "link": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORT TV HD",
+      "link": "https://tmaxapp.site/pt658svs/sporttv4.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.51/hls/KVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
