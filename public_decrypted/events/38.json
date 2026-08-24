@@ -1,0 +1,52 @@
+{
+  "id": 38,
+  "order_index": 37,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Live Events | Calcutta Premier Division",
+    "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/2289/image"
+  },
+  "teamA": {
+    "name": "Calcutta Premier Division",
+    "logo": "https://img.sofascore.com/api/v1/unique-tournament/2289/image"
+  },
+  "teamB": {
+    "name": "Calcutta Premier Division",
+    "logo": "https://img.sofascore.com/api/v1/unique-tournament/2289/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "09:30:00",
+  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBDYWxjdXR0YSBQcmVtaWVyIERpdmlzaW9uLUNhbGN1dHRhIFByZW1pZXIgRGl2aXNpb24tdnMtQ2FsY3V0dGEgUHJlbWllciBEaXZpc2lvbjE3ODc1NjUzNjQ2Nzk.txt",
+  "links": [
+    {
+      "name": "Kalighat MS vs East Bengal FC",
+      "link": "https://live-n10.videostech.cloud/match/kalighatmilansangha_vs_eastbengalfc/HLS/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Techno Aryan vs ASOS Rainbow",
+      "link": "https://live-n10.videostech.cloud/match/aryanclub_vs_nbprainbowathleticclub/HLS/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Peerless SC vs Wari Athletic Club",
+      "link": "https://live-n10.videostech.cloud/match/peerlesssportsclub_vs_wariathleticclub/HLS/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Calcutta Police vs Kalighat Sports Lovers",
+      "link": "https://live-n10.videostech.cloud/match/calcuttapoliceclub_vs_kalighatsportsla/HLS/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

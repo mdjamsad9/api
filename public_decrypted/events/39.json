@@ -1,0 +1,31 @@
+{
+  "id": 39,
+  "order_index": 38,
+  "eventDetails": {
+    "category": "TENNIS",
+    "eventName": "Live Events | Tennis Evento",
+    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuob7UtDYBmZFw1H7jAueFSEell_kx_6wQC2-ncCg2Q&s=10"
+  },
+  "teamA": {
+    "name": "TENNIS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWwdt6bQdg3K2WTEigjn2XDFGQZcGCRhe-lDsDTKRJg&s=10"
+  },
+  "teamB": {
+    "name": "TENNIS",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWwdt6bQdg3K2WTEigjn2XDFGQZcGCRhe-lDsDTKRJg&s=10"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBUZW5uaXMgRXZlbnRvLVRFTk5JUy12cy1URU5OSVMxNzg3NTY1NTIzMDg1.txt",
+  "links": [
+    {
+      "name": "TENNIS 2 FHD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+      "scheme": 0,
+      "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 32,
+  "order_index": 31,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Nationals",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+  },
+  "teamB": {
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "22:45:00",
+  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1Sb2NraWVzMTc4NzU2NDY5MDQ5NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

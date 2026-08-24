@@ -1,0 +1,38 @@
+{
+  "id": 36,
+  "order_index": 35,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Live Events | Caribbean Premier League T20",
+    "eventLogo": "o"
+  },
+  "teamA": {
+    "name": "CPL T20",
+    "logo": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png"
+  },
+  "teamB": {
+    "name": "CPL T20",
+    "logo": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBDYXJpYmJlYW4gUHJlbWllciBMZWFndWUgVDIwLUNQTCBUMjAtdnMtQ1BMIFQyMDE3ODc1NjQ5MTQxNTg.txt",
+  "links": [
+    {
+      "name": "TNT SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD FHD",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

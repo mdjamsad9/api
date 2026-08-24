@@ -1,0 +1,28 @@
+{
+  "id": 3,
+  "order_index": 2,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Osasuna",
+    "logo": "https://img.sofascore.com/api/v1/team/2820/image"
+  },
+  "teamB": {
+    "name": "Levante",
+    "logo": "https://img.sofascore.com/api/v1/team/2849/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "17:30:00",
+  "links_metadata_path": "pro/TGFMaWdhLU9zYXN1bmEtdnMtTGV2YW50ZTE3ODc1NjQ2MjM3MTQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

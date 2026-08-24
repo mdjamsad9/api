@@ -1,56 +1,63 @@
 {
   "id": 35,
-  "order_index": 1,
+  "order_index": 34,
   "eventDetails": {
-    "category": "Boxing",
-    "eventName": "AEW Dynamite",
-    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+    "category": "t20",
+    "eventName": "Live Events | Top End T20 Series",
+    "eventLogo": "o"
   },
   "teamA": {
-    "name": "AEW",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+    "name": "TOP END T20",
+    "logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp"
   },
   "teamB": {
-    "name": "AEW",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB88iK4_VDCc8OWqAQ-UzYdZLl4hPmZSxXRaHiHwyf-g&s=10"
+    "name": "TOP END T20",
+    "logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "00:00:00",
-  "links_metadata_path": "pro/QUVXIER5bmFtaXRlLUFFVy12cy1BRVcxNzgwNTE1NjY5NzI2.txt",
+  "date": "24/08/2026",
+  "time": "09:30:00",
+  "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBUb3AgRW5kIFQyMCBTZXJpZXMtVE9QIEVORCBUMjAtdnMtVE9QIEVORCBUMjAxNzg3NTY0ODM0NjMx.txt",
   "links": [
     {
-      "name": "TSN SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+      "name": "TNT SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+      "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
       "tokenApi": ""
     },
     {
-      "name": "WWE LIVE ",
-      "link": "https://601.formaturamaxi.com.br/aew.m3u8|Referer=https://roxiestreams.su&Origin=https://roxiestreams.su&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TBS SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "name": "TAPMAD FHD",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "FOX SPORTS - AQ",
-      "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+      "name": "WILLOW HD",
+      "link": "WILLOW HD",
       "scheme": 0,
-      "api": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426",
+      "api": "",
       "tokenApi": ""
     },
     {
-      "name": "BACKUP AQ",
-      "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
+      "name": "SKY SPORT NZ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY SPORT NZ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz47z58f.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

@@ -1,0 +1,28 @@
+{
+  "id": 8,
+  "order_index": 7,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
+  },
+  "teamA": {
+    "name": "Altglienicke",
+    "logo": "https://img.sofascore.com/api/v1/team/74483/image"
+  },
+  "teamB": {
+    "name": "Wolfsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2524/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLUFsdGdsaWVuaWNrZS12cy1Xb2xmc2J1cmcxNzg3NTY0NjIzNzE0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

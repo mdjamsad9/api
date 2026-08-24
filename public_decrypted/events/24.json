@@ -1,0 +1,28 @@
+{
+  "id": 24,
+  "order_index": 23,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+  },
+  "teamB": {
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/08/2026",
+  "time": "01:45:00",
+  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1SZWRzMTc4NzU2NDY3NzEzMA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
