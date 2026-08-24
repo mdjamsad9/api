@@ -1,0 +1,38 @@
+{
+  "id": 46,
+  "order_index": 25,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Granada",
+    "logo": "https://img.sofascore.com/api/v1/team/33779/image"
+  },
+  "teamB": {
+    "name": "Mallorca",
+    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "24/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItR3JhbmFkYS12cy1NYWxsb3JjYTE3ODc1OTc5ODI2NzY.txt",
+  "links": [
+    {
+      "name": "LaLiga Hypermotion",
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "scheme": 0,
+      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server ",
+      "link": "http://193.47.62.41/hls/eiiiiaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

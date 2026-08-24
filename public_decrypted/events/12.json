@@ -1,6 +1,6 @@
 {
   "id": 12,
-  "order_index": 11,
+  "order_index": 7,
   "eventDetails": {
     "category": "Football",
     "eventName": "Liga Portugal Betclic",
@@ -21,6 +21,14 @@
   "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUdpbCBWaWNlbnRlLXZzLUNhc2EgUGlhMTc4NzU2NDYyMzcxNQ.txt",
   "links": [
     {
+      "name": "SPORT TV HD",
+      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Cosmote Sport 2 ",
       "link": "",
       "scheme": 0,
@@ -33,6 +41,14 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-49.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/eiiii.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": 44,
-  "order_index": 43,
+  "order_index": 0,
   "eventDetails": {
     "category": "Football",
     "eventName": "Premier League",
@@ -15,16 +15,30 @@
     "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "visible": true,
-  "priority": -1,
+  "priority": 1,
   "date": "24/08/2026",
   "time": "19:00:00",
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRnVsaGFtLXZzLUNoZWxzZWExNzg3NTY4NzU0MzQw.txt",
   "links": [
     {
       "name": "FUBO SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+      "api": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "USA Network HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55163/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -33,6 +47,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-91.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "FUBO SPORTS ALT",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+      "tokenApi": ""
     },
     {
       "name": "DAZN1 ",
@@ -47,6 +68,27 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-81.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "USA NETWROK ",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD Server ",
+      "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server",
+      "link": "http://193.47.62.53/hls/ZKKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

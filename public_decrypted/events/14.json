@@ -1,6 +1,6 @@
 {
   "id": 14,
-  "order_index": 13,
+  "order_index": 8,
   "eventDetails": {
     "category": "Football",
     "eventName": "Serie A",
@@ -20,6 +20,13 @@
   "time": "18:45:00",
   "links_metadata_path": "pro/U2VyaWUgQS1Sb21hLXZzLUZpb3JlbnRpbmExNzg3NTY0NjIzNzE1.txt",
   "links": [
+    {
+      "name": "PARAMOUNT+ ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/hn5bmbgfwu/out/v1/f7e9356306064688a272c8c058a8483c/f20d1730-b1da-41c5-ab63-768c0a739108-cenc.mpd?aws_sessionId=406c6e98-8dff-4aa9-87b5-0690a448e3f1",
+      "scheme": 0,
+      "api": "9c40ac7dd33a2cd28a01cd2fb69d259a:3126a92167005c95a2e6c6b511a01aa1",
+      "tokenApi": ""
+    },
     {
       "name": "beIN ENGLISH",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -42,6 +49,28 @@
       "tokenApi": ""
     },
     {
+      "name": "PARAMOUNT EN/IT",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jvrv1fydjc/out/v1/54d2892ab1b8417bb7ec269be7637d22/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d22e4e5bfa4ddecb08e01c1a7911c3ae:89f4f92a1da10fa030a53b3a96a42fb7",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORT TV HD",
+      "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "PARAMOUNT+ HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55162/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "DAZN IT",
       "link": "",
       "scheme": 0,
@@ -54,6 +83,20 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-74.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "HD QUALITY",
+      "link": "https://edgestream2.pro/hls/syaLqucEne4k.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server ",
+      "link": "http://193.47.62.41/hls/dbbbbaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
