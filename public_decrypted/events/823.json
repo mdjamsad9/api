@@ -22,16 +22,16 @@
   "links": [
     {
       "name": "Willow - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/u3wied73mq/out/v1/b2d8893784804baa9a09125499d1f8c6/cenc.mpd",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mzz0htm5dn/out/v1/56c31860317c4251ace04fb9a1498822/cenc.mpd",
       "scheme": 0,
-      "api": "4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6",
+      "api": "31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff",
       "tokenApi": ""
     },
     {
       "name": "Willow - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mzz0htm5dn/out/v1/56c31860317c4251ace04fb9a1498822/cenc.mpd",
       "scheme": 0,
-      "api": "628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
+      "api": "31ded111f927aa48f07118d9c049632f:95a6ab67798b183acafcbf94968db0ff",
       "tokenApi": ""
     },
     {

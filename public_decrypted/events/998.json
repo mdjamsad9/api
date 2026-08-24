@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/U2VyaWUgQS1Sb21hLXZzLUZpb3JlbnRpbmExNzg3NTIyNTE1MjEz.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "DAZN It",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"http:\\/\\/cricfy-tv.net\\/promo\\/cricfy-promo.m3u8\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-68.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Eleven Sports 1",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-71.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
