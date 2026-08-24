@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLVNMLXZzLUlORDE3ODc0NjMxNTY0NzY.txt",
   "links": [
     {
+      "name": "SP",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12",
+      "tokenApi": ""
+    },
+    {
+      "name": "SP - 2",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/edddaAAAAAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "WILLOW - AQ",
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0braugdism/out/v1/58c7cad63d844b4c94b136f6b4246e25/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
@@ -98,10 +119,17 @@
       "tokenApi": ""
     },
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.41/hls/edddaAAAAAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "SonyLIV",
+      "link": "https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979",
       "scheme": 0,
-      "api": "",
+      "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "tokenApi": ""
+    },
+    {
+      "name": "Hindi",
+      "link": "http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+      "scheme": 0,
+      "api": "no",
       "tokenApi": ""
     }
   ]
