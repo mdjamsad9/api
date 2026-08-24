@@ -22,9 +22,9 @@
   "links": [
     {
       "name": "Willow - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/u3wied73mq/out/v1/b2d8893784804baa9a09125499d1f8c6/cenc.mpd",
       "scheme": 0,
-      "api": "628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9",
+      "api": "4c363b9dd793fe8d953e3d0791191e1d:4bc0ebba6074c80316bbf2cf87f209d6",
       "tokenApi": ""
     },
     {
@@ -44,6 +44,13 @@
     {
       "name": "FANCODE (IND)",
       "link": "https://dai-fancode.pages.dev/mumbai/4248432_english_hls_6dff0812ea23371_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Tamasha   - AQ",
+      "link": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/Tet20c-avod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDEyOjU5OjQ5IEFNJmhhc2hfdmFsdWU9L205OHZPTlF4UFZtNnJuZUNHemY2Zz09JnZhbGlkbWludXRlcz02MA==",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
