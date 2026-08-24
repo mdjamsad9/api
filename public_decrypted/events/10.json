@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1OZW9tLXZzLUFsLVFhZHNpYWgxNzg3NTY0NjIzNzE1.txt",
   "links": [
     {
+      "name": "FOX DEPORTES",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+      "tokenApi": ""
+    },
+    {
       "name": "Fox Soccer Plus",
       "link": "",
       "scheme": 0,
