@@ -40,6 +40,28 @@
       "scheme": 0,
       "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
       "tokenApi": ""
+    },
+    {
+      "name": "FOX SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55190/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4599562.m3u8?txSecret=ed4ee1c239bd9c74a9c20ef9243fb0ee&txTime=6A8DED5B|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/FUUUZAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

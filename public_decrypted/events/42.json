@@ -21,11 +21,25 @@
   "links_metadata_path": "pro/RUZMIEN1cC1DYXJkaWZmLXZzLU5vcndpY2gxNzg3NjMxNjY4MzM0.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/kdysy9lpub/out/v1/55859657fed94ce182b128181487e18e/d989eca6-e9b0-4f00-9327-cf145815bfd1-cenc.mpd?aws_sessionId=f65b831c-6f69-40a2-8690-9ae6823f9d02",
+      "scheme": 0,
+      "api": "344744a31fa50e65cf081fee88eeffb7:8595de259a353c0b65df83f8a649162f",
+      "tokenApi": ""
+    },
+    {
       "name": "beIN Sports MAX",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-499.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55175/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     },
     {
       "name": "Sky Sports+",
