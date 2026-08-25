@@ -1,24 +1,24 @@
 {
-  "id": 53,
-  "order_index": 34,
+  "id": 52,
+  "order_index": 33,
   "eventDetails": {
     "category": "Football",
     "eventName": "EFL Cup",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Stoke",
-    "logo": "https://img.sofascore.com/api/v1/team/29/image"
+    "name": "Birmingham",
+    "logo": "https://img.sofascore.com/api/v1/team/9/image"
   },
   "teamB": {
-    "name": "Hull",
-    "logo": "https://img.sofascore.com/api/v1/team/96/image"
+    "name": "Brentford",
+    "logo": "https://img.sofascore.com/api/v1/team/50/image"
   },
   "visible": true,
   "priority": -1,
   "date": "25/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1TdG9rZS12cy1IdWxsMTc4NzYzMTY2ODMzNA.txt",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1CaXJtaW5naGFtLXZzLUJyZW50Zm9yZDE3ODc2MzE2NjgzMzQ.txt",
   "links": [
     {
       "name": "Link 1",

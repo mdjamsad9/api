@@ -1,0 +1,28 @@
+{
+  "id": 49,
+  "order_index": 30,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+  },
+  "teamA": {
+    "name": "Sabah",
+    "logo": "https://img.sofascore.com/api/v1/team/267828/image"
+  },
+  "teamB": {
+    "name": "H. Be'er Sheva",
+    "logo": "https://img.sofascore.com/api/v1/team/5202/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/08/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVNhYmFoLXZzLUguIEJlJ2VyIFNoZXZhMTc4NzYzMTY2ODMzNA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

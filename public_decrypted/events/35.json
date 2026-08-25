@@ -16,22 +16,22 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "24/08/2026",
-  "time": "23:30:00",
+  "date": "25/08/2026",
+  "time": "05:00:00",
   "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBUb3AgRW5kIFQyMCBTZXJpZXMtVE9QIEVORCBUMjAtdnMtVE9QIEVORCBUMjAxNzg3NTY0ODM0NjMx.txt",
   "links": [
     {
       "name": "WILLOW HD - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubse8txudr/out/v1/1f133d3c622b48938e229302019408fa/cenc.mpd",
       "scheme": 0,
-      "api": "15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343",
+      "api": "2610defcad4585d40173657829b132a6:53a3d3a93952f54247b411e1b06eefed",
       "tokenApi": ""
     },
     {
       "name": "WILLOW ALT - AQ",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ubse8txudr/out/v1/1f133d3c622b48938e229302019408fa/cenc.mpd",
       "scheme": 0,
-      "api": "15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343",
+      "api": "2610defcad4585d40173657829b132a6:53a3d3a93952f54247b411e1b06eefed",
       "tokenApi": ""
     },
     {
@@ -42,17 +42,17 @@
       "tokenApi": ""
     },
     {
-      "name": "FANCODE (IND)",
-      "link": "https://dai-fancode.pages.dev/mumbai/4248429_english_hls_24899e8d9112809_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
       "name": "WILLOW HD",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
       "scheme": 0,
       "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE (IND)",
+      "link": "https://dai-fancode.pages.dev/mumbai/4248429_english_hls_24899e8d9112809_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "id": 48,
+  "order_index": 29,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+  },
+  "teamA": {
+    "name": "Bodø/Glimt",
+    "logo": "https://img.sofascore.com/api/v1/team/656/image"
+  },
+  "teamB": {
+    "name": "NEC",
+    "logo": "https://img.sofascore.com/api/v1/team/2962/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "25/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUJvZMO4L0dsaW10LXZzLU5FQzE3ODc2MzE2NjgzMzQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

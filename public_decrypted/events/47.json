@@ -1,45 +1,28 @@
 {
   "id": 47,
-  "order_index": 26,
+  "order_index": 28,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Brasileirão Betano",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Botafogo",
-    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
+    "name": "Al-Shabab",
+    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
   },
   "teamB": {
-    "name": "Athletico",
-    "logo": "https://img.sofascore.com/api/v1/team/1967/image"
+    "name": "Al-Riyadh",
+    "logo": "https://img.sofascore.com/api/v1/team/168088/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/08/2026",
-  "time": "23:00:00",
-  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Cb3RhZm9nby12cy1BdGhsZXRpY28xNzg3NTk5OTgyNTg4.txt",
+  "date": "25/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1TaGFiYWItdnMtQWwtUml5YWRoMTc4NzYzMTY2ODMzNA.txt",
   "links": [
     {
-      "name": "SporTV BR - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIERE BR  - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-      "scheme": 0,
-      "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-      "tokenApi": ""
-    },
-    {
-      "name": "Arena 2",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-135.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

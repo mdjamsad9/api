@@ -1,38 +1,28 @@
 {
   "id": 46,
-  "order_index": 25,
+  "order_index": 27,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Granada",
-    "logo": "https://img.sofascore.com/api/v1/team/33779/image"
+    "name": "Al-Taawoun",
+    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
   },
   "teamB": {
-    "name": "Mallorca",
-    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+    "name": "Al-Fayha",
+    "logo": "https://img.sofascore.com/api/v1/team/168094/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "24/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItR3JhbmFkYS12cy1NYWxsb3JjYTE3ODc1OTc5ODI2NzY.txt",
+  "date": "25/08/2026",
+  "time": "16:10:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1UYWF3b3VuLXZzLUFsLUZheWhhMTc4NzYzMTY2ODMzNA.txt",
   "links": [
     {
-      "name": "LaLiga Hypermotion",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
-    },
-    {
-      "name": "Low Server ",
-      "link": "http://193.47.62.41/hls/eiiiiaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
