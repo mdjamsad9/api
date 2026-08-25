@@ -33,6 +33,22 @@
       "scheme": 0,
       "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
       "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4599560.m3u8?txSecret=5f3f922ce3ec4f6e9a63d7e6ea1500da&txTime=6A8DCC54|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.41/hls/DGPPPAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }
