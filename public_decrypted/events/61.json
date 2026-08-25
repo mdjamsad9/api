@@ -1,24 +1,24 @@
 {
-  "id": 69,
-  "order_index": 50,
+  "id": 61,
+  "order_index": 42,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "teamB": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/08/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1DdWJzMTc4NzY3NzE3MDI2Mg.txt",
+  "date": "25/08/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtQnJld2VyczE3ODc2NzcxNzAyNjE.txt",
   "links": [
     {
       "name": "Link 1",

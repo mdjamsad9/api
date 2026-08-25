@@ -1,0 +1,28 @@
+{
+  "id": 76,
+  "order_index": 57,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+  },
+  "teamA": {
+    "name": "Ind. del Valle",
+    "logo": "https://img.sofascore.com/api/v1/team/39723/image"
+  },
+  "teamB": {
+    "name": "Tolima",
+    "logo": "https://img.sofascore.com/api/v1/team/6111/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUluZC4gZGVsIFZhbGxlLXZzLVRvbGltYTE3ODc2NzcxOTUzMDE.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
