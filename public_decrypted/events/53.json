@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/RUZMIEN1cC1TdG9rZS12cy1IdWxsMTc4NzYzMTY2ODMzNA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "ARENA SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55179/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4613227.m3u8?txSecret=a65ec710a621552dbc7bfb7a0c176970&txTime=6A8DF119|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low Server ",
+      "link": "http://193.47.62.58/hls/GAGAGADDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

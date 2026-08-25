@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/RUZMIEN1cC1JcHN3aWNoLXZzLUxlaWNlc3RlcjE3ODc2MzE2NjgzMzU.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PARAMOUNT+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/6ap8rxv5ud/out/v1/bb5bd0c1d50f435996478f98e966b23b/5c51e3d9-09a4-436b-ab32-706a7d1ce63c-cenc.mpd?aws_sessionId=86582cc5-9f77-4c3c-9e15-2404a4f2cf02",
+      "scheme": 0,
+      "api": "169d6ede239936616d171899f91243d1:ce7e4240210c73066a0009efe770f897",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55176/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4613220.m3u8?txSecret=e9c7e9c1b6c53069e9d927b076efa072&txTime=6A8DF02A|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

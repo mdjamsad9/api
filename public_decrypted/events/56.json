@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/RUZMIEN1cC1TaGVmZmllbGQgV2VkLXZzLVdvbHZlczE3ODc2MzE2NjgzMzU.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "beIN SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55192/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4613224.m3u8?txSecret=a7795e9bfb3bf9495938bf320b869957&txTime=6A8DEFB3|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW QUALITY",
+      "link": "http://193.47.62.58/hls/GAGAGADDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
