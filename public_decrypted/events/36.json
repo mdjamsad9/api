@@ -14,9 +14,9 @@
     "name": "CPL T20",
     "logo": "https://fancode.com/skillup-uploads/prod-images/2024/08/CPL.png"
   },
-  "visible": false,
+  "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
+  "date": "26/08/2026",
   "time": "23:00:00",
   "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBDYXJpYmJlYW4gUHJlbWllciBMZWFndWUgVDIwLUNQTCBUMjAtdnMtQ1BMIFQyMDE3ODc1NjQ5MTQxNTg.txt",
   "links": [

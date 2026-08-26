@@ -21,21 +21,21 @@
   "links_metadata_path": "pro/TGFMaWdhLVJlYWwgTWFkcmlkLXZzLVJlYWwgU29jaWVkYWQxNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
-      "name": "TSN SPORTS",
+      "name": "TSN SPORTS - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
       "tokenApi": ""
     },
     {
-      "name": "PREMIER SPORTS",
+      "name": "PREMIER SPORTS - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
       "tokenApi": ""
     },
     {
-      "name": "SETANTA SPORTS",
+      "name": "SETANTA SPORTS - AQ",
       "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd",
       "scheme": 0,
       "api": "b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0",
@@ -49,7 +49,7 @@
       "tokenApi": ""
     },
     {
-      "name": "CazéTV FHD",
+      "name": "CazéTV  - AQ",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase",
       "scheme": 0,
       "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
