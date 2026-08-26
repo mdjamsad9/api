@@ -21,24 +21,17 @@
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbCBGYWlzYWx5LXZzLUFsLUZhdGVoMTc4NzczOTY0NjIwMg.txt",
   "links": [
     {
-      "name": "Server 1 - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "Cricfy HD",
+      "link": "https://china-sp.pages.dev/fatehh.json?&.m3u8",
       "scheme": 0,
-      "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+      "api": "",
       "tokenApi": ""
     },
     {
-      "name": "Server 2 - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+      "name": "Cricfy live",
+      "link": "https://pull.streamviewk7x.click/livesp/sd-6MwarmBzAZhvf2idpN_hd.m3u8?txSecret=ac9c8f2d60e758c719fe0ea3b65635f8&txTime=6A905F00",
       "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "Server 3 - AQ",
-      "link": "https://live.ftlcbx.com/live/73159884_f290d3bad5fc64b1d6d1d32f4aa0eae3_1080p.m3u8?auth_key=1787688360-0-0-c48ca1a7a5572bd0ab96ceb91f0c95b2",
-      "scheme": 0,
-      "api": "1af079fb8e1d43d890c1d804431ad84c:3dc40bc5aaf09af8b1572646a45b1242",
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -50,7 +43,14 @@
     },
     {
       "name": "Low Server ",
-      "link": "http://193.47.62.41/hls/DGPPPAA.m3u8|Referer=http://www.fawanews.sc/",
+      "link": "http://193.47.62.41/hls/CCCCF.m3u8|Referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3",
+      "link": "https://live.vivo200.com/live/sd-1-4599564.m3u8?txSecret=986987e25da5f7bd988c4127d2d36131&txTime=6A8F2074|Referer=https://player.online909.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
