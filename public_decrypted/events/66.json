@@ -2,30 +2,27 @@
   "id": 66,
   "order_index": 47,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Marlins",
-    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+    "name": "Viking",
+    "logo": "https://img.sofascore.com/api/v1/team/1164/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Dinamo",
+    "logo": "https://img.sofascore.com/api/v1/team/2032/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtUmVkIFNveDE3ODc2NzcxNzAyNjI.txt",
+  "date": "26/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVZpa2luZy12cy1EaW5hbW8xNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/15.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

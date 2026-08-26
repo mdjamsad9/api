@@ -2,51 +2,27 @@
   "id": 49,
   "order_index": 30,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Sabah",
-    "logo": "https://img.sofascore.com/api/v1/team/267828/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "teamB": {
-    "name": "H. Be'er Sheva",
-    "logo": "https://img.sofascore.com/api/v1/team/5202/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "16:45:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVNhYmFoLXZzLUguIEJlJ2VyIFNoZXZhMTc4NzYzMTY2ODMzNA.txt",
+  "date": "26/08/2026",
+  "time": "23:07:00",
+  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1Sb3lhbHMxNzg3NzI0MjQyMTA3.txt",
   "links": [
     {
-      "name": "TNT SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "tokenApi": ""
-    },
-    {
-      "name": "TNT2 SPORTS -AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/hd-en-1-4608840.m3u8?txSecret=6bb1aca125b276c1c107c5ca8902c1de&txTime=6A8DCCAC|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.44/hls/DGPPPAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

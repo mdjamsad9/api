@@ -3,52 +3,26 @@
   "order_index": 38,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Abha",
-    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
+    "name": "Preston",
+    "logo": "https://img.sofascore.com/api/v1/team/21/image"
   },
   "teamB": {
-    "name": "Al-Khaleej",
-    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "16:05:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BYmhhLXZzLUFsLUtoYWxlZWoxNzg3NjMxNjY4MzM1.txt",
+  "date": "26/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1QcmVzdG9uLXZzLUV2ZXJ0b24xNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
-      "name": "FOX SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX DEPORTES - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4599560.m3u8?txSecret=5f3f922ce3ec4f6e9a63d7e6ea1500da&txTime=6A8DCC54|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.41/hls/DGPPPAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

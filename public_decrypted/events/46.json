@@ -2,37 +2,27 @@
   "id": 46,
   "order_index": 27,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Al-Taawoun",
-    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "teamB": {
-    "name": "Al-Fayha",
-    "logo": "https://img.sofascore.com/api/v1/team/168094/image"
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "16:10:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1UYWF3b3VuLXZzLUFsLUZheWhhMTc4NzYzMTY2ODMzNA.txt",
+  "date": "27/08/2026",
+  "time": "01:05:00",
+  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1Ud2luczE3ODc3MjQyNDIxMDc.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4599561.m3u8?txSecret=a2bd86fa4a520e3bc34ad7f063ae8b40&txTime=6A8DCC84|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.41/hls/DGPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

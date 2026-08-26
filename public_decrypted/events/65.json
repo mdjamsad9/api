@@ -2,23 +2,23 @@
   "id": 65,
   "order_index": 46,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Real Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2829/image"
   },
   "teamB": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "Real Sociedad",
+    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
   },
   "visible": true,
   "priority": -1,
   "date": "26/08/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1Ud2luczE3ODc2NzcxNzAyNjI.txt",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLVJlYWwgTWFkcmlkLXZzLVJlYWwgU29jaWVkYWQxNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
       "name": "Link 1",

@@ -2,23 +2,23 @@
   "id": 61,
   "order_index": 42,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Mets",
-    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+    "name": "AEK",
+    "logo": "https://img.sofascore.com/api/v1/team/3250/image"
   },
   "teamB": {
-    "name": "Brewers",
-    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
+    "name": "Levski Sofia",
+    "logo": "https://img.sofascore.com/api/v1/team/3273/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtQnJld2VyczE3ODc2NzcxNzAyNjE.txt",
+  "date": "26/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUFFSy12cy1MZXZza2kgU29maWExNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
       "name": "Link 1",

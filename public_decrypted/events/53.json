@@ -2,44 +2,27 @@
   "id": 53,
   "order_index": 34,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Stoke",
-    "logo": "https://img.sofascore.com/api/v1/team/29/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
   },
   "teamB": {
-    "name": "Hull",
-    "logo": "https://img.sofascore.com/api/v1/team/96/image"
+    "name": "Orioles",
+    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1TdG9rZS12cy1IdWxsMTc4NzYzMTY2ODMzNA.txt",
+  "date": "26/08/2026",
+  "time": "23:45:00",
+  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1PcmlvbGVzMTc4NzcyNDI0MjEwNw.txt",
   "links": [
     {
-      "name": "ARENA SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55179/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4613227.m3u8?txSecret=a65ec710a621552dbc7bfb7a0c176970&txTime=6A8DF119|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Low Server ",
-      "link": "http://193.47.62.58/hls/GAGAGADDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

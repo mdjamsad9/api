@@ -2,44 +2,27 @@
   "id": 52,
   "order_index": 33,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Birmingham",
-    "logo": "https://img.sofascore.com/api/v1/team/9/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "Brentford",
-    "logo": "https://img.sofascore.com/api/v1/team/50/image"
+    "name": "Rays",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1CaXJtaW5naGFtLXZzLUJyZW50Zm9yZDE3ODc2MzE2NjgzMzQ.txt",
+  "date": "26/08/2026",
+  "time": "17:10:00",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1SYXlzMTc4NzcyNDI0MjEwNw.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/pud1akhndv/out/v1/2189b1518ac043849ef7b07b90e11ee3/8c267306-81f0-4f8b-8de1-cbb6e9068d0d-cenc.mpd?aws_sessionId=b73472ad-b753-4e8a-b7bf-df6aabf44c62",
-      "scheme": 0,
-      "api": "7e8efce24bdd83643d5d7141beaa7fb7:6e9e29279aca80a1fa4bf4f80f373a85",
-      "tokenApi": ""
-    },
-    {
-      "name": "ARENA SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55193/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4613210.m3u8?txSecret=8ce27b2fefed48e581132430030af4ab&txTime=6A8DF318|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

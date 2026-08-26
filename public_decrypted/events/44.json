@@ -2,66 +2,27 @@
   "id": 44,
   "order_index": 25,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Al-Ettifaq",
-    "logo": "https://img.sofascore.com/api/v1/team/34318/image"
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
   },
   "teamB": {
-    "name": "Al-Nassr",
-    "logo": "https://img.sofascore.com/api/v1/team/23400/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1FdHRpZmFxLXZzLUFsLU5hc3NyMTc4NzYzMTY2ODMzNA.txt",
+  "date": "26/08/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1Eb2RnZXJzMTc4NzcyNDI0MjEwNw.txt",
   "links": [
     {
-      "name": "FOX SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX DEPORTES - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "SportDigital Fussball - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55190/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4599562.m3u8?txSecret=ed4ee1c239bd9c74a9c20ef9243fb0ee&txTime=6A8DED5B|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.41/hls/FUUUZAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

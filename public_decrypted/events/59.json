@@ -2,30 +2,27 @@
   "id": 59,
   "order_index": 40,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "WNBA",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Mercury",
-    "logo": "https://img.sofascore.com/api/v1/team/3444/image"
+    "name": "Tottenham",
+    "logo": "https://img.sofascore.com/api/v1/team/33/image"
   },
   "teamB": {
-    "name": "Mystics",
-    "logo": "https://img.sofascore.com/api/v1/team/3454/image"
+    "name": "Charlton",
+    "logo": "https://img.sofascore.com/api/v1/team/47/image"
   },
   "visible": true,
   "priority": -1,
   "date": "26/08/2026",
-  "time": "02:00:00",
-  "links_metadata_path": "pro/V05CQS1NZXJjdXJ5LXZzLU15c3RpY3MxNzg3Njc3MDk3Mjc1.txt",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1Ub3R0ZW5oYW0tdnMtQ2hhcmx0b24xNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

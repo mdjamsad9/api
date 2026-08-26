@@ -2,37 +2,27 @@
   "id": 45,
   "order_index": 26,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Watford",
-    "logo": "https://img.sofascore.com/api/v1/team/24/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "teamB": {
-    "name": "Peterborough Utd",
-    "logo": "https://img.sofascore.com/api/v1/team/54/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1XYXRmb3JkLXZzLVBldGVyYm9yb3VnaCBVdGQxNzg3NjMxNjY4MzM0.txt",
+  "date": "26/08/2026",
+  "time": "23:05:00",
+  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtQXN0cm9zMTc4NzcyNDI0MjEwNw.txt",
   "links": [
     {
-      "name": "CBS SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55191/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live",
-      "link": "https://live.vivo200.com/live/sd-1-4613230.m3u8?txSecret=c7d10845d6f6cb3831e478b6bfd2f121&txTime=6A8DF077|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

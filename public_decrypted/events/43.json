@@ -2,44 +2,27 @@
   "id": 43,
   "order_index": 24,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "LaLiga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Valencia",
-    "logo": "https://img.sofascore.com/api/v1/team/2828/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "teamB": {
-    "name": "Real Betis",
-    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/TGFMaWdhLVZhbGVuY2lhLXZzLVJlYWwgQmV0aXMxNzg3NjMxNjY4MzM0.txt",
+  "date": "26/08/2026",
+  "time": "20:10:00",
+  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLVBoaWxsaWVzMTc4NzcyNDI0MjEwNw.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS -AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-      "tokenApi": ""
-    },
-    {
-      "name": "D SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

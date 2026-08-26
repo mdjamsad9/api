@@ -2,23 +2,23 @@
   "id": 60,
   "order_index": 41,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "WNBA",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Wings",
-    "logo": "https://img.sofascore.com/api/v1/team/3450/image"
+    "name": "Celje",
+    "logo": "https://img.sofascore.com/api/v1/team/2413/image"
   },
   "teamB": {
-    "name": "Fire",
-    "logo": "https://img.sofascore.com/api/v1/team/1166446/image"
+    "name": "Slovan",
+    "logo": "https://img.sofascore.com/api/v1/team/2404/image"
   },
   "visible": true,
   "priority": -1,
   "date": "26/08/2026",
-  "time": "00:00:00",
-  "links_metadata_path": "pro/V05CQS1XaW5ncy12cy1GaXJlMTc4NzY3NzA5NzI3NQ.txt",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUNlbGplLXZzLVNsb3ZhbjE3ODc3MjQ1NTk5ODI.txt",
   "links": [
     {
       "name": "Link 1",

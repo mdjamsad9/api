@@ -2,23 +2,23 @@
   "id": 67,
   "order_index": 48,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
   },
   "teamA": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Storm",
+    "logo": "https://img.sofascore.com/api/v1/team/3448/image"
   },
   "teamB": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "Tempo",
+    "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "23:45:00",
-  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1PcmlvbGVzMTc4NzY3NzE3MDI2Mg.txt",
+  "date": "27/08/2026",
+  "time": "02:00:00",
+  "links_metadata_path": "pro/V05CQS1TdG9ybS12cy1UZW1wbzE3ODc3MjUxMDU5MzY.txt",
   "links": [
     {
       "name": "Link 1",

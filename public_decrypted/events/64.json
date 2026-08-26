@@ -2,30 +2,27 @@
   "id": 64,
   "order_index": 45,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "FIFA Intercontinental Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23674/image/dark"
   },
   "teamA": {
-    "name": "Blue Jays",
-    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+    "name": "Al-Ahli",
+    "logo": "https://img.sofascore.com/api/v1/team/34469/image"
   },
   "teamB": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "Auckland FC",
+    "logo": "https://img.sofascore.com/api/v1/team/800224/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "23:07:00",
-  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1Sb3lhbHMxNzg3Njc3MTcwMjYy.txt",
+  "date": "26/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/RklGQSBJbnRlcmNvbnRpbmVudGFsIEN1cC1BbC1BaGxpLXZzLUF1Y2tsYW5kIEZDMTc4NzcyNDU1OTk4Mg.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream5.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
