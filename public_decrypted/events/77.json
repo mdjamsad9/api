@@ -1,0 +1,38 @@
+{
+  "id": 77,
+  "order_index": 40,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Women's Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark"
+  },
+  "teamA": {
+    "name": "Wolfsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/5556/image"
+  },
+  "teamB": {
+    "name": "Inter",
+    "logo": "https://img.sofascore.com/api/v1/team/325685/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/08/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/VUVGQSBXb21lbidzIENoYW1waW9ucyBMZWFndWUtV29sZnNidXJnLXZzLUludGVyMTc4Nzc0ODI5NjY0Mg.txt",
+  "links": [
+    {
+      "name": "Cricfy HD",
+      "link": "https://hls.live123.fans/live/4589298.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD Stream",
+      "link": "http://193.47.62.190/hls/AIIIA.m3u8|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
