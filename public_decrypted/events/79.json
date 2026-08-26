@@ -1,0 +1,38 @@
+{
+  "id": 79,
+  "order_index": 42,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+  },
+  "teamA": {
+    "name": "Rapid",
+    "logo": "https://img.sofascore.com/api/v1/team/2055/image"
+  },
+  "teamB": {
+    "name": "Hearts",
+    "logo": "https://img.sofascore.com/api/v1/team/2353/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "26/08/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1SYXBpZC12cy1IZWFydHMxNzg3NzYyNDc3NjY5.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4608896.m3u8?txSecret=44a09baa81fa6e745ad2e027021b1608&txTime=6A8F2BAC|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.44/hls/GAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}
