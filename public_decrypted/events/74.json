@@ -1,31 +1,28 @@
 {
   "id": 74,
-  "order_index": 55,
+  "order_index": 37,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
   },
   "teamA": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Bayern",
+    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
   },
   "teamB": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "Stuttgart",
+    "logo": "https://img.sofascore.com/api/v1/team/2677/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/08/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLVBoaWxsaWVzMTc4NzY3NzE3MDI2Mg.txt",
+  "date": "28/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1CYXllcm4tdnMtU3R1dHRnYXJ0MTc4Nzc0MDk3MjExMg.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/27.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

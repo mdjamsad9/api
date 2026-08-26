@@ -1,31 +1,28 @@
 {
   "id": 73,
-  "order_index": 54,
+  "order_index": 36,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
   },
   "teamA": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "Dortmund",
+    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "HSV",
+    "logo": "https://img.sofascore.com/api/v1/team/2676/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1Eb2RnZXJzMTc4NzY3NzE3MDI2Mg.txt",
+  "date": "29/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1Eb3J0bXVuZC12cy1IU1YxNzg3NzQwOTcyMTEx.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream6.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

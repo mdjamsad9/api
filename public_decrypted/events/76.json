@@ -1,31 +1,28 @@
 {
   "id": 76,
-  "order_index": 57,
+  "order_index": 39,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "category": "Mixed Martial Arts",
+    "eventName": "UFC",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
   },
   "teamA": {
-    "name": "Ind. del Valle",
-    "logo": "https://img.sofascore.com/api/v1/team/39723/image"
+    "name": "U. Nurmagomedov",
+    "logo": "https://img.sofascore.com/api/v1/team/461384/image"
   },
   "teamB": {
-    "name": "Tolima",
-    "logo": "https://img.sofascore.com/api/v1/team/6111/image"
+    "name": "Y. Song",
+    "logo": "https://img.sofascore.com/api/v1/team/467443/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "26/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUluZC4gZGVsIFZhbGxlLXZzLVRvbGltYTE3ODc2NzcxOTUzMDE.txt",
+  "date": "29/08/2026",
+  "time": "09:00:00",
+  "links_metadata_path": "pro/VUZDLVUuIE51cm1hZ29tZWRvdi12cy1ZLiBTb25nMTc4Nzc0MTE2ODc5NQ.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/11.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

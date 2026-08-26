@@ -1,31 +1,45 @@
 {
   "id": 71,
-  "order_index": 52,
+  "order_index": 34,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Women's Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark"
   },
   "teamA": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "St. Pölten",
+    "logo": "https://img.sofascore.com/api/v1/team/118936/image"
   },
   "teamB": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Juventus",
+    "logo": "https://img.sofascore.com/api/v1/team/269824/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "23:05:00",
-  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtQXN0cm9zMTc4NzY3NzE3MDI2Mg.txt",
+  "date": "26/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/VUVGQSBXb21lbidzIENoYW1waW9ucyBMZWFndWUtU3QuIFDDtmx0ZW4tdnMtSnV2ZW50dXMxNzg3NzQwMzA0MDUx.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "ORF eins",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-2.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Canal+ Extra 4 Poland",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-986.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Sky Sport Austria 1",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-559.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }
