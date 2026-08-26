@@ -14,7 +14,7 @@
     "name": "ATP",
     "logo": "https://img.sofascore.com/api/v1/category/6/image"
   },
-  "visible": true,
+  "visible": false,
   "priority": -1,
   "date": "25/08/2026",
   "time": "18:00:00",
