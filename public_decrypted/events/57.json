@@ -21,10 +21,59 @@
   "links_metadata_path": "pro/RUZMIEN1cC1QcmVzdG9uLXZzLUV2ZXJ0b24xNzg3NzI0NTU5OTgy.txt",
   "links": [
     {
+      "name": "PARAMOUNT+  - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3btctczkei/out/v1/f93d41d0698a41e791fd12d0ffd46c3c/cfb4bf17-8928-4c72-aacb-0a39e374deb9-cenc.mpd?aws_sessionId=44d1b21d-3641-4ada-a431-9ff7d9afda57",
+      "scheme": 0,
+      "api": "8898c518d168c57db8e6dbb40084a38d:c4f09608112325d12691f86d0996cfa8",
+      "tokenApi": ""
+    },
+    {
       "name": "beIN ENGLISH FHD",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
       "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY FOOTBALL",
+      "link": "https://chatgpt.hereisman.net/playlist/55243/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4613223.m3u8?txSecret=b6157c06e70353a646654945baafcdf4&txTime=6A8F46E0|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://edgestream6.pro/hls/nbekiurtghjhfza83.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW Server ",
+      "link": "http://193.47.62.41/hls/geeeQQQ.m3u8|Referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORTSCAST HD",
+      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/6567dba9-2044-4a5b-9779-8405ea3cca07/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55243/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     }
   ]
