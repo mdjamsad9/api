@@ -22,9 +22,9 @@
   "links": [
     {
       "name": "WILLOW HD - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tp4gtrjgyz/out/v1/3dce53aae026463d9f18251a046ef2c4/cenc.mpd",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
       "scheme": 0,
-      "api": "d71892cc919d77335b73d1e5861d1f84:9d11c1065a6b99dbcfbd981ddf4a12d1",
+      "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
       "tokenApi": ""
     },
     {
@@ -35,10 +35,10 @@
       "tokenApi": ""
     },
     {
-      "name": "WILLOW HD",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+      "name": "Cricfy Live",
+      "link": "https://ml-pull-hwc.myco.io/PTPL2025/hls/index.m3u8",
       "scheme": 0,
-      "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -51,6 +51,13 @@
     {
       "name": "FANCODE (IND)",
       "link": "https://in-mc-flive.fancode.com/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787806268~_GO=Generated~acl=/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/*~Signature=ARB3KG28LEUcaZYVqxtsLOhtMAoMYPNaCHxieJnckN28ngwdIRo64nayBKdpOsZj91phb7SgW0Xim-iIUWuXtVg70BkP|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/Tet20c-avod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDEyOjU5OjQ5IEFNJmhhc2hfdmFsdWU9L205OHZPTlF4UFZtNnJuZUNHemY2Zz09JnZhbGlkbWludXRlcz02MA==",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
