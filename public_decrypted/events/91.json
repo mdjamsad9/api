@@ -1,0 +1,38 @@
+{
+  "id": 91,
+  "order_index": 54,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Barcelona",
+    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+  },
+  "teamB": {
+    "name": "Athletic Club",
+    "logo": "https://img.sofascore.com/api/v1/team/2825/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "27/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLUJhcmNlbG9uYS12cy1BdGhsZXRpYyBDbHViMTc4NzgxNDIwNTQxMw.txt",
+  "links": [
+    {
+      "name": "beIN Sport EN",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-61.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "DAZN LaLiga",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-538.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 103,
+  "order_index": 66,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+  },
+  "teamB": {
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "27/08/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1Eb2RnZXJzMTc4NzgxODI4OTQyMQ.txt",
+  "links": [
+    {
+      "name": "MLB Pass",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-9.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "TNT Sports 1 UK",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-31.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

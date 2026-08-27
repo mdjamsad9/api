@@ -1,0 +1,38 @@
+{
+  "id": 92,
+  "order_index": 55,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "UEFA Conference League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+  },
+  "teamA": {
+    "name": "Freiburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2538/image"
+  },
+  "teamB": {
+    "name": "Motherwell",
+    "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "27/08/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1GcmVpYnVyZy12cy1Nb3RoZXJ3ZWxsMTc4NzgxNDIwNTQxMw.txt",
+  "links": [
+    {
+      "name": "Premier Sports 1",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-771.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Viaplay Sports 1 UK",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-451.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

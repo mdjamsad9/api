@@ -2,58 +2,86 @@
   "id": 80,
   "order_index": 43,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Copa Betano do Brasil",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC World Test Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
   },
   "teamA": {
-    "name": "Palmeiras",
-    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+    "name": "ENG",
+    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
   },
   "teamB": {
-    "name": "Santos",
-    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
+    "name": "PAK",
+    "logo": "https://img.sofascore.com/api/v1/team/187754/image"
   },
   "visible": true,
   "priority": -1,
   "date": "27/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q29wYSBCZXRhbm8gZG8gQnJhc2lsLVBhbG1laXJhcy12cy1TYW50b3MxNzg3NzgyNTkwMzMz.txt",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUVORy12cy1QQUsxNzg3ODE0MTYxMzI0.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+      "name": "WILLOW - FHD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+      "api": "29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8",
       "tokenApi": ""
     },
     {
       "name": "Cricfy HD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
       "scheme": 0,
-      "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+      "api": "",
       "tokenApi": ""
     },
     {
-      "name": "DSports 2 ",
-      "link": "",
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd",
       "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-620.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "api": "29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8",
+      "tokenApi": ""
     },
     {
-      "name": "Premiere BR",
-      "link": "",
+      "name": "TAPMAD - FHD",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-88.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     },
     {
-      "name": "Viaplay Sports 2 ",
-      "link": "",
+      "name": "Cricfy Live",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-550.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TEN SPORTS HD",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000376/criclive1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b043eacd29e24116a4f97e19d5db6fdc-1787131803231",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.194/hls/QQQQ.m3u8?|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

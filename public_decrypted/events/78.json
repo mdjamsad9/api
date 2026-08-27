@@ -17,7 +17,7 @@
   "visible": true,
   "priority": -1,
   "date": "27/08/2026",
-  "time": "09:30:00",
+  "time": "13:30:00",
   "links_metadata_path": "pro/RXVyb3BlYW4gVDIwIFByZW1pZXIgTGVhZ3VlLUV1cm9wZWFuIFQyMCBMZWFndWUtdnMtRXVyb3BlYW4gVDIwIExlYWd1ZTE3ODc3NTcyNDk4NjY.txt",
   "links": [
     {
@@ -29,16 +29,16 @@
     },
     {
       "name": "WILLOW  - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ighkdpjsp/out/v1/f6afa868cfe24315a66405aa3f10ccde/cenc.mpd",
       "scheme": 0,
-      "api": "68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b",
+      "api": "fdecc745b15f34a3cef3a0933ea66997:6d2c94d90a9ce4888735f1e0f6a04d33",
       "tokenApi": ""
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ighkdpjsp/out/v1/f6afa868cfe24315a66405aa3f10ccde/cenc.mpd",
       "scheme": 0,
-      "api": "b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097",
+      "api": "fdecc745b15f34a3cef3a0933ea66997:6d2c94d90a9ce4888735f1e0f6a04d33",
       "tokenApi": ""
     },
     {

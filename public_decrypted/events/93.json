@@ -1,0 +1,38 @@
+{
+  "id": 93,
+  "order_index": 56,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Fulham",
+    "logo": "https://img.sofascore.com/api/v1/team/43/image"
+  },
+  "teamB": {
+    "name": "Wimbledon",
+    "logo": "https://img.sofascore.com/api/v1/team/23957/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "27/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1GdWxoYW0tdnMtV2ltYmxlZG9uMTc4NzgxNDIwNTQxMw.txt",
+  "links": [
+    {
+      "name": "beIN Sports MENA 4",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-94.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "V Sport Premium",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-572.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

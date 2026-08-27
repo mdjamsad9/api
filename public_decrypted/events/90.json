@@ -1,0 +1,38 @@
+{
+  "id": 90,
+  "order_index": 53,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+  },
+  "teamA": {
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
+  },
+  "teamB": {
+    "name": "Luton",
+    "logo": "https://img.sofascore.com/api/v1/team/72/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "27/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1DaGVsc2VhLXZzLUx1dG9uMTc4NzgxNDIwNTQxMw.txt",
+  "links": [
+    {
+      "name": "Arabic",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-93.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "ESPN Brazil",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-81.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}
