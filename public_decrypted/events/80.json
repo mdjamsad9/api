@@ -16,15 +16,22 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
+  "date": "28/08/2026",
   "time": "10:00:00",
   "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUVORy12cy1QQUsxNzg3ODE0MTYxMzI0.txt",
   "links": [
     {
       "name": "WILLOW - FHD",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd",
       "scheme": 0,
-      "api": "29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8",
+      "api": "efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - FHD",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
+      "scheme": 0,
+      "api": "",
       "tokenApi": ""
     },
     {
@@ -36,16 +43,9 @@
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bgaa4dgisl/out/v1/3266dcf325074b0082099977768f1e7a/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd",
       "scheme": 0,
-      "api": "29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - FHD",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
-      "scheme": 0,
-      "api": "",
+      "api": "efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020",
       "tokenApi": ""
     },
     {

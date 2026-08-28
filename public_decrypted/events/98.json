@@ -2,45 +2,27 @@
   "id": 98,
   "order_index": 61,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Mets",
-    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+    "name": "Al-Khaleej",
+    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
   },
   "teamB": {
-    "name": "Brewers",
-    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
+    "name": "Al-Hilal",
+    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtQnJld2VyczE3ODc4MTgyODk0MjE.txt",
+  "date": "28/08/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1LaGFsZWVqLXZzLUFsLUhpbGFsMTc4NzkwMDExOTc1Ng.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "MLB Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-8.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "SportsNet US",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-759.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

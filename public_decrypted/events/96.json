@@ -3,36 +3,26 @@
   "order_index": 59,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
   },
   "teamA": {
-    "name": "Hibernian",
-    "logo": "https://img.sofascore.com/api/v1/team/2354/image"
+    "name": "Bayern",
+    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
   },
   "teamB": {
-    "name": "Gent",
-    "logo": "https://img.sofascore.com/api/v1/team/2903/image"
+    "name": "Stuttgart",
+    "logo": "https://img.sofascore.com/api/v1/team/2677/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1IaWJlcm5pYW4tdnMtR2VudDE3ODc4MTQyMDU0MTM.txt",
+  "date": "28/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1CYXllcm4tdnMtU3R1dHRnYXJ0MTc4NzkwMDExOTc1Ng.txt",
   "links": [
     {
-      "name": "Arena Sport 5 Serbia",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-940.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Paramount+",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-174.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -3,43 +3,26 @@
   "order_index": 45,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Rijeka",
-    "logo": "https://img.sofascore.com/api/v1/team/2039/image"
+    "name": "Crystal Palace",
+    "logo": "https://img.sofascore.com/api/v1/team/7/image"
   },
   "teamB": {
-    "name": "Midtjylland",
-    "logo": "https://img.sofascore.com/api/v1/team/1289/image"
+    "name": "Man City",
+    "logo": "https://img.sofascore.com/api/v1/team/17/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1SaWpla2EtdnMtTWlkdGp5bGxhbmQxNzg3ODE0MjA1NDEy.txt",
+  "date": "28/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQ3J5c3RhbCBQYWxhY2UtdnMtTWFuIENpdHkxNzg3OTAwMTE5NzU2.txt",
   "links": [
     {
-      "name": "Kanal 1 Sport",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-19.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "MAX Sport 1 Croatia",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-779.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Paramount+",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-171.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

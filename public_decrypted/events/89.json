@@ -3,36 +3,26 @@
   "order_index": 52,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Partizan",
-    "logo": "https://img.sofascore.com/api/v1/team/5152/image"
+    "name": "Rio Ave",
+    "logo": "https://img.sofascore.com/api/v1/team/3036/image"
   },
   "teamB": {
-    "name": "Getafe",
-    "logo": "https://img.sofascore.com/api/v1/team/2859/image"
+    "name": "Sporting",
+    "logo": "https://img.sofascore.com/api/v1/team/3001/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1QYXJ0aXphbi12cy1HZXRhZmUxNzg3ODE0MjA1NDEz.txt",
+  "date": "28/08/2026",
+  "time": "19:15:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLVJpbyBBdmUtdnMtU3BvcnRpbmcxNzg3OTAwMTE5NzU2.txt",
   "links": [
     {
-      "name": "Arena 1 Premium",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-134.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "RTS 2 Serbia",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-18.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

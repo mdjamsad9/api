@@ -3,43 +3,50 @@
   "order_index": 51,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Brighton",
-    "logo": "https://img.sofascore.com/api/v1/team/30/image"
+    "name": "Bochum",
+    "logo": "https://img.sofascore.com/api/v1/team/2542/image"
   },
   "teamB": {
-    "name": "Tromsø",
-    "logo": "https://img.sofascore.com/api/v1/team/660/image"
+    "name": "Osnabrück",
+    "logo": "https://img.sofascore.com/api/v1/team/2581/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1CcmlnaHRvbi12cy1Ucm9tc8O4MTc4NzgxNDIwNTQxMw.txt",
+  "date": "28/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Cb2NodW0tdnMtT3NuYWJyw7xjazE3ODc5MDAxMTk3NTY.txt",
   "links": [
     {
-      "name": "Arena Sport",
+      "name": "beIN Sports 3",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-941.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-714.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "Paramount+",
+      "name": "Eleven Spl",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-170.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-999.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "Polsat Sport",
+      "name": "ESPN",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-994.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-55.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Sk Bundesliga",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-947.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

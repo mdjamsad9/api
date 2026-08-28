@@ -3,50 +3,26 @@
   "order_index": 44,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Celta",
-    "logo": "https://img.sofascore.com/api/v1/team/2821/image"
+    "name": "Liverpool",
+    "logo": "https://img.sofascore.com/api/v1/team/44/image"
   },
   "teamB": {
-    "name": "Osasuna",
-    "logo": "https://img.sofascore.com/api/v1/team/2820/image"
+    "name": "Forest",
+    "logo": "https://img.sofascore.com/api/v1/team/14/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/TGFMaWdhLUNlbHRhLXZzLU9zYXN1bmExNzg3ODE0MjA1NDEy.txt",
+  "date": "29/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTGl2ZXJwb29sLXZzLUZvcmVzdDE3ODc5MDAxMTk3NTY.txt",
   "links": [
     {
-      "name": "D Sports FHD",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN DEPORTES",
-      "link": "https://chatgpt.hereisman.net/playlist/55313/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Arabic",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-92.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "M+ LALIGA TV",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-84.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,51 +2,27 @@
   "id": 101,
   "order_index": 64,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Dream",
+    "logo": "https://img.sofascore.com/api/v1/team/35545/image"
   },
   "teamB": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Fire",
+    "logo": "https://img.sofascore.com/api/v1/team/1166446/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "17:05:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1Sb2NraWVzMTc4NzgxODI4OTQyMQ.txt",
+  "date": "28/08/2026",
+  "time": "23:30:00",
+  "links_metadata_path": "pro/V05CQS1EcmVhbS12cy1GaXJlMTc4NzkxMTY0MzUyOA.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/55304/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "MLB Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-12.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "MLB Network",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-399.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

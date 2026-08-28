@@ -3,50 +3,26 @@
   "order_index": 47,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Ferencváros",
-    "logo": "https://img.sofascore.com/api/v1/team/1925/image"
+    "name": "Gençlerbirliği",
+    "logo": "https://img.sofascore.com/api/v1/team/7802/image"
   },
   "teamB": {
-    "name": "Trabzonspor",
-    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
+    "name": "Erzurumspor",
+    "logo": "https://img.sofascore.com/api/v1/team/55603/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
+  "date": "28/08/2026",
   "time": "18:30:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUZlcmVuY3bDoXJvcy12cy1UcmFiem9uc3BvcjE3ODc4MTQyMDU0MTM.txt",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HZW7Dp2xlcmJpcmxpxJ9pLXZzLUVyenVydW1zcG9yMTc4NzkwMDExOTc1Ng.txt",
   "links": [
     {
-      "name": "5 Plus Israel",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-145.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Arena 2 Premium",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-135.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "M4 Sports",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-265.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Paramount+",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-110.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

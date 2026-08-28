@@ -2,23 +2,23 @@
   "id": 104,
   "order_index": 67,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "CFL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
   },
   "teamA": {
-    "name": "Winnipeg",
-    "logo": "https://img.sofascore.com/api/v1/team/4435/image"
+    "name": "Aces",
+    "logo": "https://img.sofascore.com/api/v1/team/35550/image"
   },
   "teamB": {
-    "name": "Montréal",
-    "logo": "https://img.sofascore.com/api/v1/team/4439/image"
+    "name": "Tempo",
+    "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
   },
   "visible": true,
   "priority": -1,
   "date": "29/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q0ZMLVdpbm5pcGVnLXZzLU1vbnRyw6lhbDE3ODc4NjA3NDc3NDM.txt",
+  "time": "02:00:00",
+  "links_metadata_path": "pro/V05CQS1BY2VzLXZzLVRlbXBvMTc4NzkxMTY0MzUyOA.txt",
   "links": [
     {
       "name": "Link 1",

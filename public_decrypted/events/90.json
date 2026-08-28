@@ -3,74 +3,43 @@
   "order_index": 53,
   "eventDetails": {
     "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Chelsea",
-    "logo": "https://img.sofascore.com/api/v1/team/38/image"
+    "name": "Braunschweig",
+    "logo": "https://img.sofascore.com/api/v1/team/2557/image"
   },
   "teamB": {
-    "name": "Luton",
-    "logo": "https://img.sofascore.com/api/v1/team/72/image"
+    "name": "Hertha",
+    "logo": "https://img.sofascore.com/api/v1/team/2528/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1DaGVsc2VhLXZzLUx1dG9uMTc4NzgxNDIwNTQxMw.txt",
+  "date": "28/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1CcmF1bnNjaHdlaWctdnMtSGVydGhhMTc4NzkwMDExOTc1Ng.txt",
   "links": [
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "Setanta Sports",
-      "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd",
-      "scheme": 0,
-      "api": "60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c",
-      "tokenApi": ""
-    },
-    {
-      "name": "Arabic",
+      "name": "Sky Sport Bundesliga 4",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-93.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-948.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     },
     {
-      "name": "ESPN Brazil",
+      "name": "Sportklub 1 Croatia",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-81.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-101.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     },
     {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4613216.m3u8?txSecret=ca1265b654ab0acaec478c19812baf82&txTime=6A909297|Referer=https://player.online909.com/",
+      "name": "DAZN Eleven 2",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "beIN SPORTS AR",
-      "link": "https://letsstream102.top/stream/stream14/playlist.m3u8?|Referer=https://letsstream102.top/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.48/hls/SAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-456.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

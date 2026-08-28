@@ -3,36 +3,26 @@
   "order_index": 49,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "eventName": "Liga MX, Apertura",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
   },
   "teamA": {
-    "name": "Kauno Žalgiris",
-    "logo": "https://img.sofascore.com/api/v1/team/80741/image"
+    "name": "Necaxa",
+    "logo": "https://img.sofascore.com/api/v1/team/1944/image"
   },
   "teamB": {
-    "name": "Beşiktaş",
-    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+    "name": "Cruz Azul",
+    "logo": "https://img.sofascore.com/api/v1/team/1947/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUthdW5vIMW9YWxnaXJpcy12cy1CZcWfaWt0YcWfMTc4NzgxNDIwNTQxMw.txt",
+  "date": "29/08/2026",
+  "time": "01:00:00",
+  "links_metadata_path": "pro/TGlnYSBNWCwgQXBlcnR1cmEtTmVjYXhhLXZzLUNydXogQXp1bDE3ODc5MDAxMTk3NTY.txt",
   "links": [
     {
-      "name": "SPORT1+ DE",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-640.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Sportdigital",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-571.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
