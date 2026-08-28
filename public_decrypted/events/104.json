@@ -2,30 +2,27 @@
   "id": 104,
   "order_index": 67,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "FIBA World Cup Qualification, Africa",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/10460/image/dark"
+    "category": "American football",
+    "eventName": "CFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
   },
   "teamA": {
-    "name": "Guinea",
-    "logo": "https://img.sofascore.com/api/v1/team/264888/image"
+    "name": "Winnipeg",
+    "logo": "https://img.sofascore.com/api/v1/team/4435/image"
   },
   "teamB": {
-    "name": "South Sudan",
-    "logo": "https://img.sofascore.com/api/v1/team/338702/image"
+    "name": "Montréal",
+    "logo": "https://img.sofascore.com/api/v1/team/4439/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/RklCQSBXb3JsZCBDdXAgUXVhbGlmaWNhdGlvbiwgQWZyaWNhLUd1aW5lYS12cy1Tb3V0aCBTdWRhbjE3ODc4MzI2NjQ1NDg.txt",
+  "date": "29/08/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q0ZMLVdpbm5pcGVnLXZzLU1vbnRyw6lhbDE3ODc4NjA3NDc3NDM.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/fiba\\/2026-08-27\\/gin-ssd\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

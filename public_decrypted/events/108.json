@@ -1,0 +1,38 @@
+{
+  "id": 108,
+  "order_index": 71,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Raiders",
+    "logo": "https://img.sofascore.com/api/v1/team/4390/image"
+  },
+  "teamB": {
+    "name": "49ers",
+    "logo": "https://img.sofascore.com/api/v1/team/4389/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "28/08/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1SYWlkZXJzLXZzLTQ5ZXJzMTc4Nzg2MDc0Nzc0Mw.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream6.pro/hls/qsdnajbq32.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "NFL LIVE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/nfl\\/2026-08-27\\/sf-lv\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}
