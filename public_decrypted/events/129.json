@@ -1,0 +1,45 @@
+{
+  "id": 129,
+  "order_index": 92,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Cowboys",
+    "logo": "https://img.sofascore.com/api/v1/team/4392/image"
+  },
+  "teamB": {
+    "name": "Saints",
+    "logo": "https://img.sofascore.com/api/v1/team/4425/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1Db3dib3lzLXZzLVNhaW50czE3ODc5NDYzNTY0NjM.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream4.pro/hls/yetehznecs37.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN Sports",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-116.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "NFL Sunday",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-1.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

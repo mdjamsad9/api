@@ -1,0 +1,39 @@
+{
+  "id": 117,
+  "order_index": 80,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+  },
+  "teamB": {
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "28/08/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtUmVkIFNveDE3ODc5MjQ2NTg5OTE.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream4.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Cricfy MLB",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/21.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

@@ -16,29 +16,29 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "28/08/2026",
-  "time": "13:15:00",
+  "date": "29/08/2026",
+  "time": "09:30:00",
   "links_metadata_path": "pro/RXVyb3BlYW4gVDIwIFByZW1pZXIgTGVhZ3VlLUV1cm9wZWFuIFQyMCBMZWFndWUtdnMtRXVyb3BlYW4gVDIwIExlYWd1ZTE3ODc3NTcyNDk4NjY.txt",
   "links": [
     {
       "name": "TNT SPORTS  - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "api": "4404976bc861c8adce475c9533921cf3:d1fdc818c29f3c6aa020a4d0eb803957",
       "tokenApi": ""
     },
     {
       "name": "WILLOW  - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ighkdpjsp/out/v1/f6afa868cfe24315a66405aa3f10ccde/cenc.mpd",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/izext8tcfg/out/v1/e98816d3674c46e1906954bc1cee578e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "fdecc745b15f34a3cef3a0933ea66997:6d2c94d90a9ce4888735f1e0f6a04d33",
+      "api": "4404976bc861c8adce475c9533921cf3:d1fdc818c29f3c6aa020a4d0eb803957",
       "tokenApi": ""
     },
     {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ighkdpjsp/out/v1/f6afa868cfe24315a66405aa3f10ccde/cenc.mpd",
+      "name": "WILLOW HD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
       "scheme": 0,
-      "api": "fdecc745b15f34a3cef3a0933ea66997:6d2c94d90a9ce4888735f1e0f6a04d33",
+      "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
       "tokenApi": ""
     },
     {
@@ -56,11 +56,11 @@
       "tokenApi": ""
     },
     {
-      "name": "WILLOW HD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+      "name": "Server 1",
+      "link": "",
       "scheme": 0,
-      "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "tokenApi": ""
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-598.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

@@ -1,0 +1,59 @@
+{
+  "id": 132,
+  "order_index": 95,
+  "eventDetails": {
+    "category": "Mixed Martial Arts",
+    "eventName": "UFC",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
+  },
+  "teamA": {
+    "name": "U. Nurmagomedov",
+    "logo": "https://img.sofascore.com/api/v1/team/461384/image"
+  },
+  "teamB": {
+    "name": "Y. Song",
+    "logo": "https://img.sofascore.com/api/v1/team/467443/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "08:01:00",
+  "links_metadata_path": "pro/VUZDLVUuIE51cm1hZ29tZWRvdi12cy1ZLiBTb25nMTc4Nzk0OTMyMDk4MA.txt",
+  "links": [
+    {
+      "name": "PARAMOUNT - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkxkbfrgfk/out/v1/ea1c17d66e464c6fad76dbdc1962acd9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "eed810fa03bb3e03704710ad05d43715:28422d32ffd865b75337869a4b57a363",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT Sports  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ ES  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7pyfy3ufvi/out/v1/88a28de045f04556bd1edebb3fe43ae5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "469741c2c07679d183dfbaf951d157b3:d6d1f126f6c07a0aa1e7a5f80941605c",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ PT - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k5ygzoxgsd/out/v1/143ac281ec08447cbdcc1c6a42556d86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "7e0265c9734e49993b16af58ef1509fd:11cc3112fa46245a27090f9f1d8dd1a1",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream1.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

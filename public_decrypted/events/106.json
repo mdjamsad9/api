@@ -2,37 +2,79 @@
   "id": 106,
   "order_index": 69,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "NFL Preseason",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
   },
   "teamA": {
-    "name": "Bills",
-    "logo": "https://img.sofascore.com/api/v1/team/4414/image"
+    "name": "TKR",
+    "logo": "https://img.sofascore.com/api/v1/team/187824/image"
   },
   "teamB": {
-    "name": "Steelers",
-    "logo": "https://img.sofascore.com/api/v1/team/4345/image"
+    "name": "BT",
+    "logo": "https://img.sofascore.com/api/v1/team/187795/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "27/08/2026",
-  "time": "23:00:00",
-  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1CaWxscy12cy1TdGVlbGVyczE3ODc4NjA3NDc3NDM.txt",
+  "date": "29/08/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLVRLUi12cy1CVDE3ODc5MjM2NjQ4MDk.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "TNT SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD  - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "NFL LIVE",
+      "name": "WILLOW HD",
+      "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Astro Cricket",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/nfl\\/2026-08-27\\/pit-buf\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-370.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-590.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "TNT Sports",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-32.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Willow Cricket",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-346.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "FOX CRICKET",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

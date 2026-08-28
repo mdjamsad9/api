@@ -1,0 +1,39 @@
+{
+  "id": 111,
+  "order_index": 74,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+  },
+  "teamB": {
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "28/08/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtQXN0cm9zMTc4NzkyNDY1ODk5MQ.txt",
+  "links": [
+    {
+      "name": "MLB League Pass",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-13.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    }
+  ]
+}

@@ -16,7 +16,7 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "28/08/2026",
+  "date": "29/08/2026",
   "time": "00:30:00",
   "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBUb3AgRW5kIFQyMCBTZXJpZXMtVE9QIEVORCBUMjAtdnMtVE9QIEVORCBUMjAxNzg3NTY0ODM0NjMx.txt",
   "links": [
@@ -28,22 +28,15 @@
       "tokenApi": ""
     },
     {
-      "name": "WILLOW ALT - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/waxqcv31jc/out/v1/3d3aac5c9c1d431ea732ec5f0c27e946/cenc.mpd",
-      "scheme": 0,
-      "api": "21e0d81d4f594a530df0ac04fff18f8e:cf4937be963ccf0ac5a101af13df4a3f",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live",
-      "link": "https://ml-pull-hwc.myco.io/PTPL2025/hls/index.m3u8",
+      "name": "T SPORTS HD",
+      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "T SPORTS HD",
-      "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+      "name": "T SPORTS",
+      "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -51,13 +44,6 @@
     {
       "name": "FANCODE (IND)",
       "link": "https://in-mc-flive.fancode.com/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787806268~_GO=Generated~acl=/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/*~Signature=ARB3KG28LEUcaZYVqxtsLOhtMAoMYPNaCHxieJnckN28ngwdIRo64nayBKdpOsZj91phb7SgW0Xim-iIUWuXtVg70BkP|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy HD",
-      "link": "https://cdn04khi-n.tamashaweb.com:8087/jazzauth/Tet20c-avod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI2IDEyOjU5OjQ5IEFNJmhhc2hfdmFsdWU9L205OHZPTlF4UFZtNnJuZUNHemY2Zz09JnZhbGlkbWludXRlcz02MA==",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

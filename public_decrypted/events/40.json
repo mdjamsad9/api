@@ -14,10 +14,10 @@
     "name": "ATP",
     "logo": "https://img.sofascore.com/api/v1/category/6/image"
   },
-  "visible": false,
+  "visible": true,
   "priority": -1,
-  "date": "25/08/2026",
-  "time": "18:00:00",
+  "date": "28/08/2026",
+  "time": "20:00:00",
   "links_metadata_path": "pro/VGVubmlzIHwgQVRQICYgV1RBIFRFTk5JUy1BVFAtdnMtQVRQMTc4NzU2NTcwMTM1Ng.txt",
   "links": [
     {
