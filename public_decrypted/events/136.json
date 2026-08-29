@@ -28,6 +28,22 @@
       "tokenApi": ""
     },
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550854.m3u8?txSecret=ac7c1a3b13a58f34d0d2777477f64baa&txTime=6A933B7F|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "SD SERVER",
+      "link": "http://193.47.62.50/hls/CACACAQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "beIN Sports AR",
       "link": "",
       "scheme": 0,

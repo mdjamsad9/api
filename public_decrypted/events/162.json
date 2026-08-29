@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/TGFMaWdhLVNldmlsbGEtdnMtQXRsLiBNYWRyaWQxNzg3OTk4MDg5MTQ4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "beIN ENGLISH",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+      "tokenApi": ""
+    },
+    {
+      "name": "SETANTA SPORTS",
+      "link": "https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd",
+      "scheme": 0,
+      "api": "60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c",
+      "tokenApi": ""
+    },
+    {
+      "name": "CAZE TV FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+      "tokenApi": ""
+    },
+    {
+      "name": "FANCODE",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+      "scheme": 0,
+      "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPN DEPORTES",
+      "link": "https://chatgpt.hereisman.net/playlist/55476/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

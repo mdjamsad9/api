@@ -21,8 +21,8 @@
   "links_metadata_path": "pro/TGlndWUgMS1Mb3JpZW50LXZzLVRyb3llczE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
-      "name": "Low Server ",
-      "link": "http://193.47.62.50/hls/CACACAQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550853.m3u8?txSecret=a45e301a1f3e7deb9a85381f47a2a4d6&txTime=6A933BC6|Referer=https://player.online909.com/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -30,6 +30,20 @@
     {
       "name": "Ligue1+ HD",
       "link": "https://edgestream6.pro/hls/sdghjvqazhvg80.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Arabic",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-95.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low Server ",
+      "link": "http://193.47.62.50/hls/CACACAQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

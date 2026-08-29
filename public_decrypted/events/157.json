@@ -21,6 +21,14 @@
   "links_metadata_path": "pro/TGlndWUgMS1BdXhlcnJlLXZzLUFuZ2VyczE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550851.m3u8?txSecret=f752cec9a119e1b0b291f973c8190b37&txTime=6A933BE2|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Ligue1+ HD",
       "link": "https://edgestream5.pro/hls/iozauyezaioyur82.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
@@ -33,6 +41,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": ""
+    },
+    {
+      "name": "Arabic",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-92.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

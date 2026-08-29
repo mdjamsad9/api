@@ -21,6 +21,14 @@
   "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtUEVDIFp3b2xsZS12cy1ORUMxNzg3OTk4MDg5MTQ5.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4552177.m3u8?txSecret=8ce70b302e1fcb131cc9390f47f7d0ef&txTime=6A933CC7|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "ESPN 1 ",
       "link": "",
       "scheme": 0,
