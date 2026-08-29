@@ -1,6 +1,6 @@
 {
   "id": 175,
-  "order_index": 138,
+  "order_index": 49,
   "eventDetails": {
     "category": "Football",
     "eventName": "Championship",
@@ -21,8 +21,27 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVNvdXRoYW1wdG9uLXZzLU1pbGx3YWxsMTc4Nzk5ODA4OTE0OQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4563534.m3u8?txSecret=b148c6be339003a829a8f6e6db4fe12d&txTime=6A92F532|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Sky Sports+",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-152.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.53/hls/KHHHAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }

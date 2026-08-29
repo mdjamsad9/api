@@ -1,6 +1,6 @@
 {
   "id": 151,
-  "order_index": 114,
+  "order_index": 26,
   "eventDetails": {
     "category": "Football",
     "eventName": "Bundesliga",
@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/QnVuZGVzbGlnYS1NYWlueiAwNS12cy1QYWRlcmJvcm4xNzg3OTk4MDg5MTQ4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy Bundesliga",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/bundesliga\\/2026-08-29\\/m05-scp\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW",
+      "link": "http://193.47.62.44/hls/UJJJAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

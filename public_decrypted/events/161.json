@@ -1,6 +1,6 @@
 {
   "id": 161,
-  "order_index": 124,
+  "order_index": 35,
   "eventDetails": {
     "category": "Football",
     "eventName": "Premier League",
@@ -21,8 +21,60 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQ292ZW50cnktdnMtSHVsbDE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FUBO SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jdkkianlp9/out/v1/af017ada0ebd4d5a9f7396ab4a4d85d1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "b9cdb3502c0e2d35a4212379712acf14:392b5077994ce90c4c5c14587d4db782",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sportscast RU",
+      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/77d11075-26f6-49aa-a68c-4997ae763f19/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55436/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4558490.m3u8?txSecret=dc6e40764c343c5811cd45459a8f7bf4&txTime=6A92F472|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Arabic",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-92.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "NBC UNIVERSO",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-845.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "USA",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/10.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.58/hls/YIIIAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

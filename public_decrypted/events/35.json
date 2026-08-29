@@ -1,6 +1,6 @@
 {
   "id": 35,
-  "order_index": 1,
+  "order_index": 2,
   "eventDetails": {
     "category": "Cricket",
     "eventName": "Live Events | Top End T20 Series",
@@ -16,8 +16,8 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "07:30:00",
+  "date": "30/08/2026",
+  "time": "00:30:00",
   "links_metadata_path": "pro/TGl2ZSBFdmVudHMgfCBUb3AgRW5kIFQyMCBTZXJpZXMtVE9QIEVORCBUMjAtdnMtVE9QIEVORCBUMjAxNzg3NTY0ODM0NjMx.txt",
   "links": [
     {

@@ -1,6 +1,6 @@
 {
   "id": 155,
-  "order_index": 118,
+  "order_index": 30,
   "eventDetails": {
     "category": "Football",
     "eventName": "Liga Portugal Betclic",
@@ -21,8 +21,26 @@
   "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUFyb3VjYS12cy1NYXLDrXRpbW8xNzg3OTk4MDg5MTQ4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4578179.m3u8?txSecret=8a321fdd1303fe0c7e52b47ab3b1ca80&txTime=6A92FCB3|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Sport TV3 Portugal",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-454.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/46.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

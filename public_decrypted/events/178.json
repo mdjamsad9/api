@@ -1,0 +1,45 @@
+{
+  "id": 178,
+  "order_index": 52,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Charlton",
+    "logo": "https://img.sofascore.com/api/v1/team/47/image"
+  },
+  "teamB": {
+    "name": "Preston",
+    "logo": "https://img.sofascore.com/api/v1/team/21/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNoYXJsdG9uLXZzLVByZXN0b24xNzg4MDEwNzMwODk2.txt",
+  "links": [
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55441/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-110.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW",
+      "link": "http://193.47.62.58/hls/YIIIAAAAA.m3u8?|referer=https://www.fawanews.sc/&origin=https://www.fawanews.sc",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

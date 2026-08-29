@@ -1,6 +1,6 @@
 {
   "id": 174,
-  "order_index": 137,
+  "order_index": 48,
   "eventDetails": {
     "category": "Football",
     "eventName": "Championship",
@@ -21,8 +21,40 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdhdGZvcmQtdnMtV2VzdCBIYW0xNzg3OTk4MDg5MTQ5.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CBS NETWORK",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55439/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4563535.m3u8?txSecret=e6919382107c31cd8137f862b3841229&txTime=6A92F54D|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/44.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.42/hls/YLLLAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }

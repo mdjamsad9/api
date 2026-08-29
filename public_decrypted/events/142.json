@@ -1,6 +1,6 @@
 {
   "id": 142,
-  "order_index": 105,
+  "order_index": 17,
   "eventDetails": {
     "category": "Football",
     "eventName": "Trendyol Süper Lig",
@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1Lb255YXNwb3ItdnMtS29jYWVsaXNwb3IxNzg3OTk4MDg5MTQ4.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "beIN Sports 1",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-62.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

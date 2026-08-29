@@ -1,6 +1,6 @@
 {
   "id": 153,
-  "order_index": 116,
+  "order_index": 28,
   "eventDetails": {
     "category": "Football",
     "eventName": "Premier League",
@@ -21,8 +21,67 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQm91cm5lbW91dGgtdnMtRXZlcnRvbjE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "FUBO SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5j9q4n4c0o/out/v1/978e096457814e22b1f743277a2896b7/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "661631f273b3aabf2ebe61144365b5b3:795b64acdeb1d5cb1914c28fbc54dc98",
+      "tokenApi": ""
+    },
+    {
+      "name": "PEACOCK TV HDR",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fi7x6cucxn/out/v1/16f6612aec584056b28094771cfaa4f0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "56658a5f9dddccbc36a5c107ac2d7253:f323cfece8d6a411e9e3593a24afbc14",
+      "tokenApi": ""
+    },
+    {
+      "name": "DAZN1 Spain",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-45.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "ESPN Argentina",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-149.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/9.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55437/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Sportcast RU",
+      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0f200f41-4712-423f-a4e8-16e184eaaab4/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4558483.m3u8?txSecret=f909001fc72f6d45a9e9a54c260ee25a&txTime=6A92F495|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.42/hls/YLLLAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

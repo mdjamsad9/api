@@ -1,6 +1,6 @@
 {
   "id": 172,
-  "order_index": 135,
+  "order_index": 46,
   "eventDetails": {
     "category": "Football",
     "eventName": "Championship",
@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU5vcndpY2gtdnMtQnVybmxleTE3ODc5OTgwODkxNDk.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CBS SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55440/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4563533.m3u8?txSecret=e0733c7c27dcfc40d5a2eee4fbfeaa97&txTime=6A92F51A|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.49/hls/IBBBQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-151.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
