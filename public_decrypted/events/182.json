@@ -1,0 +1,38 @@
+{
+  "id": 182,
+  "order_index": 32,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Colts",
+    "logo": "https://img.sofascore.com/api/v1/team/4421/image"
+  },
+  "teamB": {
+    "name": "Lions",
+    "logo": "https://img.sofascore.com/api/v1/team/4419/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1Db2x0cy12cy1MaW9uczE3ODgwMjI3MDQ5MDk.txt",
+  "links": [
+    {
+      "name": "SportzX NFL",
+      "link": "https://chatgpt.hereisman.net/playlist/55455/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

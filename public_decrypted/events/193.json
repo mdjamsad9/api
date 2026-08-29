@@ -1,0 +1,31 @@
+{
+  "id": 193,
+  "order_index": 43,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
+  },
+  "teamB": {
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "19:07:00",
+  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1NYXJpbmVyczE3ODgwMjUyNTMxNTk.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream7.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

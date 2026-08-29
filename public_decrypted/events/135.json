@@ -1,6 +1,6 @@
 {
   "id": 135,
-  "order_index": 10,
+  "order_index": 6,
   "eventDetails": {
     "category": "Football",
     "eventName": "Serie A",
@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/U2VyaWUgQS1KdXZlbnR1cy12cy1QYXJtYTE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PARAMOUNT+ (EN/IT)",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3ccfq6n5zx/out/v1/a1f8c1f15a5541f496aacadb9eaa29e8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "630d011e6adffc12fb2b2eb0916eb1d5:39bb4dc8fda8287c81b8384005c956dc",
+      "tokenApi": ""
+    },
+    {
+      "name": "beIN ENGLISH",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS NETWORK",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORT 1 CZ",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+      "scheme": 0,
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
     }
   ]
 }

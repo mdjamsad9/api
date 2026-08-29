@@ -1,6 +1,6 @@
 {
   "id": 176,
-  "order_index": 50,
+  "order_index": 27,
   "eventDetails": {
     "category": "Football",
     "eventName": "VriendenLoterij Eredivisie",
@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtUEVDIFp3b2xsZS12cy1ORUMxNzg3OTk4MDg5MTQ5.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "ESPN 1 ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-379.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

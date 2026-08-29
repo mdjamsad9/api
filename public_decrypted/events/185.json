@@ -1,0 +1,31 @@
+{
+  "id": 185,
+  "order_index": 35,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+  },
+  "teamA": {
+    "name": "Mercury",
+    "logo": "https://img.sofascore.com/api/v1/team/3444/image"
+  },
+  "teamB": {
+    "name": "Tempo",
+    "logo": "https://img.sofascore.com/api/v1/team/1166445/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "02:00:00",
+  "links_metadata_path": "pro/V05CQS1NZXJjdXJ5LXZzLVRlbXBvMTc4ODAyNDUwMTAxMQ.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

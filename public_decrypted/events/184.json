@@ -1,0 +1,28 @@
+{
+  "id": 184,
+  "order_index": 34,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Girona",
+    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+  },
+  "teamB": {
+    "name": "Las Palmas",
+    "logo": "https://img.sofascore.com/api/v1/team/6577/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItR2lyb25hLXZzLUxhcyBQYWxtYXMxNzg4MDI0NDMwMTQy.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

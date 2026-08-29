@@ -1,0 +1,28 @@
+{
+  "id": 195,
+  "order_index": 45,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
+  },
+  "teamB": {
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "02:07:00",
+  "links_metadata_path": "pro/TUxCLUFuZ2Vscy12cy1QaGlsbGllczE3ODgwMjUyNTMxNTk.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

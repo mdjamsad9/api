@@ -1,0 +1,31 @@
+{
+  "id": 183,
+  "order_index": 33,
+  "eventDetails": {
+    "category": "American football",
+    "eventName": "NFL Preseason",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+  },
+  "teamA": {
+    "name": "Titans",
+    "logo": "https://img.sofascore.com/api/v1/team/4431/image"
+  },
+  "teamB": {
+    "name": "Bears",
+    "logo": "https://img.sofascore.com/api/v1/team/4391/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1UaXRhbnMtdnMtQmVhcnMxNzg4MDIyNzA0OTA5.txt",
+  "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream6.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

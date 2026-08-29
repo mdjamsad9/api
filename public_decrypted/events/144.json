@@ -1,6 +1,6 @@
 {
   "id": 144,
-  "order_index": 19,
+  "order_index": 12,
   "eventDetails": {
     "category": "Football",
     "eventName": "LaLiga 2",
@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/TGFMaWdhIDItTGVnYW7DqXMtdnMtRWxkZW5zZTE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Laliga Hypermotion ES",
+      "link": "https://cache4.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+      "scheme": 0,
+      "api": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+      "tokenApi": ""
+    },
+    {
+      "name": "LALIGA TV ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-2.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

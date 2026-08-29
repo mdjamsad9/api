@@ -1,6 +1,6 @@
 {
   "id": 164,
-  "order_index": 38,
+  "order_index": 21,
   "eventDetails": {
     "category": "Football",
     "eventName": "Trendyol Süper Lig",
@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HYWxhdGFzYXJheS12cy1Hw7Z6dGVwZTE3ODc5OTgwODkxNDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Arena Sport 8",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-943.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "beIN Sports AR",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-98.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4581292.m3u8?txSecret=530edfd51a4519087dab5402ce3548f8&txTime=6A93379F|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
