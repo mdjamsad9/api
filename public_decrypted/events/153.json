@@ -1,0 +1,28 @@
+{
+  "id": 153,
+  "order_index": 116,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Bournemouth",
+    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+  },
+  "teamB": {
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQm91cm5lbW91dGgtdnMtRXZlcnRvbjE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

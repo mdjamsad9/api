@@ -1,0 +1,28 @@
+{
+  "id": 176,
+  "order_index": 139,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+  },
+  "teamA": {
+    "name": "PEC Zwolle",
+    "logo": "https://img.sofascore.com/api/v1/team/2971/image"
+  },
+  "teamB": {
+    "name": "NEC",
+    "logo": "https://img.sofascore.com/api/v1/team/2962/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtUEVDIFp3b2xsZS12cy1ORUMxNzg3OTk4MDg5MTQ5.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

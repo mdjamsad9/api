@@ -1,0 +1,28 @@
+{
+  "id": 152,
+  "order_index": 115,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Elversberg",
+    "logo": "https://img.sofascore.com/api/v1/team/2598/image"
+  },
+  "teamB": {
+    "name": "Leverkusen",
+    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1FbHZlcnNiZXJnLXZzLUxldmVya3VzZW4xNzg3OTk4MDg5MTQ4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

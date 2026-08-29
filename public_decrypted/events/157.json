@@ -1,0 +1,28 @@
+{
+  "id": 157,
+  "order_index": 120,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Auxerre",
+    "logo": "https://img.sofascore.com/api/v1/team/1646/image"
+  },
+  "teamB": {
+    "name": "Angers",
+    "logo": "https://img.sofascore.com/api/v1/team/1684/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1BdXhlcnJlLXZzLUFuZ2VyczE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

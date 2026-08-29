@@ -1,0 +1,31 @@
+{
+  "id": 140,
+  "order_index": 103,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Heidenheim",
+    "logo": "https://img.sofascore.com/api/v1/team/5885/image"
+  },
+  "teamB": {
+    "name": "Dresden",
+    "logo": "https://img.sofascore.com/api/v1/team/2595/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1IZWlkZW5oZWltLXZzLURyZXNkZW4xNzg3OTk4MDg5MTQ4.txt",
+  "links": [
+    {
+      "name": "beIN ENGLISH - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+      "tokenApi": ""
+    }
+  ]
+}

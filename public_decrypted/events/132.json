@@ -17,35 +17,35 @@
   "visible": true,
   "priority": -1,
   "date": "29/08/2026",
-  "time": "08:01:00",
+  "time": "07:00:00",
   "links_metadata_path": "pro/VUZDLVUuIE51cm1hZ29tZWRvdi12cy1ZLiBTb25nMTc4Nzk0OTMyMDk4MA.txt",
   "links": [
     {
       "name": "PARAMOUNT - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kkxkbfrgfk/out/v1/ea1c17d66e464c6fad76dbdc1962acd9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2lyeyh0csz/out/v1/b530ff33ac684451854cb35e5ef371dc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "eed810fa03bb3e03704710ad05d43715:28422d32ffd865b75337869a4b57a363",
+      "api": "c05a57e8d0ac6e4fcdc47adeb6a363b5:b134668a3bd7c0a339a27f525b041cb8",
       "tokenApi": ""
     },
     {
       "name": "TNT Sports  - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+      "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
       "tokenApi": ""
     },
     {
       "name": "PARAMOUNT+ ES  - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7pyfy3ufvi/out/v1/88a28de045f04556bd1edebb3fe43ae5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rjetr6ebt1/out/v1/0bee1924c091400cb029535fbaefe592/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "469741c2c07679d183dfbaf951d157b3:d6d1f126f6c07a0aa1e7a5f80941605c",
+      "api": "e9ddc5a90dc6bd4aff58c02979e3884b:33d302dd9e2932139f90b0c6c7880c50",
       "tokenApi": ""
     },
     {
       "name": "PARAMOUNT+ PT - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k5ygzoxgsd/out/v1/143ac281ec08447cbdcc1c6a42556d86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fq7a4ujaxe/out/v1/8a76ffc37a5f4353afa904c3c45a27fb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "7e0265c9734e49993b16af58ef1509fd:11cc3112fa46245a27090f9f1d8dd1a1",
+      "api": "747491219a428cd88eeb639ed8ce1fbc:128c8cab682cdf63dcd5a8d420450cca",
       "tokenApi": ""
     },
     {

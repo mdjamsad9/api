@@ -1,0 +1,28 @@
+{
+  "id": 172,
+  "order_index": 135,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Norwich",
+    "logo": "https://img.sofascore.com/api/v1/team/263/image"
+  },
+  "teamB": {
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU5vcndpY2gtdnMtQnVybmxleTE3ODc5OTgwODkxNDk.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 163,
+  "order_index": 126,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Lorient",
+    "logo": "https://img.sofascore.com/api/v1/team/1656/image"
+  },
+  "teamB": {
+    "name": "Troyes",
+    "logo": "https://img.sofascore.com/api/v1/team/1652/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1Mb3JpZW50LXZzLVRyb3llczE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

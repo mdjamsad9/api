@@ -22,14 +22,14 @@
   "links": [
     {
       "name": "WILLOW - FHD",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd",
       "scheme": 0,
-      "api": "efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020",
+      "api": "0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
       "tokenApi": ""
     },
     {
-      "name": "TAPMAD - FHD",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
+      "name": "SKY CRICKET  - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
@@ -43,9 +43,9 @@
     },
     {
       "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd",
       "scheme": 0,
-      "api": "efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020",
+      "api": "0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
       "tokenApi": ""
     },
     {

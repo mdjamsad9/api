@@ -1,0 +1,28 @@
+{
+  "id": 169,
+  "order_index": 132,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Union Berlin",
+    "logo": "https://img.sofascore.com/api/v1/team/2547/image"
+  },
+  "teamB": {
+    "name": "Frankfurt",
+    "logo": "https://img.sofascore.com/api/v1/team/2674/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1VbmlvbiBCZXJsaW4tdnMtRnJhbmtmdXJ0MTc4Nzk5ODA4OTE0OQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

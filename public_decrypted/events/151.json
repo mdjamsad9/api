@@ -1,0 +1,28 @@
+{
+  "id": 151,
+  "order_index": 114,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Mainz 05",
+    "logo": "https://img.sofascore.com/api/v1/team/2556/image"
+  },
+  "teamB": {
+    "name": "Paderborn",
+    "logo": "https://img.sofascore.com/api/v1/team/2561/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1NYWlueiAwNS12cy1QYWRlcmJvcm4xNzg3OTk4MDg5MTQ4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 173,
+  "order_index": 136,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+  },
+  "teamA": {
+    "name": "Alverca",
+    "logo": "https://img.sofascore.com/api/v1/team/190328/image"
+  },
+  "teamB": {
+    "name": "Santa Clara",
+    "logo": "https://img.sofascore.com/api/v1/team/3011/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUFsdmVyY2EtdnMtU2FudGEgQ2xhcmExNzg3OTk4MDg5MTQ5.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

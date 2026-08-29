@@ -1,0 +1,28 @@
+{
+  "id": 144,
+  "order_index": 107,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Leganés",
+    "logo": "https://img.sofascore.com/api/v1/team/2845/image"
+  },
+  "teamB": {
+    "name": "Eldense",
+    "logo": "https://img.sofascore.com/api/v1/team/47321/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItTGVnYW7DqXMtdnMtRWxkZW5zZTE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

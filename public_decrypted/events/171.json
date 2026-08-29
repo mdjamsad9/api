@@ -1,0 +1,28 @@
+{
+  "id": 171,
+  "order_index": 134,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Albacete",
+    "logo": "https://img.sofascore.com/api/v1/team/2848/image"
+  },
+  "teamB": {
+    "name": "Real Oviedo",
+    "logo": "https://img.sofascore.com/api/v1/team/2851/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQWxiYWNldGUtdnMtUmVhbCBPdmllZG8xNzg3OTk4MDg5MTQ5.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

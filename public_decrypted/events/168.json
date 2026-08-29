@@ -1,0 +1,31 @@
+{
+  "id": 168,
+  "order_index": 131,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Cottbus",
+    "logo": "https://img.sofascore.com/api/v1/team/2532/image"
+  },
+  "teamB": {
+    "name": "Fürth",
+    "logo": "https://img.sofascore.com/api/v1/team/2551/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Db3R0YnVzLXZzLUbDvHJ0aDE3ODc5OTgwODkxNDk.txt",
+  "links": [
+    {
+      "name": "Cricfy BUNDESLIGA",
+      "link": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

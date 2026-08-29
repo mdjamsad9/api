@@ -1,0 +1,28 @@
+{
+  "id": 136,
+  "order_index": 99,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Lyon",
+    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+  },
+  "teamB": {
+    "name": "Le Havre",
+    "logo": "https://img.sofascore.com/api/v1/team/1662/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MeW9uLXZzLUxlIEhhdnJlMTc4Nzk5ODA4OTE0OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

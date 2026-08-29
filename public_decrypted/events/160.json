@@ -1,0 +1,28 @@
+{
+  "id": 160,
+  "order_index": 123,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Levante",
+    "logo": "https://img.sofascore.com/api/v1/team/2849/image"
+  },
+  "teamB": {
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLUxldmFudGUtdnMtUmVhbCBCZXRpczE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

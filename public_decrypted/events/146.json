@@ -1,0 +1,28 @@
+{
+  "id": 146,
+  "order_index": 109,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
+  },
+  "teamA": {
+    "name": "MK Dons",
+    "logo": "https://img.sofascore.com/api/v1/team/4/image"
+  },
+  "teamB": {
+    "name": "Leicester",
+    "logo": "https://img.sofascore.com/api/v1/team/31/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1NSyBEb25zLXZzLUxlaWNlc3RlcjE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

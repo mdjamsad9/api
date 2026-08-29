@@ -1,0 +1,28 @@
+{
+  "id": 145,
+  "order_index": 108,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Leipzig",
+    "logo": "https://img.sofascore.com/api/v1/team/36360/image"
+  },
+  "teamB": {
+    "name": "M'gladbach",
+    "logo": "https://img.sofascore.com/api/v1/team/2527/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1MZWlwemlnLXZzLU0nZ2xhZGJhY2gxNzg3OTk4MDg5MTQ4.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

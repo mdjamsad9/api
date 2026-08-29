@@ -1,0 +1,28 @@
+{
+  "id": 148,
+  "order_index": 111,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+  },
+  "teamA": {
+    "name": "AZ",
+    "logo": "https://img.sofascore.com/api/v1/team/2950/image"
+  },
+  "teamB": {
+    "name": "GA Eagles",
+    "logo": "https://img.sofascore.com/api/v1/team/2979/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtQVotdnMtR0EgRWFnbGVzMTc4Nzk5ODA4OTE0OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 150,
+  "order_index": 113,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Brest",
+    "logo": "https://img.sofascore.com/api/v1/team/1715/image"
+  },
+  "teamB": {
+    "name": "Toulouse",
+    "logo": "https://img.sofascore.com/api/v1/team/1681/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1CcmVzdC12cy1Ub3Vsb3VzZTE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 164,
+  "order_index": 127,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Galatasaray",
+    "logo": "https://img.sofascore.com/api/v1/team/3061/image"
+  },
+  "teamB": {
+    "name": "Göztepe",
+    "logo": "https://img.sofascore.com/api/v1/team/3054/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "29/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1HYWxhdGFzYXJheS12cy1Hw7Z6dGVwZTE3ODc5OTgwODkxNDg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
