@@ -1,45 +1,52 @@
 {
   "id": 226,
-  "order_index": 77,
+  "order_index": 52,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Ligue 1",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
   },
   "teamA": {
-    "name": "Paris",
-    "logo": "https://img.sofascore.com/api/v1/team/6070/image"
+    "name": "SKN",
+    "logo": "https://img.sofascore.com/api/v1/team/193209/image"
   },
   "teamB": {
-    "name": "Nice",
-    "logo": "https://img.sofascore.com/api/v1/team/1661/image"
+    "name": "ABF",
+    "logo": "https://img.sofascore.com/api/v1/team/514842/image"
   },
   "visible": true,
   "priority": -1,
   "date": "30/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/TGlndWUgMS1QYXJpcy12cy1OaWNlMTc4ODA4NDg5MTg4NA.txt",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLVNLTi12cy1BQkYxNzg4MTE3MjM0MTE5.txt",
   "links": [
     {
-      "name": "Sport TV3",
-      "link": "",
+      "name": "TNT SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-454.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+      "tokenApi": ""
     },
     {
-      "name": "beIN Sports AR",
-      "link": "",
+      "name": "WILLOW",
+      "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-95.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     },
     {
-      "name": "beIN Español",
+      "name": "Cricfy Live HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Willow HD",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-372.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-346.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

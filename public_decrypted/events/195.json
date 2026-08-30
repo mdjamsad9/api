@@ -1,6 +1,6 @@
 {
   "id": 195,
-  "order_index": 46,
+  "order_index": 21,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -20,6 +20,13 @@
   "time": "17:37:00",
   "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1NYXJpbmVyczE3ODgwODA4MzEwNjE.txt",
   "links": [
+    {
+      "name": "Cricfy MLB",
+      "link": "https://chatgpt.hereisman.net/playlist/55562/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
     {
       "name": "MLB League Pass",
       "link": "",

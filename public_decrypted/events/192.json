@@ -1,6 +1,6 @@
 {
   "id": 192,
-  "order_index": 43,
+  "order_index": 18,
   "eventDetails": {
     "category": "Motorsport",
     "eventName": "MotoGP",
@@ -16,8 +16,8 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "08:00:00",
+  "date": "06/09/2026",
+  "time": "08:45:00",
   "links_metadata_path": "pro/TW90b0dQLU1vdG9HUC12cy1Nb3RvR1AxNzg4MDc2NzUzNzIw.txt",
   "links": [
     {

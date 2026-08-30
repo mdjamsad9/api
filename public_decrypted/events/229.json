@@ -1,0 +1,28 @@
+{
+  "id": 229,
+  "order_index": 55,
+  "eventDetails": {
+    "category": "Basketball",
+    "eventName": "WNBA",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+  },
+  "teamA": {
+    "name": "Fire",
+    "logo": "https://img.sofascore.com/api/v1/team/1166446/image"
+  },
+  "teamB": {
+    "name": "Valkyries",
+    "logo": "https://img.sofascore.com/api/v1/team/1041936/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/V05CQS1GaXJlLXZzLVZhbGt5cmllczE3ODgxMTc0NzI0ODc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

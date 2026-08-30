@@ -1,6 +1,6 @@
 {
   "id": 198,
-  "order_index": 49,
+  "order_index": 24,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -20,6 +20,21 @@
   "time": "18:15:00",
   "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1QaXJhdGVzMTc4ODA4MDgzMTA2MQ.txt",
   "links": [
+    {
+      "name": "Cricfy MLB",
+      "link": "https://chatgpt.hereisman.net/playlist/55571/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream7.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
     {
       "name": "MLB League Pass",
       "link": "",

@@ -1,6 +1,6 @@
 {
   "id": 215,
-  "order_index": 66,
+  "order_index": 41,
   "eventDetails": {
     "category": "Football",
     "eventName": "Trendyol Süper Lig",
@@ -20,6 +20,14 @@
   "time": "18:30:00",
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1TYW1zdW5zcG9yLXZzLUZlbmVyYmFow6dlMTc4ODA4NDg5MTg4Mw.txt",
   "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "http://193.47.62.41/hls/UQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
     {
       "name": "beIN Sports AR",
       "link": "",
