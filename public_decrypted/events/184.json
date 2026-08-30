@@ -1,31 +1,28 @@
 {
   "id": 184,
-  "order_index": 34,
+  "order_index": 35,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "Girona",
-    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+    "name": "Cagliari",
+    "logo": "https://img.sofascore.com/api/v1/team/2719/image"
   },
   "teamB": {
-    "name": "Las Palmas",
-    "logo": "https://img.sofascore.com/api/v1/team/6577/image"
+    "name": "Inter",
+    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItR2lyb25hLXZzLUxhcyBQYWxtYXMxNzg4MDI0NDMwMTQy.txt",
+  "date": "30/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1DYWdsaWFyaS12cy1JbnRlcjE3ODgwNzQwNzg4MTQ.txt",
   "links": [
     {
-      "name": "Laliga ",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

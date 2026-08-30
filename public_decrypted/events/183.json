@@ -1,31 +1,52 @@
 {
   "id": 183,
-  "order_index": 33,
+  "order_index": 34,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "NFL Preseason",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark"
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "Titans",
-    "logo": "https://img.sofascore.com/api/v1/team/4431/image"
+    "name": "Napoli",
+    "logo": "https://img.sofascore.com/api/v1/team/2714/image"
   },
   "teamB": {
-    "name": "Bears",
-    "logo": "https://img.sofascore.com/api/v1/team/4391/image"
+    "name": "Como",
+    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/TkZMIFByZXNlYXNvbi1UaXRhbnMtdnMtQmVhcnMxNzg4MDIyNzA0OTA5.txt",
+  "date": "30/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1OYXBvbGktdnMtQ29tbzE3ODgwNzQwNzg4MTQ.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream6.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "CBS Sports",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-308.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "TV4 Fotball",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-747.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Ziggo 1 NL",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-393.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Ziggo 2 NL",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-398.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

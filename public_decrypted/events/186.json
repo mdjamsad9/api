@@ -1,31 +1,38 @@
 {
   "id": 186,
-  "order_index": 36,
+  "order_index": 37,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Sunderland",
+    "logo": "https://img.sofascore.com/api/v1/team/41/image"
   },
   "teamB": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "Fulham",
+    "logo": "https://img.sofascore.com/api/v1/team/43/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1Sb3lhbHMxNzg4MDI1MjUzMTU5.txt",
+  "date": "30/08/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtU3VuZGVybGFuZC12cy1GdWxoYW0xNzg4MDc0MDc4ODE0.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream3.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "beIN Sports AR",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-93.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "DAZN2 ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-446.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

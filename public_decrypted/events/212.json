@@ -1,0 +1,31 @@
+{
+  "id": 212,
+  "order_index": 63,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Başakşehir",
+    "logo": "https://img.sofascore.com/api/v1/team/3086/image"
+  },
+  "teamB": {
+    "name": "Kasımpaşa",
+    "logo": "https://img.sofascore.com/api/v1/team/6063/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1CYcWfYWvFn2VoaXItdnMtS2FzxLFtcGHFn2ExNzg4MDg0ODkxODgz.txt",
+  "links": [
+    {
+      "name": "beIN Turkey",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-63.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

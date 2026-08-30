@@ -1,0 +1,28 @@
+{
+  "id": 219,
+  "order_index": 70,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "FC Andorra",
+    "logo": "https://img.sofascore.com/api/v1/team/324871/image"
+  },
+  "teamB": {
+    "name": "Eibar",
+    "logo": "https://img.sofascore.com/api/v1/team/2839/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "15:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItRkMgQW5kb3JyYS12cy1FaWJhcjE3ODgwODQ4OTE4ODM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

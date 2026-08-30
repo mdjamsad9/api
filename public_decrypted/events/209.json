@@ -1,0 +1,45 @@
+{
+  "id": 209,
+  "order_index": 60,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Magdeburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2591/image"
+  },
+  "teamB": {
+    "name": "Kiel",
+    "logo": "https://img.sofascore.com/api/v1/team/2573/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1NYWdkZWJ1cmctdnMtS2llbDE3ODgwODQ4NDkwMjU.txt",
+  "links": [
+    {
+      "name": "BUNDESLIGA HD",
+      "link": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bundesliga 4",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-948.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Sport Klub",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-174.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    }
+  ]
+}

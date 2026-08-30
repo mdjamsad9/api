@@ -1,35 +1,56 @@
 {
   "id": 191,
-  "order_index": 41,
+  "order_index": 42,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC World Test Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
   },
   "teamA": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "ENG",
+    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
   },
   "teamB": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "PAK",
+    "logo": "https://img.sofascore.com/api/v1/team/187754/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "18:15:00",
-  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1QaXJhdGVzMTc4ODAyNTI1MzE1OQ.txt",
+  "date": "30/08/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUVORy12cy1QQUsxNzg4MDc2NTY3NzI1.txt",
   "links": [
     {
-      "name": "Cricy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/55466/load-playlist?|Referer=https://gooz.aapmains.net",
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd",
+      "scheme": 0,
+      "api": "9d4ccbb6df9c984e1b8f29a7d8872643:db4f102d7b730b9dac2450c50eb4bd6b",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY CRICKET - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gbcn3a1nym/out/v1/273e7a901d7a4e09bf6a1f0d307e3840/cenc.mpd",
+      "scheme": 0,
+      "api": "9d4ccbb6df9c984e1b8f29a7d8872643:db4f102d7b730b9dac2450c50eb4bd6b",
+      "tokenApi": ""
+    },
+    {
+      "name": "TAPMAD - AQ",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

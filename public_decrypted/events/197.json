@@ -1,6 +1,6 @@
 {
   "id": 197,
-  "order_index": 47,
+  "order_index": 48,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -17,15 +17,12 @@
   "visible": true,
   "priority": -1,
   "date": "30/08/2026",
-  "time": "02:05:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1PcmlvbGVzMTc4ODAyNTI1MzE1OQ.txt",
+  "time": "20:05:00",
+  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1PcmlvbGVzMTc4ODA4MDgzMTA2MQ.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/dzaugyvdgazc90.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

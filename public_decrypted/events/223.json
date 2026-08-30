@@ -1,0 +1,28 @@
+{
+  "id": 223,
+  "order_index": 74,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+  },
+  "teamA": {
+    "name": "Famalicão",
+    "logo": "https://img.sofascore.com/api/v1/team/49531/image"
+  },
+  "teamB": {
+    "name": "Gil Vicente",
+    "logo": "https://img.sofascore.com/api/v1/team/3010/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUZhbWFsaWPDo28tdnMtR2lsIFZpY2VudGUxNzg4MDg0ODkxODg0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

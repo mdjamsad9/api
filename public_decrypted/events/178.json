@@ -1,45 +1,38 @@
 {
   "id": 178,
-  "order_index": 52,
+  "order_index": 29,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Charlton",
-    "logo": "https://img.sofascore.com/api/v1/team/47/image"
+    "name": "Man Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35/image"
   },
   "teamB": {
-    "name": "Preston",
-    "logo": "https://img.sofascore.com/api/v1/team/21/image"
+    "name": "Ipswich",
+    "logo": "https://img.sofascore.com/api/v1/team/32/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNoYXJsdG9uLXZzLVByZXN0b24xNzg4MDEwNzMwODk2.txt",
+  "date": "30/08/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtTWFuIFV0ZC12cy1JcHN3aWNoMTc4ODA3NDA3ODgxNA.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "https://chatgpt.hereisman.net/playlist/55441/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Server 3",
+      "name": "beIN Sports AR",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-110.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-91.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "LOW",
-      "link": "http://193.47.62.58/hls/YIIIAAAAA.m3u8?|referer=https://www.fawanews.sc/&origin=https://www.fawanews.sc",
+      "name": "DAZN1",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-445.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

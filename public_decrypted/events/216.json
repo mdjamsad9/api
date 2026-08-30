@@ -1,0 +1,28 @@
+{
+  "id": 216,
+  "order_index": 67,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Córdoba",
+    "logo": "https://img.sofascore.com/api/v1/team/2850/image"
+  },
+  "teamB": {
+    "name": "Granada",
+    "logo": "https://img.sofascore.com/api/v1/team/33779/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "30/08/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQ8OzcmRvYmEtdnMtR3JhbmFkYTE3ODgwODQ4OTE4ODM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

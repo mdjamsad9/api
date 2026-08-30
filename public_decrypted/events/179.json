@@ -1,80 +1,28 @@
 {
   "id": 179,
-  "order_index": 29,
+  "order_index": 30,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Womens Asia Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "SL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/187806/image"
+    "name": "Lazio",
+    "logo": "https://img.sofascore.com/api/v1/team/2699/image"
   },
   "teamB": {
-    "name": "UAE-W",
-    "logo": "https://img.sofascore.com/api/v1/team/291494/image"
+    "name": "Genoa",
+    "logo": "https://img.sofascore.com/api/v1/team/2713/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "14:30:00",
-  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVNMLVctdnMtVUFFLVcxNzg4MDEzODg3NDAw.txt",
+  "date": "30/08/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1MYXppby12cy1HZW5vYTE3ODgwNzQwNzg4MTQ.txt",
   "links": [
     {
-      "name": "WILLOW -FHD",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnplbxlyoi/out/v1/15347ae61ffa404b8830d554abb7e524/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "b39c55d3b132cf0cbc93c55242394d5f:ca3ba9aff4e53f6a0b74029c0f8c7294",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnplbxlyoi/out/v1/15347ae61ffa404b8830d554abb7e524/cenc.mpd",
-      "scheme": 0,
-      "api": "b39c55d3b132cf0cbc93c55242394d5f:ca3ba9aff4e53f6a0b74029c0f8c7294",
-      "tokenApi": ""
-    },
-    {
-      "name": "T SPORTS HD",
-      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SonyLiv - English",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2908/ENG/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SonyLiv - Hindi",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi2908/HIN/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SonyLiv - Tamil",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2908/TAM/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SonyLiv - Telugu",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2908/TEL/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SonyLiv - Kannada",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2908/KAN/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,28 +1,84 @@
 {
   "id": 190,
-  "order_index": 40,
+  "order_index": 41,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Mixed Martial Arts",
+    "eventName": "UFC",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
   },
   "teamA": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "S. Parnasse",
+    "logo": "https://img.sofascore.com/api/v1/team/478792/image"
   },
   "teamB": {
-    "name": "Marlins",
-    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+    "name": "D. Hooker",
+    "logo": "https://img.sofascore.com/api/v1/team/461713/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "29/08/2026",
-  "time": "20:05:00",
-  "links_metadata_path": "pro/TUxCLU5hdGlvbmFscy12cy1NYXJsaW5zMTc4ODAyNTI1MzE1OQ.txt",
+  "date": "05/09/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/VUZDLVMuIFBhcm5hc3NlLXZzLUQuIEhvb2tlcjE3ODgwNzQyNjQ3NjA.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2lyeyh0csz/out/v1/b530ff33ac684451854cb35e5ef371dc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "c05a57e8d0ac6e4fcdc47adeb6a363b5:b134668a3bd7c0a339a27f525b041cb8",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ ES",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rjetr6ebt1/out/v1/0bee1924c091400cb029535fbaefe592/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "e9ddc5a90dc6bd4aff58c02979e3884b:33d302dd9e2932139f90b0c6c7880c50",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ PT",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fq7a4ujaxe/out/v1/8a76ffc37a5f4353afa904c3c45a27fb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "747491219a428cd88eeb639ed8ce1fbc:128c8cab682cdf63dcd5a8d420450cca",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55420/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SportsNet FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
+      "tokenApi": ""
+    },
+    {
       "name": "CricfyTV.Net",
-      "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW ",
+      "link": "http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
