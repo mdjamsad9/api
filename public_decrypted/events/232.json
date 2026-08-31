@@ -2,51 +2,44 @@
   "id": 232,
   "order_index": 58,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "CFL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "Ottawa",
-    "logo": "https://img.sofascore.com/api/v1/team/4437/image"
+    "name": "Lecce",
+    "logo": "https://img.sofascore.com/api/v1/team/2689/image"
   },
   "teamB": {
-    "name": "BC",
-    "logo": "https://img.sofascore.com/api/v1/team/4440/image"
+    "name": "Roma",
+    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "23:00:00",
-  "links_metadata_path": "pro/Q0ZMLU90dGF3YS12cy1CQzE3ODgxMTc0OTMxNDc.txt",
+  "date": "31/08/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1MZWNjZS12cy1Sb21hMTc4ODE1OTQ4NDU5Ng.txt",
   "links": [
     {
-      "name": "TSN SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "beIN ENGLISH",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
       "tokenApi": ""
     },
     {
-      "name": "RDS CA",
-      "link": "",
+      "name": "CBS NETWORK",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-839.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "tokenApi": ""
     },
     {
-      "name": "TSN1",
-      "link": "",
+      "name": "SPORT 1 CZ",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
       "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-111.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "TSN5",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-115.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
     }
   ]
 }

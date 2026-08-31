@@ -1,0 +1,38 @@
+{
+  "id": 235,
+  "order_index": 61,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Aston Villa",
+    "logo": "https://img.sofascore.com/api/v1/team/40/image"
+  },
+  "teamB": {
+    "name": "Arsenal",
+    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "31/08/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQXN0b24gVmlsbGEtdnMtQXJzZW5hbDE3ODgxNTk0ODQ1OTY.txt",
+  "links": [
+    {
+      "name": "V Sport Premium",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-572.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Astro Grandstand",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-123.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

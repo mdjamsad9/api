@@ -2,37 +2,30 @@
   "id": 230,
   "order_index": 56,
   "eventDetails": {
-    "category": "Basketball",
-    "eventName": "WNBA",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Wings",
-    "logo": "https://img.sofascore.com/api/v1/team/3450/image"
+    "name": "Burgos",
+    "logo": "https://img.sofascore.com/api/v1/team/2854/image"
   },
   "teamB": {
-    "name": "Sun",
-    "logo": "https://img.sofascore.com/api/v1/team/35547/image"
+    "name": "Real Sociedad B",
+    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
   },
   "visible": true,
   "priority": -1,
   "date": "31/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/V05CQS1XaW5ncy12cy1TdW4xNzg4MTE3NDcyNDg3.txt",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQnVyZ29zLXZzLVJlYWwgU29jaWVkYWQgQjE3ODgxNTk0ODQ1OTY.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "Laliga Hypermotion ES",
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
       "scheme": 0,
-      "api": "",
+      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
       "tokenApi": ""
-    },
-    {
-      "name": "NBCS ",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-754.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
