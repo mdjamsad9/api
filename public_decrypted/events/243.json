@@ -1,0 +1,31 @@
+{
+  "id": 243,
+  "order_index": 69,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+  },
+  "teamB": {
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "01/09/2026",
+  "time": "00:10:00",
+  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1XaGl0ZSBTb3gxNzg4MTc4OTUzMjQ1.txt",
+  "links": [
+    {
+      "name": "MLB League Pass",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-10.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

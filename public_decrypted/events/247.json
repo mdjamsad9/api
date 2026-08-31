@@ -1,0 +1,31 @@
+{
+  "id": 247,
+  "order_index": 73,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+  },
+  "teamB": {
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "31/08/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLVRpZ2VyczE3ODgxNzg5NTMyNDU.txt",
+  "links": [
+    {
+      "name": "MLB League Pass",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-7.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    }
+  ]
+}

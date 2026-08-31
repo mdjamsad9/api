@@ -40,6 +40,38 @@
       "scheme": 0,
       "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
       "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ (EN/IT)",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/k5a64g0cdv/out/v1/009b6277ad0a49f196a2705b225dca36/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "3ce2c7af716a20eac6eaec6f2490b475:9141a529b98c5e75c49ef172edc7844f",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "DAZN SPORTS HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "SPORT TV HD",
+      "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.41/hls/G222QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }
