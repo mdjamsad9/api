@@ -1,6 +1,6 @@
 {
   "id": 252,
-  "order_index": 78,
+  "order_index": 25,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -20,6 +20,14 @@
   "time": "00:40:00",
   "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtT3Jpb2xlczE3ODgxNzg5NTMyNDU.txt",
   "links": [
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream7.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
     {
       "name": "MASN USA",
       "link": "",
