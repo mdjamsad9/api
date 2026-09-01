@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVByZXN0b24tdnMtQnJpc3RvbCBDaXR5MTc4ODI1OTAxMTMyMQ.txt",
   "links": [
     {
+      "name": "Cricfy.net",
+      "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/pne-brc/playlist.m3u8?tk=CCVSA1WmZ27vQ3z7ybCOjg&e=1788329722|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.ftlcbx.com/live/vrqwni4j8p2f4qn_0cd1bc9781041ce5f55ae1c875192921_1080p.m3u8?auth_key=1788302710-0-0-1c46fb1ea840ffb54a0f6cd963ea39f9",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.55/hls/QIIIQQQQQ.m3u8?|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy LIVE ",
       "link": "",
       "scheme": 0,

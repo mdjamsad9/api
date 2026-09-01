@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/REZCIFBva2FsLUhFQkMgSGFtYnVyZy12cy1Eb3J0bXVuZDE3ODgyNDU4ODIxNzM.txt",
   "links": [
     {
+      "name": "ELEVEN SPORTS  - AQ",
+      "link": "https://netanjahu.hls.st/t/2d314ad2141fc50ce679b5bb60c7f369/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ARENA PREMIUM - AQ",
+      "link": "https://netanjahu.hls.st/t/c7f5dedf42b28ac90367619ab88dcc25/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ZIGGO SPORTS  - AQ",
+      "link": "https://netanjahu.hls.st/t/e04434cf7af78ed83bb92104f5c2b0a4/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "AD Sports",
       "link": "",
       "scheme": 0,
@@ -33,6 +54,27 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-401.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "beIN SPORTS  - AQ",
+      "link": "https://netanjahu.hls.st/t/e049c5765642f1366dc17e76fc3e56af/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "TVP SPORT  - AQ",
+      "link": "https://netanjahu.hls.st/t/a738b2b2a28ec66f19deb4d5252414ea/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/kiiiqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

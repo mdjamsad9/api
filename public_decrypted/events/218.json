@@ -21,11 +21,18 @@
   "links_metadata_path": "pro/TGVhZ3VlIE9uZS1MZWljZXN0ZXItdnMtUGx5bW91dGgxNzg4MjU4NDE1NTU4.txt",
   "links": [
     {
-      "name": "Cricfy Live",
-      "link": "",
+      "name": "PARAMOUNT - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/h1ifzu1u8g/out/v1/b10de602d8594b77a90fa3d00b546cc3/b84aeb07-6a1e-4666-8341-8ef0b3c75657-cenc.mpd?aws_sessionId=5c8e2800-9718-46ac-9e86-e7496e059c8c",
+      "scheme": 0,
+      "api": "6eb5edb455e4446bc895dd1e82ca72d3:c219f28110195f6be2d127e2cd8ead58",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.57/hls/CIIIQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-107.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     }
   ]
 }

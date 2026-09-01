@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgSGFtLXZzLVdvbHZlczE3ODgyNDU4ODIxNzM.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PARAMOUNT  - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jbqj5uxbgz/out/v1/cb85d91021974ce292d50bb48a226842/f454ca6c-4bea-4550-89ae-70efbacb2eae-cenc.mpd?aws_sessionId=b805eb68-6576-453b-8d9a-10386c02b3e3",
+      "scheme": 0,
+      "api": "a087ba21686f83e2576f77cb2a1030df:359df30b6354e5e3f5f5c61961a43afa",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55636/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Sports",
+      "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/whu-wol/playlist.m3u8?tk=XLaKTrXL0VPP3AcNKVJ7Ww&e=1788329727|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT",
+      "link": "https://netanjahu.hls.st/t/a6bc810260a939b0cc6cd62d47978f38/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.57/hls/CIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

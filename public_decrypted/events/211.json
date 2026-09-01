@@ -21,6 +21,41 @@
   "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVRvcmluby12cy1Nb256YTE3ODgyNDU4ODIxNzM.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/jbqj5uxbgz/out/v1/cb85d91021974ce292d50bb48a226842/f454ca6c-4bea-4550-89ae-70efbacb2eae-cenc.mpd?aws_sessionId=b805eb68-6576-453b-8d9a-10386c02b3e3",
+      "scheme": 0,
+      "api": "a087ba21686f83e2576f77cb2a1030df:359df30b6354e5e3f5f5c61961a43afa",
+      "tokenApi": ""
+    },
+    {
+      "name": "PREMIER SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+      "tokenApi": ""
+    },
+    {
+      "name": "ITALIA 1  - AQ",
+      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+      "scheme": 0,
+      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+      "tokenApi": ""
+    },
+    {
+      "name": "SPORT1 CZ  - AQ",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+      "scheme": 0,
+      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55637/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Sport TV2",
       "link": "",
       "scheme": 0,
@@ -33,6 +68,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-139.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.45/hls/BIIIQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

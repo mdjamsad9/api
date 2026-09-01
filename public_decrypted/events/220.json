@@ -21,11 +21,39 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVN3YW5zZWEtdnMtV2F0Zm9yZDE3ODgyNTkwMTEzMjE.txt",
   "links": [
     {
+      "name": "Cricfy HD",
+      "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/swa-wat/playlist.m3u8?tk=qpG0l3HoqAtUCQxux-oB_Q&e=1788329725|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://live1.ftlcbx.com/live/72339756_8d2ddc36e2aea54c0ecd0f0ed159e3ff_1080p.m3u8?auth_key=1788303063-0-0-9414d04cd896793565ee8a117a37523b",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy LIVE ",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-68.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55630/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.45/hls/BIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

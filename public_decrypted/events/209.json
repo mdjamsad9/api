@@ -21,11 +21,32 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJpcm1pbmdoYW0tdnMtU291dGhhbXB0b24xNzg4MjQ1ODgyMTcz.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/woszalt83t/out/v1/86bef547d3ca47079e44309d61973848/e221169f-a0e2-4522-9d2f-db6479dc77fa-cenc.mpd?aws_sessionId=7396af8e-250d-45ef-8bdb-ac074fcd1048",
+      "scheme": 0,
+      "api": "19e3b82ce8783cacc549cb60bf23a0d7:dcea4c14311ad5ca695bf7731efecc54",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Sports",
+      "link": "https://messi.damitv.st/live-hls/channel/efl-championship/2026-09-01/bir-sou/playlist.m3u8?tk=HW3q3sxadNBAcxACaBnBRg&e=1788330669|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-164.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.49/hls/QIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

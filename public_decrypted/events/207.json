@@ -21,11 +21,32 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVNoZWZmaWVsZCBVdGQtdnMtQm9sdG9uMTc4ODI0NTg4MjE3Mg.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://chatgpt.hereisman.net/playlist/55633/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://live4.ftlcbx.com/live/72339752_cac3918cb6a4c7bc0dfa6c10dd145dcd_1080p.m3u8?auth_key=1788303058-0-0-2439e14555a88f09a348c4663fe7cc4e",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-59.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.55/hls/SIIIQQQQQ.m3u8?|referer=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

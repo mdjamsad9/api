@@ -1,45 +1,28 @@
 {
   "id": 225,
-  "order_index": 51,
+  "order_index": 38,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "category": "Cricket",
+    "eventName": "Womens Asia Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
   },
   "teamA": {
-    "name": "Cambuur",
-    "logo": "https://img.sofascore.com/api/v1/team/2970/image"
+    "name": "SL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187806/image"
   },
   "teamB": {
-    "name": "Twente",
-    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    "name": "INA-W",
+    "logo": "https://img.sofascore.com/api/v1/team/454472/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtQ2FtYnV1ci12cy1Ud2VudGUxNzg4MDg0ODkxODg0.txt",
+  "date": "02/09/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVNMLVctdnMtSU5BLVcxNzg4Mjg3MTYxMTUy.txt",
   "links": [
     {
-      "name": "ESPN 1 NL",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-379.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Server 2",
-      "link": "https://cdn7.zohanayaan.com:1686/hls/do88.m3u8?md5=o6EfSl0EAH7TXg_GYjdUqg&expires=1788119264|referer=https://forgemindly.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Server 3",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-242.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
