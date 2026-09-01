@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVBBSy1XLXZzLVRIQS1XMTc4ODI0NTcxMzAwMA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd",
+      "scheme": 0,
+      "api": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd",
+      "scheme": 0,
+      "api": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy (HIN)",
+      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy (ENG)",
+      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

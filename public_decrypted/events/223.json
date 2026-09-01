@@ -1,51 +1,44 @@
 {
   "id": 223,
-  "order_index": 49,
+  "order_index": 36,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC Women's Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark"
   },
   "teamA": {
-    "name": "Famalicão",
-    "logo": "https://img.sofascore.com/api/v1/team/49531/image"
+    "name": "ENG-W",
+    "logo": "https://img.sofascore.com/api/v1/team/213121/image"
   },
   "teamB": {
-    "name": "Gil Vicente",
-    "logo": "https://img.sofascore.com/api/v1/team/3010/image"
+    "name": "IRE-W",
+    "logo": "https://img.sofascore.com/api/v1/team/213116/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUZhbWFsaWPDo28tdnMtR2lsIFZpY2VudGUxNzg4MDg0ODkxODg0.txt",
+  "date": "01/09/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/SUNDIFdvbWVuJ3MgQ2hhbXBpb25zaGlwLUVORy1XLXZzLUlSRS1XMTc4ODI2NTgxNTUyNw.txt",
   "links": [
     {
-      "name": "SPORT TV HD",
-      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+      "name": "WILLOW - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yrscyfwlvn/out/v1/628a756f974142e6868e73adbb2bf485/cenc.mpd",
+      "scheme": 0,
+      "api": "2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY CRICKET - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "Cosmote Sport",
-      "link": "",
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yrscyfwlvn/out/v1/628a756f974142e6868e73adbb2bf485/cenc.mpd",
       "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-624.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Sport TV1",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-49.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Low Server ",
-      "link": "http://193.47.62.58/hls/GVVV4A.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
+      "api": "2a665d2f84c21a7707dd198b0a7aba9e:59c4e9ff29d18f72ebbac405f6a0ded6",
       "tokenApi": ""
     }
   ]
