@@ -1,46 +1,31 @@
 {
   "id": 207,
-  "order_index": 58,
+  "order_index": 20,
   "eventDetails": {
     "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Utrecht",
-    "logo": "https://img.sofascore.com/api/v1/team/2948/image"
+    "name": "Sheffield Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/15/image"
   },
   "teamB": {
-    "name": "PSV",
-    "logo": "https://img.sofascore.com/api/v1/team/2952/image"
+    "name": "Bolton",
+    "logo": "https://img.sofascore.com/api/v1/team/5/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "10:15:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVXRyZWNodC12cy1QU1YxNzg4MDg0MjU5OTM5.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVNoZWZmaWVsZCBVdGQtdnMtQm9sdG9uMTc4ODI0NTg4MjE3Mg.txt",
   "links": [
     {
-      "name": "SportDigital Fussball",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN BR FHD",
-      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
-      "scheme": 0,
-      "api": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://live.vivo200.com/live/sd-1-4552178.m3u8?txSecret=74b5e1a384c46d553a17d0c961264e50&txTime=6A9414BD|Referer=https://player.online909.com/",
+      "name": "Cricfy Live",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-59.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

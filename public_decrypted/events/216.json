@@ -1,38 +1,30 @@
 {
   "id": 216,
-  "order_index": 42,
+  "order_index": 29,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "category": "Cricket",
+    "eventName": "European T20 Premier League",
+    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
   },
   "teamA": {
-    "name": "Córdoba",
-    "logo": "https://img.sofascore.com/api/v1/team/2850/image"
+    "name": "European T20 League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
   },
   "teamB": {
-    "name": "Granada",
-    "logo": "https://img.sofascore.com/api/v1/team/33779/image"
+    "name": "European T20 League",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItQ8OzcmRvYmEtdnMtR3JhbmFkYTE3ODgwODQ4OTE4ODM.txt",
+  "date": "01/09/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/RXVyb3BlYW4gVDIwIFByZW1pZXIgTGVhZ3VlLUV1cm9wZWFuIFQyMCBMZWFndWUtdnMtRXVyb3BlYW4gVDIwIExlYWd1ZTE3ODgyNTgyMjQ4MzA.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
-    },
-    {
-      "name": "LALIGA TV",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-539.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+      "scheme": 0
     }
   ]
 }

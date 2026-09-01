@@ -1,46 +1,28 @@
 {
   "id": 215,
-  "order_index": 41,
+  "order_index": 28,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Samsunspor",
-    "logo": "https://img.sofascore.com/api/v1/team/3053/image"
+    "name": "Real Sociedad",
+    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
   },
   "teamB": {
-    "name": "Fenerbahçe",
-    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
+    "name": "Celta",
+    "logo": "https://img.sofascore.com/api/v1/team/2821/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1TYW1zdW5zcG9yLXZzLUZlbmVyYmFow6dlMTc4ODA4NDg5MTg4Mw.txt",
+  "date": "03/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLVJlYWwgU29jaWVkYWQtdnMtQ2VsdGExNzg4MjQ2MDk4MjM4.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "http://193.47.62.41/hls/UQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "beIN Sports AR",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-92.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Sport Klub 5",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-170.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

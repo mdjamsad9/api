@@ -1,46 +1,28 @@
 {
   "id": 200,
-  "order_index": 26,
+  "order_index": 13,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "teamB": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "23:20:00",
-  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtUmVkczE3ODgwODA4MzEwNjE.txt",
+  "date": "02/09/2026",
+  "time": "01:40:00",
+  "links_metadata_path": "pro/TUxCLURpYW1vbmRiYWNrcy12cy1QaGlsbGllczE3ODgyNDU3NTc3MTg.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "MLB League Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-16.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "RDS2 CA",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-840.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,28 +1,31 @@
 {
   "id": 219,
-  "order_index": 70,
+  "order_index": 32,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "FC Andorra",
-    "logo": "https://img.sofascore.com/api/v1/team/324871/image"
+    "name": "Preston",
+    "logo": "https://img.sofascore.com/api/v1/team/21/image"
   },
   "teamB": {
-    "name": "Eibar",
-    "logo": "https://img.sofascore.com/api/v1/team/2839/image"
+    "name": "Bristol City",
+    "logo": "https://img.sofascore.com/api/v1/team/58/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItRkMgQW5kb3JyYS12cy1FaWJhcjE3ODgwODQ4OTE4ODM.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVByZXN0b24tdnMtQnJpc3RvbCBDaXR5MTc4ODI1OTAxMTMyMQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy LIVE ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-55.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "id": 214,
-  "order_index": 65,
+  "order_index": 27,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
   },
   "teamA": {
-    "name": "Telstar",
-    "logo": "https://img.sofascore.com/api/v1/team/2972/image"
+    "name": "SKN",
+    "logo": "https://img.sofascore.com/api/v1/team/193209/image"
   },
   "teamB": {
-    "name": "Ajax",
-    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    "name": "BT",
+    "logo": "https://img.sofascore.com/api/v1/team/187795/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "14:45:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVGVsc3Rhci12cy1BamF4MTc4ODA4NDg5MTg4Mw.txt",
+  "date": "01/09/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLVNLTi12cy1CVDE3ODgyNDU5MTI2Nzk.txt",
   "links": [
     {
       "name": "Link 1",

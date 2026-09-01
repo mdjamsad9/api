@@ -1,46 +1,28 @@
 {
   "id": 194,
-  "order_index": 20,
+  "order_index": 7,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "Womens Asia Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
   },
   "teamA": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "PAK-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187808/image"
   },
   "teamB": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "THA-W",
+    "logo": "https://img.sofascore.com/api/v1/team/446070/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "17:40:00",
-  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1Sb3lhbHMxNzg4MDgwODMxMDYx.txt",
+  "date": "01/09/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVBBSy1XLXZzLVRIQS1XMTc4ODI0NTcxMzAwMA.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/55564/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "MLB League Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-30.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

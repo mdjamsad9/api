@@ -1,31 +1,31 @@
 {
   "id": 218,
-  "order_index": 69,
+  "order_index": 31,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
   },
   "teamA": {
-    "name": "Nacional",
-    "logo": "https://img.sofascore.com/api/v1/team/3013/image"
+    "name": "Leicester",
+    "logo": "https://img.sofascore.com/api/v1/team/31/image"
   },
   "teamB": {
-    "name": "Estrela Amadora",
-    "logo": "https://img.sofascore.com/api/v1/team/3035/image"
+    "name": "Plymouth",
+    "logo": "https://img.sofascore.com/api/v1/team/71/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "14:30:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLU5hY2lvbmFsLXZzLUVzdHJlbGEgQW1hZG9yYTE3ODgwODQ4OTE4ODM.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1MZWljZXN0ZXItdnMtUGx5bW91dGgxNzg4MjU4NDE1NTU4.txt",
   "links": [
     {
-      "name": "Sport TV1",
+      "name": "Cricfy Live",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-49.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-107.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

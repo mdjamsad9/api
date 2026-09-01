@@ -1,60 +1,45 @@
 {
   "id": 201,
-  "order_index": 27,
+  "order_index": 14,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "17:40:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Eb2RnZXJzMTc4ODA4MDgzMTA2MQ.txt",
+  "date": "01/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtR2lhbnRzMTc4ODI0NTc1NzcxOA.txt",
   "links": [
-    {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/55560/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
     {
       "name": "MLB League Pass",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-110.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-3.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     },
     {
-      "name": "Spectrum LA",
+      "name": "NBCS Bay",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-764.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-753.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "SPORT1+ DE",
+      "name": "SportsNet ",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-640.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-922.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

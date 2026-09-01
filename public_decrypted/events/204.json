@@ -1,46 +1,45 @@
 {
   "id": 204,
-  "order_index": 30,
+  "order_index": 17,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "teamB": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "17:35:00",
-  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1Sb2NraWVzMTc4ODA4MDgzMTA2MQ.txt",
+  "date": "01/09/2026",
+  "time": "22:45:00",
+  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtTWFyaW5lcnMxNzg4MjQ1NzU3NzE4.txt",
   "links": [
-    {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/55559/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
     {
       "name": "MLB League Pass",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-22.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-6.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     },
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "NESN USA",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-762.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Sportsnet One",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-411.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }

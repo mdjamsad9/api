@@ -1,45 +1,38 @@
 {
   "id": 208,
-  "order_index": 59,
+  "order_index": 21,
   "eventDetails": {
     "category": "Football",
-    "eventName": "2. Bundesliga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
   },
   "teamA": {
-    "name": "Darmstadt",
-    "logo": "https://img.sofascore.com/api/v1/team/2576/image"
+    "name": "HEBC Hamburg",
+    "logo": "https://img.sofascore.com/api/v1/team/291525/image"
   },
   "teamB": {
-    "name": "Hannover",
-    "logo": "https://img.sofascore.com/api/v1/team/2541/image"
+    "name": "Dortmund",
+    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "11:30:00",
-  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1EYXJtc3RhZHQtdnMtSGFubm92ZXIxNzg4MDg0ODQ5MDI1.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLUhFQkMgSGFtYnVyZy12cy1Eb3J0bXVuZDE3ODgyNDU4ODIxNzM.txt",
   "links": [
     {
-      "name": "beIN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "tokenApi": ""
-    },
-    {
-      "name": "BUNDESLIGA HD",
-      "link": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Bundesliga 3",
+      "name": "AD Sports",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-947.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-600.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Digi Sport 2",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-401.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

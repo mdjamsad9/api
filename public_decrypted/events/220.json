@@ -1,38 +1,31 @@
 {
   "id": 220,
-  "order_index": 71,
+  "order_index": 33,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Ligue 1",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Rennes",
-    "logo": "https://img.sofascore.com/api/v1/team/1658/image"
+    "name": "Swansea",
+    "logo": "https://img.sofascore.com/api/v1/team/74/image"
   },
   "teamB": {
-    "name": "Le Mans",
-    "logo": "https://img.sofascore.com/api/v1/team/1672/image"
+    "name": "Watford",
+    "logo": "https://img.sofascore.com/api/v1/team/24/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "15:15:00",
-  "links_metadata_path": "pro/TGlndWUgMS1SZW5uZXMtdnMtTGUgTWFuczE3ODgwODQ4OTE4ODM.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVN3YW5zZWEtdnMtV2F0Zm9yZDE3ODgyNTkwMTEzMjE.txt",
   "links": [
     {
-      "name": "Cricfy Live",
+      "name": "Cricfy LIVE ",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/ligue1\\/2026-08-30\\/ren-mns\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Arena Sport",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-940.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-68.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

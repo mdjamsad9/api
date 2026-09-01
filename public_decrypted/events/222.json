@@ -1,28 +1,38 @@
 {
   "id": 222,
-  "order_index": 73,
+  "order_index": 35,
   "eventDetails": {
     "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Feyenoord",
-    "logo": "https://img.sofascore.com/api/v1/team/2959/image"
+    "name": "Portsmouth",
+    "logo": "https://img.sofascore.com/api/v1/team/2/image"
   },
   "teamB": {
-    "name": "ADO",
-    "logo": "https://img.sofascore.com/api/v1/team/2966/image"
+    "name": "Derby",
+    "logo": "https://img.sofascore.com/api/v1/team/27/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "12:30:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtRmV5ZW5vb3JkLXZzLUFETzE3ODgwODQ4OTE4ODM.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVBvcnRzbW91dGgtdnMtRGVyYnkxNzg4MjU5MDExMzIx.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy LIVE ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-76.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "V Spors",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-1.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

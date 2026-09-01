@@ -1,31 +1,31 @@
 {
   "id": 221,
-  "order_index": 72,
+  "order_index": 34,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Casa Pia",
-    "logo": "https://img.sofascore.com/api/v1/team/36365/image"
+    "name": "Lincoln",
+    "logo": "https://img.sofascore.com/api/v1/team/92/image"
   },
   "teamB": {
-    "name": "Moreirense",
-    "logo": "https://img.sofascore.com/api/v1/team/3014/image"
+    "name": "Blackburn",
+    "logo": "https://img.sofascore.com/api/v1/team/46/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUNhc2EgUGlhLXZzLU1vcmVpcmVuc2UxNzg4MDg0ODkxODgz.txt",
+  "date": "01/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUxpbmNvbG4tdnMtQmxhY2tidXJuMTc4ODI1OTAxMTMyMQ.txt",
   "links": [
     {
-      "name": "Sport TV2 PT",
+      "name": "Cricfy LIVE ",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-74.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-77.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": 199,
-  "order_index": 25,
+  "order_index": 12,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -11,42 +11,18 @@
     "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "teamB": {
-    "name": "Padres",
-    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/08/2026",
-  "time": "17:40:00",
-  "links_metadata_path": "pro/TUxCLVJheXMtdnMtUGFkcmVzMTc4ODA4MDgzMTA2MQ.txt",
+  "date": "01/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVJheXMtdnMtTWV0czE3ODgyNDU3NTc3MTg.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/55565/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live",
-      "link": "https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "MLB League Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-151.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "MLB Network",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-399.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
