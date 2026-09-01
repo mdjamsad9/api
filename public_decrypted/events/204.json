@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtTWFyaW5lcnMxNzg4MjQ1NzU3NzE4.txt",
   "links": [
     {
+      "name": "Cricfy MLB",
+      "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "MLB League Pass",
       "link": "",
       "scheme": 0,

@@ -1,38 +1,28 @@
 {
   "id": 233,
-  "order_index": 10,
+  "order_index": 46,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "category": "Cricket",
+    "eventName": "Youth Test International - m",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/22591/image/dark"
   },
   "teamA": {
-    "name": "Celta Fortuna",
-    "logo": "https://img.sofascore.com/api/v1/team/24336/image"
+    "name": "ENG-U19",
+    "logo": "https://img.sofascore.com/api/v1/team/213107/image"
   },
   "teamB": {
-    "name": "Castellón",
-    "logo": "https://img.sofascore.com/api/v1/team/5067/image"
+    "name": "PAK-U19",
+    "logo": "https://img.sofascore.com/api/v1/team/213104/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItQ2VsdGEgRm9ydHVuYS12cy1DYXN0ZWxsw7NuMTc4ODE1OTQ4NDU5Ng.txt",
+  "date": "02/09/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/WW91dGggVGVzdCBJbnRlcm5hdGlvbmFsIC0gbS1FTkctVTE5LXZzLVBBSy1VMTkxNzg4MjkzOTc2NDQ3.txt",
   "links": [
     {
-      "name": "LALIGA TV",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-539.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "GOL Spain",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-530.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

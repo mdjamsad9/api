@@ -1,45 +1,31 @@
 {
   "id": 230,
-  "order_index": 56,
+  "order_index": 43,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Burgos",
-    "logo": "https://img.sofascore.com/api/v1/team/2854/image"
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
   },
   "teamB": {
-    "name": "Real Sociedad B",
-    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
+    "name": "Orioles",
+    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItQnVyZ29zLXZzLVJlYWwgU29jaWVkYWQgQjE3ODgxNTk0ODQ1OTY.txt",
+  "date": "02/09/2026",
+  "time": "00:40:00",
+  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtT3Jpb2xlczE3ODgyOTE3OTg5OTA.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion - AQ",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "name": "Cricfy MLB",
+      "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
       "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "api": "",
       "tokenApi": ""
-    },
-    {
-      "name": "SD Stream",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-186.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "LALIGA TV",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-539.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

@@ -1,31 +1,28 @@
 {
   "id": 231,
-  "order_index": 57,
+  "order_index": 44,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Serie A",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Atalanta",
-    "logo": "https://img.sofascore.com/api/v1/team/2686/image"
+    "name": "Ipswich",
+    "logo": "https://img.sofascore.com/api/v1/team/32/image"
   },
   "teamB": {
-    "name": "Bologna",
-    "logo": "https://img.sofascore.com/api/v1/team/2685/image"
+    "name": "Liverpool",
+    "logo": "https://img.sofascore.com/api/v1/team/44/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/U2VyaWUgQS1BdGFsYW50YS12cy1Cb2xvZ25hMTc4ODE1OTQ4NDU5Ng.txt",
+  "date": "04/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtSXBzd2ljaC12cy1MaXZlcnBvb2wxNzg4MjkyNjAxNjg3.txt",
   "links": [
     {
-      "name": "TV4 Sport",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-704.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

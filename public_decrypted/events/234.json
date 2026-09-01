@@ -1,108 +1,59 @@
 {
   "id": 234,
-  "order_index": 0,
+  "order_index": 47,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "LaLiga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+    "category": "Boxing",
+    "eventName": "WWE NXT",
+    "eventLogo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
   },
   "teamA": {
-    "name": "Barcelona",
-    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+    "name": "NXT",
+    "logo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
   },
   "teamB": {
-    "name": "Rayo Vallecano",
-    "logo": "https://img.sofascore.com/api/v1/team/2818/image"
+    "name": "NXT",
+    "logo": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png"
   },
   "visible": true,
-  "priority": 1,
-  "date": "31/08/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhLUJhcmNlbG9uYS12cy1SYXlvIFZhbGxlY2FubzE3ODgxNTk0ODQ1OTY.txt",
+  "priority": -1,
+  "date": "02/09/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/V1dFIE5YVC1OWFQtdnMtTlhUMTc4ODI5NTQwMDUxMA.txt",
   "links": [
     {
-      "name": "TSN SPORTS FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIER SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
-    },
-    {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE FHD",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-      "tokenApi": ""
-    },
-    {
-      "name": "CAZE TV FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN ENGLISH HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55600/load-playlist?|Referer=https://gooz.aapmains.net",
+      "name": "Cricfy NXT Live",
+      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "ESPN DEPORTES HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55598/load-playlist?|Referer=https://gooz.aapmains.net",
+      "name": "CW PIX",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-280.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "TSN SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/55601/load-playlist?|Referer=https://gooz.aapmains.net",
+      "name": "CW USA",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-300.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "M+ LaLiga HD",
-      "link": "https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8",
+      "name": "SuperSport",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-412.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "HD SERVER",
-      "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|referer=https://streame.center&origin=https://streame.center&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0",
+      "name": " Variety 3",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CCTV5 HD",
-      "link": "https://www.rtmpcdn.com/live/cctv5.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.51/hls/P333A.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-418.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
