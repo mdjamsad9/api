@@ -1,0 +1,28 @@
+{
+  "id": 261,
+  "order_index": 74,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+  },
+  "teamA": {
+    "name": "TKR",
+    "logo": "https://img.sofascore.com/api/v1/team/187824/image"
+  },
+  "teamB": {
+    "name": "ABF",
+    "logo": "https://img.sofascore.com/api/v1/team/514842/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "02/09/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLVRLUi12cy1BQkYxNzg4MzM0MDk5Njcx.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

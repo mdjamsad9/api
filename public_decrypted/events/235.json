@@ -1,38 +1,28 @@
 {
   "id": 235,
-  "order_index": 61,
+  "order_index": 48,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Premier League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+    "eventName": "DFB Pokal",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark"
   },
   "teamA": {
-    "name": "Aston Villa",
-    "logo": "https://img.sofascore.com/api/v1/team/40/image"
+    "name": "Osnabrück",
+    "logo": "https://img.sofascore.com/api/v1/team/2581/image"
   },
   "teamB": {
-    "name": "Arsenal",
-    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    "name": "Bayern",
+    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQXN0b24gVmlsbGEtdnMtQXJzZW5hbDE3ODgxNTk0ODQ1OTY.txt",
+  "date": "02/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/REZCIFBva2FsLU9zbmFicsO8Y2stdnMtQmF5ZXJuMTc4ODMzMjg2MDE2NA.txt",
   "links": [
     {
-      "name": "V Sport Premium",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-572.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Astro Grandstand",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-123.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

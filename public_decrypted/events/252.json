@@ -1,6 +1,6 @@
 {
   "id": 252,
-  "order_index": 25,
+  "order_index": 65,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
@@ -16,31 +16,16 @@
   },
   "visible": true,
   "priority": -1,
-  "date": "01/09/2026",
-  "time": "00:40:00",
-  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtT3Jpb2xlczE3ODgxNzg5NTMyNDU.txt",
+  "date": "02/09/2026",
+  "time": "19:10:00",
+  "links_metadata_path": "pro/TUxCLVJvY2tpZXMtdnMtT3Jpb2xlczE3ODgzMzQwMDgwNzU.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "Cricfy MLB",
+      "link": "https://edgestream4.pro/hls/Czajafjihafch18.m3u8|referer=https://streame.center/",
       "scheme": 0,
       "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "MASN USA",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-829.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "MLB League Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-11.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": ""
     }
   ]
 }

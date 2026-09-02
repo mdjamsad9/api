@@ -1,31 +1,28 @@
 {
   "id": 239,
-  "order_index": 65,
+  "order_index": 52,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "T20I Tri-Series in Namibia",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "NAM",
-    "logo": "https://img.sofascore.com/api/v1/team/199275/image"
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
   },
   "teamB": {
-    "name": "ZIM",
-    "logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/08/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/VDIwSSBUcmktU2VyaWVzIGluIE5hbWliaWEtTkFNLXZzLVpJTTE3ODgxNjMxNDE2NzY.txt",
+  "date": "02/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJ1cm5sZXktdnMtTWlkZGxlc2Jyb3VnaDE3ODgzMzI4NjAxNjQ.txt",
   "links": [
     {
-      "name": "FC  - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

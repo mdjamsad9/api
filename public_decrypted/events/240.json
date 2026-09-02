@@ -1,73 +1,59 @@
 {
   "id": 240,
-  "order_index": 66,
+  "order_index": 53,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Womens Asia Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
+    "category": "Football",
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
   },
   "teamA": {
-    "name": "BAN-W",
-    "logo": "https://img.sofascore.com/api/v1/team/187809/image"
+    "name": "Sassuolo",
+    "logo": "https://img.sofascore.com/api/v1/team/2793/image"
   },
   "teamB": {
-    "name": "INA-W",
-    "logo": "https://img.sofascore.com/api/v1/team/454472/image"
+    "name": "Frosinone",
+    "logo": "https://img.sofascore.com/api/v1/team/2801/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/08/2026",
-  "time": "14:30:00",
-  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLUJBTi1XLXZzLUlOQS1XMTc4ODE2MzE0MTY3Ng.txt",
+  "date": "02/09/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVNhc3N1b2xvLXZzLUZyb3Npbm9uZTE3ODgzMzI4NjAxNjQ.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd",
+      "name": "PREMIER SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
       "scheme": 0,
-      "api": "3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe",
+      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
       "tokenApi": ""
     },
     {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d96lm9zm7i/out/v1/9edbcb2484424d6382854ae9ba844623/cenc.mpd",
+      "name": "D SPORTS  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "3dd87a29b6a6234bbaa189ddbefbd34d:350383bf6fcb2018e55bb1d02ab10dfe",
+      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
       "tokenApi": ""
     },
     {
-      "name": "Cricfy - English",
-      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "name": "ITALIA 1  - AQ",
+      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+      "scheme": 0,
+      "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+      "tokenApi": ""
+    },
+    {
+      "name": "Viaplay 1",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-451.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "Cricfy - Hindi",
-      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "name": "Arena 1 prem",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy - Tamil",
-      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy - Telugu",
-      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy - Kannada",
-      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-134.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
