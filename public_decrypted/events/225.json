@@ -21,22 +21,57 @@
   "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVNMLVctdnMtSU5BLVcxNzg4Mjg3MTYxMTUy.txt",
   "links": [
     {
-      "name": "WILLOW HD - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "WILLOW  - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qakii0966h/out/v1/126e3a7da95544e788abfeaba16bcc26/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4",
+      "api": "c2742087a88dea969b5ece23a12ebd3d:ecf606a690163ef1f4a59bfc8ffacff3",
       "tokenApi": ""
     },
     {
-      "name": "WILLOW - AQ",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd",
+      "name": "WILLOW ALT  - AQ",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qakii0966h/out/v1/126e3a7da95544e788abfeaba16bcc26/cenc.mpd",
       "scheme": 0,
-      "api": "b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4",
+      "api": "c2742087a88dea969b5ece23a12ebd3d:ecf606a690163ef1f4a59bfc8ffacff3",
       "tokenApi": ""
     },
     {
-      "name": "Sony - English",
-      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "name": "T SPORTS - AQ",
+      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv - English",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv - Hindi",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0209/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv - Tamil",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0209/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv - Telugu",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0209/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv - Kannada",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0209/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/TUxCLVJveWFscy12cy1NYXJsaW5zMTc4ODMzNDAwODA3NQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Cricfy MLB",
+      "link": "https://edgestream3.pro/hls/kjhfzua25.m3u8|referer=https://streame.center/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
