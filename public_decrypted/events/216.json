@@ -17,9 +17,16 @@
   "visible": true,
   "priority": -1,
   "date": "03/09/2026",
-  "time": "09:30:00",
+  "time": "13:15:00",
   "links_metadata_path": "pro/RXVyb3BlYW4gVDIwIFByZW1pZXIgTGVhZ3VlLUV1cm9wZWFuIFQyMCBMZWFndWUtdnMtRXVyb3BlYW4gVDIwIExlYWd1ZTE3ODgyNTgyMjQ4MzA.txt",
   "links": [
+    {
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lu8bprbafg/out/v1/470668b5e98043e6b64e91052f10bcf2/cenc.mpd",
+      "scheme": 0,
+      "api": "6adfff4ab1f59be0effdbfc85e490b2c:2c7bcb9831fa6dc53cb66d980d245108",
+      "tokenApi": ""
+    },
     {
       "name": "TNT SPORTS  - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -28,17 +35,10 @@
       "tokenApi": ""
     },
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6",
-      "tokenApi": ""
-    },
-    {
       "name": "WILLOW - ALT",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lu8bprbafg/out/v1/470668b5e98043e6b64e91052f10bcf2/cenc.mpd",
       "scheme": 0,
-      "api": "2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6",
+      "api": "6adfff4ab1f59be0effdbfc85e490b2c:2c7bcb9831fa6dc53cb66d980d245108",
       "tokenApi": ""
     },
     {

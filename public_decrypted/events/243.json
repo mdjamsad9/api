@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLVVkaW5lc2UtdnMtVmVuZXppYTE3ODgzMzI4NjAxNjQ.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xnacl1gppo/out/v1/0d3ec93be78a4d15bfe3f0d864c4091e/349182fb-fa1c-40a6-af04-483db3c51985-cenc.mpd?aws_sessionId=a9f3bdd2-4810-49b7-b5ef-634ed6458522",
+      "scheme": 0,
+      "api": "9e0bce39fae4d3bc9e1978e63fd11709:53333b2363f105f95bee47836024d1d3",
+      "tokenApi": ""
+    },
+    {
       "name": "PREMIER SPORTS - AQ",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
@@ -68,6 +75,27 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-620.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "PARAMOUNT+ HD",
+      "link": "https://netanjahu.hls.st/t/db41bd0cd89da8c804aba9ff7a01539d/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "PREMIER SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55671/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "ARENA PREMIUM HD",
+      "link": "https://netanjahu.hls.st/t/703a37b34bcbd91bb9a07f6e9894469d/index.m3u8|referer=https://iplayer.is/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

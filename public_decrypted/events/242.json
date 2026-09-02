@@ -26,6 +26,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-108.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://edgestream2.pro/hls/ueyeztrazb4.m3u8|referer=https://streame.center/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
