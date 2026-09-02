@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/REZCIFBva2FsLU9zbmFicsO8Y2stdnMtQmF5ZXJuMTc4ODMzMjg2MDE2NA.txt",
   "links": [
     {
+      "name": "PREMIER SPORTS - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+      "tokenApi": ""
+    },
+    {
+      "name": "AD SPORTS  - AQ",
+      "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+      "scheme": 0,
+      "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4550522.m3u8?txSecret=4445a6f187809063a8f3a7b65ddcb1ff&txTime=6A9881E7|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "ESPN Brazil",
       "link": "",
       "scheme": 0,
@@ -47,6 +68,20 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/2.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://www.rtmpcdn.com/live/f38e999b-fb18-4b5d-bde6-4edf50bc0664.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/QTTTAAAQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

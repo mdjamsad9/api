@@ -21,6 +21,27 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU1pbGx3YWxsLXZzLVdyZXhoYW0xNzg4MzMyODYwMTY0.txt",
   "links": [
     {
+      "name": "PARAMOUNT+  - AQ",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nwk6lxu4hw/out/v1/ba78c8d57f1a4690baae654b993eb416/36682804-2807-40cc-8522-6face72dfdad-cenc.mpd?aws_sessionId=567271fb-d585-4d34-b00c-acccd3947eed|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "9aad66c930d5635a6c6f1bacd755e3b1:070e295be4ae8c5eb7481fc20721244d",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55680/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4563550.m3u8?txSecret=ae58db1f1e720fa151230b45ecb4cf5d&txTime=6A98821C|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "",
       "scheme": 0,

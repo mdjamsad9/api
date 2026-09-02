@@ -21,14 +21,21 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1DaGFybHRvbjE3ODgzMzI4NjAxNjQ.txt",
   "links": [
     {
-      "name": "Cricfy HD",
-      "link": "",
+      "name": "Cricfy Live",
+      "link": "https://chatgpt.hereisman.net/playlist/55679/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-68.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     },
     {
-      "name": "Cricfy LIVE",
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4563549.m3u8?txSecret=51346aa95a1e7aea89043e84820f73b4&txTime=6A98826C|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy HD",
       "link": "",
       "scheme": 0,
       "api": "",

@@ -21,6 +21,20 @@
   "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVFQUi12cy1DYXJkaWZmMTc4ODMzMjg2MDE2NA.txt",
   "links": [
     {
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/6nec92sh2y/out/v1/bf826c6cf866419dbff941d10055e19e/76f5f4c9-fe38-4c5e-903e-12e73ed99caf-cenc.mpd?aws_sessionId=4b09027b-4864-4b4d-bfc6-3f5ac54779e6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "b4d330d99a6790ad06c15f540841b689:e509d397ee99d6d818fa28eb4e642329",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS - AQ",
+      "link": "https://chatgpt.hereisman.net/playlist/55631/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
       "link": "",
       "scheme": 0,

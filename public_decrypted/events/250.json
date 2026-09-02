@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtTWFyaW5lcnMxNzg4MzM0MDA4MDc1.txt",
   "links": [
     {
+      "name": "Cricfy Server ",
+      "link": "https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/9cc1d5decd224ffb8e8a50d2fb055a5d/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy MLB",
       "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8|referer=https://streame.center/",
       "scheme": 0,
