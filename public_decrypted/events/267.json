@@ -1,0 +1,28 @@
+{
+  "id": 267,
+  "order_index": 80,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "Hibernian",
+    "logo": "https://img.sofascore.com/api/v1/team/2354/image"
+  },
+  "teamB": {
+    "name": "Hearts",
+    "logo": "https://img.sofascore.com/api/v1/team/2353/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "03/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtSGliZXJuaWFuLXZzLUhlYXJ0czE3ODg0MjI2MjEzMzU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

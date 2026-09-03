@@ -1,0 +1,28 @@
+{
+  "id": 265,
+  "order_index": 78,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Coppa Italia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark"
+  },
+  "teamA": {
+    "name": "Cagliari",
+    "logo": "https://img.sofascore.com/api/v1/team/2719/image"
+  },
+  "teamB": {
+    "name": "Verona",
+    "logo": "https://img.sofascore.com/api/v1/team/2701/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "03/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q29wcGEgSXRhbGlhLUNhZ2xpYXJpLXZzLVZlcm9uYTE3ODg0MjI2MjEzMzU.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 276,
+  "order_index": 89,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "Triple-A International League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19475/image/dark"
+  },
+  "teamA": {
+    "name": "Norfolk Tides",
+    "logo": "https://img.sofascore.com/api/v1/team/453311/image"
+  },
+  "teamB": {
+    "name": "Jacksonville Jumbo Shrimp",
+    "logo": "https://img.sofascore.com/api/v1/team/453453/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "03/09/2026",
+  "time": "16:05:00",
+  "links_metadata_path": "pro/VHJpcGxlLUEgSW50ZXJuYXRpb25hbCBMZWFndWUtTm9yZm9sayBUaWRlcy12cy1KYWNrc29udmlsbGUgSnVtYm8gU2hyaW1wMTc4ODQyMjcyMzQ0Ng.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

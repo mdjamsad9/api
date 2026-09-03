@@ -1,24 +1,24 @@
 {
-  "id": 262,
-  "order_index": 75,
+  "id": 266,
+  "order_index": 79,
   "eventDetails": {
     "category": "Football",
     "eventName": "Saudi Pro League",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Neom",
-    "logo": "https://img.sofascore.com/api/v1/team/530631/image"
+    "name": "Al Diriyah",
+    "logo": "https://img.sofascore.com/api/v1/team/853574/image"
   },
   "teamB": {
-    "name": "Al-Khaleej",
-    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
+    "name": "Al-Qadsiah",
+    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
   },
   "visible": true,
   "priority": -1,
   "date": "03/09/2026",
-  "time": "16:30:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1OZW9tLXZzLUFsLUtoYWxlZWoxNzg4NDIyNjIxMzM1.txt",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbCBEaXJpeWFoLXZzLUFsLVFhZHNpYWgxNzg4NDIyNjIxMzM1.txt",
   "links": [
     {
       "name": "Link 1",

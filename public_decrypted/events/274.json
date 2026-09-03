@@ -1,0 +1,28 @@
+{
+  "id": 274,
+  "order_index": 87,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "Triple-A Pacific Coast League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19476/image/dark"
+  },
+  "teamA": {
+    "name": "Albuquerque Isotopes",
+    "logo": "https://img.sofascore.com/api/v1/team/304259/image"
+  },
+  "teamB": {
+    "name": "Tacoma Rainiers",
+    "logo": "https://img.sofascore.com/api/v1/team/453407/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "03/09/2026",
+  "time": "18:05:00",
+  "links_metadata_path": "pro/VHJpcGxlLUEgUGFjaWZpYyBDb2FzdCBMZWFndWUtQWxidXF1ZXJxdWUgSXNvdG9wZXMtdnMtVGFjb21hIFJhaW5pZXJzMTc4ODQyMjcyMzQ0Ng.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
