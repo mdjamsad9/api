@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/SUNDIFdvbWVuJ3MgQ2hhbXBpb25zaGlwLUVORy1XLXZzLUlSRS1XMTc4ODMzMjg5OTQ2Mg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sgepjksrv8/out/v1/d4ec3fbb804e495b821b85bfe9eb4e10/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "004c07d225af5230505aa31027f31401:0fa40a08e1846cd63d72639e8e17ebdd",
+      "tokenApi": ""
+    },
+    {
+      "name": "SKY CRICKET - AQ",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX CRICKET HD",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

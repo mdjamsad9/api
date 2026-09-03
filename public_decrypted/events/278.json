@@ -21,8 +21,60 @@
   "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLUlORC1XLXZzLUhLLVcxNzg4NDI3NjE0NjI3.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/245vlp0ugx/out/v1/186ea1d5c56d45a4bada3369a9289586/cenc.mpd",
+      "scheme": 0,
+      "api": "c7190077c78e42f2a87b42cbdb898dbd:57ce4a26c1e0597de24481cd620c03d3",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "c7190077c78e42f2a87b42cbdb898dbd:57ce4a26c1e0597de24481cd620c03d3",
+      "scheme": 0,
+      "api": "c7190077c78e42f2a87b42cbdb898dbd:57ce4a26c1e0597de24481cd620c03d3",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS HD",
+      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - English",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0309/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8118e61e0f94ae3b4fdb179dfb08e763-1788442203163",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Hindi",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0309/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8118e61e0f94ae3b4fdb179dfb08e763-1788442203163",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Tamil",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0309/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8118e61e0f94ae3b4fdb179dfb08e763-1788442203163",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Telugu",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0309/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8118e61e0f94ae3b4fdb179dfb08e763-1788442203163",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Kannada",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0309/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8118e61e0f94ae3b4fdb179dfb08e763-1788442203163",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
