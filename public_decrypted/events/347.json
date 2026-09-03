@@ -1,0 +1,28 @@
+{
+  "id": 347,
+  "order_index": 160,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Brentford",
+    "logo": "https://img.sofascore.com/api/v1/team/50/image"
+  },
+  "teamB": {
+    "name": "Sunderland",
+    "logo": "https://img.sofascore.com/api/v1/team/41/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQnJlbnRmb3JkLXZzLVN1bmRlcmxhbmQxNzg4NDczOTA2OTMz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

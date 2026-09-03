@@ -1,0 +1,28 @@
+{
+  "id": 361,
+  "order_index": 174,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Schalke",
+    "logo": "https://img.sofascore.com/api/v1/team/2530/image"
+  },
+  "teamB": {
+    "name": "Bayern",
+    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1TY2hhbGtlLXZzLUJheWVybjE3ODg0NzM5MDY5MzQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

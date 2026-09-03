@@ -1,0 +1,28 @@
+{
+  "id": 326,
+  "order_index": 139,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Paderborn",
+    "logo": "https://img.sofascore.com/api/v1/team/2561/image"
+  },
+  "teamB": {
+    "name": "Freiburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2538/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1QYWRlcmJvcm4tdnMtRnJlaWJ1cmcxNzg4NDczOTA2OTMz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

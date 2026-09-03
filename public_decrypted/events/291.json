@@ -1,0 +1,28 @@
+{
+  "id": 291,
+  "order_index": 104,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+  },
+  "teamB": {
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLUJyYXZlczE3ODg0NzI1NzIwOTg.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

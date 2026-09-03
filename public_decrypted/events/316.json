@@ -1,0 +1,28 @@
+{
+  "id": 316,
+  "order_index": 129,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+  },
+  "teamA": {
+    "name": "Abha",
+    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
+  },
+  "teamB": {
+    "name": "Al-Ettifaq",
+    "logo": "https://img.sofascore.com/api/v1/team/34318/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BYmhhLXZzLUFsLUV0dGlmYXExNzg4NDczMjc0MjQw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

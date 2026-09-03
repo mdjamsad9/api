@@ -1,0 +1,28 @@
+{
+  "id": 325,
+  "order_index": 138,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "St Mirren",
+    "logo": "https://img.sofascore.com/api/v1/team/2359/image"
+  },
+  "teamB": {
+    "name": "Celtic",
+    "logo": "https://img.sofascore.com/api/v1/team/2352/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtU3QgTWlycmVuLXZzLUNlbHRpYzE3ODg0NzM5MDY5MzM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

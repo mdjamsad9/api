@@ -1,0 +1,28 @@
+{
+  "id": 315,
+  "order_index": 128,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Lyon",
+    "logo": "https://img.sofascore.com/api/v1/team/1649/image"
+  },
+  "teamB": {
+    "name": "Auxerre",
+    "logo": "https://img.sofascore.com/api/v1/team/1646/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MeW9uLXZzLUF1eGVycmUxNzg4NDczMjc0MjQw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

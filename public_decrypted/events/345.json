@@ -1,0 +1,28 @@
+{
+  "id": 345,
+  "order_index": 158,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+  },
+  "teamA": {
+    "name": "Rayo Vallecano",
+    "logo": "https://img.sofascore.com/api/v1/team/2818/image"
+  },
+  "teamB": {
+    "name": "R. Racing Club",
+    "logo": "https://img.sofascore.com/api/v1/team/2835/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/TGFMaWdhLVJheW8gVmFsbGVjYW5vLXZzLVIuIFJhY2luZyBDbHViMTc4ODQ3MzkwNjkzMw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

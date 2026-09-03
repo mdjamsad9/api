@@ -1,0 +1,28 @@
+{
+  "id": 321,
+  "order_index": 134,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Genoa",
+    "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+  },
+  "teamB": {
+    "name": "Como",
+    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1HZW5vYS12cy1Db21vMTc4ODQ3MzI3NDI0MA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

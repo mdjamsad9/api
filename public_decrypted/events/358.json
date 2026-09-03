@@ -1,0 +1,28 @@
+{
+  "id": 358,
+  "order_index": 171,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+  },
+  "teamA": {
+    "name": "Marítimo",
+    "logo": "https://img.sofascore.com/api/v1/team/3007/image"
+  },
+  "teamB": {
+    "name": "Benfica",
+    "logo": "https://img.sofascore.com/api/v1/team/3006/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLU1hcsOtdGltby12cy1CZW5maWNhMTc4ODQ3MzkwNjkzNA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

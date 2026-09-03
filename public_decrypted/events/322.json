@@ -1,0 +1,28 @@
+{
+  "id": 322,
+  "order_index": 135,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Bielefeld",
+    "logo": "https://img.sofascore.com/api/v1/team/2540/image"
+  },
+  "teamB": {
+    "name": "St. Pauli",
+    "logo": "https://img.sofascore.com/api/v1/team/2526/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1CaWVsZWZlbGQtdnMtU3QuIFBhdWxpMTc4ODQ3MzI3NDI0MA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

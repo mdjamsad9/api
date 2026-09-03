@@ -1,0 +1,28 @@
+{
+  "id": 352,
+  "order_index": 165,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Hull",
+    "logo": "https://img.sofascore.com/api/v1/team/96/image"
+  },
+  "teamB": {
+    "name": "Aston Villa",
+    "logo": "https://img.sofascore.com/api/v1/team/40/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtSHVsbC12cy1Bc3RvbiBWaWxsYTE3ODg0NzM5MDY5MzM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

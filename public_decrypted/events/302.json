@@ -1,0 +1,28 @@
+{
+  "id": 302,
+  "order_index": 115,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "ICC Women's Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark"
+  },
+  "teamA": {
+    "name": "ENG-W",
+    "logo": "https://img.sofascore.com/api/v1/team/213121/image"
+  },
+  "teamB": {
+    "name": "IRE-W",
+    "logo": "https://img.sofascore.com/api/v1/team/213116/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/09/2026",
+  "time": "09:30:00",
+  "links_metadata_path": "pro/SUNDIFdvbWVuJ3MgQ2hhbXBpb25zaGlwLUVORy1XLXZzLUlSRS1XMTc4ODQ3MzAxMzU3Mw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

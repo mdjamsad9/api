@@ -1,0 +1,28 @@
+{
+  "id": 348,
+  "order_index": 161,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Wolfsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2524/image"
+  },
+  "teamB": {
+    "name": "Cottbus",
+    "logo": "https://img.sofascore.com/api/v1/team/2532/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Xb2xmc2J1cmctdnMtQ290dGJ1czE3ODg0NzM5MDY5MzM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

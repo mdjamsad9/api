@@ -1,0 +1,28 @@
+{
+  "id": 300,
+  "order_index": 113,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "T20I Tri-Series in Namibia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark"
+  },
+  "teamA": {
+    "name": "NAM",
+    "logo": "https://img.sofascore.com/api/v1/team/199275/image"
+  },
+  "teamB": {
+    "name": "SA",
+    "logo": "https://img.sofascore.com/api/v1/team/187747/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/VDIwSSBUcmktU2VyaWVzIGluIE5hbWliaWEtTkFNLXZzLVNBMTc4ODQ3Mjg4ODYwMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

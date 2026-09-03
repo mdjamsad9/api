@@ -1,0 +1,28 @@
+{
+  "id": 308,
+  "order_index": 121,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Stuttgart",
+    "logo": "https://img.sofascore.com/api/v1/team/2677/image"
+  },
+  "teamB": {
+    "name": "Köln",
+    "logo": "https://img.sofascore.com/api/v1/team/2671/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1TdHV0dGdhcnQtdnMtS8O2bG4xNzg4NDczMjc0MjQw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

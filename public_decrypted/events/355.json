@@ -1,0 +1,28 @@
+{
+  "id": 355,
+  "order_index": 168,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
+  },
+  "teamA": {
+    "name": "Leverkusen",
+    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+  },
+  "teamB": {
+    "name": "Union Berlin",
+    "logo": "https://img.sofascore.com/api/v1/team/2547/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1MZXZlcmt1c2VuLXZzLVVuaW9uIEJlcmxpbjE3ODg0NzM5MDY5MzQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

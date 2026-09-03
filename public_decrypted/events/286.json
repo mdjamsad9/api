@@ -1,0 +1,28 @@
+{
+  "id": 286,
+  "order_index": 99,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+  },
+  "teamB": {
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "22:45:00",
+  "links_metadata_path": "pro/TUxCLVBpcmF0ZXMtdnMtQW5nZWxzMTc4ODQ3MjU3MjA5OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

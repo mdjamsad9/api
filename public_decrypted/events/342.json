@@ -1,0 +1,28 @@
+{
+  "id": 342,
+  "order_index": 155,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Kaiserslautern",
+    "logo": "https://img.sofascore.com/api/v1/team/2675/image"
+  },
+  "teamB": {
+    "name": "Darmstadt",
+    "logo": "https://img.sofascore.com/api/v1/team/2576/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1LYWlzZXJzbGF1dGVybi12cy1EYXJtc3RhZHQxNzg4NDczOTA2OTMz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

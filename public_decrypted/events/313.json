@@ -1,0 +1,28 @@
+{
+  "id": 313,
+  "order_index": 126,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+  },
+  "teamA": {
+    "name": "Al-Taawoun",
+    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
+  },
+  "teamB": {
+    "name": "Al-Fateh",
+    "logo": "https://img.sofascore.com/api/v1/team/56023/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "15:55:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1UYWF3b3VuLXZzLUFsLUZhdGVoMTc4ODQ3MzI3NDI0MA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

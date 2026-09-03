@@ -1,0 +1,28 @@
+{
+  "id": 305,
+  "order_index": 118,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
+  },
+  "teamA": {
+    "name": "GUY",
+    "logo": "https://img.sofascore.com/api/v1/team/187823/image"
+  },
+  "teamB": {
+    "name": "SKN",
+    "logo": "https://img.sofascore.com/api/v1/team/193209/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLUdVWS12cy1TS04xNzg4NDczMDEzNTcz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

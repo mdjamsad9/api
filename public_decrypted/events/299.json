@@ -1,0 +1,28 @@
+{
+  "id": 299,
+  "order_index": 112,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "Womens Asia Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
+  },
+  "teamA": {
+    "name": "IND-W",
+    "logo": "https://img.sofascore.com/api/v1/team/213119/image"
+  },
+  "teamB": {
+    "name": "PAK-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187808/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLUlORC1XLXZzLVBBSy1XMTc4ODQ3Mjg4ODYwMQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

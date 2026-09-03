@@ -1,0 +1,52 @@
+{
+  "id": 364,
+  "order_index": 177,
+  "eventDetails": {
+    "category": "Boxing",
+    "eventName": "ONE Friday Fights",
+    "eventLogo": "https://iili.io/FDjaT1R.md.png"
+  },
+  "teamA": {
+    "name": "Friday Fights",
+    "logo": "https://iili.io/FDjaT1R.md.png"
+  },
+  "teamB": {
+    "name": "Friday Fights",
+    "logo": "https://iili.io/FDjaT1R.md.png"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "12:30:00",
+  "links_metadata_path": "pro/T05FIEZyaWRheSBGaWdodHMtRnJpZGF5IEZpZ2h0cy12cy1GcmlkYXkgRmlnaHRzMTc4ODQ3NDI2NzQ5MQ.txt",
+  "links": [
+    {
+      "name": "One Fight - AQ",
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 2 - AQ",
+      "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+      "scheme": 0,
+      "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 3 - AQ",
+      "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+      "scheme": 0,
+      "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+      "tokenApi": ""
+    },
+    {
+      "name": "Server 4",
+      "link": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    }
+  ]
+}

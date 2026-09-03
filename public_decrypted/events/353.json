@@ -1,0 +1,28 @@
+{
+  "id": 353,
+  "order_index": 166,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Le Havre",
+    "logo": "https://img.sofascore.com/api/v1/team/1662/image"
+  },
+  "teamB": {
+    "name": "Brest",
+    "logo": "https://img.sofascore.com/api/v1/team/1715/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MZSBIYXZyZS12cy1CcmVzdDE3ODg0NzM5MDY5MzM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 309,
+  "order_index": 122,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
+  },
+  "teamA": {
+    "name": "Hannover",
+    "logo": "https://img.sofascore.com/api/v1/team/2541/image"
+  },
+  "teamB": {
+    "name": "Karlsruhe",
+    "logo": "https://img.sofascore.com/api/v1/team/2553/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1IYW5ub3Zlci12cy1LYXJsc3J1aGUxNzg4NDczMjc0MjQw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

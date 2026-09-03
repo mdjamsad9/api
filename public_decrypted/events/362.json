@@ -1,0 +1,28 @@
+{
+  "id": 362,
+  "order_index": 175,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+  },
+  "teamA": {
+    "name": "Parma",
+    "logo": "https://img.sofascore.com/api/v1/team/2690/image"
+  },
+  "teamB": {
+    "name": "Monza",
+    "logo": "https://img.sofascore.com/api/v1/team/2729/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/09/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1QYXJtYS12cy1Nb256YTE3ODg0NzM5MDY5MzQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

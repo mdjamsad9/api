@@ -1,0 +1,28 @@
+{
+  "id": 354,
+  "order_index": 167,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+  },
+  "teamB": {
+    "name": "Bristol City",
+    "logo": "https://img.sofascore.com/api/v1/team/58/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJ1cm5sZXktdnMtQnJpc3RvbCBDaXR5MTc4ODQ3MzkwNjkzMw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

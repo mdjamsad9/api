@@ -1,0 +1,28 @@
+{
+  "id": 346,
+  "order_index": 159,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "Birmingham",
+    "logo": "https://img.sofascore.com/api/v1/team/9/image"
+  },
+  "teamB": {
+    "name": "Wolves",
+    "logo": "https://img.sofascore.com/api/v1/team/3/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "06/09/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJpcm1pbmdoYW0tdnMtV29sdmVzMTc4ODQ3MzkwNjkzMw.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

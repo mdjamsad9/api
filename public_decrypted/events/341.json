@@ -1,0 +1,28 @@
+{
+  "id": 341,
+  "order_index": 154,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
+  },
+  "teamA": {
+    "name": "Nice",
+    "logo": "https://img.sofascore.com/api/v1/team/1661/image"
+  },
+  "teamB": {
+    "name": "Le Mans",
+    "logo": "https://img.sofascore.com/api/v1/team/1672/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1OaWNlLXZzLUxlIE1hbnMxNzg4NDczOTA2OTMz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

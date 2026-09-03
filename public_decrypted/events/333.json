@@ -1,0 +1,28 @@
+{
+  "id": 333,
+  "order_index": 146,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
+  },
+  "teamA": {
+    "name": "Brighton",
+    "logo": "https://img.sofascore.com/api/v1/team/30/image"
+  },
+  "teamB": {
+    "name": "Leeds",
+    "logo": "https://img.sofascore.com/api/v1/team/34/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQnJpZ2h0b24tdnMtTGVlZHMxNzg4NDczOTA2OTMz.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

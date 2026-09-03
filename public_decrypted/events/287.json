@@ -1,0 +1,28 @@
+{
+  "id": 287,
+  "order_index": 100,
+  "eventDetails": {
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+  },
+  "teamA": {
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
+  },
+  "teamB": {
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "04/09/2026",
+  "time": "23:10:00",
+  "links_metadata_path": "pro/TUxCLU1ldHMtdnMtR2lhbnRzMTc4ODQ3MjU3MjA5OA.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

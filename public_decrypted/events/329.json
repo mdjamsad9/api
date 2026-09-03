@@ -1,0 +1,28 @@
+{
+  "id": 329,
+  "order_index": 142,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
+  },
+  "teamA": {
+    "name": "Leicester",
+    "logo": "https://img.sofascore.com/api/v1/team/31/image"
+  },
+  "teamB": {
+    "name": "Oxford Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/95/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1MZWljZXN0ZXItdnMtT3hmb3JkIFV0ZDE3ODg0NzM5MDY5MzM.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
