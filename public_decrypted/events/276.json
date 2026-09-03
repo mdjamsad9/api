@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/VHJpcGxlLUEgSW50ZXJuYXRpb25hbCBMZWFndWUtTm9yZm9sayBUaWRlcy12cy1KYWNrc29udmlsbGUgSnVtYm8gU2hyaW1wMTc4ODQyMjcyMzQ0Ng.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "MASN USA",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-829.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }
