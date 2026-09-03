@@ -21,6 +21,21 @@
   "links_metadata_path": "pro/TGlndWUgMS1Ub3Vsb3VzZS12cy1MaWxsZTE3ODg0MjI2MjEzMzU.txt",
   "links": [
     {
+      "name": "beIN Sports FHD",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ge65igvvyh/out/v1/2469724fa7754a4da6861d8ba80de958/c91f5225-f35b-4f68-9189-e6e7f8ee6398-cenc.mpd?aws_sessionId=5b2bc695-ef8c-48c0-b72e-51cda3d2b18b|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Cricfy Server ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/ligue1\\/2026-09-03\\/tou-lill\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
       "name": "Arabic",
       "link": "",
       "scheme": 0,
@@ -35,11 +50,83 @@
       "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-426.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     },
     {
-      "name": "Cricfy Server ",
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4550867.m3u8?txSecret=f7b0cd07366fe990ab24d2f03c30ce6a&txTime=6A99D587|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "Cricfy HD",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/ligue1\\/2026-09-03\\/tou-lill\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"http:\\/\\/fmdtv.com\\/embed\\/?id=ligue1\\/2026-09-03\\/tou-lill\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "ARENA SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55719/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "beIN SPORTS HD",
+      "link": "https://edgestream1.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "DAZN SPORTS HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "SPORT TV HD",
+      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "LIGUE1+ HD",
+      "link": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "beiN SPORTS USA",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "beiN SPORTS ES",
+      "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }
