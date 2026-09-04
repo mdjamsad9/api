@@ -29,6 +29,27 @@
       "sourceType": "sportzx"
     },
     {
+      "name": "Cricfy HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55756/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy Live",
+      "link": "https://live.vivo200.com/live/sd-1-4599581.m3u8?txSecret=c670321c95ace318c54b3440e5b70577&txTime=6A9B1B04|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/NNNNFQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Thmanyah",
       "link": "",
       "scheme": 0,

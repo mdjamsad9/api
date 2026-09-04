@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1BaGxpLXZzLUFsLVJpeWFkaDE3ODg0NzMyNzQyNDA.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4599580.m3u8?txSecret=e7becbf2227680cda0fea1ad9776987a&txTime=6A9B1AEB|Referer=https://player.online909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Sportklub 7",
       "link": "",
       "scheme": 0,
@@ -33,6 +40,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-12.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/NNNNFQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

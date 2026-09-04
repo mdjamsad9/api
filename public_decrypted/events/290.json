@@ -21,6 +21,20 @@
   "links_metadata_path": "pro/TUxCLVJlZHMtdnMtQnJld2VyczE3ODg0NzI1NzIwOTg.txt",
   "links": [
     {
+      "name": "MLB",
+      "link": "https://edgestream7.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy MLB",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/mlb\\/2026-09-04\\/mil-cin\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
       "name": "MLB Pass",
       "link": "",
       "scheme": 0,
