@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRm9yZXN0LXZzLVRvdHRlbmhhbTE3ODg0NzM5MDY5MzM.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 2",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/pl\\/2026-09-05\\/nfo-tot\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
