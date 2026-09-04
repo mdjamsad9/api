@@ -2,37 +2,86 @@
   "id": 366,
   "order_index": 179,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Motorsport",
+    "eventName": "Formula 1",
+    "eventLogo": "https://scdnmain.net/assets/tournament/40-c.png"
   },
   "teamA": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "Formula 1",
+    "logo": "https://scdnmain.net/assets/tournament/40-c.png"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Formula 1",
+    "logo": "https://scdnmain.net/assets/tournament/40-c.png"
   },
   "visible": true,
   "priority": -1,
-  "date": "03/09/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtUmVkIFNveDE3ODg0NzQ2NzQ4NDk.txt",
+  "date": "04/09/2026",
+  "time": "10:30:00",
+  "links_metadata_path": "pro/Rm9ybXVsYSAxLUZvcm11bGEgMS12cy1Gb3JtdWxhIDExNzg4NTE2NDMxNzAy.txt",
   "links": [
     {
+      "name": "FANCODE - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+      "tokenApi": ""
+    },
+    {
       "name": "Cricfy Live",
-      "link": "https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "link": "https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd",
+      "scheme": 0,
+      "api": "1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy F1",
+      "link": "https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
       "scheme": 0,
       "api": "",
       "tokenApi": ""
     },
     {
-      "name": "MLB Pass",
+      "name": "DAZN",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-1.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/f1\\/2026\\/italy\\/fp1\\/dazn-es\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "APPLE TV",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/f1\\/2026\\/italy\\/fp1\\/f1tv\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://bl.rutube.ru/livestream/4ee70215ae4c152fcd01310ed5456721/index.m3u8?s=HkcmRFg5XJOrbyLjqijjrw&e=1787575468&scheme=https|user-agent=Mozilla",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy LIVE",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/f1\\/2026\\/italy\\/fp1\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Cricfy HD",
+      "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.53/hls/dpdpdp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
