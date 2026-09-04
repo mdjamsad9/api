@@ -21,8 +21,46 @@
   "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVVBRS1XLXZzLUlOQS1XMTc4ODQ3Mjg4ODYwMQ.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - AQ",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+      "scheme": 0,
+      "api": "709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd",
+      "scheme": 0,
+      "api": "709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS",
+      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Eng",
+      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Hindi",
+      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Cricfy - Tamil",
+      "link": "https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

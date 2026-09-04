@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BYmhhLXZzLUFsLUV0dGlmYXExNzg4NDczMjc0MjQw.txt",
   "links": [
     {
+      "name": "Low",
+      "link": "http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "Thmanyah",
       "link": "",
       "scheme": 0,
