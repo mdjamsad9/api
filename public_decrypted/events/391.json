@@ -21,8 +21,18 @@
   "links_metadata_path": "pro/VUZDLU0uIFBhZ2UtdnMtTi4gUnV6aWJvZXYxNzg4NjQ0MTcyOTI0.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Server 1",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/sportsembed.su\\/embed\\/600059993\\/ufc-fight-night-hooker-vs-parnasse\\/platinum\\/4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "Server 2",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/sportsembed.su\\/embed\\/600059993\\/live-event_ufc-fight-night-paris-1-live-stream\\/delta\\/4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
