@@ -1,0 +1,28 @@
+{
+  "id": 391,
+  "order_index": 204,
+  "eventDetails": {
+    "category": "Mixed Martial Arts",
+    "eventName": "UFC",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
+  },
+  "teamA": {
+    "name": "M. Page",
+    "logo": "https://img.sofascore.com/api/v1/team/461258/image"
+  },
+  "teamB": {
+    "name": "N. Ruziboev",
+    "logo": "https://img.sofascore.com/api/v1/team/473735/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "20:49:45",
+  "links_metadata_path": "pro/VUZDLU0uIFBhZ2UtdnMtTi4gUnV6aWJvZXYxNzg4NjQ0MTcyOTI0.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
