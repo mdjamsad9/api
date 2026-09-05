@@ -17,7 +17,7 @@
   "visible": true,
   "priority": -1,
   "date": "05/09/2026",
-  "time": "09:30:00",
+  "time": "09:15:00",
   "links_metadata_path": "pro/RXVyb3BlYW4gVDIwIFByZW1pZXIgTGVhZ3VlLUV1cm9wZWFuIFQyMCBMZWFndWUtdnMtRXVyb3BlYW4gVDIwIExlYWd1ZTE3ODgyNTgyMjQ4MzA.txt",
   "links": [
     {
@@ -54,6 +54,13 @@
       "scheme": 0,
       "api": "",
       "tokenApi": ""
+    },
+    {
+      "name": "Fox Cricket 24/7",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/embedindia.st\\/embed\\/247-fox-cricket\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
