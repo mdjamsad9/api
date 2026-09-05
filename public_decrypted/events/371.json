@@ -1,24 +1,24 @@
 {
-  "id": 367,
-  "order_index": 180,
+  "id": 371,
+  "order_index": 184,
   "eventDetails": {
     "category": "Football",
     "eventName": "LaLiga 2",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Real Valladolid",
-    "logo": "https://img.sofascore.com/api/v1/team/2831/image"
+    "name": "Sporting",
+    "logo": "https://img.sofascore.com/api/v1/team/2852/image"
   },
   "teamB": {
-    "name": "FC Andorra",
-    "logo": "https://img.sofascore.com/api/v1/team/324871/image"
+    "name": "Girona",
+    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
   },
   "visible": true,
   "priority": -1,
   "date": "05/09/2026",
-  "time": "16:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBWYWxsYWRvbGlkLXZzLUZDIEFuZG9ycmExNzg4NjExMzI2Njg1.txt",
+  "time": "14:15:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItU3BvcnRpbmctdnMtR2lyb25hMTc4ODYxMTMyNjY4NQ.txt",
   "links": [
     {
       "name": "Link 1",

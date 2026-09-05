@@ -1,0 +1,31 @@
+{
+  "id": 373,
+  "order_index": 186,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+  },
+  "teamA": {
+    "name": "Real Sociedad B",
+    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
+  },
+  "teamB": {
+    "name": "Tenerife",
+    "logo": "https://img.sofascore.com/api/v1/team/2822/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBTb2NpZWRhZCBCLXZzLVRlbmVyaWZlMTc4ODYxMTMyNjY4NQ.txt",
+  "links": [
+    {
+      "name": "Laliga Hypermotion ES",
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "scheme": 0,
+      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "tokenApi": ""
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 370,
+  "order_index": 183,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "QPR",
+    "logo": "https://img.sofascore.com/api/v1/team/1/image"
+  },
+  "teamB": {
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVFQUi12cy1NaWRkbGVzYnJvdWdoMTc4ODYxMTMyNjY4NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

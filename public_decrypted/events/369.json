@@ -1,0 +1,28 @@
+{
+  "id": 369,
+  "order_index": 182,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+  },
+  "teamA": {
+    "name": "Fenerbahçe",
+    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
+  },
+  "teamB": {
+    "name": "Beşiktaş",
+    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1GZW5lcmJhaMOnZS12cy1CZcWfaWt0YcWfMTc4ODYxMTMyNjY4NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

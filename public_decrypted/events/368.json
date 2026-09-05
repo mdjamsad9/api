@@ -1,0 +1,28 @@
+{
+  "id": 368,
+  "order_index": 181,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+  },
+  "teamA": {
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/2351/image"
+  },
+  "teamB": {
+    "name": "Motherwell",
+    "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtUmFuZ2Vycy12cy1Nb3RoZXJ3ZWxsMTc4ODYxMTMyNjY4NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 378,
+  "order_index": 191,
+  "eventDetails": {
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+  },
+  "teamA": {
+    "name": "West Brom",
+    "logo": "https://img.sofascore.com/api/v1/team/8/image"
+  },
+  "teamB": {
+    "name": "Watford",
+    "logo": "https://img.sofascore.com/api/v1/team/24/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "05/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1XYXRmb3JkMTc4ODYxMTMyNjY4NQ.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}
