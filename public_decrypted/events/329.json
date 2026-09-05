@@ -21,8 +21,11 @@
   "links_metadata_path": "pro/TGVhZ3VlIE9uZS1MZWljZXN0ZXItdnMtT3hmb3JkIFV0ZDE3ODg0NzM5MDY5MzM.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Low",
+      "link": "http://193.47.62.55/hls/KSSSAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
