@@ -2,30 +2,27 @@
   "id": 389,
   "order_index": 202,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Gil Vicente",
+    "logo": "https://img.sofascore.com/api/v1/team/3010/image"
   },
   "teamB": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Académico Viseu",
+    "logo": "https://img.sofascore.com/api/v1/team/3022/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "22:10:00",
-  "links_metadata_path": "pro/TUxCLUd1YXJkaWFucy12cy1UaWdlcnMxNzg4NjIxMDkzMTc3.txt",
+  "date": "06/09/2026",
+  "time": "19:30:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUdpbCBWaWNlbnRlLXZzLUFjYWTDqW1pY28gVmlzZXUxNzg4NjgxNzYxNTQ5.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

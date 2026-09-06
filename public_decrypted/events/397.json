@@ -1,45 +1,28 @@
 {
   "id": 397,
-  "order_index": 8,
+  "order_index": 210,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "ICC Women's Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark"
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "IRE-W",
-    "logo": "https://img.sofascore.com/api/v1/team/213116/image"
+    "name": "Botafogo",
+    "logo": "https://img.sofascore.com/api/v1/team/1958/image"
   },
   "teamB": {
-    "name": "WI-W",
-    "logo": "https://img.sofascore.com/api/v1/team/213120/image"
+    "name": "Palmeiras",
+    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "15/07/2026",
-  "time": "09:45:00",
-  "links_metadata_path": "pro/SUNDIFdvbWVuJ3MgQ2hhbXBpb25zaGlwLUlSRS1XLXZzLVdJLVcxNzg0MDUyODI2OTY4.txt",
+  "date": "06/09/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1Cb3RhZm9nby12cy1QYWxtZWlyYXMxNzg4NjgxNzYxNTQ5.txt",
   "links": [
     {
-      "name": "FANCODE ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-      "scheme": 0,
-      "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE SD",
-      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-      "scheme": 0,
-      "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD STREAM ",
-      "link": "http://162.251.160.53:8089/WIvsIRE/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

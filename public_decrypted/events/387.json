@@ -2,29 +2,29 @@
   "id": 387,
   "order_index": 200,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Padres",
-    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
+    "name": "Groningen",
+    "logo": "https://img.sofascore.com/api/v1/team/2951/image"
   },
   "teamB": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "Twente",
+    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLVBhZHJlcy12cy1ZYW5rZWVzMTc4ODYyMTA5MzE3Ng.txt",
+  "date": "06/09/2026",
+  "time": "10:15:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtR3JvbmluZ2VuLXZzLVR3ZW50ZTE3ODg2ODE3NjE1NDk.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "SportDigital Fussball",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
       "tokenApi": ""
     }
   ]

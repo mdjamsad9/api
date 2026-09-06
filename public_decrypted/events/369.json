@@ -3,26 +3,29 @@
   "order_index": 182,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Fenerbahçe",
-    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
+    "name": "Eibar",
+    "logo": "https://img.sofascore.com/api/v1/team/2839/image"
   },
   "teamB": {
-    "name": "Beşiktaş",
-    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+    "name": "Granada",
+    "logo": "https://img.sofascore.com/api/v1/team/33779/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1GZW5lcmJhaMOnZS12cy1CZcWfaWt0YcWfMTc4ODYxMTMyNjY4NQ.txt",
+  "date": "06/09/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItRWliYXItdnMtR3JhbmFkYTE3ODg2ODE3NjE1NDg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Laliga Hypermotion ES",
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+      "scheme": 0,
+      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+      "tokenApi": ""
     }
   ]
 }

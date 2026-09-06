@@ -1,52 +1,28 @@
 {
   "id": 408,
-  "order_index": 12,
+  "order_index": 221,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "T20 International",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "ZIM",
-    "logo": "https://img.sofascore.com/api/v1/team/187745/image"
+    "name": "Orioles",
+    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
   },
   "teamB": {
-    "name": "IND",
-    "logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "25/07/2026",
-  "time": "11:00:00",
-  "links_metadata_path": "pro/VDIwIEludGVybmF0aW9uYWwtWklNLXZzLUlORDE3ODQwNTI5ODI0NDA.txt",
+  "date": "06/09/2026",
+  "time": "17:35:00",
+  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtUmVkIFNveDE3ODg2ODI2MjU4MjE.txt",
   "links": [
     {
-      "name": "UNITE8 HINDI ",
-      "link": "https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (HIN)",
-      "link": "https://dai-fancode.pages.dev/mumbai/143352_hindi_hls_ac18250e3545689_1ta-di_h264/index.m3u8?|User-Agent=ReactNativeVideo/9.7.0%20(Linux;Android%2015)%20AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE (ENG)",
-      "link": "https://dai-fancode.pages.dev/mumbai/143352_english_hls_cd4f806e1b92407_1ta-di_h264/index.m3u8?|User-Agent=ReactNativeVideo/9.7.0%20(Linux;Android%2015)%20AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

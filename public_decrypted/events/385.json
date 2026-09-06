@@ -2,45 +2,27 @@
   "id": 385,
   "order_index": 198,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Marlins",
-    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
+    "name": "Kasımpaşa",
+    "logo": "https://img.sofascore.com/api/v1/team/6063/image"
   },
   "teamB": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "Amed",
+    "logo": "https://img.sofascore.com/api/v1/team/207011/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtQ3ViczE3ODg2MjEwOTMxNzY.txt",
+  "date": "06/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1LYXPEsW1wYcWfYS12cy1BbWVkMTc4ODY4MTc2MTU0OQ.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "MLB League Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-9.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "MLB",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-399.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

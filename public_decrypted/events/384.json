@@ -2,30 +2,27 @@
   "id": 384,
   "order_index": 197,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Castellón",
+    "logo": "https://img.sofascore.com/api/v1/team/5067/image"
   },
   "teamB": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Albacete",
+    "logo": "https://img.sofascore.com/api/v1/team/2848/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "23:05:00",
-  "links_metadata_path": "pro/TUxCLVJhbmdlcnMtdnMtUmF5czE3ODg2MjEwOTMxNzY.txt",
+  "date": "06/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQ2FzdGVsbMOzbi12cy1BbGJhY2V0ZTE3ODg2ODE3NjE1NDk.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

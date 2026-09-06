@@ -3,36 +3,26 @@
   "order_index": 181,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Scottish Premiership",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/2351/image"
+    "name": "Çorum",
+    "logo": "https://img.sofascore.com/api/v1/team/77629/image"
   },
   "teamB": {
-    "name": "Motherwell",
-    "logo": "https://img.sofascore.com/api/v1/team/2346/image"
+    "name": "Eyüpspor",
+    "logo": "https://img.sofascore.com/api/v1/team/7040/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
+  "date": "06/09/2026",
   "time": "14:00:00",
-  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtUmFuZ2Vycy12cy1Nb3RoZXJ3ZWxsMTc4ODYxMTMyNjY4NQ.txt",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy3Dh29ydW0tdnMtRXnDvHBzcG9yMTc4ODY4MTc2MTU0OA.txt",
   "links": [
     {
-      "name": "Event SD Stream",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-254.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "SPFL Feed",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-206.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

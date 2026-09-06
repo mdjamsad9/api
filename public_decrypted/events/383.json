@@ -2,30 +2,27 @@
   "id": 383,
   "order_index": 196,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Bologna",
+    "logo": "https://img.sofascore.com/api/v1/team/2685/image"
   },
   "teamB": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "Sassuolo",
+    "logo": "https://img.sofascore.com/api/v1/team/2793/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1Ud2luczE3ODg2MjEwOTMxNzY.txt",
+  "date": "06/09/2026",
+  "time": "16:00:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1Cb2xvZ25hLXZzLVNhc3N1b2xvMTc4ODY4MTc2MTU0OA.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

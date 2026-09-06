@@ -2,37 +2,27 @@
   "id": 391,
   "order_index": 204,
   "eventDetails": {
-    "category": "Mixed Martial Arts",
-    "eventName": "UFC",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "M. Page",
-    "logo": "https://img.sofascore.com/api/v1/team/461258/image"
+    "name": "Internacional",
+    "logo": "https://img.sofascore.com/api/v1/team/1966/image"
   },
   "teamB": {
-    "name": "N. Ruziboev",
-    "logo": "https://img.sofascore.com/api/v1/team/473735/image"
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "20:49:45",
-  "links_metadata_path": "pro/VUZDLU0uIFBhZ2UtdnMtTi4gUnV6aWJvZXYxNzg4NjQ0MTcyOTI0.txt",
+  "date": "06/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1JbnRlcm5hY2lvbmFsLXZzLVNhbnRvczE3ODg2ODE3NjE1NDk.txt",
   "links": [
     {
-      "name": "Server 1",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/sportsembed.su\\/embed\\/600059993\\/ufc-fight-night-hooker-vs-parnasse\\/platinum\\/4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Server 2",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/sportsembed.su\\/embed\\/600059993\\/live-event_ufc-fight-night-paris-1-live-stream\\/delta\\/4\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

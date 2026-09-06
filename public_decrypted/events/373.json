@@ -3,29 +3,26 @@
   "order_index": 186,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "Real Sociedad B",
-    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
+    "name": "Troyes",
+    "logo": "https://img.sofascore.com/api/v1/team/1652/image"
   },
   "teamB": {
-    "name": "Tenerife",
-    "logo": "https://img.sofascore.com/api/v1/team/2822/image"
+    "name": "Strasbourg",
+    "logo": "https://img.sofascore.com/api/v1/team/1659/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItUmVhbCBTb2NpZWRhZCBCLXZzLVRlbmVyaWZlMTc4ODYxMTMyNjY4NQ.txt",
+  "date": "06/09/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/TGlndWUgMS1Ucm95ZXMtdnMtU3RyYXNib3VyZzE3ODg2ODE3NjE1NDg.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

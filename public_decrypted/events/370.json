@@ -3,50 +3,26 @@
   "order_index": 183,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "QPR",
-    "logo": "https://img.sofascore.com/api/v1/team/1/image"
+    "name": "Hertha",
+    "logo": "https://img.sofascore.com/api/v1/team/2528/image"
   },
   "teamB": {
-    "name": "Middlesbrough",
-    "logo": "https://img.sofascore.com/api/v1/team/36/image"
+    "name": "Magdeburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2591/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVFQUi12cy1NaWRkbGVzYnJvdWdoMTc4ODYxMTMyNjY4NQ.txt",
+  "date": "06/09/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1IZXJ0aGEtdnMtTWFnZGVidXJnMTc4ODY4MTc2MTU0OA.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS Sports Golazo",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-910.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Event SD Stream",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-262.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "Cricfy Sports+",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-166.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

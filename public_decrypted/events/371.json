@@ -3,29 +3,26 @@
   "order_index": 184,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Sporting",
-    "logo": "https://img.sofascore.com/api/v1/team/2852/image"
+    "name": "Arsenal",
+    "logo": "https://img.sofascore.com/api/v1/team/42/image"
   },
   "teamB": {
-    "name": "Girona",
-    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "14:15:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItU3BvcnRpbmctdnMtR2lyb25hMTc4ODYxMTMyNjY4NQ.txt",
+  "date": "06/09/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQXJzZW5hbC12cy1DaGVsc2VhMTc4ODY4MTc2MTU0OA.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

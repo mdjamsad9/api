@@ -1,52 +1,28 @@
 {
   "id": 401,
-  "order_index": 12,
+  "order_index": 214,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "One Day International",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "ENG",
-    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "teamB": {
-    "name": "IND",
-    "logo": "https://img.sofascore.com/api/v1/team/187765/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "16/07/2026",
-  "time": "12:00:00",
-  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUVORy12cy1JTkQxNzg0MDUyODY0NTQ1.txt",
+  "date": "06/09/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1EaWFtb25kYmFja3MxNzg4NjgyNjI1ODIw.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
-      "scheme": 0,
-      "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
-      "tokenApi": ""
-    },
-    {
-      "name": "CRICFY HD ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
-      "scheme": 0,
-      "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

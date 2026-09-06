@@ -1,24 +1,24 @@
 {
   "id": 403,
-  "order_index": 7,
+  "order_index": 216,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "One Day International",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "WI",
-    "logo": "https://img.sofascore.com/api/v1/team/187760/image"
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
   },
   "teamB": {
-    "name": "NZ",
-    "logo": "https://img.sofascore.com/api/v1/team/187755/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "19/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLVdJLXZzLU5aMTc4NDA1Mjg5MTc1NQ.txt",
+  "date": "06/09/2026",
+  "time": "16:10:00",
+  "links_metadata_path": "pro/TUxCLVJlZHMtdnMtQnJld2VyczE3ODg2ODI2MjU4MjA.txt",
   "links": [
     {
       "name": "Link 1",

@@ -2,30 +2,27 @@
   "id": 388,
   "order_index": 201,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Everton",
+    "logo": "https://img.sofascore.com/api/v1/team/48/image"
   },
   "teamB": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Man Utd",
+    "logo": "https://img.sofascore.com/api/v1/team/35/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLUFzdHJvcy12cy1EaWFtb25kYmFja3MxNzg4NjIxMDkzMTc2.txt",
+  "date": "06/09/2026",
+  "time": "13:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtRXZlcnRvbi12cy1NYW4gVXRkMTc4ODY4MTc2MTU0OQ.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream4.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

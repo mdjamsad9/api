@@ -3,29 +3,26 @@
   "order_index": 189,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "Eldense",
-    "logo": "https://img.sofascore.com/api/v1/team/47321/image"
+    "name": "Angers",
+    "logo": "https://img.sofascore.com/api/v1/team/1684/image"
   },
   "teamB": {
-    "name": "Mallorca",
-    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+    "name": "Rennes",
+    "logo": "https://img.sofascore.com/api/v1/team/1658/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItRWxkZW5zZS12cy1NYWxsb3JjYTE3ODg2MTEzMjY2ODU.txt",
+  "date": "06/09/2026",
+  "time": "15:15:00",
+  "links_metadata_path": "pro/TGlndWUgMS1BbmdlcnMtdnMtUmVubmVzMTc4ODY4MTc2MTU0OA.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
