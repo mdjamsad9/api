@@ -1,31 +1,28 @@
 {
   "id": 419,
-  "order_index": 23,
+  "order_index": 232,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Marseille",
-    "logo": "https://img.sofascore.com/api/v1/team/1641/image"
+    "name": "Dodgers",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
   },
   "teamB": {
-    "name": "Nîmes",
-    "logo": "https://img.sofascore.com/api/v1/team/1663/image"
+    "name": "Nationals",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYXJzZWlsbGUtdnMtTsOubWVzMTc4NTM5ODA0OTk0MA.txt",
+  "date": "07/09/2026",
+  "time": "02:10:00",
+  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtTmF0aW9uYWxzMTc4ODcxOTM2MTUxNQ.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/CCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

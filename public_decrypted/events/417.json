@@ -1,28 +1,52 @@
 {
   "id": 417,
-  "order_index": 21,
+  "order_index": 230,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Conference League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17015/image/dark"
+    "eventName": "Liga F Moeve",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark"
   },
   "teamA": {
-    "name": "Ajax",
-    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
+    "name": "Real Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/305051/image"
   },
   "teamB": {
-    "name": "Vojvodina",
-    "logo": "https://img.sofascore.com/api/v1/team/5150/image"
+    "name": "Eibar",
+    "logo": "https://img.sofascore.com/api/v1/team/362904/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VUVGQSBDb25mZXJlbmNlIExlYWd1ZS1BamF4LXZzLVZvanZvZGluYTE3ODUzOTgwNDk5Mzk.txt",
+  "date": "06/09/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/TGlnYSBGIE1vZXZlLVJlYWwgTWFkcmlkLXZzLUVpYmFyMTc4ODcxOTE5Nzk3Mg.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "DAZN Español HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.59/hls/GTTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "RMA TV Español",
+      "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "RMA TV ENGLISH",
+      "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

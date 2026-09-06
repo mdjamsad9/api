@@ -21,6 +21,14 @@
   "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUdpbCBWaWNlbnRlLXZzLUFjYWTDqW1pY28gVmlzZXUxNzg4NjgxNzYxNTQ5.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Sport TV1",
       "link": "",
       "scheme": 0,
