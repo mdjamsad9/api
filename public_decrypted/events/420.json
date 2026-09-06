@@ -1,31 +1,31 @@
 {
   "id": 420,
-  "order_index": 24,
+  "order_index": 233,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "category": "Tennis",
+    "eventName": "Tennis US Open",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2449/image/dark"
   },
   "teamA": {
-    "name": "Pafos",
-    "logo": "https://img.sofascore.com/api/v1/team/171626/image"
+    "name": "US OPEN",
+    "logo": "https://img.sofascore.com/api/v1/unique-tournament/2449/image"
   },
   "teamB": {
-    "name": "Hajduk",
-    "logo": "https://img.sofascore.com/api/v1/team/2036/image"
+    "name": "US OPEN",
+    "logo": "https://img.sofascore.com/api/v1/unique-tournament/2449/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLVBhZm9zLXZzLUhhamR1azE3ODUzOTgwNDk5NDA.txt",
+  "date": "06/09/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/VGVubmlzIFVTIE9wZW4tVVMgT1BFTi12cy1VUyBPUEVOMTc4ODczMzk0MTkyMw.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.192/hls/ugggqqaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "Link 1",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/daddylive1.cx\\/my\\/stream-412.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }
