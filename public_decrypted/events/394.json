@@ -21,11 +21,25 @@
   "links_metadata_path": "pro/QnVuZGVzbGlnYS1GcmFua2Z1cnQtdnMtQXVnc2J1cmcxNzg4NjgxNzYxNTQ5.txt",
   "links": [
     {
-      "name": "Sky Sport Bundesliga 2",
+      "name": "ONE SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/55970/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/hd-en-1-4566228.m3u8?txSecret=6bb2fa3ee9db120e945ebe27efa31a96&txTime=6A9D9B5A|Referer=https://player.787200.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Bundesliga 2",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-946.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-946.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
       "name": "V Sport Football",

@@ -21,6 +21,13 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1LYXPEsW1wYcWfYS12cy1BbWVkMTc4ODY4MTc2MTU0OQ.txt",
   "links": [
     {
+      "name": "Low",
+      "link": "http://193.47.62.41/hls/GGGAQQQQQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
       "name": "beIN  1",
       "link": "",
       "scheme": 0,
