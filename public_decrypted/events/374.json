@@ -21,11 +21,27 @@
   "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1UcmFiem9uc3Bvci12cy1HZW7Dp2xlcmJpcmxpxJ9pMTc4ODY4MTc2MTU0OA.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4581304.m3u8?txSecret=480b9ff7024f49cb50b904f8c1e8deb5&txTime=6A9DAC7D|Referer=https://player.787200.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Arabic",
       "link": "",
       "scheme": 0,
       "api": "",
       "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-95.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "beIN SPORTS HD",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     },
     {
       "name": "Sportklub 1 Croatia",
