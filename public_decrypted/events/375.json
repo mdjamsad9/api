@@ -21,6 +21,14 @@
   "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Pc25hYnLDvGNrLXZzLUJyYXVuc2Nod2VpZzE3ODg2ODE3NjE1NDg.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4566630.m3u8?txSecret=daf0df711ab4a8924d6a8b9b9dfb172e&txTime=6A9D619C|Referer=https://player.787200.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Bundesliga 3",
       "link": "",
       "scheme": 0,

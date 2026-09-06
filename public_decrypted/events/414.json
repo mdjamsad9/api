@@ -1,30 +1,30 @@
 {
   "id": 414,
-  "order_index": 18,
+  "order_index": 227,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Cricket",
+    "eventName": "T20I Tri-Series in Namibia",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark"
   },
   "teamA": {
-    "name": "Bournemouth",
-    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+    "name": "SA",
+    "logo": "https://img.sofascore.com/api/v1/team/187747/image"
   },
   "teamB": {
-    "name": "Augsburg",
-    "logo": "https://img.sofascore.com/api/v1/team/2600/image"
+    "name": "ZIM",
+    "logo": "https://img.sofascore.com/api/v1/team/187745/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1Cb3VybmVtb3V0aC12cy1BdWdzYnVyZzE3ODUzOTgwNDk5Mzk.txt",
+  "date": "06/09/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/VDIwSSBUcmktU2VyaWVzIGluIE5hbWliaWEtU0EtdnMtWklNMTc4ODY5NDI0MjYxMg.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/BBBBA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "FANCODE - FHD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
       "tokenApi": ""
     }
   ]

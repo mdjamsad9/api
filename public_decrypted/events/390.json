@@ -26,6 +26,14 @@
       "scheme": 0,
       "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
       "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.vivo200.com/live/sd-1-4566575.m3u8?txSecret=3d6fcc0fef2d6941206cc8718a2a4a2c&txTime=6A9D6182|Referer=https://player.787200.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
     }
   ]
 }
