@@ -1,38 +1,28 @@
 {
   "id": 422,
-  "order_index": 26,
+  "order_index": 235,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Senegal",
-    "logo": "https://img.sofascore.com/api/v1/team/316945/image"
+    "name": "Al-Hilal",
+    "logo": "https://img.sofascore.com/api/v1/team/21895/image"
   },
   "teamB": {
-    "name": "Kenya",
-    "logo": "https://img.sofascore.com/api/v1/team/237894/image"
+    "name": "Neom",
+    "logo": "https://img.sofascore.com/api/v1/team/530631/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU2VuZWdhbC12cy1LZW55YTE3ODUzOTgwNDk5NDA.txt",
+  "date": "07/09/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1IaWxhbC12cy1OZW9tMTc4ODc2NjI0NTUyNw.txt",
   "links": [
     {
-      "name": "beiN SPORTS ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.192/hls/ugggqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

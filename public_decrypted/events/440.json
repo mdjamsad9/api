@@ -1,66 +1,28 @@
 {
   "id": 440,
-  "order_index": 44,
+  "order_index": 253,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "MSG",
-    "logo": "https://img.sofascore.com/api/v1/team/377173/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "TRT",
-    "logo": "https://img.sofascore.com/api/v1/team/377176/image"
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtTVNHLXZzLVRSVDE3ODU0NDQ0MjYzOTU.txt",
+  "date": "07/09/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtQ3ViczE3ODg3NjYyNzM0MTY.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4jiqncqor/out/v1/c63970168daf442aa9d09bf871bbc43e/cenc.mpd",
-      "scheme": 0,
-      "api": "0cae86fb1afd60ef183c5a334c3a5422:9dfd7451be124599a96fa06cbc5082d4",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4jiqncqor/out/v1/c63970168daf442aa9d09bf871bbc43e/cenc.mpd",
-      "scheme": 0,
-      "api": "0cae86fb1afd60ef183c5a334c3a5422:9dfd7451be124599a96fa06cbc5082d4",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET ",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/KKKKA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

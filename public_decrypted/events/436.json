@@ -1,38 +1,28 @@
 {
   "id": 436,
-  "order_index": 40,
+  "order_index": 249,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "teamB": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "16:10:00",
-  "links_metadata_path": "pro/TUxCLVJheXMtdnMtUmFuZ2VyczE3ODU0MDA0NTQ3Nzk.txt",
+  "date": "07/09/2026",
+  "time": "17:05:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLUJyYXZlczE3ODg3NjYyNzM0MTY.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/BVVVAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

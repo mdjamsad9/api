@@ -1,31 +1,28 @@
 {
   "id": 437,
-  "order_index": 41,
+  "order_index": 250,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "Marlins",
+    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
   },
   "teamB": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1SZWQgU294MTc4NTQwMDQ1NDc3OQ.txt",
+  "date": "07/09/2026",
+  "time": "17:10:00",
+  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtTWV0czE3ODg3NjYyNzM0MTY.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

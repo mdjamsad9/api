@@ -1,31 +1,28 @@
 {
   "id": 434,
-  "order_index": 38,
+  "order_index": 247,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "teamB": {
-    "name": "Pirates",
-    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVJlZHMtdnMtUGlyYXRlczE3ODU0MDA0NTQ3Nzk.txt",
+  "date": "07/09/2026",
+  "time": "18:10:00",
+  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1EaWFtb25kYmFja3MxNzg4NzY2MjczNDE2.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

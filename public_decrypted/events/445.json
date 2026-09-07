@@ -1,38 +1,28 @@
 {
   "id": 445,
-  "order_index": 49,
+  "order_index": 258,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "category": "American football",
+    "eventName": "CFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
   },
   "teamA": {
-    "name": "Burkina Faso",
-    "logo": "https://img.sofascore.com/api/v1/team/316668/image"
+    "name": "Calgary",
+    "logo": "https://img.sofascore.com/api/v1/team/4433/image"
   },
   "teamB": {
-    "name": "Tanzania",
-    "logo": "https://img.sofascore.com/api/v1/team/291680/image"
+    "name": "Edmonton",
+    "logo": "https://img.sofascore.com/api/v1/team/4434/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "20:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtQnVya2luYSBGYXNvLXZzLVRhbnphbmlhMTc4NTQ4MTM5MDUxMA.txt",
+  "date": "07/09/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q0ZMLUNhbGdhcnktdnMtRWRtb250b24xNzg4NzY2MzAzOTQ2.txt",
   "links": [
     {
-      "name": "AZAM SPORTS",
-      "link": "http://193.47.62.191/hls/PCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "http://162.251.160.53:8089/FRIdFOT5/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

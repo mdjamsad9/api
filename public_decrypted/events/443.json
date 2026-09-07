@@ -1,38 +1,28 @@
 {
   "id": 443,
-  "order_index": 47,
+  "order_index": 256,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "South Africa",
-    "logo": "https://img.sofascore.com/api/v1/team/65336/image"
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
   },
   "teamB": {
-    "name": "Côte d'Ivoire",
-    "logo": "https://img.sofascore.com/api/v1/team/186328/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtU291dGggQWZyaWNhLXZzLUPDtHRlIGQnSXZvaXJlMTc4NTQ4MTM5MDUxMA.txt",
+  "date": "08/09/2026",
+  "time": "00:10:00",
+  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1DYXJkaW5hbHMxNzg4NzY2MjczNDE2.txt",
   "links": [
     {
-      "name": "Cricfy TV ",
-      "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/11ryyNDnxiVYXrfvQQ5zcJOMA5L52hHKszUH1x8nGi9qvTSds3xYzuNH11u51m5i8qc1mmUqTd9dE5WoyBk6iw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/PCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

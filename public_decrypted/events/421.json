@@ -2,30 +2,27 @@
   "id": 421,
   "order_index": 234,
   "eventDetails": {
-    "category": "Tennis",
-    "eventName": "US Open, Men",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/2449/image/dark"
+    "category": "Football",
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
   },
   "teamA": {
-    "name": "T. Paul",
-    "logo": "https://img.sofascore.com/api/v1/team/138546/image"
+    "name": "Bromley",
+    "logo": "https://img.sofascore.com/api/v1/team/180/image"
   },
   "teamB": {
-    "name": "C. Alcaraz",
-    "logo": "https://img.sofascore.com/api/v1/team/275923/image"
+    "name": "Wimbledon",
+    "logo": "https://img.sofascore.com/api/v1/team/23957/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/09/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/VVMgT3BlbiwgTWVuLVQuIFBhdWwtdnMtQy4gQWxjYXJhejE3ODg3MzQwNDY1NzA.txt",
+  "date": "07/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1Ccm9tbGV5LXZzLVdpbWJsZWRvbjE3ODg3NjYyNDU1MjY.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-412.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

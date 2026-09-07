@@ -1,66 +1,28 @@
 {
   "id": 438,
-  "order_index": 42,
+  "order_index": 251,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "MSG-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377201/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "TRT-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377204/image"
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTVNHLVctdnMtVFJULVcxNzg1NDQ0NDI2Mzk1.txt",
+  "date": "07/09/2026",
+  "time": "19:10:00",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Ud2luczE3ODg3NjYyNzM0MTY.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd",
-      "scheme": 0,
-      "api": "9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy FHD ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd",
-      "scheme": 0,
-      "api": "9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/KKKKA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

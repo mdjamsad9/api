@@ -1,24 +1,24 @@
 {
   "id": 444,
-  "order_index": 48,
+  "order_index": 257,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "American football",
+    "eventName": "CFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
   },
   "teamA": {
-    "name": "Sassuolo",
-    "logo": "https://img.sofascore.com/api/v1/team/2793/image"
+    "name": "Hamilton",
+    "logo": "https://img.sofascore.com/api/v1/team/4441/image"
   },
   "teamB": {
-    "name": "Folgore Caratese",
-    "logo": "https://img.sofascore.com/api/v1/team/117230/image"
+    "name": "Toronto",
+    "logo": "https://img.sofascore.com/api/v1/team/4436/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TYXNzdW9sby12cy1Gb2xnb3JlIENhcmF0ZXNlMTc4NTQ4MTM5MDUxMA.txt",
+  "date": "07/09/2026",
+  "time": "18:30:00",
+  "links_metadata_path": "pro/Q0ZMLUhhbWlsdG9uLXZzLVRvcm9udG8xNzg4NzY2MzAzOTQ2.txt",
   "links": [
     {
       "name": "Link 1",

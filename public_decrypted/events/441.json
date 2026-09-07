@@ -1,45 +1,28 @@
 {
   "id": 441,
-  "order_index": 45,
+  "order_index": 254,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "LNS-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377203/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "teamB": {
-    "name": "SOB-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377205/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTE5TLVctdnMtU09CLVcxNzg1NDQ0NDI2Mzk1.txt",
+  "date": "08/09/2026",
+  "time": "02:05:00",
+  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1CbHVlIEpheXMxNzg4NzY2MjczNDE2.txt",
   "links": [
     {
-      "name": "WILLOW - AQ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
-      "scheme": 0,
-      "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
-      "scheme": 0,
-      "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD FHD",
-      "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

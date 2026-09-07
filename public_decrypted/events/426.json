@@ -1,59 +1,28 @@
 {
   "id": 426,
-  "order_index": 30,
+  "order_index": 239,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Serie A",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
   },
   "teamA": {
-    "name": "SOB-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377205/image"
+    "name": "Udinese",
+    "logo": "https://img.sofascore.com/api/v1/team/2695/image"
   },
   "teamB": {
-    "name": "BPH-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377202/image"
+    "name": "Lazio",
+    "logo": "https://img.sofascore.com/api/v1/team/2699/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "30/07/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tU09CLVctdnMtQlBILVcxNzg1NDAwMzgxNTU5.txt",
+  "date": "07/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/U2VyaWUgQS1VZGluZXNlLXZzLUxhemlvMTc4ODc2NjI0NTUyNw.txt",
   "links": [
     {
-      "name": "WILLOW - AQ ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ywkoiqsp0p/out/v1/300859b3aec14d98a9b66beb95f8955b/cenc.mpd",
-      "scheme": 0,
-      "api": "943458a8f73e10e31fdc85a2ded6c185:64a44f3738bd54c360aafb8c9acfa959",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live FHD ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ywkoiqsp0p/out/v1/300859b3aec14d98a9b66beb95f8955b/cenc.mpd",
-      "scheme": 0,
-      "api": "943458a8f73e10e31fdc85a2ded6c185:64a44f3738bd54c360aafb8c9acfa959",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET ",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

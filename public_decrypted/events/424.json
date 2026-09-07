@@ -1,52 +1,28 @@
 {
   "id": 424,
-  "order_index": 28,
+  "order_index": 237,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Asian Legends League T20",
-    "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Asian Legends League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
+    "name": "Al-Khaleej",
+    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
   },
   "teamB": {
-    "name": "Asian Legends League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
+    "name": "Al-Riyadh",
+    "logo": "https://img.sofascore.com/api/v1/team/168088/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "07:30:00",
-  "links_metadata_path": "pro/QXNpYW4gTGVnZW5kcyBMZWFndWUgVDIwLUFzaWFuIExlZ2VuZHMgTGVhZ3VlLXZzLUFzaWFuIExlZ2VuZHMgTGVhZ3VlMTc4NTQwMDMyMzI4MQ.txt",
+  "date": "07/09/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1LaGFsZWVqLXZzLUFsLVJpeWFkaDE3ODg3NjYyNDU1Mjc.txt",
   "links": [
     {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - BD",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785490625~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTUf167TXqxPrK8FI6YmaE-A4WpyQL7LlV8274h6GRbk_Im-38WLK8ETkyeWrjazlP1Ht1XFLm9A_4qMyOMs09ID|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE IN",
-      "link": "https://livecf.fancode.com/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE SL",
-      "link": "https://lk-mc-flive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/1080p.m3u8?hdntl=Expires=1785490625~_GO=Generated~acl=/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/*~Signature=Aej9sTUf167TXqxPrK8FI6YmaE-A4WpyQL7LlV8274h6GRbk_Im-38WLK8ETkyeWrjazlP1Ht1XFLm9A_4qMyOMs09ID|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
