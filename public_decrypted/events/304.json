@@ -21,8 +21,25 @@
   "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVBBSy1XLXZzLUhLLVcxNzg4NDczMDEzNTcz.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "WILLOW - FHD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "ecfd503a2e10cdfc5cc824087a70824e:f33f6735b179d13d712de1c1ad2db810",
+      "tokenApi": ""
+    },
+    {
+      "name": "WILLOW - ALT",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd",
+      "scheme": 0,
+      "api": "ecfd503a2e10cdfc5cc824087a70824e:f33f6735b179d13d712de1c1ad2db810",
+      "tokenApi": ""
+    },
+    {
+      "name": "T SPORTS HD",
+      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
