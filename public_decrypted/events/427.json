@@ -3,36 +3,26 @@
   "order_index": 240,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Trendyol Süper Lig",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Göztepe",
-    "logo": "https://img.sofascore.com/api/v1/team/3054/image"
+    "name": "Porto",
+    "logo": "https://img.sofascore.com/api/v1/team/3002/image"
   },
   "teamB": {
-    "name": "Gaziantep",
-    "logo": "https://img.sofascore.com/api/v1/team/5138/image"
+    "name": "Man City",
+    "logo": "https://img.sofascore.com/api/v1/team/17/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1Hw7Z6dGVwZS12cy1HYXppYW50ZXAxNzg4NzY2MjQ1NTI3.txt",
+  "date": "08/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVBvcnRvLXZzLU1hbiBDaXR5MTc4ODg1NTc4MDE2MA.txt",
   "links": [
     {
-      "name": "Arabic",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-93.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Sportklub 5 Croatia",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-151.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,30 +2,30 @@
   "id": 435,
   "order_index": 248,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Padres",
-    "logo": "https://img.sofascore.com/api/v1/team/3636/image"
+    "name": "Al-Hazem",
+    "logo": "https://img.sofascore.com/api/v1/team/168086/image"
   },
   "teamB": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Al-Taawoun",
+    "logo": "https://img.sofascore.com/api/v1/team/56021/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "21:10:00",
-  "links_metadata_path": "pro/TUxCLVBhZHJlcy12cy1OYXRpb25hbHMxNzg4NzY2MjczNDE2.txt",
+  "date": "08/09/2026",
+  "time": "15:55:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1IYXplbS12cy1BbC1UYWF3b3VuMTc4ODg1NTc4MDE2MA.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "Thmanyah",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-3.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

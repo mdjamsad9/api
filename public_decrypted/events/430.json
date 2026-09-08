@@ -3,50 +3,36 @@
   "order_index": 243,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Elche",
-    "logo": "https://img.sofascore.com/api/v1/team/2846/image"
+    "name": "Al-Ettifaq",
+    "logo": "https://img.sofascore.com/api/v1/team/34318/image"
   },
   "teamB": {
-    "name": "Real Sociedad",
-    "logo": "https://img.sofascore.com/api/v1/team/2824/image"
+    "name": "Al Faisaly",
+    "logo": "https://img.sofascore.com/api/v1/team/56035/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "19:30:00",
-  "links_metadata_path": "pro/TGFMaWdhLUVsY2hlLXZzLVJlYWwgU29jaWVkYWQxNzg4NzY2MjQ1NTI3.txt",
+  "date": "08/09/2026",
+  "time": "15:30:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1FdHRpZmFxLXZzLUFsIEZhaXNhbHkxNzg4ODU1NzgwMTYw.txt",
   "links": [
     {
-      "name": "PREMIER SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "SK 1",
+      "link": "",
       "scheme": 0,
-      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-      "tokenApi": ""
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-101.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "Thmanyah",
+      "link": "",
       "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "ESPN AR FHD",
-      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
-      "scheme": 0,
-      "api": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4",
-      "tokenApi": ""
-    },
-    {
-      "name": "CAZE TV FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-      "tokenApi": ""
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-3.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }

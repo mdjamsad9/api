@@ -2,30 +2,27 @@
   "id": 433,
   "order_index": 246,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "AEK",
+    "logo": "https://img.sofascore.com/api/v1/team/3250/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "LASK",
+    "logo": "https://img.sofascore.com/api/v1/team/2058/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "17:35:00",
-  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtR3VhcmRpYW5zMTc4ODc2NjI3MzQxNQ.txt",
+  "date": "08/09/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUFFSy12cy1MQVNLMTc4ODg1NTc4MDE2MA.txt",
   "links": [
     {
-      "name": "MLB League Pass",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-27.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

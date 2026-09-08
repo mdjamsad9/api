@@ -3,50 +3,26 @@
   "order_index": 239,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Serie A",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark"
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Udinese",
-    "logo": "https://img.sofascore.com/api/v1/team/2695/image"
+    "name": "Sunderland",
+    "logo": "https://img.sofascore.com/api/v1/team/41/image"
   },
   "teamB": {
-    "name": "Lazio",
-    "logo": "https://img.sofascore.com/api/v1/team/2699/image"
+    "name": "Hull",
+    "logo": "https://img.sofascore.com/api/v1/team/96/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
+  "date": "08/09/2026",
   "time": "18:45:00",
-  "links_metadata_path": "pro/U2VyaWUgQS1VZGluZXNlLXZzLUxhemlvMTc4ODc2NjI0NTUyNw.txt",
+  "links_metadata_path": "pro/RUZMIEN1cC1TdW5kZXJsYW5kLXZzLUh1bGwxNzg4ODU1NzgwMTYw.txt",
   "links": [
     {
-      "name": "FUBO SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-      "tokenApi": ""
-    },
-    {
-      "name": "beIN ENGLISH",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT 1 CZ",
-      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-      "scheme": 0,
-      "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

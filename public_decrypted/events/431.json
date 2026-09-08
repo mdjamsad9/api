@@ -3,29 +3,26 @@
   "order_index": 244,
   "eventDetails": {
     "category": "Football",
-    "eventName": "LaLiga 2",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Sabadell",
-    "logo": "https://img.sofascore.com/api/v1/team/24335/image"
+    "name": "Lille",
+    "logo": "https://img.sofascore.com/api/v1/team/1643/image"
   },
   "teamB": {
-    "name": "Córdoba",
-    "logo": "https://img.sofascore.com/api/v1/team/2850/image"
+    "name": "Real Betis",
+    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/TGFMaWdhIDItU2FiYWRlbGwtdnMtQ8OzcmRvYmExNzg4NzY2MjQ1NTI3.txt",
+  "date": "08/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUxpbGxlLXZzLVJlYWwgQmV0aXMxNzg4ODU1NzgwMTYw.txt",
   "links": [
     {
-      "name": "Laliga Hypermotion ES",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-      "scheme": 0,
-      "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

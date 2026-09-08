@@ -3,50 +3,26 @@
   "order_index": 245,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Estoril",
-    "logo": "https://img.sofascore.com/api/v1/team/4500/image"
+    "name": "Real Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2829/image"
   },
   "teamB": {
-    "name": "Arouca",
-    "logo": "https://img.sofascore.com/api/v1/team/25777/image"
+    "name": "Inter",
+    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "19:15:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUVzdG9yaWwtdnMtQXJvdWNhMTc4ODc2NjI0NTUyNw.txt",
+  "date": "08/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVJlYWwgTWFkcmlkLXZzLUludGVyMTc4ODg1NTc4MDE2MA.txt",
   "links": [
     {
-      "name": "SPORT TV HD",
-      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cosmote",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-623.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Sport TV1 ",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-49.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Low",
-      "link": "http://193.47.62.59/hls/QUUUQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

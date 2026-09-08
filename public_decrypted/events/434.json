@@ -2,37 +2,27 @@
   "id": 434,
   "order_index": 247,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "NEC",
+    "logo": "https://img.sofascore.com/api/v1/team/2962/image"
   },
   "teamB": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Excelsior",
+    "logo": "https://img.sofascore.com/api/v1/team/2967/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "18:10:00",
-  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1EaWFtb25kYmFja3MxNzg4NzY2MjczNDE2.txt",
+  "date": "08/09/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtTkVDLXZzLUV4Y2Vsc2lvcjE3ODg4NTU3ODAxNjA.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/56033/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream6.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

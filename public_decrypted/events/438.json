@@ -2,37 +2,27 @@
   "id": 438,
   "order_index": 251,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Bolton",
+    "logo": "https://img.sofascore.com/api/v1/team/5/image"
   },
   "teamB": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "19:10:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Ud2luczE3ODg3NjYyNzM0MTY.txt",
+  "date": "08/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJvbHRvbi12cy1XZXN0IEhhbTE3ODg4NTU3ODAxNjA.txt",
   "links": [
     {
-      "name": "Cricfy MLB",
-      "link": "https://chatgpt.hereisman.net/playlist/56039/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

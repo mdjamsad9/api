@@ -3,29 +3,26 @@
   "order_index": 234,
   "eventDetails": {
     "category": "Football",
-    "eventName": "League One",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
   },
   "teamA": {
-    "name": "Bromley",
-    "logo": "https://img.sofascore.com/api/v1/team/180/image"
+    "name": "Fluminense",
+    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
   },
   "teamB": {
-    "name": "Wimbledon",
-    "logo": "https://img.sofascore.com/api/v1/team/23957/image"
+    "name": "Platense",
+    "logo": "https://img.sofascore.com/api/v1/team/36837/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1Ccm9tbGV5LXZzLVdpbWJsZWRvbjE3ODg3NjYyNDU1MjY.txt",
+  "date": "08/09/2026",
+  "time": "22:00:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsdW1pbmVuc2UtdnMtUGxhdGVuc2UxNzg4ODU1NzgwMTYw.txt",
   "links": [
     {
-      "name": "beIN ENGLISH FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

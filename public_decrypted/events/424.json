@@ -7,39 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Al-Khaleej",
-    "logo": "https://img.sofascore.com/api/v1/team/167228/image"
+    "name": "Al-Qadsiah",
+    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
   },
   "teamB": {
-    "name": "Al-Riyadh",
-    "logo": "https://img.sofascore.com/api/v1/team/168088/image"
+    "name": "Al-Ahli",
+    "logo": "https://img.sofascore.com/api/v1/team/34469/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "15:30:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1LaGFsZWVqLXZzLUFsLVJpeWFkaDE3ODg3NjYyNDU1Mjc.txt",
+  "date": "08/09/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1RYWRzaWFoLXZzLUFsLUFobGkxNzg4ODU1NzgwMTYw.txt",
   "links": [
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.41/hls/eaaav.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy SD",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-160.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Thmanyah",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-4.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
