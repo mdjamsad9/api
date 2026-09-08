@@ -28,8 +28,36 @@
       "tokenApi": ""
     },
     {
-      "name": "Low",
-      "link": "http://193.47.62.41/hls/GTTTAdd.m3u8?|referer=http://www.fawanews.sc/",
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bne5fmzjt8/out/v1/4040a72ef7f844feb02f792bf70844af/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "61ad644ab49ebeb31a40ae1e28969570:f0a7d0eab4b4e323bd4ab3125674412c",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56055/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS NETWORK",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "HD SERVER",
+      "link": "https://www.rtmpcdn.com/live/9ddf942f-b633-4eeb-a2c3-e04323b83304.m3u8",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "LOW SERVER",
+      "link": "http://193.47.62.55/hls/DIIIE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

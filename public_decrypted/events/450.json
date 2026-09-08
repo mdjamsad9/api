@@ -1,28 +1,28 @@
 {
   "id": 450,
-  "order_index": 54,
+  "order_index": 263,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Vietnam",
-    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
   },
   "teamB": {
-    "name": "Singapore",
-    "logo": "https://img.sofascore.com/api/v1/team/4738/image"
+    "name": "Rays",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVZpZXRuYW0tdnMtU2luZ2Fwb3JlMTc4NTQ4MTM5MDUxMA.txt",
+  "date": "08/09/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1SYXlzMTc4ODg3NDE3MjE2Nw.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/bbbbff.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "Link 1",
+      "link": "https://edgestream7.pro/hls/jnzkdzjfanch23.m3u8|referer=https://streame.center/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

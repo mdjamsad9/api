@@ -7,22 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "Royals",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
   },
   "teamB": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Diamondbacks",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
   },
   "visible": true,
   "priority": -1,
   "date": "08/09/2026",
-  "time": "00:10:00",
-  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1DYXJkaW5hbHMxNzg4NzY2MjczNDE2.txt",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1EaWFtb25kYmFja3MxNzg4ODc0MTcyMTY3.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "name": "Link 1",
+      "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

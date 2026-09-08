@@ -2,29 +2,29 @@
   "id": 444,
   "order_index": 257,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "CFL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Hamilton",
-    "logo": "https://img.sofascore.com/api/v1/team/4441/image"
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
   },
   "teamB": {
-    "name": "Toronto",
-    "logo": "https://img.sofascore.com/api/v1/team/4436/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/Q0ZMLUhhbWlsdG9uLXZzLVRvcm9udG8xNzg4NzY2MzAzOTQ2.txt",
+  "date": "08/09/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1QaXJhdGVzMTc4ODg3NDE3MjE2Nw.txt",
   "links": [
     {
-      "name": "TSN SPORTS FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "Link 1",
+      "link": "https://edgestream7.pro/hls/uheyztezgj34.m3u8|referer=https://streame.center/",
       "scheme": 0,
-      "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+      "api": "",
       "tokenApi": ""
     }
   ]

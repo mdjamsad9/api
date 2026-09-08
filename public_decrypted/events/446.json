@@ -1,42 +1,28 @@
 {
   "id": 446,
-  "order_index": 50,
+  "order_index": 259,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "East Timor",
-    "logo": "https://img.sofascore.com/api/v1/team/23497/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "teamB": {
-    "name": "Indonesia",
-    "logo": "https://img.sofascore.com/api/v1/team/4829/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLUVhc3QgVGltb3ItdnMtSW5kb25lc2lhMTc4NTQ4MTM5MDUxMA.txt",
+  "date": "08/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLUFzdHJvczE3ODg4NzQxNzIxNjc.txt",
   "links": [
     {
-      "name": "M LIVE - AQ",
-      "link": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd",
-      "scheme": 0,
-      "api": "91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD STREAM ",
-      "link": "https://live1.streambylivepulse.com/live/channel5/playlist.m3u8?wsSecret=572425f5b6e43867df9c973b7894f658&wsABSTime=1785529713|Referer=https://soco.scorecastbytextz.com/&Origin=https://soco.scorecastbytextz.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD STREAM ",
-      "link": "http://193.47.62.190/hls/VVVV.m3u8|referer=http://www.fawanews.sc/",
+      "name": "Link 1",
+      "link": "https://edgestream7.pro/hls/dzjhkfazbka26.m3u8|referer=https://streame.center/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

@@ -2,51 +2,30 @@
   "id": 445,
   "order_index": 258,
   "eventDetails": {
-    "category": "American football",
-    "eventName": "CFL",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Calgary",
-    "logo": "https://img.sofascore.com/api/v1/team/4433/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "teamB": {
-    "name": "Edmonton",
-    "logo": "https://img.sofascore.com/api/v1/team/4434/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/09/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/Q0ZMLUNhbGdhcnktdnMtRWRtb250b24xNzg4NzY2MzAzOTQ2.txt",
+  "date": "08/09/2026",
+  "time": "22:45:00",
+  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtQW5nZWxzMTc4ODg3NDE3MjE2Nw.txt",
   "links": [
     {
-      "name": "TSN SPORTS",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "Link 1",
+      "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8|referer=https://streame.center/",
       "scheme": 0,
-      "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+      "api": "",
       "tokenApi": ""
-    },
-    {
-      "name": "CBS ",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-308.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "TSN1",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-111.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
-    },
-    {
-      "name": "TSN4",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-114.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }

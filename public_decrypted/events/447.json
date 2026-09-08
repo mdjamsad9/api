@@ -1,59 +1,28 @@
 {
   "id": 447,
-  "order_index": 51,
+  "order_index": 260,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Birmingham",
-    "logo": "https://img.sofascore.com/api/v1/team/9/image"
+    "name": "Giants",
+    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
   },
   "teamB": {
-    "name": "Barcelona",
-    "logo": "https://img.sofascore.com/api/v1/team/2817/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1CaXJtaW5naGFtLXZzLUJhcmNlbG9uYTE3ODU0ODEzOTA1MTA.txt",
+  "date": "09/09/2026",
+  "time": "01:45:00",
+  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1DYXJkaW5hbHMxNzg4ODc0MTcyMTY3.txt",
   "links": [
     {
-      "name": "D SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Live ",
-      "link": "https://hls.live123.fans/live/4561581.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://pul-tenm.gkykp.com/live/sd-1-4561581.m3u8?txSecret=413090cccf9cd41bc7d18e6f61a5a86c&txTime=6A6E0108",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FC BARCELONA HD",
-      "link": "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.192/hls/IMMMAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
