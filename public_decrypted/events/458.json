@@ -1,31 +1,28 @@
 {
   "id": 458,
-  "order_index": 62,
+  "order_index": 271,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Braves",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
+    "name": "Al-Nassr",
+    "logo": "https://img.sofascore.com/api/v1/team/23400/image"
   },
   "teamB": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "Abha",
+    "logo": "https://img.sofascore.com/api/v1/team/168090/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "23:15:00",
-  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1OYXRpb25hbHMxNzg1NDgxNDQ3ODQ3.txt",
+  "date": "09/09/2026",
+  "time": "18:00:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1OYXNzci12cy1BYmhhMTc4ODkwNDQ3MDg2Ng.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

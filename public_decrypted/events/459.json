@@ -1,31 +1,28 @@
 {
   "id": 459,
-  "order_index": 63,
+  "order_index": 272,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "ICC World Test Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark"
   },
   "teamA": {
-    "name": "Athletics",
-    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
+    "name": "ENG",
+    "logo": "https://img.sofascore.com/api/v1/team/187757/image"
   },
   "teamB": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "PAK",
+    "logo": "https://img.sofascore.com/api/v1/team/187754/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1UaWdlcnMxNzg1NDgxNDQ3ODQ4.txt",
+  "date": "09/09/2026",
+  "time": "10:00:00",
+  "links_metadata_path": "pro/SUNDIFdvcmxkIFRlc3QgQ2hhbXBpb25zaGlwLUVORy12cy1QQUsxNzg4OTA0NTYyNTcw.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

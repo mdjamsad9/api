@@ -1,37 +1,30 @@
 {
   "id": 460,
-  "order_index": 64,
+  "order_index": 273,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
   },
   "teamA": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "NAM",
+    "logo": "https://img.sofascore.com/api/v1/team/199275/image"
   },
   "teamB": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "SA",
+    "logo": "https://img.sofascore.com/api/v1/team/187747/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "18:20:00",
-  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtWWFua2VlczE3ODU0ODE0NDc4NDg.txt",
+  "date": "09/09/2026",
+  "time": "07:30:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLU5BTS12cy1TQTE3ODg5MDQ1NjI1NzA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+      "name": "FANCODE - FHD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/UGGGQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
+      "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
       "tokenApi": ""
     }
   ]
