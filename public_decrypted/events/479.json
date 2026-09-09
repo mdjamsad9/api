@@ -1,31 +1,28 @@
 {
   "id": 479,
-  "order_index": 83,
+  "order_index": 292,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Thailand",
-    "logo": "https://img.sofascore.com/api/v1/team/4730/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "teamB": {
-    "name": "Malaysia",
-    "logo": "https://img.sofascore.com/api/v1/team/6912/image"
+    "name": "Astros",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "13:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLVRoYWlsYW5kLXZzLU1hbGF5c2lhMTc4NTUyNjY2MTIxMg.txt",
+  "date": "09/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLUFzdHJvczE3ODg5NDIzOTQxNjE.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/NTTTTAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

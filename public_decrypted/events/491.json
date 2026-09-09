@@ -1,38 +1,28 @@
 {
   "id": 491,
-  "order_index": 95,
+  "order_index": 304,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Cricket",
-    "eventLogo": "Cricket"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Asian Legends League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "teamB": {
-    "name": "Asian Legends League",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10"
+    "name": "Rangers",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "07:30:00",
-  "links_metadata_path": "pro/Q3JpY2tldC1Bc2lhbiBMZWdlbmRzIExlYWd1ZS12cy1Bc2lhbiBMZWdlbmRzIExlYWd1ZTE3ODU2NTU0NjY5MjU.txt",
+  "date": "09/09/2026",
+  "time": "20:10:00",
+  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLVJhbmdlcnMxNzg4OTQyMzk0MTYx.txt",
   "links": [
     {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - IN",
-      "link": "https://dai-fancode.pages.dev/mumbai/4248193_english_hls_4f8bd291d112318_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

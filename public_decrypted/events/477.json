@@ -1,31 +1,28 @@
 {
   "id": 477,
-  "order_index": 81,
+  "order_index": 290,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
   },
   "teamA": {
-    "name": "HSV",
-    "logo": "https://img.sofascore.com/api/v1/team/2676/image"
+    "name": "Estudiantes",
+    "logo": "https://img.sofascore.com/api/v1/team/3206/image"
   },
   "teamB": {
-    "name": "Everton",
-    "logo": "https://img.sofascore.com/api/v1/team/48/image"
+    "name": "Corinthians",
+    "logo": "https://img.sofascore.com/api/v1/team/1957/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "15:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1IU1YtdnMtRXZlcnRvbjE3ODU1MjY2NjEyMTI.txt",
+  "date": "10/09/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUVzdHVkaWFudGVzLXZzLUNvcmludGhpYW5zMTc4ODk0MjMyNzk1OQ.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "http://193.47.62.192/hls/OGGGAaaa.m3u8|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

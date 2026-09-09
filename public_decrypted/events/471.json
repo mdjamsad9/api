@@ -1,31 +1,28 @@
 {
   "id": 471,
-  "order_index": 75,
+  "order_index": 284,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Real Betis",
-    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    "name": "Twente",
+    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
   },
   "teamB": {
-    "name": "Almería",
-    "logo": "https://img.sofascore.com/api/v1/team/2858/image"
+    "name": "Telstar",
+    "logo": "https://img.sofascore.com/api/v1/team/2972/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1SZWFsIEJldGlzLXZzLUFsbWVyw61hMTc4NTUyNjY2MTIxMg.txt",
+  "date": "09/09/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVHdlbnRlLXZzLVRlbHN0YXIxNzg4OTQyMzI3OTU4.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://live2.streambylivepulse.com/live/channel4.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://soco.textliveupdaterz.com/&Origin=https://soco.textliveupdaterz.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

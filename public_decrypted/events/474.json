@@ -1,31 +1,28 @@
 {
   "id": 474,
-  "order_index": 78,
+  "order_index": 287,
   "eventDetails": {
     "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Laos",
-    "logo": "https://img.sofascore.com/api/v1/team/23486/image"
+    "name": "Charlton",
+    "logo": "https://img.sofascore.com/api/v1/team/47/image"
   },
   "teamB": {
-    "name": "Philippines",
-    "logo": "https://img.sofascore.com/api/v1/team/4791/image"
+    "name": "QPR",
+    "logo": "https://img.sofascore.com/api/v1/team/1/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLUxhb3MtdnMtUGhpbGlwcGluZXMxNzg1NTI2NjYxMjEy.txt",
+  "date": "09/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUNoYXJsdG9uLXZzLVFQUjE3ODg5NDIzMjc5NTg.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/YQQQAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

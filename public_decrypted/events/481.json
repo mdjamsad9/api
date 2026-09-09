@@ -1,45 +1,28 @@
 {
   "id": 481,
-  "order_index": 85,
+  "order_index": 294,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Man City",
-    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "Inter",
-    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "11:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYW4gQ2l0eS12cy1JbnRlcjE3ODU1MjY2NjEyMTI.txt",
+  "date": "09/09/2026",
+  "time": "17:10:00",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Ud2luczE3ODg5NDIzOTQxNjE.txt",
   "links": [
     {
-      "name": "FOX DEPORTES ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK ",
-      "link": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.193/hls/jaaaF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

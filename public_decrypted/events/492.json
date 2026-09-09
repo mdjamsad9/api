@@ -1,45 +1,28 @@
 {
   "id": 492,
-  "order_index": 96,
+  "order_index": 305,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Kenya",
-    "logo": "https://img.sofascore.com/api/v1/team/237894/image"
+    "name": "Yankees",
+    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
   },
   "teamB": {
-    "name": "Algeria",
-    "logo": "https://img.sofascore.com/api/v1/team/180004/image"
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "03/08/2026",
-  "time": "20:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtS2VueWEtdnMtQWxnZXJpYTE3ODU3MDc5NTQwNTk.txt",
+  "date": "09/09/2026",
+  "time": "23:05:00",
+  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtUm9ja2llczE3ODg5NDIzOTQxNjE.txt",
   "links": [
     {
-      "name": "Cricfy TV ",
-      "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/x6E6MM6ihNSSSyg7nITo7C9EP-C-mLuni1KEdvHH2ZLt1xsIjbYcaUIew3bYHVHQkIg7gf7fP5t53lg1r8UYRw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD STREAM ",
-      "link": "https://messi.damitv.st/papi/tv/dlhd/95/playlist.m3u8?|Referer=https://ondemand.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD STREAM",
-      "link": "http://193.47.62.191/hls/GSSSDDD.m3u8|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

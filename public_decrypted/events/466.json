@@ -1,38 +1,28 @@
 {
   "id": 466,
-  "order_index": 70,
+  "order_index": 279,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "MLS",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark"
   },
   "teamA": {
-    "name": "Leicester",
-    "logo": "https://img.sofascore.com/api/v1/team/31/image"
+    "name": "Chicago",
+    "logo": "https://img.sofascore.com/api/v1/team/2505/image"
   },
   "teamB": {
-    "name": "Genoa",
-    "logo": "https://img.sofascore.com/api/v1/team/2713/image"
+    "name": "Inter Miami",
+    "logo": "https://img.sofascore.com/api/v1/team/337602/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZWljZXN0ZXItdnMtR2Vub2ExNzg1NTI2NjYxMjEy.txt",
+  "date": "10/09/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/TUxTLUNoaWNhZ28tdnMtSW50ZXIgTWlhbWkxNzg4OTQyMzI3OTU4.txt",
   "links": [
     {
-      "name": "SD STREAM ",
-      "link": "http://193.47.62.190/hls/vaaaq.m3u8|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD STREAM ",
-      "link": "https://live3.procdnlive.com/livecdn/channel6.m3u8?auth_key=3000001785609237-0-0-3e5d345147fa21e75e8b473ffbfcaf57|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://soco.textliveupdaterz.com/&Origin=https://soco.textliveupdaterz.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

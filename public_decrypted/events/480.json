@@ -1,38 +1,28 @@
 {
   "id": 480,
-  "order_index": 84,
+  "order_index": 293,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Cardiff",
-    "logo": "https://img.sofascore.com/api/v1/team/61/image"
+    "name": "Marlins",
+    "logo": "https://img.sofascore.com/api/v1/team/3639/image"
   },
   "teamB": {
-    "name": "Roma",
-    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+    "name": "Mets",
+    "logo": "https://img.sofascore.com/api/v1/team/3629/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "14:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DYXJkaWZmLXZzLVJvbWExNzg1NTI2NjYxMjEy.txt",
+  "date": "09/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLU1hcmxpbnMtdnMtTWV0czE3ODg5NDIzOTQxNjE.txt",
   "links": [
     {
-      "name": "beiN SPORTS ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-      "scheme": 0,
-      "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/TFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "id": 473,
-  "order_index": 77,
+  "order_index": 286,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Nigeria",
-    "logo": "https://img.sofascore.com/api/v1/team/7420/image"
+    "name": "Liverpool",
+    "logo": "https://img.sofascore.com/api/v1/team/44/image"
   },
   "teamB": {
-    "name": "Zambia",
-    "logo": "https://img.sofascore.com/api/v1/team/288601/image"
+    "name": "Atl. Madrid",
+    "logo": "https://img.sofascore.com/api/v1/team/2836/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "20:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtTmlnZXJpYS12cy1aYW1iaWExNzg1NTI2NjYxMjEy.txt",
+  "date": "09/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUxpdmVycG9vbC12cy1BdGwuIE1hZHJpZDE3ODg5NDIzMjc5NTg.txt",
   "links": [
     {
       "name": "Link 1",

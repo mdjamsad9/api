@@ -1,24 +1,24 @@
 {
   "id": 467,
-  "order_index": 71,
+  "order_index": 280,
   "eventDetails": {
     "category": "Football",
-    "eventName": "MLS",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Inter Miami",
-    "logo": "https://img.sofascore.com/api/v1/team/337602/image"
+    "name": "Napoli",
+    "logo": "https://img.sofascore.com/api/v1/team/2714/image"
   },
   "teamB": {
-    "name": "Columbus",
-    "logo": "https://img.sofascore.com/api/v1/team/2504/image"
+    "name": "Arsenal",
+    "logo": "https://img.sofascore.com/api/v1/team/42/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "23:30:00",
-  "links_metadata_path": "pro/TUxTLUludGVyIE1pYW1pLXZzLUNvbHVtYnVzMTc4NTUyNjY2MTIxMg.txt",
+  "date": "09/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLU5hcG9saS12cy1BcnNlbmFsMTc4ODk0MjMyNzk1OA.txt",
   "links": [
     {
       "name": "Link 1",

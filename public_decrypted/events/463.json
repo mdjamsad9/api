@@ -1,31 +1,28 @@
 {
   "id": 463,
-  "order_index": 67,
+  "order_index": 276,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "EFL Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
   },
   "teamA": {
-    "name": "Rays",
-    "logo": "https://img.sofascore.com/api/v1/team/3653/image"
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "teamB": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Leeds",
+    "logo": "https://img.sofascore.com/api/v1/team/34/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "31/07/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVJheXMtdnMtV2hpdGUgU294MTc4NTQ4MTQ0Nzg0OA.txt",
+  "date": "09/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/RUZMIEN1cC1DaGVsc2VhLXZzLUxlZWRzMTc4ODk0MjMyNzk1OA.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "id": 482,
-  "order_index": 86,
+  "order_index": 295,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Leverkusen",
-    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "RW Essen",
-    "logo": "https://img.sofascore.com/api/v1/team/2562/image"
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "09:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1MZXZlcmt1c2VuLXZzLVJXIEVzc2VuMTc4NTUyNjY2MTIxMg.txt",
+  "date": "09/09/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtQ3ViczE3ODg5NDIzOTQxNjE.txt",
   "links": [
     {
       "name": "Link 1",

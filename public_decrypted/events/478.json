@@ -1,38 +1,28 @@
 {
   "id": 478,
-  "order_index": 82,
+  "order_index": 291,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Chelsea",
-    "logo": "https://img.sofascore.com/api/v1/team/38/image"
+    "name": "PSG",
+    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
   },
   "teamB": {
-    "name": "Tottenham",
-    "logo": "https://img.sofascore.com/api/v1/team/33/image"
+    "name": "Slovan",
+    "logo": "https://img.sofascore.com/api/v1/team/2404/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "09:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1DaGVsc2VhLXZzLVRvdHRlbmhhbTE3ODU1MjY2NjEyMTI.txt",
+  "date": "09/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVBTRy12cy1TbG92YW4xNzg4OTQyMzI3OTU5.txt",
   "links": [
     {
-      "name": "CBS SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.194/hls/jaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

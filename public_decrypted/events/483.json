@@ -1,31 +1,28 @@
 {
   "id": 483,
-  "order_index": 87,
+  "order_index": 296,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Egypt",
-    "logo": "https://img.sofascore.com/api/v1/team/132930/image"
+    "name": "Red Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
   },
   "teamB": {
-    "name": "Malawi",
-    "logo": "https://img.sofascore.com/api/v1/team/298498/image"
+    "name": "Angels",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtRWd5cHQtdnMtTWFsYXdpMTc4NTUyNjY2MTIxMg.txt",
+  "date": "09/09/2026",
+  "time": "22:45:00",
+  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtQW5nZWxzMTc4ODk0MjM5NDE2MQ.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "http://193.47.62.191/hls/upppAAAA.m3u8|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

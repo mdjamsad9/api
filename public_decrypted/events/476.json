@@ -1,31 +1,28 @@
 {
   "id": 476,
-  "order_index": 80,
+  "order_index": 289,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Scottish Premiership",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/36/image/dark"
   },
   "teamA": {
-    "name": "Magdeburg",
-    "logo": "https://img.sofascore.com/api/v1/team/2591/image"
+    "name": "St. Johnstone",
+    "logo": "https://img.sofascore.com/api/v1/team/2348/image"
   },
   "teamB": {
-    "name": "West Ham",
-    "logo": "https://img.sofascore.com/api/v1/team/37/image"
+    "name": "Celtic",
+    "logo": "https://img.sofascore.com/api/v1/team/2352/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "12:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYWdkZWJ1cmctdnMtV2VzdCBIYW0xNzg1NTI2NjYxMjEy.txt",
+  "date": "09/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/U2NvdHRpc2ggUHJlbWllcnNoaXAtU3QuIEpvaG5zdG9uZS12cy1DZWx0aWMxNzg4OTQyMzI3OTU5.txt",
   "links": [
     {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.191/hls/OHFFAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

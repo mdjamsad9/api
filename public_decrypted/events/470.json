@@ -1,59 +1,28 @@
 {
   "id": 470,
-  "order_index": 74,
+  "order_index": 283,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Girona",
-    "logo": "https://img.sofascore.com/api/v1/team/24264/image"
+    "name": "Moreirense",
+    "logo": "https://img.sofascore.com/api/v1/team/3014/image"
   },
   "teamB": {
-    "name": "Arsenal",
-    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    "name": "Benfica",
+    "logo": "https://img.sofascore.com/api/v1/team/3006/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "01/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1HaXJvbmEtdnMtQXJzZW5hbDE3ODU1MjY2NjEyMTI.txt",
+  "date": "09/09/2026",
+  "time": "19:45:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLU1vcmVpcmVuc2UtdnMtQmVuZmljYTE3ODg5NDIzMjc5NTg.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "beiN SPORTS FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-      "scheme": 0,
-      "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://162.251.160.53:8089/SATFOT4/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricFy TV",
-      "link": "https://embedindia.st/embed/club-friendly/2026-08-01/gir-ars",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER ",
-      "link": "https://live2.jxa76.com/live/sd-6MweaGuWFLpjj6djhV.m3u8?txSecret=22ff592c2164665b3b6df71d978c94c6&txTime=19FBFC46F9B",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

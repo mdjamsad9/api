@@ -1,45 +1,28 @@
 {
   "id": 489,
-  "order_index": 93,
+  "order_index": 302,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Twenty20 International Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "SL-W",
-    "logo": "https://img.sofascore.com/api/v1/team/187806/image"
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
   },
   "teamB": {
-    "name": "PAK-W",
-    "logo": "https://img.sofascore.com/api/v1/team/187808/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "02/08/2026",
-  "time": "04:30:00",
-  "links_metadata_path": "pro/VHdlbnR5MjAgSW50ZXJuYXRpb25hbCBXb21lbi1TTC1XLXZzLVBBSy1XMTc4NTY1MDkwMzc4Nw.txt",
+  "date": "09/09/2026",
+  "time": "23:40:00",
+  "links_metadata_path": "pro/TUxCLVdoaXRlIFNveC12cy1QaXJhdGVzMTc4ODk0MjM5NDE2MQ.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-      "scheme": 0,
-      "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FANCODE - IN",
-      "link": "https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
