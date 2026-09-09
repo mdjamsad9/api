@@ -21,8 +21,32 @@
   "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVBTRy12cy1TbG92YW4xNzg4OTQyMzI3OTU5.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bwrrmmnzhd/out/v1/040d88de967944f094a458fda987a1af/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "b5400abadc5936e1dba85f57921ef518:7fea7dbc5a2cbc9df9556037c4e3e88c",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+      "tokenApi": ""
+    },
+    {
+      "name": "CBS SPORTS HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56117/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "SonyLiv (ENG)",
+      "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789022870~acl=/*~id=31225690679829302002975308645808~hmac=a02582543b9d7bca51a92c34d40efb97ff5ea2b7149678a33cb8197c3ee30434|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=03c688b4739ab2e8c31457fea2cc122a-1788970202691",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

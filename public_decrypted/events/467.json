@@ -21,8 +21,39 @@
   "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLU5hcG9saS12cy1BcnNlbmFsMTc4ODk0MjMyNzk1OA.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "PARAMOUNT+ FHD",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rzoyb9fllc/out/v1/8926eb65b8f64effb889daad38114562/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "cd9adfa77cd7ef0ee32b67c2511b4132:e2b31e51ab954d894280476d73f75ed6",
+      "tokenApi": ""
+    },
+    {
+      "name": "TNT SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+      "tokenApi": ""
+    },
+    {
+      "name": "PRIME VISION (IT)",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/moppq8e27i/out/v1/b979e15ea681450196bf11d55da65b04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "7d5858307c485fbe867b3be16a90c04d:702c85b1f92f3074db651acc555367ba",
+      "tokenApi": ""
+    },
+    {
+      "name": "PRIME VIDEO 4k (IT)",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjg77gklw5/out/v1/a70a4260e5f547f5a3e18faf0bc2514b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "ae5c74948cad12851a7200464e50c55f:3c6cfb996bbbda74d2af8b82e126f6be",
+      "tokenApi": ""
+    },
+    {
+      "name": "PARAMOUNT+ HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56111/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
