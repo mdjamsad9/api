@@ -3,36 +3,26 @@
   "order_index": 236,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Sudamericana",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/480/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Boca Juniors",
-    "logo": "https://img.sofascore.com/api/v1/team/3202/image"
+    "name": "Fenerbahçe",
+    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
   },
   "teamB": {
-    "name": "São Paulo",
-    "logo": "https://img.sofascore.com/api/v1/team/1981/image"
+    "name": "Roma",
+    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgU3VkYW1lcmljYW5hLUJvY2EgSnVuaW9ycy12cy1Tw6NvIFBhdWxvMTc4ODg1NTc4MDE2MA.txt",
+  "date": "10/09/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUZlbmVyYmFow6dlLXZzLVJvbWExNzg5MDI3Mzc5MDQy.txt",
   "links": [
     {
-      "name": "beIN ENGLISH FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "SportDigital Fussball",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

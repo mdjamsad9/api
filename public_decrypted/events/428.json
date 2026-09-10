@@ -3,22 +3,22 @@
   "order_index": 241,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "eventName": "Liga Portugal Betclic",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
   },
   "teamA": {
-    "name": "Dortmund",
-    "logo": "https://img.sofascore.com/api/v1/team/2673/image"
+    "name": "Estrela Amadora",
+    "logo": "https://img.sofascore.com/api/v1/team/3035/image"
   },
   "teamB": {
-    "name": "Villarreal",
-    "logo": "https://img.sofascore.com/api/v1/team/2819/image"
+    "name": "Braga",
+    "logo": "https://img.sofascore.com/api/v1/team/2999/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLURvcnRtdW5kLXZzLVZpbGxhcnJlYWwxNzg4ODU1NzgwMTYw.txt",
+  "date": "10/09/2026",
+  "time": "19:15:00",
+  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLUVzdHJlbGEgQW1hZG9yYS12cy1CcmFnYTE3ODkwMjczNzkwNDI.txt",
   "links": [
     {
       "name": "Link 1",

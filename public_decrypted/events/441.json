@@ -2,58 +2,27 @@
   "id": 441,
   "order_index": 254,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "category": "Cricket",
+    "eventName": "Caribbean Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark"
   },
   "teamA": {
-    "name": "Bournemouth",
-    "logo": "https://img.sofascore.com/api/v1/team/60/image"
+    "name": "GUY",
+    "logo": "https://img.sofascore.com/api/v1/team/187823/image"
   },
   "teamB": {
-    "name": "Lincoln",
-    "logo": "https://img.sofascore.com/api/v1/team/92/image"
+    "name": "TKR",
+    "logo": "https://img.sofascore.com/api/v1/team/187824/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1Cb3VybmVtb3V0aC12cy1MaW5jb2xuMTc4ODg1NTc4MDE2MQ.txt",
+  "date": "11/09/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/Q2FyaWJiZWFuIFByZW1pZXIgTGVhZ3VlLUdVWS12cy1US1IxNzg5MDMwMTY0NDE0.txt",
   "links": [
     {
-      "name": "beIN Sports fr",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-495.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "ESPN Br",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-81.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "SD Stream",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-200.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Cricfy Sports+",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-159.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Sport TV3",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-454.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

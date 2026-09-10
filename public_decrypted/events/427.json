@@ -3,36 +3,29 @@
   "order_index": 240,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "eventName": "League One",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/24/image/dark"
   },
   "teamA": {
-    "name": "Porto",
-    "logo": "https://img.sofascore.com/api/v1/team/3002/image"
+    "name": "Stevenage",
+    "logo": "https://img.sofascore.com/api/v1/team/133/image"
   },
   "teamB": {
-    "name": "Man City",
-    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    "name": "Luton",
+    "logo": "https://img.sofascore.com/api/v1/team/72/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
+  "date": "10/09/2026",
   "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVBvcnRvLXZzLU1hbiBDaXR5MTc4ODg1NTc4MDE2MA.txt",
+  "links_metadata_path": "pro/TGVhZ3VlIE9uZS1TdGV2ZW5hZ2UtdnMtTHV0b24xNzg5MDI3Mzc5MDQy.txt",
   "links": [
     {
-      "name": "Server 1",
+      "name": "Cricfy HD",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-55.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Low",
-      "link": "http://193.47.62.41/hls/GTTTAd.m3u8?|referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/7.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

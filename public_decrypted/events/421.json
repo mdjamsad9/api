@@ -3,29 +3,26 @@
   "order_index": 234,
   "eventDetails": {
     "category": "Football",
-    "eventName": "CONMEBOL Libertadores",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Fluminense",
-    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
+    "name": "Bayern",
+    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
   },
   "teamB": {
-    "name": "Platense",
-    "logo": "https://img.sofascore.com/api/v1/team/36837/image"
+    "name": "Bodø/Glimt",
+    "logo": "https://img.sofascore.com/api/v1/team/656/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "22:00:00",
-  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUZsdW1pbmVuc2UtdnMtUGxhdGVuc2UxNzg4ODU1NzgwMTYw.txt",
+  "date": "10/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUJheWVybi12cy1Cb2TDuC9HbGltdDE3ODkwMjczNzkwNDI.txt",
   "links": [
     {
-      "name": "beIN ENGLISH FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

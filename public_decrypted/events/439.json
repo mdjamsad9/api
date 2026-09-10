@@ -3,50 +3,36 @@
   "order_index": 252,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "eventName": "Liga MX, Apertura",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark"
   },
   "teamA": {
-    "name": "Blackburn",
-    "logo": "https://img.sofascore.com/api/v1/team/46/image"
+    "name": "Pumas",
+    "logo": "https://img.sofascore.com/api/v1/team/1933/image"
   },
   "teamB": {
-    "name": "Sheffield Utd",
-    "logo": "https://img.sofascore.com/api/v1/team/15/image"
+    "name": "León",
+    "logo": "https://img.sofascore.com/api/v1/team/36534/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJsYWNrYnVybi12cy1TaGVmZmllbGQgVXRkMTc4ODg1NTc4MDE2MA.txt",
+  "date": "11/09/2026",
+  "time": "03:05:00",
+  "links_metadata_path": "pro/TGlnYSBNWCwgQXBlcnR1cmEtUHVtYXMtdnMtTGXDs24xNzg5MDI4MzY5ODM4.txt",
   "links": [
     {
-      "name": "CBS SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/56053/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Low",
-      "link": "http://193.47.62.41/hls/FBBBQQQQqqqQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "Cricfy Sports+",
+      "name": "Server 2",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-155.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/11.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     },
     {
-      "name": "SD Stream",
+      "name": "TUDN USA",
       "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-187.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-66.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }

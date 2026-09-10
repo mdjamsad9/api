@@ -3,29 +3,29 @@
   "order_index": 235,
   "eventDetails": {
     "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Crystal Palace",
-    "logo": "https://img.sofascore.com/api/v1/team/7/image"
+    "name": "PSV",
+    "logo": "https://img.sofascore.com/api/v1/team/2952/image"
   },
   "teamB": {
-    "name": "Middlesbrough",
-    "logo": "https://img.sofascore.com/api/v1/team/36/image"
+    "name": "Shakhtar",
+    "logo": "https://img.sofascore.com/api/v1/team/3313/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1DcnlzdGFsIFBhbGFjZS12cy1NaWRkbGVzYnJvdWdoMTc4ODg1NTc4MDE2MA.txt",
+  "date": "10/09/2026",
+  "time": "16:45:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVBTVi12cy1TaGFraHRhcjE3ODkwMjczNzkwNDI.txt",
   "links": [
     {
-      "name": "beIN ENGLISH FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "Server 2",
+      "link": "",
       "scheme": 0,
-      "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-      "tokenApi": ""
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/flyembed.click\\/embed\\/2.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
     }
   ]
 }

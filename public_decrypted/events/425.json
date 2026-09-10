@@ -3,64 +3,26 @@
   "order_index": 238,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "eventName": "CONMEBOL Libertadores",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark"
   },
   "teamA": {
-    "name": "Club Brugge",
-    "logo": "https://img.sofascore.com/api/v1/team/2888/image"
+    "name": "Ind. del Valle",
+    "logo": "https://img.sofascore.com/api/v1/team/39723/image"
   },
   "teamB": {
-    "name": "Aston Villa",
-    "logo": "https://img.sofascore.com/api/v1/team/40/image"
+    "name": "Flamengo",
+    "logo": "https://img.sofascore.com/api/v1/team/5981/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "16:45:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUNsdWIgQnJ1Z2dlLXZzLUFzdG9uIFZpbGxhMTc4ODg1NTc4MDE2MA.txt",
+  "date": "11/09/2026",
+  "time": "00:30:00",
+  "links_metadata_path": "pro/Q09OTUVCT0wgTGliZXJ0YWRvcmVzLUluZC4gZGVsIFZhbGxlLXZzLUZsYW1lbmdvMTc4OTAyNzM3OTA0Mg.txt",
   "links": [
     {
-      "name": "TNT SPORTS FHD",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-      "tokenApi": ""
-    },
-    {
-      "name": "PARAMOUNT+ FHD",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bne5fmzjt8/out/v1/4040a72ef7f844feb02f792bf70844af/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "61ad644ab49ebeb31a40ae1e28969570:f0a7d0eab4b4e323bd4ab3125674412c",
-      "tokenApi": ""
-    },
-    {
-      "name": "PARAMOUNT+ HD",
-      "link": "https://chatgpt.hereisman.net/playlist/56055/load-playlist?|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://www.rtmpcdn.com/live/9ddf942f-b633-4eeb-a2c3-e04323b83304.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.55/hls/DIIIE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

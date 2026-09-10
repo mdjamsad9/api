@@ -2,23 +2,23 @@
   "id": 440,
   "order_index": 253,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "category": "Cricket",
+    "eventName": "Womens Asia Cup",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
   },
   "teamA": {
-    "name": "Wrexham",
-    "logo": "https://img.sofascore.com/api/v1/team/64/image"
+    "name": "SL-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187806/image"
   },
   "teamB": {
-    "name": "Burnley",
-    "logo": "https://img.sofascore.com/api/v1/team/6/image"
+    "name": "PAK-W",
+    "logo": "https://img.sofascore.com/api/v1/team/187808/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdyZXhoYW0tdnMtQnVybmxleTE3ODg4NTU3ODAxNjE.txt",
+  "date": "11/09/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLVNMLVctdnMtUEFLLVcxNzg5MDMwMTY0NDE0.txt",
   "links": [
     {
       "name": "Link 1",

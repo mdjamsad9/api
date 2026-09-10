@@ -3,36 +3,26 @@
   "order_index": 237,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Al-Qadsiah",
-    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
+    "name": "Slavia Praha",
+    "logo": "https://img.sofascore.com/api/v1/team/2216/image"
   },
   "teamB": {
-    "name": "Al-Ahli",
-    "logo": "https://img.sofascore.com/api/v1/team/34469/image"
+    "name": "Lens",
+    "logo": "https://img.sofascore.com/api/v1/team/1648/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1RYWRzaWFoLXZzLUFsLUFobGkxNzg4ODU1NzgwMTYw.txt",
+  "date": "10/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVNsYXZpYSBQcmFoYS12cy1MZW5zMTc4OTAyNzM3OTA0Mg.txt",
   "links": [
     {
-      "name": "FOX SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX DEPORTES",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

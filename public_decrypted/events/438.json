@@ -2,23 +2,23 @@
   "id": 438,
   "order_index": 251,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "category": "American football",
+    "eventName": "NFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark"
   },
   "teamA": {
-    "name": "Bolton",
-    "logo": "https://img.sofascore.com/api/v1/team/5/image"
+    "name": "Rams",
+    "logo": "https://img.sofascore.com/api/v1/team/4387/image"
   },
   "teamB": {
-    "name": "West Ham",
-    "logo": "https://img.sofascore.com/api/v1/team/37/image"
+    "name": "49ers",
+    "logo": "https://img.sofascore.com/api/v1/team/4389/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLUJvbHRvbi12cy1XZXN0IEhhbTE3ODg4NTU3ODAxNjA.txt",
+  "date": "11/09/2026",
+  "time": "00:35:00",
+  "links_metadata_path": "pro/TkZMLVJhbXMtdnMtNDllcnMxNzg5MDI4Mjg3MTgw.txt",
   "links": [
     {
       "name": "Link 1",

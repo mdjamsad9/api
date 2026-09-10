@@ -3,36 +3,26 @@
   "order_index": 239,
   "eventDetails": {
     "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "eventName": "UEFA Champions League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
   },
   "teamA": {
-    "name": "Sunderland",
-    "logo": "https://img.sofascore.com/api/v1/team/41/image"
+    "name": "Como",
+    "logo": "https://img.sofascore.com/api/v1/team/2704/image"
   },
   "teamB": {
-    "name": "Hull",
-    "logo": "https://img.sofascore.com/api/v1/team/96/image"
+    "name": "Leipzig",
+    "logo": "https://img.sofascore.com/api/v1/team/36360/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1TdW5kZXJsYW5kLXZzLUh1bGwxNzg4ODU1NzgwMTYw.txt",
+  "date": "10/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUNvbW8tdnMtTGVpcHppZzE3ODkwMjczNzkwNDI.txt",
   "links": [
     {
-      "name": "Arabic",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-100.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
-    },
-    {
-      "name": "Event SD Stream",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-197.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
