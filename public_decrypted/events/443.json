@@ -21,6 +21,14 @@
   "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbCBGYWlzYWx5LXZzLUFsLUl0dGloYWQxNzg5MTE0Mjc2MDU5.txt",
   "links": [
     {
+      "name": "CricfyTV.Net",
+      "link": "http://193.47.62.43/hls/LOOOAAAAaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "",
+      "sourceType": "sportzx"
+    },
+    {
       "name": "Thmanyah",
       "link": "",
       "scheme": 0,
