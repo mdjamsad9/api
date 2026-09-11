@@ -7,33 +7,22 @@
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Al-Kholood",
-    "logo": "https://img.sofascore.com/api/v1/team/269199/image"
+    "name": "Al-Qadsiah",
+    "logo": "https://img.sofascore.com/api/v1/team/56027/image"
   },
   "teamB": {
-    "name": "Al-Shabab",
-    "logo": "https://img.sofascore.com/api/v1/team/34313/image"
+    "name": "Al-Ettifaq",
+    "logo": "https://img.sofascore.com/api/v1/team/34318/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "15:55:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1LaG9sb29kLXZzLUFsLVNoYWJhYjE3ODg5MDQ0NzA4NjY.txt",
+  "date": "11/09/2026",
+  "time": "15:25:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1RYWRzaWFoLXZzLUFsLUV0dGlmYXExNzg5MTE0Mjc2MDYw.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "http://193.47.62.41/hls/UGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
-    },
-    {
-      "name": "Thmanyah",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-5.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

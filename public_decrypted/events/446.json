@@ -2,30 +2,27 @@
   "id": 446,
   "order_index": 259,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "Rennes",
+    "logo": "https://img.sofascore.com/api/v1/team/1658/image"
   },
   "teamB": {
-    "name": "Astros",
-    "logo": "https://img.sofascore.com/api/v1/team/3655/image"
+    "name": "Marseille",
+    "logo": "https://img.sofascore.com/api/v1/team/1641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLUFzdHJvczE3ODg4NzQxNzIxNjc.txt",
+  "date": "11/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1SZW5uZXMtdnMtTWFyc2VpbGxlMTc4OTExNDI3NjA1OQ.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://edgestream7.pro/hls/dzjhkfazbka26.m3u8|referer=https://streame.center/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

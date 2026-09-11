@@ -2,38 +2,37 @@
   "id": 471,
   "order_index": 284,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "VriendenLoterij Eredivisie",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Twente",
-    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
+    "name": "Cubs",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
   },
   "teamB": {
-    "name": "Telstar",
-    "logo": "https://img.sofascore.com/api/v1/team/2972/image"
+    "name": "Pirates",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "16:45:00",
-  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVHdlbnRlLXZzLVRlbHN0YXIxNzg4OTQyMzI3OTU4.txt",
+  "date": "11/09/2026",
+  "time": "18:20:00",
+  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtUGlyYXRlczE3ODkxMTcwMTUwMDI.txt",
   "links": [
     {
-      "name": "ESPN 1 NL",
-      "link": "",
+      "name": "TNT SPORTS",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-379.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+      "tokenApi": ""
     },
     {
       "name": "CricfyTV.Net",
-      "link": "http://193.47.62.41/hls/CHHHA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
-      "tokenApi": "",
-      "sourceType": "sportzx"
+      "tokenApi": ""
     }
   ]
 }

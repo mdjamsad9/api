@@ -2,30 +2,27 @@
   "id": 453,
   "order_index": 266,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "West Ham",
+    "logo": "https://img.sofascore.com/api/v1/team/37/image"
   },
   "teamB": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "Wrexham",
+    "logo": "https://img.sofascore.com/api/v1/team/64/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Ud2luczE3ODg4NzQxNzIxNjg.txt",
+  "date": "11/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgSGFtLXZzLVdyZXhoYW0xNzg5MTE0Mjc2MDYw.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://edgestream6.pro/hls/kjhfzua25.m3u8|referer=https://streame.center/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

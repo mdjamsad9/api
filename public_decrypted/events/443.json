@@ -2,30 +2,27 @@
   "id": 443,
   "order_index": 256,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Saudi Pro League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
   },
   "teamA": {
-    "name": "Royals",
-    "logo": "https://img.sofascore.com/api/v1/team/3651/image"
+    "name": "Al Faisaly",
+    "logo": "https://img.sofascore.com/api/v1/team/56035/image"
   },
   "teamB": {
-    "name": "Diamondbacks",
-    "logo": "https://img.sofascore.com/api/v1/team/3640/image"
+    "name": "Al-Ittihad",
+    "logo": "https://img.sofascore.com/api/v1/team/34315/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "23:40:00",
-  "links_metadata_path": "pro/TUxCLVJveWFscy12cy1EaWFtb25kYmFja3MxNzg4ODc0MTcyMTY3.txt",
+  "date": "11/09/2026",
+  "time": "15:45:00",
+  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbCBGYWlzYWx5LXZzLUFsLUl0dGloYWQxNzg5MTE0Mjc2MDU5.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8|referer=https://streame.center/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,44 +2,27 @@
   "id": 442,
   "order_index": 255,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Womens Asia Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark"
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
   },
   "teamA": {
-    "name": "IND-W",
-    "logo": "https://img.sofascore.com/api/v1/team/213119/image"
+    "name": "Hoffenheim",
+    "logo": "https://img.sofascore.com/api/v1/team/2569/image"
   },
   "teamB": {
-    "name": "BAN-W",
-    "logo": "https://img.sofascore.com/api/v1/team/187809/image"
+    "name": "Stuttgart",
+    "logo": "https://img.sofascore.com/api/v1/team/2677/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "10/09/2026",
-  "time": "14:30:00",
-  "links_metadata_path": "pro/V29tZW5zIEFzaWEgQ3VwLUlORC1XLXZzLUJBTi1XMTc4OTA0ODQ2NDAwNw.txt",
+  "date": "12/09/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1Ib2ZmZW5oZWltLXZzLVN0dXR0Z2FydDE3ODkxMTQyNzYwNTk.txt",
   "links": [
     {
-      "name": "WILLOW - FHD",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd",
-      "scheme": 0,
-      "api": "003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0",
-      "tokenApi": ""
-    },
-    {
-      "name": "T SPORTS HD",
-      "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,30 +2,27 @@
   "id": 490,
   "order_index": 303,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Mixed Martial Arts",
+    "eventName": "UFC",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark"
   },
   "teamA": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "J. Silva",
+    "logo": "https://img.sofascore.com/api/v1/team/489432/image"
   },
   "teamB": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "J. M. Delgado",
+    "logo": "https://img.sofascore.com/api/v1/team/825814/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "19:45:00",
-  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1DYXJkaW5hbHMxNzg4OTQyMzk0MTYx.txt",
+  "date": "12/09/2026",
+  "time": "23:00:00",
+  "links_metadata_path": "pro/VUZDLUouIFNpbHZhLXZzLUouIE0uIERlbGdhZG8xNzg5MTE4OTgyNjQz.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

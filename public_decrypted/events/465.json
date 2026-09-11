@@ -2,41 +2,27 @@
   "id": 465,
   "order_index": 278,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Norwich",
-    "logo": "https://img.sofascore.com/api/v1/team/263/image"
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
   },
   "teamB": {
-    "name": "Birmingham",
-    "logo": "https://img.sofascore.com/api/v1/team/9/image"
+    "name": "Guardians",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU5vcndpY2gtdnMtQmlybWluZ2hhbTE3ODg5NDIzMjc5NTg.txt",
+  "date": "12/09/2026",
+  "time": "00:10:00",
+  "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLUd1YXJkaWFuczE3ODkxMTcwMTUwMDI.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ FHD",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/swlpqgir9l/out/v1/9e423461ad3649779029b7c4e6d8680a/673d12cc-a260-4541-8e0b-328e8603d6f3-cenc.mpd?aws_sessionId=0dd45eaf-c4f7-4fdf-83c8-3b9446b0b3c4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7839f26a16aa64e533561a247a9c776b:ee570639771dae849d929b0adec00f44",
-      "tokenApi": ""
-    },
-    {
       "name": "CricfyTV.Net",
-      "link": "https://chatgpt.hereisman.net/playlist/56118/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD SERVER",
-      "link": "http://193.47.62.41/hls/FAFAFAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "link": "https://edgestream7.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

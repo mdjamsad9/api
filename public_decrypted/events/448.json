@@ -2,30 +2,27 @@
   "id": 448,
   "order_index": 261,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
   },
   "teamA": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "Augsburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2600/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Leverkusen",
+    "logo": "https://img.sofascore.com/api/v1/team/2681/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "22:35:00",
-  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtR3VhcmRpYW5zMTc4ODg3NDE3MjE2Nw.txt",
+  "date": "12/09/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1BdWdzYnVyZy12cy1MZXZlcmt1c2VuMTc4OTExNDI3NjA2MA.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://edgestream7.pro/hls/hefbafbakx28.m3u8|referer=https://streame.center/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

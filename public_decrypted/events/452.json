@@ -2,30 +2,27 @@
   "id": 452,
   "order_index": 265,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Nürnberg",
+    "logo": "https://img.sofascore.com/api/v1/team/2523/image"
   },
   "teamB": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Hannover",
+    "logo": "https://img.sofascore.com/api/v1/team/2541/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "01:40:00",
-  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLVJhbmdlcnMxNzg4ODc0MTcyMTY4.txt",
+  "date": "11/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Ow7xybmJlcmctdnMtSGFubm92ZXIxNzg5MTE0Mjc2MDYw.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://edgestream5.pro/hls/sfjnzabacah31.m3u8|referer=https://streame.center/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -2,27 +2,30 @@
   "id": 470,
   "order_index": 283,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Liga Portugal Betclic",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Moreirense",
-    "logo": "https://img.sofascore.com/api/v1/team/3014/image"
+    "name": "Athletics",
+    "logo": "https://img.sofascore.com/api/v1/team/3645/image"
   },
   "teamB": {
-    "name": "Benfica",
-    "logo": "https://img.sofascore.com/api/v1/team/3006/image"
+    "name": "Mariners",
+    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "19:45:00",
-  "links_metadata_path": "pro/TGlnYSBQb3J0dWdhbCBCZXRjbGljLU1vcmVpcmVuc2UtdnMtQmVuZmljYTE3ODg5NDIzMjc5NTg.txt",
+  "date": "12/09/2026",
+  "time": "01:40:00",
+  "links_metadata_path": "pro/TUxCLUF0aGxldGljcy12cy1NYXJpbmVyczE3ODkxMTcwMTUwMDI.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream7.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

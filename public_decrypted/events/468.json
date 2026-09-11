@@ -2,34 +2,27 @@
   "id": 468,
   "order_index": 281,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Sporting",
-    "logo": "https://img.sofascore.com/api/v1/team/3001/image"
+    "name": "Brewers",
+    "logo": "https://img.sofascore.com/api/v1/team/3630/image"
   },
   "teamB": {
-    "name": "Galatasaray",
-    "logo": "https://img.sofascore.com/api/v1/team/3061/image"
+    "name": "Reds",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVNwb3J0aW5nLXZzLUdhbGF0YXNhcmF5MTc4ODk0MjMyNzk1OA.txt",
+  "date": "11/09/2026",
+  "time": "23:45:00",
+  "links_metadata_path": "pro/TUxCLUJyZXdlcnMtdnMtUmVkczE3ODkxMTcwMTUwMDI.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ FHD",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yv2uy4vjzo/out/v1/eeb6bca6dc544b9ea7004bbc58cfce22/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "b95afcb8286e4d4922b4acc7e9170b9a:cc0df72257f3838a48405ea83017fb14",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/56116/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream2.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

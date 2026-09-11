@@ -2,48 +2,27 @@
   "id": 463,
   "order_index": 276,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "EFL Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/21/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Chelsea",
-    "logo": "https://img.sofascore.com/api/v1/team/38/image"
+    "name": "Tigers",
+    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
   },
   "teamB": {
-    "name": "Leeds",
-    "logo": "https://img.sofascore.com/api/v1/team/34/image"
+    "name": "Rockies",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/RUZMIEN1cC1DaGVsc2VhLXZzLUxlZWRzMTc4ODk0MjMyNzk1OA.txt",
+  "date": "11/09/2026",
+  "time": "22:40:00",
+  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Sb2NraWVzMTc4OTExNzAxNTAwMg.txt",
   "links": [
     {
-      "name": "beIN ENGLISH FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "CricfyTV.Net",
-      "link": "https://chatgpt.hereisman.net/playlist/56121/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://edgestream6.pro/hls/hflfkrtib42.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.55/hls/WAWAWAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "name": "Link 1",
+      "link": "https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

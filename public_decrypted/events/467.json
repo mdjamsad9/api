@@ -2,55 +2,34 @@
   "id": 467,
   "order_index": 280,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Napoli",
-    "logo": "https://img.sofascore.com/api/v1/team/2714/image"
+    "name": "Blue Jays",
+    "logo": "https://img.sofascore.com/api/v1/team/3642/image"
   },
   "teamB": {
-    "name": "Arsenal",
-    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    "name": "Orioles",
+    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLU5hcG9saS12cy1BcnNlbmFsMTc4ODk0MjMyNzk1OA.txt",
+  "date": "11/09/2026",
+  "time": "23:07:00",
+  "links_metadata_path": "pro/TUxCLUJsdWUgSmF5cy12cy1PcmlvbGVzMTc4OTExNzAxNTAwMg.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ FHD",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rzoyb9fllc/out/v1/8926eb65b8f64effb889daad38114562/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "name": "TNT SPORTS",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "cd9adfa77cd7ef0ee32b67c2511b4132:e2b31e51ab954d894280476d73f75ed6",
+      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
       "tokenApi": ""
     },
     {
-      "name": "TNT SPORTS FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-      "tokenApi": ""
-    },
-    {
-      "name": "PRIME VISION (IT)",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/moppq8e27i/out/v1/b979e15ea681450196bf11d55da65b04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7d5858307c485fbe867b3be16a90c04d:702c85b1f92f3074db651acc555367ba",
-      "tokenApi": ""
-    },
-    {
-      "name": "PRIME VIDEO 4k (IT)",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjg77gklw5/out/v1/a70a4260e5f547f5a3e18faf0bc2514b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "ae5c74948cad12851a7200464e50c55f:3c6cfb996bbbda74d2af8b82e126f6be",
-      "tokenApi": ""
-    },
-    {
-      "name": "PARAMOUNT+ HD",
-      "link": "https://chatgpt.hereisman.net/playlist/56111/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

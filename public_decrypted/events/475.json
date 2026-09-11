@@ -2,30 +2,30 @@
   "id": 475,
   "order_index": 288,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Derby",
-    "logo": "https://img.sofascore.com/api/v1/team/27/image"
+    "name": "Cardinals",
+    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
   },
   "teamB": {
-    "name": "West Brom",
-    "logo": "https://img.sofascore.com/api/v1/team/8/image"
+    "name": "White Sox",
+    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLURlcmJ5LXZzLVdlc3QgQnJvbTE3ODg5NDIzMjc5NTg.txt",
+  "date": "12/09/2026",
+  "time": "00:15:00",
+  "links_metadata_path": "pro/TUxCLUNhcmRpbmFscy12cy1XaGl0ZSBTb3gxNzg5MTE3MDE1MDAy.txt",
   "links": [
     {
-      "name": "Cricfy Sports+",
-      "link": "",
+      "name": "CricfyTV.Net",
+      "link": "https://edgestream2.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
       "scheme": 0,
       "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-151.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+      "tokenApi": ""
     }
   ]
 }

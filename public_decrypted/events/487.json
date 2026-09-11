@@ -2,30 +2,27 @@
   "id": 487,
   "order_index": 300,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Orioles",
-    "logo": "https://img.sofascore.com/api/v1/team/3652/image"
+    "name": "Chelsea",
+    "logo": "https://img.sofascore.com/api/v1/team/38/image"
   },
   "teamB": {
-    "name": "Guardians",
-    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
+    "name": "Hull",
+    "logo": "https://img.sofascore.com/api/v1/team/96/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "22:35:00",
-  "links_metadata_path": "pro/TUxCLU9yaW9sZXMtdnMtR3VhcmRpYW5zMTc4ODk0MjM5NDE2MQ.txt",
+  "date": "12/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQ2hlbHNlYS12cy1IdWxsMTc4OTExODkyODcyNA.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

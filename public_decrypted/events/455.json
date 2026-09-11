@@ -2,23 +2,23 @@
   "id": 455,
   "order_index": 268,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "Sevilla",
+    "logo": "https://img.sofascore.com/api/v1/team/2833/image"
   },
   "teamB": {
-    "name": "Reds",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image"
+    "name": "Valencia",
+    "logo": "https://img.sofascore.com/api/v1/team/2828/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "02:10:00",
-  "links_metadata_path": "pro/TUxCLURvZGdlcnMtdnMtUmVkczE3ODg4NzQxNzIxNjg.txt",
+  "date": "11/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/TGFMaWdhLVNldmlsbGEtdnMtVmFsZW5jaWExNzg5MTE0Mjc2MDYw.txt",
   "links": [
     {
       "name": "Link 1",

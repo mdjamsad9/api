@@ -2,23 +2,23 @@
   "id": 447,
   "order_index": 260,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark"
   },
   "teamA": {
-    "name": "Giants",
-    "logo": "https://img.sofascore.com/api/v1/team/3634/image"
+    "name": "Mainz 05",
+    "logo": "https://img.sofascore.com/api/v1/team/2556/image"
   },
   "teamB": {
-    "name": "Cardinals",
-    "logo": "https://img.sofascore.com/api/v1/team/3632/image"
+    "name": "Frankfurt",
+    "logo": "https://img.sofascore.com/api/v1/team/2674/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "01:45:00",
-  "links_metadata_path": "pro/TUxCLUdpYW50cy12cy1DYXJkaW5hbHMxNzg4ODc0MTcyMTY3.txt",
+  "date": "12/09/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/QnVuZGVzbGlnYS1NYWlueiAwNS12cy1GcmFua2Z1cnQxNzg5MTE0Mjc2MDU5.txt",
   "links": [
     {
       "name": "Link 1",

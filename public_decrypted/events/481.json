@@ -2,30 +2,27 @@
   "id": 481,
   "order_index": 294,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Premier League",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark"
   },
   "teamA": {
-    "name": "Tigers",
-    "logo": "https://img.sofascore.com/api/v1/team/3648/image"
+    "name": "Bournemouth",
+    "logo": "https://img.sofascore.com/api/v1/team/60/image"
   },
   "teamB": {
-    "name": "Twins",
-    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
+    "name": "Brentford",
+    "logo": "https://img.sofascore.com/api/v1/team/50/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "17:10:00",
-  "links_metadata_path": "pro/TUxCLVRpZ2Vycy12cy1Ud2luczE3ODg5NDIzOTQxNjE.txt",
+  "date": "12/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/UHJlbWllciBMZWFndWUtQm91cm5lbW91dGgtdnMtQnJlbnRmb3JkMTc4OTExODkyODcyNA.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

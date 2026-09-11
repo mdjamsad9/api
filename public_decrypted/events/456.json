@@ -3,29 +3,26 @@
   "order_index": 269,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Saudi Pro League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark"
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Al-Fateh",
-    "logo": "https://img.sofascore.com/api/v1/team/56023/image"
+    "name": "AZ",
+    "logo": "https://img.sofascore.com/api/v1/team/2950/image"
   },
   "teamB": {
-    "name": "Diriyah",
-    "logo": "https://img.sofascore.com/api/v1/team/853574/image"
+    "name": "Willem II",
+    "logo": "https://img.sofascore.com/api/v1/team/2961/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
+  "date": "11/09/2026",
   "time": "18:00:00",
-  "links_metadata_path": "pro/U2F1ZGkgUHJvIExlYWd1ZS1BbC1GYXRlaC12cy1EaXJpeWFoMTc4ODkwNDQ3MDg2Ng.txt",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtQVotdnMtV2lsbGVtIElJMTc4OTExNDI3NjA2MA.txt",
   "links": [
     {
-      "name": "Thmanyah",
-      "link": "",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-2.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

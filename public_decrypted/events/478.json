@@ -2,51 +2,72 @@
   "id": 478,
   "order_index": 291,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "category": "Aussie rules",
+    "eventName": "AFL",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark"
   },
   "teamA": {
-    "name": "PSG",
-    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
+    "name": "Fremantle",
+    "logo": "https://img.sofascore.com/api/v1/team/4452/image"
   },
   "teamB": {
-    "name": "Slovan",
-    "logo": "https://img.sofascore.com/api/v1/team/2404/image"
+    "name": "Geelong",
+    "logo": "https://img.sofascore.com/api/v1/team/4443/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLVBTRy12cy1TbG92YW4xNzg4OTQyMzI3OTU5.txt",
+  "date": "11/09/2026",
+  "time": "10:10:00",
+  "links_metadata_path": "pro/QUZMLUZyZW1hbnRsZS12cy1HZWVsb25nMTc4OTExODY1MjAwMA.txt",
   "links": [
     {
-      "name": "PARAMOUNT+ FHD",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bwrrmmnzhd/out/v1/040d88de967944f094a458fda987a1af/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "b5400abadc5936e1dba85f57921ef518:7fea7dbc5a2cbc9df9556037c4e3e88c",
-      "tokenApi": ""
-    },
-    {
       "name": "TNT SPORTS FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+      "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
       "tokenApi": ""
     },
     {
-      "name": "CBS SPORTS HD",
-      "link": "https://chatgpt.hereisman.net/playlist/56117/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "name": "TSN SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
       "scheme": 0,
-      "api": "",
+      "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
       "tokenApi": ""
     },
     {
-      "name": "SonyLiv (ENG)",
-      "link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789022870~acl=/*~id=31225690679829302002975308645808~hmac=a02582543b9d7bca51a92c34d40efb97ff5ea2b7149678a33cb8197c3ee30434|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=03c688b4739ab2e8c31457fea2cc122a-1788970202691",
+      "name": "FOX SPORTS FHD",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+      "tokenApi": ""
+    },
+    {
+      "name": "FOX Sports 2 USA",
+      "link": "",
       "scheme": 0,
       "api": "",
-      "tokenApi": ""
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-758.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "Cricfy 7 NZ",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https:\\/\\/cricsfree.cfd\\/live\\/stream-594.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https:\\/\\/api.ipify.org\\/\"}"
+    },
+    {
+      "name": "TNT Sports 1 UK",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-31.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
+    },
+    {
+      "name": "TSN2",
+      "link": "",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": "{\"url\":\"\",\"api\":\"https://cricsfree.cfd/live/stream-112.php\",\"type\":\"embed\",\"link_key\":\"playback_url\",\"default_string\":\"N8x7Y%m+6n\",\"request_type\":\"get\",\"request_body_type\":\"text\",\"ip_api\":\"https://api.ipify.org/\"}"
     }
   ]
 }

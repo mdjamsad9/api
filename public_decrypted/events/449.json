@@ -2,30 +2,27 @@
   "id": 449,
   "order_index": 262,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Yankees",
-    "logo": "https://img.sofascore.com/api/v1/team/3654/image"
+    "name": "Darmstadt",
+    "logo": "https://img.sofascore.com/api/v1/team/2576/image"
   },
   "teamB": {
-    "name": "Rockies",
-    "logo": "https://img.sofascore.com/api/v1/team/3628/image"
+    "name": "Bielefeld",
+    "logo": "https://img.sofascore.com/api/v1/team/2540/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "08/09/2026",
-  "time": "23:05:00",
-  "links_metadata_path": "pro/TUxCLVlhbmtlZXMtdnMtUm9ja2llczE3ODg4NzQxNzIxNjc.txt",
+  "date": "11/09/2026",
+  "time": "16:30:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1EYXJtc3RhZHQtdnMtQmllbGVmZWxkMTc4OTExNDI3NjA2MA.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "https://edgestream6.pro/hls/jzabfazkbf27.m3u8|referer=https://streame.center/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
