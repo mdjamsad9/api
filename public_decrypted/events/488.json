@@ -26,6 +26,27 @@
       "scheme": 0,
       "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
       "tokenApi": ""
+    },
+    {
+      "name": "PEACOCK TV HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56239/load-playlist?|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4558544.m3u8?txSecret=14e484c3eacabbddf4ab6d2ee20a2caf&txTime=6AA59FD9|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "Low",
+      "link": "http://193.47.62.59/hls/OVVVAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }

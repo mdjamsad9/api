@@ -1,24 +1,24 @@
 {
   "id": 551,
-  "order_index": 155,
+  "order_index": 364,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "Metro Bank One-Day Cup",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark"
+    "category": "Rugby",
+    "eventName": "NRL, Women",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark"
   },
   "teamA": {
-    "name": "LAN",
-    "logo": "https://img.sofascore.com/api/v1/team/187822/image"
+    "name": "Brisbane",
+    "logo": "https://img.sofascore.com/api/v1/team/411821/image"
   },
   "teamB": {
-    "name": "GLO",
-    "logo": "https://img.sofascore.com/api/v1/team/187835/image"
+    "name": "New Zealand",
+    "logo": "https://img.sofascore.com/api/v1/team/1043169/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
-  "time": "10:00:00",
-  "links_metadata_path": "pro/TWV0cm8gQmFuayBPbmUtRGF5IEN1cC1MQU4tdnMtR0xPMTc4NTk2NDUxMTI3OA.txt",
+  "date": "13/09/2026",
+  "time": "02:00:00",
+  "links_metadata_path": "pro/TlJMLCBXb21lbi1CcmlzYmFuZS12cy1OZXcgWmVhbGFuZDE3ODkyMTkwNDUxNTA.txt",
   "links": [
     {
       "name": "Link 1",

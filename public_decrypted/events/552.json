@@ -1,28 +1,52 @@
 {
   "id": 552,
-  "order_index": 156,
+  "order_index": 365,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Europa League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/679/image/dark"
+    "eventName": "LaLiga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark"
   },
   "teamA": {
-    "name": "Hradec Králové",
-    "logo": "https://img.sofascore.com/api/v1/team/2217/image"
+    "name": "Osasuna",
+    "logo": "https://img.sofascore.com/api/v1/team/2820/image"
   },
   "teamB": {
-    "name": "Beşiktaş",
-    "logo": "https://img.sofascore.com/api/v1/team/3050/image"
+    "name": "Espanyol",
+    "logo": "https://img.sofascore.com/api/v1/team/2814/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/08/2026",
-  "time": "17:00:00",
-  "links_metadata_path": "pro/VUVGQSBFdXJvcGEgTGVhZ3VlLUhyYWRlYyBLcsOhbG92w6ktdnMtQmXFn2lrdGHFnzE3ODYwMDA2OTQ2Nzc.txt",
+  "date": "12/09/2026",
+  "time": "14:15:00",
+  "links_metadata_path": "pro/TGFMaWdhLU9zYXN1bmEtdnMtRXNwYW55b2wxNzg5MjIxODkyMDU0.txt",
   "links": [
     {
-      "name": "Link 1",
-      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+      "name": "Premier Sports",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+      "tokenApi": ""
+    },
+    {
+      "name": "D Sports FHD",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "scheme": 0,
+      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+      "tokenApi": ""
+    },
+    {
+      "name": "ESPN DEPORTES HD",
+      "link": "https://chatgpt.hereisman.net/playlist/56241/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
+    },
+    {
+      "name": "CricfyTV.Net",
+      "link": "https://live.uu6611.com/live/hd-en-1-4565392.m3u8?txSecret=74e07e0cb70fe9b8e23bb7a393908e8b&txTime=6AA5A508|Referer=https://player.up909.com/",
+      "scheme": 0,
+      "api": "",
+      "tokenApi": ""
     }
   ]
 }
