@@ -1,35 +1,28 @@
 {
   "id": 539,
-  "order_index": 143,
+  "order_index": 352,
   "eventDetails": {
     "category": "Baseball",
     "eventName": "MLB",
     "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Red Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3646/image"
+    "name": "Braves",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image"
   },
   "teamB": {
-    "name": "White Sox",
-    "logo": "https://img.sofascore.com/api/v1/team/3644/image"
+    "name": "Phillies",
+    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "23:10:00",
-  "links_metadata_path": "pro/TUxCLVJlZCBTb3gtdnMtV2hpdGUgU294MTc4NTk0NjYxMjk5NA.txt",
+  "date": "12/09/2026",
+  "time": "23:15:00",
+  "links_metadata_path": "pro/TUxCLUJyYXZlcy12cy1QaGlsbGllczE3ODkyMTI2NzgyMzM.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "MLB LIVE [FHD]",
-      "link": "https://embedindia.st/embed/mlb/2026-08-05/chw-bos",
+      "name": "Link 1",
+      "link": "https://edgestream7.pro/hls/jnknjfzbk35.m3u8|referer=https://streame.center/",
       "scheme": 0,
       "api": "",
       "tokenApi": ""

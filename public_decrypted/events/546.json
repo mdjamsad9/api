@@ -1,37 +1,30 @@
 {
   "id": 546,
-  "order_index": 150,
+  "order_index": 359,
   "eventDetails": {
-    "category": "Football",
-    "eventName": "Copa Betano do Brasil",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark"
+    "category": "Baseball",
+    "eventName": "MLB",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
   },
   "teamA": {
-    "name": "Fortaleza",
-    "logo": "https://img.sofascore.com/api/v1/team/2020/image"
+    "name": "Twins",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image"
   },
   "teamB": {
-    "name": "Palmeiras",
-    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
+    "name": "Guardians",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "06/08/2026",
-  "time": "00:30:00",
-  "links_metadata_path": "pro/Q29wYSBCZXRhbm8gZG8gQnJhc2lsLUZvcnRhbGV6YS12cy1QYWxtZWlyYXMxNzg1OTYyMTc0OTkx.txt",
+  "date": "12/09/2026",
+  "time": "20:10:00",
+  "links_metadata_path": "pro/TUxCLVR3aW5zLXZzLUd1YXJkaWFuczE3ODkyMTI2NzgyMzM.txt",
   "links": [
     {
-      "name": "SporTV BR FHD",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+      "name": "Link 1",
+      "link": "https://edgestream1.pro/hls/qsdnajbq32.m3u8|referer=https://streame.center/",
       "scheme": 0,
-      "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-      "tokenApi": ""
-    },
-    {
-      "name": "PREMIERE BR FHD",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+      "api": "",
       "tokenApi": ""
     }
   ]
