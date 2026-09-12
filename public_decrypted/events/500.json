@@ -1,31 +1,28 @@
 {
   "id": 500,
-  "order_index": 104,
+  "order_index": 313,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Ipswich",
-    "logo": "https://img.sofascore.com/api/v1/team/32/image"
+    "name": "West Brom",
+    "logo": "https://img.sofascore.com/api/v1/team/8/image"
   },
   "teamB": {
-    "name": "Le Havre",
-    "logo": "https://img.sofascore.com/api/v1/team/1662/image"
+    "name": "QPR",
+    "logo": "https://img.sofascore.com/api/v1/team/1/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "18:45:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1JcHN3aWNoLXZzLUxlIEhhdnJlMTc4NTgyODc0MzE1NA.txt",
+  "date": "12/09/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdlc3QgQnJvbS12cy1RUFIxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.194/hls/NNNNA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

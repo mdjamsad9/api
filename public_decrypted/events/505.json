@@ -1,66 +1,28 @@
 {
   "id": 505,
-  "order_index": 109,
+  "order_index": 318,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "MSG-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377201/image"
+    "name": "Palmeiras",
+    "logo": "https://img.sofascore.com/api/v1/team/1963/image"
   },
   "teamB": {
-    "name": "WEF-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
+    "name": "São Paulo",
+    "logo": "https://img.sofascore.com/api/v1/team/1981/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "10:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tTVNHLVctdnMtV0VGLVcxNzg1ODI4NzcyMzkx.txt",
+  "date": "12/09/2026",
+  "time": "21:30:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1QYWxtZWlyYXMtdnMtU8OjbyBQYXVsbzE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2w3nxw16vx/out/v1/3afccdb73040451ba7269bd9a524dd7f/cenc.mpd",
-      "scheme": 0,
-      "api": "a9b18820a750297ec2ba8755b7c3c118:929d7e9e7a87228f7020e12129c5318f",
-      "tokenApi": ""
-    },
-    {
-      "name": "CRICFY CRICKET - AQ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2w3nxw16vx/out/v1/3afccdb73040451ba7269bd9a524dd7f/cenc.mpd",
-      "scheme": 0,
-      "api": "a9b18820a750297ec2ba8755b7c3c118:929d7e9e7a87228f7020e12129c5318f",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET FHD",
-      "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/spo-s5-n/809389.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD STREAM ",
-      "link": "http://193.47.62.190/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY SPORT NZ",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,52 +1,28 @@
 {
   "id": 511,
-  "order_index": 115,
+  "order_index": 324,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "K-League Allstars",
-    "logo": "https://img.sofascore.com/api/v1/team/421734/image"
+    "name": "Le Havre",
+    "logo": "https://img.sofascore.com/api/v1/team/1662/image"
   },
   "teamB": {
-    "name": "Man City",
-    "logo": "https://img.sofascore.com/api/v1/team/17/image"
+    "name": "Angers",
+    "logo": "https://img.sofascore.com/api/v1/team/1684/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "11:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1LLUxlYWd1ZSBBbGxzdGFycy12cy1NYW4gQ2l0eTE3ODU5MDg5OTg3NDc.txt",
+  "date": "12/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1MZSBIYXZyZS12cy1BbmdlcnMxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "ESPN SPORTS HD",
-      "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CBS NETWORK HD",
-      "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SPORT TV HD",
-      "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.192/hls/RRRRAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

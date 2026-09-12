@@ -1,24 +1,24 @@
 {
   "id": 531,
-  "order_index": 135,
+  "order_index": 344,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Cubs",
-    "logo": "https://img.sofascore.com/api/v1/team/3627/image"
+    "name": "Grêmio",
+    "logo": "https://img.sofascore.com/api/v1/team/5926/image"
   },
   "teamB": {
-    "name": "Dodgers",
-    "logo": "https://img.sofascore.com/api/v1/team/3638/image"
+    "name": "Vasco",
+    "logo": "https://img.sofascore.com/api/v1/team/1974/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "18:20:00",
-  "links_metadata_path": "pro/TUxCLUN1YnMtdnMtRG9kZ2VyczE3ODU5NDYyOTU1MTA.txt",
+  "date": "12/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1HcsOqbWlvLXZzLVZhc2NvMTc4OTIwNDkwMjUxOQ.txt",
   "links": [
     {
       "name": "Link 1",

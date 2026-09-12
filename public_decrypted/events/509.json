@@ -1,31 +1,28 @@
 {
   "id": 509,
-  "order_index": 113,
+  "order_index": 322,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Burkina Faso",
-    "logo": "https://img.sofascore.com/api/v1/team/316668/image"
+    "name": "Samsunspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3053/image"
   },
   "teamB": {
-    "name": "South Africa",
-    "logo": "https://img.sofascore.com/api/v1/team/65336/image"
+    "name": "Çorum",
+    "logo": "https://img.sofascore.com/api/v1/team/77629/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "20:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtQnVya2luYSBGYXNvLXZzLVNvdXRoIEFmcmljYTE3ODU4Njg4MDc3MTg.txt",
+  "date": "12/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1TYW1zdW5zcG9yLXZzLcOHb3J1bTE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
-      "name": "beiN SPORTS 3 - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

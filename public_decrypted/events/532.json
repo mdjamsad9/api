@@ -1,0 +1,28 @@
+{
+  "id": 532,
+  "order_index": 345,
+  "eventDetails": {
+    "category": "Cricket",
+    "eventName": "T20 International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark"
+  },
+  "teamA": {
+    "name": "AFG",
+    "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+  },
+  "teamB": {
+    "name": "IND",
+    "logo": "https://img.sofascore.com/api/v1/team/187765/image"
+  },
+  "visible": true,
+  "priority": -1,
+  "date": "13/09/2026",
+  "time": "13:30:00",
+  "links_metadata_path": "pro/VDIwIEludGVybmF0aW9uYWwtQUZHLXZzLUlORDE3ODkyMDUwMDM3NTc.txt",
+  "links": [
+    {
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
+    }
+  ]
+}

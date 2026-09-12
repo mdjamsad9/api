@@ -1,31 +1,28 @@
 {
   "id": 502,
-  "order_index": 106,
+  "order_index": 315,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "Newport",
-    "logo": "https://img.sofascore.com/api/v1/team/79/image"
+    "name": "Atlético-MG",
+    "logo": "https://img.sofascore.com/api/v1/team/1977/image"
   },
   "teamB": {
-    "name": "Roma",
-    "logo": "https://img.sofascore.com/api/v1/team/2702/image"
+    "name": "Fluminense",
+    "logo": "https://img.sofascore.com/api/v1/team/1961/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "18:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OZXdwb3J0LXZzLVJvbWExNzg1ODI4NzQzMTU0.txt",
+  "date": "12/09/2026",
+  "time": "19:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1BdGzDqXRpY28tTUctdnMtRmx1bWluZW5zZTE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
       "name": "Link 1",
-      "link": "http://193.47.62.194/hls/NNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

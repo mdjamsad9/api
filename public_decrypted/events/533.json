@@ -1,31 +1,28 @@
 {
   "id": 533,
-  "order_index": 137,
+  "order_index": 346,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Cricket",
+    "eventName": "One Day International",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
   },
   "teamA": {
-    "name": "Phillies",
-    "logo": "https://img.sofascore.com/api/v1/team/3635/image"
+    "name": "NAM",
+    "logo": "https://img.sofascore.com/api/v1/team/199275/image"
   },
   "teamB": {
-    "name": "Nationals",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image"
+    "name": "SA",
+    "logo": "https://img.sofascore.com/api/v1/team/187747/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "22:40:00",
-  "links_metadata_path": "pro/TUxCLVBoaWxsaWVzLXZzLU5hdGlvbmFsczE3ODU5NDY0NDk3NTc.txt",
+  "date": "13/09/2026",
+  "time": "07:30:00",
+  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLU5BTS12cy1TQTE3ODkyMDUwMDM3NTc.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

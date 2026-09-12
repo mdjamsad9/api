@@ -1,45 +1,28 @@
 {
   "id": 523,
-  "order_index": 127,
+  "order_index": 336,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "One Day International",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark"
+    "category": "Football",
+    "eventName": "Brasileirão Betano",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark"
   },
   "teamA": {
-    "name": "IRE",
-    "logo": "https://img.sofascore.com/api/v1/team/187766/image"
+    "name": "Santos",
+    "logo": "https://img.sofascore.com/api/v1/team/1968/image"
   },
   "teamB": {
-    "name": "AFG",
-    "logo": "https://img.sofascore.com/api/v1/team/187575/image"
+    "name": "Cruzeiro",
+    "logo": "https://img.sofascore.com/api/v1/team/1954/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "07/08/2026",
-  "time": "09:45:00",
-  "links_metadata_path": "pro/T25lIERheSBJbnRlcm5hdGlvbmFsLUlSRS12cy1BRkcxNzg1OTA5MDI0MTY5.txt",
+  "date": "13/09/2026",
+  "time": "00:00:00",
+  "links_metadata_path": "pro/QnJhc2lsZWlyw6NvIEJldGFuby1TYW50b3MtdnMtQ3J1emVpcm8xNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd",
-      "scheme": 0,
-      "api": "400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd",
-      "scheme": 0,
-      "api": "37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

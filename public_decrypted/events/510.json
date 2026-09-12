@@ -1,31 +1,28 @@
 {
   "id": 510,
-  "order_index": 114,
+  "order_index": 323,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Women's Africa Cup of Nations",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/9558/image/dark"
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Tanzania",
-    "logo": "https://img.sofascore.com/api/v1/team/291680/image"
+    "name": "Twente",
+    "logo": "https://img.sofascore.com/api/v1/team/2955/image"
   },
   "teamB": {
-    "name": "Côte d'Ivoire",
-    "logo": "https://img.sofascore.com/api/v1/team/186328/image"
+    "name": "ADO",
+    "logo": "https://img.sofascore.com/api/v1/team/2966/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "20:00:00",
-  "links_metadata_path": "pro/V29tZW4ncyBBZnJpY2EgQ3VwIG9mIE5hdGlvbnMtVGFuemFuaWEtdnMtQ8O0dGUgZCdJdm9pcmUxNzg1ODY4ODA3NzE4.txt",
+  "date": "12/09/2026",
+  "time": "14:30:00",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtVHdlbnRlLXZzLUFETzE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
-      "name": "beiN SPORTS 3 - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "id": 529,
-  "order_index": 133,
+  "order_index": 342,
   "eventDetails": {
     "category": "Football",
-    "eventName": "UEFA Champions League",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/7/image/dark"
+    "eventName": "VriendenLoterij Eredivisie",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark"
   },
   "teamA": {
-    "name": "Fenerbahçe",
-    "logo": "https://img.sofascore.com/api/v1/team/3052/image"
+    "name": "Fortuna",
+    "logo": "https://img.sofascore.com/api/v1/team/2957/image"
   },
   "teamB": {
-    "name": "Sturm",
-    "logo": "https://img.sofascore.com/api/v1/team/2051/image"
+    "name": "Ajax",
+    "logo": "https://img.sofascore.com/api/v1/team/2953/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
+  "date": "12/09/2026",
   "time": "18:00:00",
-  "links_metadata_path": "pro/VUVGQSBDaGFtcGlvbnMgTGVhZ3VlLUZlbmVyYmFow6dlLXZzLVN0dXJtMTc4NTk0NTY1NjEyMw.txt",
+  "links_metadata_path": "pro/VnJpZW5kZW5Mb3RlcmlqIEVyZWRpdmlzaWUtRm9ydHVuYS12cy1BamF4MTc4OTIwNDkwMjUxOQ.txt",
   "links": [
     {
       "name": "Link 1",

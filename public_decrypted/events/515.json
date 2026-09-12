@@ -1,59 +1,28 @@
 {
   "id": 515,
-  "order_index": 119,
+  "order_index": 328,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Milan",
-    "logo": "https://img.sofascore.com/api/v1/team/2692/image"
+    "name": "Konyaspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3085/image"
   },
   "teamB": {
-    "name": "Inter",
-    "logo": "https://img.sofascore.com/api/v1/team/2697/image"
+    "name": "Trabzonspor",
+    "logo": "https://img.sofascore.com/api/v1/team/3051/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "11:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NaWxhbi12cy1JbnRlcjE3ODU5MDg5OTg3NDc.txt",
+  "date": "12/09/2026",
+  "time": "17:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1Lb255YXNwb3ItdnMtVHJhYnpvbnNwb3IxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "FOX DEPORTES - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-      "tokenApi": ""
-    },
-    {
-      "name": "DAZN SPORTS IT",
-      "link": "https://messi.damitv.st/papi/tv/dlhd/877/playlist.m3u8?|Referer=https://ondemand.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SD STREAM ",
-      "link": "http://193.47.62.191/hls/RRRRAA.m3u8|Referer=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "DAZN SPORTS FHD",
-      "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/mil-int/playlist.m3u8?|Referer=https://ondemand.st/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "CRICFy LIVE",
-      "link": "https://live.vivo200.com/live/sd-1-4541781.m3u8?txSecret=2714b76bd67b88e0140131fddc7f39c4&txTime=6A732824|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

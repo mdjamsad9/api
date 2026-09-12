@@ -1,31 +1,28 @@
 {
   "id": 503,
-  "order_index": 107,
+  "order_index": 316,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
     "name": "Strasbourg",
     "logo": "https://img.sofascore.com/api/v1/team/1659/image"
   },
   "teamB": {
-    "name": "Elversberg",
-    "logo": "https://img.sofascore.com/api/v1/team/2598/image"
+    "name": "AS Monaco",
+    "logo": "https://img.sofascore.com/api/v1/team/1653/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "16:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1TdHJhc2JvdXJnLXZzLUVsdmVyc2JlcmcxNzg1ODI4NzQzMTU0.txt",
+  "date": "12/09/2026",
+  "time": "15:15:00",
+  "links_metadata_path": "pro/TGlndWUgMS1TdHJhc2JvdXJnLXZzLUFTIE1vbmFjbzE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/FPPPAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

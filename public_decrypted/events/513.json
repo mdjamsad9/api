@@ -1,59 +1,28 @@
 {
   "id": 513,
-  "order_index": 117,
+  "order_index": 326,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Ligue 1",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark"
   },
   "teamA": {
-    "name": "Mallorca",
-    "logo": "https://img.sofascore.com/api/v1/team/2826/image"
+    "name": "Auxerre",
+    "logo": "https://img.sofascore.com/api/v1/team/1646/image"
   },
   "teamB": {
-    "name": "PSG",
-    "logo": "https://img.sofascore.com/api/v1/team/1644/image"
+    "name": "Nice",
+    "logo": "https://img.sofascore.com/api/v1/team/1661/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "19:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1NYWxsb3JjYS12cy1QU0cxNzg1OTA4OTk4NzQ3.txt",
+  "date": "12/09/2026",
+  "time": "18:45:00",
+  "links_metadata_path": "pro/TGlndWUgMS1BdXhlcnJlLXZzLU5pY2UxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "beiN ENGLISH - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-      "tokenApi": ""
-    },
-    {
-      "name": "D SPORTS - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "scheme": 0,
-      "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-      "tokenApi": ""
-    },
-    {
-      "name": "CRICFy LIVE",
-      "link": "https://live.vivo200.com/live/sd-1-4594021.m3u8?txSecret=411e088e9e9ba4c03817a462d5860885&txTime=6A739CC9|Referer=https://player.online909.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD SERVER",
-      "link": "https://hls.streamhub.media/hls/thesport-api-ec9c91010a7660759d2e/master.m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "HD QUALITY",
-      "link": "https://chatgpt.hereisman.net/playlist/54217/load-playlist?|Referer=https://gooz.aapmains.net ",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

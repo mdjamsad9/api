@@ -1,31 +1,28 @@
 {
   "id": 504,
-  "order_index": 108,
+  "order_index": 317,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Pathum Utd",
-    "logo": "https://img.sofascore.com/api/v1/team/35607/image"
+    "name": "Middlesbrough",
+    "logo": "https://img.sofascore.com/api/v1/team/36/image"
   },
   "teamB": {
-    "name": "Aston Villa",
-    "logo": "https://img.sofascore.com/api/v1/team/40/image"
+    "name": "Norwich",
+    "logo": "https://img.sofascore.com/api/v1/team/263/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "12:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1QYXRodW0gVXRkLXZzLUFzdG9uIFZpbGxhMTc4NTgyODc0MzE1NA.txt",
+  "date": "12/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLU1pZGRsZXNicm91Z2gtdnMtTm9yd2ljaDE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
-      "name": "HD Quality",
-      "link": "https://live2.streambylivepulse.com/live/channel14.m3u8|Referer=https://soco.livebytexscorez.com/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

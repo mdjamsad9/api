@@ -1,38 +1,28 @@
 {
   "id": 499,
-  "order_index": 103,
+  "order_index": 312,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "Jeju",
-    "logo": "https://img.sofascore.com/api/v1/team/7649/image"
+    "name": "Watford",
+    "logo": "https://img.sofascore.com/api/v1/team/24/image"
   },
   "teamB": {
-    "name": "Bayern",
-    "logo": "https://img.sofascore.com/api/v1/team/2672/image"
+    "name": "Stoke",
+    "logo": "https://img.sofascore.com/api/v1/team/29/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "11:00:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1KZWp1LXZzLUJheWVybjE3ODU4Mjg3NDMxNTQ.txt",
+  "date": "12/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVdhdGZvcmQtdnMtU3Rva2UxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "HD QUALITY",
-      "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|referer=https://xoilac.textliveupdaterz.com/&origin=https://xoilac.textliveupdaterz.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW QUALITY",
-      "link": "http://193.47.62.190/hls/IOOOA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

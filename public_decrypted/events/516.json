@@ -1,24 +1,24 @@
 {
   "id": 516,
-  "order_index": 120,
+  "order_index": 329,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "Trendyol Süper Lig",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark"
   },
   "teamA": {
-    "name": "Arsenal",
-    "logo": "https://img.sofascore.com/api/v1/team/42/image"
+    "name": "Eyüpspor",
+    "logo": "https://img.sofascore.com/api/v1/team/7040/image"
   },
   "teamB": {
-    "name": "Real Betis",
-    "logo": "https://img.sofascore.com/api/v1/team/2816/image"
+    "name": "Rizespor",
+    "logo": "https://img.sofascore.com/api/v1/team/3064/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "18:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1BcnNlbmFsLXZzLVJlYWwgQmV0aXMxNzg1OTA4OTk4NzQ3.txt",
+  "date": "12/09/2026",
+  "time": "14:00:00",
+  "links_metadata_path": "pro/VHJlbmR5b2wgU8O8cGVyIExpZy1FecO8cHNwb3ItdnMtUml6ZXNwb3IxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
       "name": "Link 1",

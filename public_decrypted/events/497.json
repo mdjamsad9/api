@@ -1,24 +1,24 @@
 {
   "id": 497,
-  "order_index": 101,
+  "order_index": 310,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred Women",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "WEF-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377207/image"
+    "name": "Swansea",
+    "logo": "https://img.sofascore.com/api/v1/team/74/image"
   },
   "teamB": {
-    "name": "SOB-W",
-    "logo": "https://img.sofascore.com/api/v1/team/377205/image"
+    "name": "Burnley",
+    "logo": "https://img.sofascore.com/api/v1/team/6/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "03/08/2026",
+  "date": "12/09/2026",
   "time": "14:00:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQgV29tZW4tV0VGLVctdnMtU09CLVcxNzg1NzA3OTc4Njk2.txt",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLVN3YW5zZWEtdnMtQnVybmxleTE3ODkyMDQ5MDI1MTk.txt",
   "links": [
     {
       "name": "Link 1",

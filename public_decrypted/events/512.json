@@ -1,31 +1,28 @@
 {
   "id": 512,
-  "order_index": 116,
+  "order_index": 325,
   "eventDetails": {
     "category": "Football",
-    "eventName": "Club Friendly Games",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark"
+    "eventName": "LaLiga 2",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark"
   },
   "teamA": {
-    "name": "Napoli",
-    "logo": "https://img.sofascore.com/api/v1/team/2714/image"
+    "name": "Andorra",
+    "logo": "https://img.sofascore.com/api/v1/team/324871/image"
   },
   "teamB": {
-    "name": "Osasuna",
-    "logo": "https://img.sofascore.com/api/v1/team/2820/image"
+    "name": "Real Sociedad B",
+    "logo": "https://img.sofascore.com/api/v1/team/24360/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "05/08/2026",
-  "time": "16:30:00",
-  "links_metadata_path": "pro/Q2x1YiBGcmllbmRseSBHYW1lcy1OYXBvbGktdnMtT3Nhc3VuYTE3ODU5MDg5OTg3NDc.txt",
+  "date": "12/09/2026",
+  "time": "12:00:00",
+  "links_metadata_path": "pro/TGFMaWdhIDItQW5kb3JyYS12cy1SZWFsIFNvY2llZGFkIEIxNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/ttttaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

@@ -1,73 +1,28 @@
 {
   "id": 506,
-  "order_index": 110,
+  "order_index": 319,
   "eventDetails": {
-    "category": "Cricket",
-    "eventName": "The Hundred",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark"
+    "category": "Football",
+    "eventName": "Championship",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark"
   },
   "teamA": {
-    "name": "SL",
-    "logo": "https://img.sofascore.com/api/v1/team/377178/image"
+    "name": "Derby",
+    "logo": "https://img.sofascore.com/api/v1/team/27/image"
   },
   "teamB": {
-    "name": "LNS",
-    "logo": "https://img.sofascore.com/api/v1/team/377175/image"
+    "name": "Birmingham",
+    "logo": "https://img.sofascore.com/api/v1/team/9/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "04/08/2026",
-  "time": "17:30:00",
-  "links_metadata_path": "pro/VGhlIEh1bmRyZWQtU0wtdnMtTE5TMTc4NTgyODc3MjM5MQ.txt",
+  "date": "12/09/2026",
+  "time": "11:30:00",
+  "links_metadata_path": "pro/Q2hhbXBpb25zaGlwLURlcmJ5LXZzLUJpcm1pbmdoYW0xNzg5MjA0OTAyNTE5.txt",
   "links": [
     {
-      "name": "WILLOW - AQ",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
-      "scheme": 0,
-      "api": "0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109",
-      "tokenApi": ""
-    },
-    {
-      "name": "SKY CRICKET - AQ",
-      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "WILLOW - ALT",
-      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
-      "scheme": 0,
-      "api": "0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109",
-      "tokenApi": ""
-    },
-    {
-      "name": "TAPMAD - AQ",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "FOX CRICKET HD",
-      "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
-    },
-    {
-      "name": "SonyLiv",
-      "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785873047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55d04982c4e5201688218f9b7c26b1540df19a25e187d3004a8a214aed750d79|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

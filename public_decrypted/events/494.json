@@ -1,31 +1,28 @@
 {
   "id": 494,
-  "order_index": 98,
+  "order_index": 307,
   "eventDetails": {
     "category": "Football",
-    "eventName": "ASEAN Championship",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/602/image/dark"
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Indonesia",
-    "logo": "https://img.sofascore.com/api/v1/team/4829/image"
+    "name": "Bochum",
+    "logo": "https://img.sofascore.com/api/v1/team/2542/image"
   },
   "teamB": {
-    "name": "Vietnam",
-    "logo": "https://img.sofascore.com/api/v1/team/7050/image"
+    "name": "Fürth",
+    "logo": "https://img.sofascore.com/api/v1/team/2551/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "03/08/2026",
-  "time": "13:30:00",
-  "links_metadata_path": "pro/QVNFQU4gQ2hhbXBpb25zaGlwLUluZG9uZXNpYS12cy1WaWV0bmFtMTc4NTcwNzk1NDA1OQ.txt",
+  "date": "12/09/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1Cb2NodW0tdnMtRsO8cnRoMTc4OTIwNDkwMjUxOQ.txt",
   "links": [
     {
-      "name": "LOW SERVER",
-      "link": "http://193.47.62.190/hls/NNNNAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }

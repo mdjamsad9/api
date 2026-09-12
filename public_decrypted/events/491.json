@@ -2,30 +2,27 @@
   "id": 491,
   "order_index": 304,
   "eventDetails": {
-    "category": "Baseball",
-    "eventName": "MLB",
-    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark"
+    "category": "Football",
+    "eventName": "2. Bundesliga",
+    "eventLogo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark"
   },
   "teamA": {
-    "name": "Mariners",
-    "logo": "https://img.sofascore.com/api/v1/team/3641/image"
+    "name": "Magdeburg",
+    "logo": "https://img.sofascore.com/api/v1/team/2591/image"
   },
   "teamB": {
-    "name": "Rangers",
-    "logo": "https://img.sofascore.com/api/v1/team/3647/image"
+    "name": "Kaiserslautern",
+    "logo": "https://img.sofascore.com/api/v1/team/2675/image"
   },
   "visible": true,
   "priority": -1,
-  "date": "09/09/2026",
-  "time": "20:10:00",
-  "links_metadata_path": "pro/TUxCLU1hcmluZXJzLXZzLVJhbmdlcnMxNzg4OTQyMzk0MTYx.txt",
+  "date": "12/09/2026",
+  "time": "11:00:00",
+  "links_metadata_path": "pro/Mi4gQnVuZGVzbGlnYS1NYWdkZWJ1cmctdnMtS2Fpc2Vyc2xhdXRlcm4xNzg5MjA0OTAyNTE4.txt",
   "links": [
     {
-      "name": "CricfyTV.Net",
-      "link": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-      "scheme": 0,
-      "api": "",
-      "tokenApi": ""
+      "name": "Link 1",
+      "link": "http://cricfy-tv.net/promo/cricfy-promo.m3u8"
     }
   ]
 }
